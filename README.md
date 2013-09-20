@@ -8,11 +8,11 @@ You're free to use whatever you'd like, **however**, posts found in the `_drafts
 
 Clone the repo
 
-  $ git clone git@github.com:ttimsmith/theboldreport.net.git
-  $ cd theboldreport.net
+    $ git clone git@github.com:ttimsmith/theboldreport.net.git
+    $ cd theboldreport.net
 
 Start up the server
 
-  $ jekyll serve --watch
+    $ jekyll serve --watch
 
 Open it up in <http://localhost:4000>, and voilà!
