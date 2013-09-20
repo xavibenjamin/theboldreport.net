@@ -1,0 +1,10 @@
+/*
+
+OBJECTS
+------------------------------------------- */
+
+.contain {
+  max-width: 620px;
+  margin: 0 auto;
+  @extend %clearfix;
+}

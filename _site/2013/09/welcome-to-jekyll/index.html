@@ -22,7 +22,7 @@
 
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
+        <title>Welcome to Jekyll!</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 
         <!-- DNS Prefetch -->
@@ -32,18 +32,16 @@
         <!-- Author Info for Google -->
         <link rel="author" href="https://plus.google.com/117161754644004218749">
         <meta name="author" content="Tim Smith">
-        <link rel="canonical" href="http://theboldreport.net{{ page.url }}">
-        <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 156 }}">
+        <link rel="canonical" href="http://theboldreport.net/2013/09/welcome-to-jekyll">
+        <meta name="description" content="You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!To add new posts, simply add...">
 
         <!-- Facebook Article Info -->
         <meta property="og:image" content="http://ttimsmith.com/uploads/tim_680x510.jpg">
-        <meta property="og:title" content="{{ page.title }}">
+        <meta property="og:title" content="Welcome to Jekyll!">
         <meta property="og:site_name" content="The Bold Report">
-        <meta property="og:url" content="http://theboldreport.net{{ page.url }}">
-        <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 156 }}">
-        {% if page.custom_type %}
-        <meta property="og:type" content="article">
-        {% endif %}
+        <meta property="og:url" content="http://theboldreport.net/2013/09/welcome-to-jekyll">
+        <meta property="og:description" content="You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!To add new posts, simply add...">
+        
 
         <!-- Twitter Info -->
         <meta name="twitter:card" content="summary">
@@ -53,10 +51,10 @@
         <link rel="alternate" type="application/rss+xml" title="RSS Feed for The Bold Report" href="/atom.xml" />
 
         <!-- syntax highlighting CSS -->
-        {% stylesheet syntax %}
+        <link rel="stylesheet" href="/assets/syntax-6c58b7e9990e00c9f585d4be1a813eab.css">
 
         <!-- Custom CSS -->
-        {% stylesheet global %}
+        <link rel="stylesheet" href="/assets/global-fbd2fd9f3225c025d2f3f50287322ad2.css">
 
         <!-- Typekit Code  -->
         <script type="text/javascript" src="//use.typekit.net/dto7tfw.js"></script>
@@ -103,7 +101,27 @@
         </div>
 
 
-          {{ content }}
+          <h2>Welcome to Jekyll!</h2>
+<p class="meta">19 Sep 2013</p>
+
+<div class="post">
+<p>You’ll find this post in your <code>_posts</code> directory - edit this post and re-build (or run with the <code>-w</code> switch) to see your changes!
+To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<div class="highlight"><pre><code class="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">&quot;Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">&quot;</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">&#39;Tom&#39;</span><span class="p">)</span>
+<span class="c1">#=&gt; prints &#39;Hi, Tom&#39; to STDOUT.</span>
+</code></pre></div>
+
+<p>Check out the <a href="http://jekyllrb.com">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/mojombo/jekyll">Jekyll’s GitHub repo</a>.</p>
+
+
+</div>
+
 
 
     </body>

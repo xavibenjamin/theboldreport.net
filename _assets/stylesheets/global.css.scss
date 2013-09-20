@@ -1,0 +1,143 @@
+/*
+
+GLOBAL STYLESHEET
+------------------------------------------- 
+
+Created and Authored by Tim Smith.
+
+Table of Contents
+
+- Import Compass
+
+- Import Ground Work
+
+- Import Variables
+
+-------------------------------------------
+
+This stylesheet should only be a table of contents of styles.
+The meat of the styles will be in the individual partials in
+an effort to keep the CSS as dry as possible.
+
+------------------------------------------- */
+
+
+/*
+
+IMPORT COMPASS
+-------------------------------------------
+@compass
+
+Importing the awesome-sauce that is Compass
+
+------------------------------------------- */
+
+@import "compass";
+
+
+/*
+
+RESET THIS MUTHA!
+-------------------------------------------
+@reset
+
+Reseting and bringing in the foundations of our CSS.
+
+------------------------------------------- */
+
+@import "_redbat/normalize";
+
+@import "_redbat/reset";
+
+@import "_redbat/mixins";
+
+
+/*
+
+VARIABLES
+-------------------------------------------
+@variables
+
+Setting up variables. Bringing in Colors and Spacing.
+
+------------------------------------------- */
+
+@import "_redbat/bits";
+
+
+/*
+
+TOOLS
+-------------------------------------------
+@tools
+
+Setting up tools. Bringing in Clearfix.
+
+------------------------------------------- */
+
+@import "_redbat/clearfix";
+
+@import "_redbat/hide";
+
+
+/*
+
+BASE STYLES
+-------------------------------------------
+@base
+
+Setting up base. Bringing in Type, Images, Forms, and Icons.
+
+------------------------------------------- */
+
+@import "_redbat/type";
+
+@import "_redbat/images";
+
+@import "_redbat/forms";
+
+@import "_redbat/icons";
+
+
+/*
+
+COMPONENTS
+-------------------------------------------
+@components
+
+Setting up components & reusable objects.
+
+------------------------------------------- */
+
+@import "_redbat/objects";
+
+@import "_redbat/buttons";
+
+@import "_redbat/pagenavi";
+
+
+/*
+
+LAYOUT
+-------------------------------------------
+@layout
+
+Layout Styles.
+
+- Header
+
+- Footer
+
+- Main Content
+
+- Pages
+
+------------------------------------------- */
+
+@import "_layout/header";
+
+@import "_layout/maincontent";
+
+@import "_layout/pages";
+
+@import "_layout/footer";
