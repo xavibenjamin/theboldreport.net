@@ -22,7 +22,7 @@
 
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
+        <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 
         <!-- DNS Prefetch -->
@@ -63,7 +63,7 @@
         <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
     </head>
-    <body>
+    <body {% if page.custom_css_class %} class="{{ page.custom_css_class }}" {% endif %}>
 
         <div class="site__wrapper">
 
@@ -82,7 +82,7 @@
                 </nav>
 
                 <div class="open-search">
-                  <a class="reveal">
+                  <a class="reveal" role="button">
                     <span data-icon="s" aria-hidden="true"></span>
                     <span class="screen-reader-hide">show search form</span>
                   </a>
@@ -98,13 +98,38 @@
 
           </header>
 
+          <div class="contain search-wrapper">
+            <div id="search" class="site__search-form">
+              <form action="/search" method="get">
+                <p>
+                  <input type="text" id="search-query" name="q" placeholder="Search…" autocomplete="off">
+                </p>
+              </form>
+            </div><!-- .site__search-form -->
+          </div>
+
+          <main class="content__main-content" role="main">
+            <div class="contain">
+
+              {{ content }}
+
+            </div><!-- .content__main-content -->
+          </main>
+
+          <footer class="site__footer" role="contentinfo">
+            <div class="contain">
+              <small><a href="#">Subscribe</a> &middot; <a href="#">Archives</a> &middot; <a href="https://github.com/ttimsmith/theboldreport.net">View Source on GitHub</a></small>
+              <small><em>The Bold Report</em> &copy; {{ site.time | date: "%Y" }} Anythin’ Goes LLC. &amp; Timothy B. Smith.</small>
+
+            </div><!-- .contain -->
+          </footer>
 
 
-        </div>
+        </div><!-- .site__wrapper -->
 
-
-          {{ content }}
-
-
+        <!-- Other JS libraries -->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        {% javascript stuff %}
+        {% javascript search %}
     </body>
 </html>

@@ -1,0 +1,141 @@
+/*
+
+MAIN CONTENT
+--------------------------------------------------------- */
+
+.search-wrapper {
+  margin-top: -86px;
+  pointer-events: none;
+  opacity: 0;
+  @include transition(.2s ease-in-out);
+}
+
+.search-wrapper.searchIsOpen {
+  margin: -53px auto 1.5em;
+  pointer-events: auto;
+  opacity: 1;
+}
+
+.site__search-form {
+  background: $borderColor;
+  border-radius: 0 0 3px 3px;
+  padding: 3%;
+}
+
+.site__description {
+  border-bottom: 10px solid $jazzColor;
+  padding: 0 0 2em;
+  margin: 0 0 4em;
+  p {
+    @extend %sans;
+    font-size: 2.1em;
+    line-height: 150%;
+    &.author {
+      color: lighten($darkColor, 45%);
+      font-size: 1.1em;
+      font-weight: normal;
+    }
+  }
+}
+
+.entry {
+  border-bottom: 1px solid $borderColor;
+  padding: 0 0 4em;
+  margin: 0 0 4em;
+}
+
+.single {
+  .entry {
+    border-bottom: none;
+    padding: 0;
+  }
+}
+
+p.pubdate {
+  color: lighten($darkColor, 45%);
+  font-size: .9em;
+  @extend %sans;
+}
+
+.footnotes {
+  margin: 40px 0 0;
+  ol {
+    margin-left: 6%;
+    li {
+      font-size: .85em;
+    }
+  }
+  &:before {
+    background: $borderColor;
+    content: " ";
+    display: block;
+    height: 3px;
+    width: 150px;
+    margin-bottom: 20px;
+  }
+}
+
+// Format Post
+
+.format-post {
+  h1 {
+    font-size: 2.5em;
+    font-weight: 900;
+    margin: 0 0 .3em;
+    a {
+      border-bottom: none;
+      color: $darkColor;
+      font-weight: 800;
+      text-decoration: none !important;
+      &:hover {
+        color: $linkColor;
+        border-bottom: none;
+      }
+    }
+  }
+  p:nth-child(4) {
+    font-size: 1.4em;
+  }
+}
+
+.member-cta {
+  background: lighten($borderColor, 3%);
+  padding: 10px 0;
+  text-align: center;
+  margin: 5em 0 0;
+  p {
+    font-size: .85em;
+    margin-left: 0;
+  }
+}
+
+// Format Link
+.format-link {
+  h1 {
+    font-size: 1.5em;
+    font-weight: 700;
+    line-height: 165%;
+    a {
+      color: $darkColor;
+      &:hover {
+        color: lighten($darkColor, 10%);
+      }
+    }
+  }
+  span {
+    vertical-align: middle;
+  }
+}
+
+.link__icon {
+  border-bottom: none !important;
+  margin: 0 0 0 10px;
+  font-size: .85em;
+  font-weight: normal !important;
+  vertical-align: middle;
+  color: lighten($darkColor, 40%) !important;
+  text-decoration: none !important;
+  &:hover {
+    color: $linkColor !important;
+  }
+}

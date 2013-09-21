@@ -1,18 +1,25 @@
 name: The Bold Report
-description: 'The Bold Report explores the world of design, development, tech, Geek culture, Apple, and more.'
+description: 'An exploration of design, development, tech, Geek culture, Apple, and more.'
 markdown: kramdown
 pygments: true
 permalink: /:year/:month/:title
-paginate: 20
+paginate: 8
 exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock']
 include: ['.htaccess']
 lunr_excludes: ['feed.xml', 'sitemap.xml']
 timezone: America/Chicago
 post:
   extension: md
+page:
+  template: _page.txt
+  extension: md
 assets:
   js_compressor: uglifier
   css_compressor: sass
+  sources:
+      - _assets/fonts
+      - _assets/javascripts
+      - _assets/stylesheets
 authors:
   ttimsmith:
     display_name: Tim Smith

@@ -1,9 +1,33 @@
 ---
 layout: default
+custom_css_class: single
 ---
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<div class="type-post format-{% if page.custom_type %}{{ page.custom_type }}{% endif %}">
+  <article class="entry">
+    <div class="contain">
+      {% if page.custom_type == 'post' %}
+        <p class="pubdate"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time> &middot; {{ content.size | readtime }} min read</p>
+        <h1>{{ page.title }}</h1>
+        <p class="screen-reader-hide">by Tim Smith</p>
+        {{ content }}
 
-<div class="post">
-{{ content }}
-</div>
+        <div class="member-cta">
+          <p>If you liked this post, <a href="#">consider becoming a member</a>.</p>
+        </div>
+
+      {% elsif page.custom_type == 'link' %}
+        <p class="pubdate"><small><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></small></p>
+        <h1>
+         <a href="{{ page.link_url }}" target="_blank">{{ page.title }}</a>
+        </h1>
+        <p class="screen-reader-hide">by Tim Smith</p>
+        {{ content }}
+
+        <div class="member-cta">
+          <p>If you liked this post, <a href="#">consider becoming a member</a>.</p>
+        </div>
+
+      {% endif %}
+    </div><!-- .contain -->
+  </article>
+ </div>

@@ -1,6 +1,40 @@
 /*
 
 FORMS
--------------------------------------------
+------------------------------------------- */
 
-*/
+// Webkit Placeholder
+::-webkit-input-placeholder {
+   color: lighten($darkColor, 50%);
+   @include transition(all .2s ease-in-out);
+}
+
+input:focus::-webkit-input-placeholder {
+  color: lighten($darkColor, 65%);
+}
+
+// Firefox 18
+:-moz-placeholder { /* Firefox 18- */
+   color: lighten($darkColor, 50%);
+}
+
+input:focus:-moz-placeholder {
+  color: lighten($darkColor, 65%);
+}
+
+// Firefox 19
+::-moz-placeholder {  /* Firefox 19+ */
+   color: lighten($darkColor, 50%);
+}
+
+input:focus::-moz-placeholder {
+  color: lighten($darkColor, 65%);
+}
+
+.site__search-form {
+  input {
+    border-radius: 3px;
+    padding: 10px;
+    width: 100%;
+  }
+}

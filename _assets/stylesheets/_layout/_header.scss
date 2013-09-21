@@ -4,21 +4,24 @@ HEADER
 --------------------------------------------------------- */
 
 .site__header {
-  @extend %headingtype;
+  @extend %sans;
+  margin: 0 0 3em;
 }
 
 .site__nav-search-wrapper {
-  background: darken($darkColor, 5%);
+  background: darken($darkColor, 3%);
 }
 
 .site__navigation {
   padding: 2% 0;
+  float: left;
   ul {
     list-style-type: none;
     margin: 0;
     li {
       display: inline-block;
-      margin: 0 .5em 0 0;
+      font-size: .9em;
+      margin: 0 .8em 0 0;
       a {
         color: lighten($darkColor, 30%);
         font-weight: 700;
@@ -30,9 +33,28 @@ HEADER
   }
 }
 
+.open-search {
+  float: right;
+  margin-top: 2.5%;
+  a {
+    background: lighten($darkColor, 30%);
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-size: .75em;
+    padding: 2px 8px;
+    &:hover {
+      background: $linkColor;
+    }
+  }
+}
+
 .site__branding {
   background: $darkColor;
   padding: 3.5% 0;
+  position: relative;
+  z-index: 1000;
 }
 
 .logo {

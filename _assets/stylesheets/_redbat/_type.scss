@@ -32,7 +32,7 @@ body {
 	font-size: 110%;
 	line-height: 140%;
 	color: $darkColor;
-	@extend %bodytype;
+	@extend %serif;
 }
 
 // TYPE SIZE VARIABLES
@@ -54,11 +54,11 @@ $text-size-xl: 2em;
 FONTS
 ------------------------------------------- */
 
-%bodytype {
-	font-family: "source-sans-pro",sans-serif;
+%serif {
+	font-family: "ff-tisa-web-pro",serif;
 }
 
-%headingtype {
+%sans {
 	font-family: "freight-sans-pro",sans-serif;
 }
 
@@ -66,12 +66,94 @@ FONTS
 
 HEADINGS
 ------------------------------------------- */
+%heading-size-s { font-size: .95em;}
+%heading-size-m { font-size: 1.25em;}
+%heading-size-l { font-size: 1.5em;}
+%heading-size-xl { font-size: 2em;}
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	@extend %sans;
+}
 
 /*
 
 TEXT
 ------------------------------------------- */
+
+.content__main-content {
+	p {
+    font-size: 1.15em;
+    line-height: 170%;
+    margin: 0 0 3.125%;
+    &:last-child {
+      margin-bottom: 0;
+    }
+    @media screen and (max-width: 480px ) {
+      margin-bottom: 5%;
+    }
+  }
+  h1 {
+    line-height: 125%;
+  }
+  h3 {
+    margin: 6% 0 1%;
+    font-size: 1.3em;
+    font-weight: bold;
+  }
+  h5 {
+    margin: 6% 0 0;
+    font-size: .9em;
+    font-weight: bold;
+    text-transform: uppercase;
+    &:before {
+      background: $borderColor;
+      content: " ";
+      display: block;
+      height: 1px;
+      width: 80px;
+      margin-bottom: 10px;
+    }
+  }
+}
+
+ul, .show-notes {
+  list-style-type: square;
+  margin: 0 0 03.125%;
+  @media screen and (max-width: 700px ) {
+    margin: 0 0 0 25px;
+  }
+  li {
+    font-size: 1.2em;
+    line-height: 160%;
+    padding: 01.25% 0;
+    &:last-child {
+      padding: 01.25% 0 0;
+    }
+  }
+}
+
+ol {
+  list-style-type: decimal;
+  margin: 0 0 3.125%;
+  text-align: left;
+  @media screen and (max-width: 700px ) {
+    margin: 0 0 0 25px;
+  }
+  li {
+    font-size: 1.1em;
+    line-height: 160%;
+    margin: 0 0 2.5%;
+    p {
+      font-size: inherit !important;
+      margin: 0 0 3.125% 0 !important;
+    }
+  }
+}
 
 
 /*
@@ -81,18 +163,72 @@ INLINE TYPE
 
 strong {
 	font-weight: bold;
+  em {
+   font-weight: 700;
+   font-style: italic;
+  }
 }
 
-em {
+em, cite {
 	font-style: italic;
 }
 
+sup {
+  a {
+    border-bottom: none;
+    font-size: .65em;
+    font-weight: bold;
+  }
+}
+
+pre {
+  background: lighten($borderColor, 3%);
+  padding: 3% 3% 3%;
+  white-space: pre;
+  overflow-x: auto;
+  @media screen and (max-width: 700px ) {
+    padding: 3%;
+  }
+  code {
+    background: none;
+    padding: 0;
+  }
+}
+
+.highlight {
+  margin: 0 0 3.125%;
+}
+
+code {
+  background: $borderColor;
+  color: $darkColor;
+  font-family: monospace;
+  padding: 2px 5px;
+}
 
 /*
 
 BLOCKQUOTE
 ------------------------------------------- */
 
+blockquote {
+  border-left: 5px solid $linkColor;
+  color: lighten($darkColor, 40%);
+  padding-left: 20px;
+  margin: 0 0 03.125%;
+  p {
+    margin-left: 0 !important;
+  }
+  small {
+    display: block;
+    font-size: .80em;
+    margin: 02.34375% 0 0;
+    &:before {
+      content: "—";
+      color: $borderColor;
+    }
+  }
+}
 
 /*
 
@@ -118,17 +254,35 @@ LINKS
 ------------------------------------------- */
 
 a {
+	color: $linkColor;
+	text-decoration: underline;
 	@include transition(.2s ease-in-out);
+	&:hover {
+		color: lighten($linkColor, 10%);
+	}
+	header & {
+		text-decoration: none;
+	}
+}
+
+a.reversefootnote {
+  text-decoration: none !important;
+  margin-left: 5px;
 }
 
 /*
 
 ICON FONT
 ------------------------------------------- */
+@include embed-font("Icomoon", "icon-font/icomoon");
+
+%icon-font {
+	font-family: "Icomoon";
+}
 
 [data-icon]:before {
   content: attr(data-icon);
-  // @include iconfont;
+  @extend %icon-font;
   speak: none;
   vertical-align: top;
 }
