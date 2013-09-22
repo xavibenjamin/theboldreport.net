@@ -1,6 +1,15 @@
 {
   "entries": [
     {
+      "title": 404,
+      "url": "/404/index.html",
+      "date": null,
+      "categories": [
+
+      ],
+      "body": "Should something be here? Email me or file an issue on GitHub."
+    },
+    {
       "title": "Search",
       "url": "/search/index.html",
       "date": null,
