@@ -16,6 +16,7 @@ PAGE NAVIGATION
       margin: 0;
       line-height: inherit;
       padding: 0;
+      font-size: 1.15em;
     }
   }
 }
@@ -26,7 +27,7 @@ PAGE NAVIGATION
   display: inline-block;
   padding: 5px 14px;
   margin: 0 5px;
-  font-size: .73em;
+  font-size: .75em;
   font-weight: bold;
   color: white;
   text-decoration: none !important;
@@ -41,7 +42,7 @@ PAGE NAVIGATION
 }
 
 .disabled {
-  background: $borderColor;
+  // background: $borderColor;
   color: lighten($darkColor, 40%);
   padding: 5px 14px !important;
   margin: 0 5px;
@@ -49,5 +50,5 @@ PAGE NAVIGATION
   border: none !important;
   display: inline-block;
   font-weight: bold;
-  font-size: .85em;
+  font-size: .85em !important;
 }

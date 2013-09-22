@@ -33,6 +33,18 @@ body {
 	line-height: 140%;
 	color: $darkColor;
 	@extend %serif;
+  @media screen and (max-width: 620px ) {
+    font-size: 105%;
+  }
+  @media screen and (max-width: 500px ) {
+    font-size: 90%;
+  }
+  @media screen and (max-width: 400px ) {
+    font-size: 85%
+  }
+  @media screen and (max-width: 340px ) {
+    font-size: 75%;
+  }
 }
 
 // TYPE SIZE VARIABLES
@@ -94,32 +106,35 @@ TEXT
       margin-bottom: 0;
     }
     @media screen and (max-width: 480px ) {
-      margin-bottom: 5%;
+      margin-bottom: 7%;
+    }
+    @media screen and (max-width: 320px ) {
+      font-size: 1.25em;
     }
   }
   h1 {
     line-height: 125%;
   }
   h2 {
-    margin: 2em 0 0;
+    margin: 2em 0 .4em;
     font-size: 1.5em;
     font-weight: 700;
   }
   h3 {
-    margin: 2em 0 0;
+    margin: 2em 0 .4em;
     font-size: 1.3em;
     font-weight: bold;
   }
   h4 {
     color: $jazzColor;
-    margin: 2em 0 0;
+    margin: 2em 0 .4em;
     font-size: 1.15em;
     font-weight: bold;
     text-transform: uppercase;
   }
   h5 {
-    margin: 6% 0 0;
-    font-size: .9em;
+    margin: 2em 0 .4em;
+    font-size: 1em;
     font-weight: bold;
     text-transform: uppercase;
     &:before {
@@ -239,6 +254,9 @@ blockquote {
   color: lighten($darkColor, 40%);
   padding-left: 20px;
   margin: 0 0 03.125%;
+  @media screen and (max-width: 480px ) {
+    margin-bottom: 7%;
+  }
   p {
     margin-left: 0 !important;
   }
@@ -261,10 +279,10 @@ HR
 hr {
 	border: solid $borderColor;
 	border-width: 2px 0 0;
-	margin: $spacing-l auto;
+	margin: 2.5em auto;
 	height: 0;
 	width: auto;
-	max-width: 400px;
+	max-width: 200px;
 	display: block;
 	padding: 0;
   @extend %clearfix;

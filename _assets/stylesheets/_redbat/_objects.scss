@@ -7,4 +7,10 @@ OBJECTS
   max-width: 620px;
   margin: 0 auto;
   @extend %clearfix;
+  @media screen and (max-width: 620px ) {
+    padding: 0 30px;
+  }
+  @media screen and (max-width: 400px ) {
+    padding: 0 20px
+  }
 }

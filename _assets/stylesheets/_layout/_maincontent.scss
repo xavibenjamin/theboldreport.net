@@ -14,28 +14,21 @@ MAIN CONTENT
   margin: -53px auto 1.5em;
   pointer-events: auto;
   opacity: 1;
+  @media screen and (max-width: 500px ) {
+    margin-top: -43px;
+  }
+  @media screen and (max-width: 480px ) {
+    margin-top: -69px;
+  }
+  @media screen and (max-width: 320px ) {
+    margin-top: -48px;
+  }
 }
 
 .site__search-form {
   background: $borderColor;
   border-radius: 0 0 3px 3px;
   padding: 3%;
-}
-
-.site__description {
-  border-bottom: 10px solid $jazzColor;
-  padding: 0 0 2em;
-  margin: 0 0 2.5em;
-  p {
-    @extend %sans;
-    font-size: 2.1em;
-    line-height: 150%;
-    &.author {
-      color: lighten($darkColor, 45%);
-      font-size: 1.1em;
-      font-weight: normal;
-    }
-  }
 }
 
 .entry {

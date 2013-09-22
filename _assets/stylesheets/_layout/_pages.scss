@@ -3,9 +3,30 @@
 PAGES
 --------------------------------------------------------- */
 
-.archive-list, .search-results-list {
+.archive-list, .search-results-list, .tag-list {
   h3 {
     font-size: 1em;
     margin: 1.5em 0 0;
+  }
+}
+
+.archive__tag-list {
+  margin: 1.3em 0 0 0;
+  li {
+    display: inline-block;
+    list-style-type: none;
+    font-size: 1.15em;
+    padding: 0;
+    &:after {
+      color: lighten($darkColor, 65%);
+      content: "/";
+      padding: 0 3px 0 6px;
+    }
+    &:last-child {
+      padding: 0;
+      &:after {
+        content: "";
+      }
+    }
   }
 }
