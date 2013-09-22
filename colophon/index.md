@@ -16,13 +16,13 @@ I endevour to be well-balanced when reporting any type of news, however I am ver
 
 ## Tools
 
-- Most writing is done on my Macbook Pro in [Byword](http://bywordapp.com/). I use the dark theme.
+- Most writing is done on my Macbook Pro in [Byword](http://bywordapp.com/).
 
 - Designed and developed in [Sublime Text](http://www.sublimetext.com/). The logo was made in Illustrator.
 
 - Hosted by [Media Temple](http://mediatemple.net/).
 
-- Powered by the amazing [Jekyll](http://jekyllrb.com).
+- Powered by [Jekyll](http://jekyllrb.com).
 
 
 ## Contact
