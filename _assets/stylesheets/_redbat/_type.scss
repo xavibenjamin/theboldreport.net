@@ -100,6 +100,11 @@ TEXT
   h1 {
     line-height: 125%;
   }
+  h2 {
+    margin: 6% 0 1%;
+    font-size: 1.5em;
+    font-weight: 700;
+  }
   h3 {
     margin: 6% 0 1%;
     font-size: 1.3em;
@@ -121,16 +126,23 @@ TEXT
   }
 }
 
-ul, .show-notes {
-  list-style-type: square;
-  margin: 0 0 03.125%;
+ul {
+  margin: 0 0 03.125% 6%;
   @media screen and (max-width: 700px ) {
     margin: 0 0 0 25px;
   }
   li {
-    font-size: 1.2em;
+    font-size: 1.15em;
     line-height: 160%;
+    list-style-type: disc;
     padding: 01.25% 0;
+    p {
+      font-size: inherit !important;
+      margin: 0 0 3.125% 0;
+      &:last-child {
+        margin: 0;
+      }
+    }
     &:last-child {
       padding: 01.25% 0 0;
     }
@@ -145,7 +157,7 @@ ol {
     margin: 0 0 0 25px;
   }
   li {
-    font-size: 1.1em;
+    font-size: 1.15em;
     line-height: 160%;
     margin: 0 0 2.5%;
     p {
@@ -153,6 +165,12 @@ ol {
       margin: 0 0 3.125% 0 !important;
     }
   }
+}
+
+.page__title {
+  font-size: 2.5em;
+  font-weight: 900;
+  margin: 0 0 1em;
 }
 
 
