@@ -101,14 +101,21 @@ TEXT
     line-height: 125%;
   }
   h2 {
-    margin: 6% 0 1%;
+    margin: 2em 0 0;
     font-size: 1.5em;
     font-weight: 700;
   }
   h3 {
-    margin: 6% 0 1%;
+    margin: 2em 0 0;
     font-size: 1.3em;
     font-weight: bold;
+  }
+  h4 {
+    color: $jazzColor;
+    margin: 2em 0 0;
+    font-size: 1.15em;
+    font-weight: bold;
+    text-transform: uppercase;
   }
   h5 {
     margin: 6% 0 0;
@@ -132,19 +139,16 @@ ul {
     margin: 0 0 0 25px;
   }
   li {
-    font-size: 1.15em;
+    font-size: 15px;
     line-height: 160%;
     list-style-type: disc;
-    padding: 01.25% 0;
+    padding: 01.25% 0 0 2%;
     p {
-      font-size: inherit !important;
-      margin: 0 0 3.125% 0;
-      &:last-child {
-        margin: 0;
-      }
+      font-size: 130% !important;
+      margin: 0 0 3.125% 0 !important;
     }
     &:last-child {
-      padding: 01.25% 0 0;
+      padding: 01.25% 0 0 2%;
     }
   }
 }
@@ -160,6 +164,7 @@ ol {
     font-size: 1.15em;
     line-height: 160%;
     margin: 0 0 2.5%;
+    padding: 01.25% 0 0 2%;
     p {
       font-size: inherit !important;
       margin: 0 0 3.125% 0 !important;
@@ -254,15 +259,15 @@ HR
 ------------------------------------------- */
 
 hr {
-	// border: solid $borderColor;
-	border-width: 5px 0 0;
-	clear: both;
-	// margin: $spacing-m auto;
+	border: solid $borderColor;
+	border-width: 2px 0 0;
+	margin: $spacing-l auto;
 	height: 0;
 	width: auto;
-	max-width: 350px;
+	max-width: 400px;
 	display: block;
 	padding: 0;
+  @extend %clearfix;
 }
 
 

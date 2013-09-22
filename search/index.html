@@ -1,0 +1,23 @@
+---
+layout: page
+title: Search
+custom_css_class: search
+---
+
+<section id="search-results" style="display: none;">
+  <div class="entries">
+    <div class="search-results-list">
+
+    </div>
+  </div>
+</section>
+
+{% raw %}
+<script id="search-results-template" type="text/mustache">
+  {{#entries}}
+    <h3>
+      <a href="{{url}}">{{title}}</a>{{#date}}<small class="pubdate"><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
+    </h3>
+  {{/entries}}
+</script>
+{% endraw %}

@@ -6,7 +6,7 @@ exclude_from_search: true
 
 ![Tim Smith](/uploads/2013/09/tim_680x510.jpg)
 
-*The Bold Report* is designed, developed, and written by [Tim Smith](http://ttimsmith.com) in beautiful, and sometimes cold, St. Paul, Minnesota. Although I *don't* currently write this site full-time, I wouldn't mind if that happens.
+*The Bold Report* is designed, developed, and written by [Tim Smith](http://ttimsmith.com) in beautiful, and sometimes cold, St. Paul, Minnesota. I *don't* currently write this site full-time.
 
 ## Purpose
 
@@ -16,13 +16,7 @@ I endevour to be well-balanced when reporting any type of news, however I am ver
 
 ## Tools
 
-- Most writing is done on my Macbook Pro in [Byword](http://bywordapp.com/).
-
-- Designed and developed in [Sublime Text](http://www.sublimetext.com/). The logo was made in Illustrator.
-
-- Hosted by [Media Temple](http://mediatemple.net/).
-
-- Powered by [Jekyll](http://jekyllrb.com).
+Most writing is done on my Macbook Pro in [Byword](http://bywordapp.com/). The site is designed and developed in [Sublime Text](http://www.sublimetext.com/), with the exception of the logo. Hosted by [Media Temple](http://mediatemple.net/), and powered by [Jekyll](http://jekyllrb.com).
 
 
 ## Contact
