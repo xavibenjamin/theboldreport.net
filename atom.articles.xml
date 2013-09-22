@@ -5,9 +5,9 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
   <link rel="hub" href="https://pubsubhubbub.appspot.com"/>
 
-  <title>{{ site.name }}</title>
+  <title>{{ site.name }} - Articles Only</title>
   <link href="http://theboldreport.net"/>
-  <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
+  <link type="application/atom+xml" rel="self" href="http://theboldreport.net/feed.article.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>http://theboldreport.net</id>
   <author>
@@ -15,7 +15,7 @@ layout: nil
     <email>smith@ttimsmith.com</email>
   </author>
 
-  {% for post in site.posts %}
+  {% for post in site.categories.articles %}
   <entry>
     <id>http://theboldreport.net{{ post.id }}</id>
     <link type="text/html" rel="alternate" href="http://theboldreport.net{{ post.url }}"/>
