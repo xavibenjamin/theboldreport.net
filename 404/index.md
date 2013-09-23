@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 404
+exclude_from_search: true
 ---
 
 ## Sorry, this page doesn't exist.

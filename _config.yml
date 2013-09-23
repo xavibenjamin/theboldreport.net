@@ -6,7 +6,7 @@ permalink: /:year/:month/:title
 paginate: 20
 exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock']
 include: ['.htaccess']
-lunr_excludes: ['feed.xml', 'sitemap.xml']
+lunr_excludes: ['atom.xml', 'atom.articles.xml', 'sitemap.xml']
 timezone: America/Chicago
 post:
   extension: md
