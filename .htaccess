@@ -1,3 +1,18 @@
+# BEGIN FEEDPRESS
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} !FeedValidator [NC]
+RewriteCond %{HTTP_USER_AGENT} !FeedPress [NC]
+RewriteRule ^atom.xml http://feedpress.me/theboldreport [R=302,NC,L]
+# END FEEDPRESS
+
+# BEGIN FEEDPRESS
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} !FeedValidator [NC]
+RewriteCond %{HTTP_USER_AGENT} !FeedPress [NC]
+RewriteRule ^atom.articles.xml http://feedpress.me/theboldreport-articles [R=302,NC,L]
+# END FEEDPRESS
+
+
 # Error Document
 ErrorDocument 404 /404/index.html
 
