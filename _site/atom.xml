@@ -5,13 +5,41 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-09-22T21:14:45-05:00</updated>
+  <updated>2013-09-23T09:53:45-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/09/welcome</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/welcome"/>
+    <title>Dear Reader,</title>
+    <published>2013-09-23T00:00:00-05:00</published>
+    <updated>2013-09-23T00:00:00-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Welcome to &lt;em&gt;The Bold Report&lt;/em&gt;!&lt;/p&gt;
+
+&lt;p&gt;I’ve been pondering the creation of a blog for quite some time now. In the past few months, I’ve felt that the goals I have for my writing have outgrown my personal site, and it was time to move it to its own home.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The Bold Report&lt;/em&gt; is that new home. If you were a fan of my personal blog, you’ll see most of the same content on here. There will be long form articles which address topics that are on my mind, and links which point you to great content or exciting news around the web. As I have before, the links will have my commentary, which I’ve found that people appreciate.&lt;/p&gt;
+
+&lt;p&gt;The purpose of this site &lt;em&gt;is not&lt;/em&gt; to report on breaking news—there are many other sites doing that—rather to inform you of exciting new technology, products you should keep your eye on, or what I happen to be learning at the moment.&lt;/p&gt;
+
+&lt;p&gt;We live in fascinating times. The evolution of technology is not only influencing how we design and develop experiences, it is changing the way we interact with others and our surroundings. Whole industries have been re-imagined, and that will only continue to happen. If nothing else, I want this blog to document that, and show my predictions as false or accurate.&lt;/p&gt;
+
+&lt;p&gt;It is my hope that you’ll join me on this journey. You can find the different ways to subscribe on the &lt;a href=&quot;/subscribe/&quot;&gt;subscribe page&lt;/a&gt;. Although there are no comments on this site, please feel free to reach me &lt;a href=&quot;https://twitter.com/ttimsmith&quot;&gt;via Twitter&lt;/a&gt; or email me at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#116;&amp;#104;&amp;#101;&amp;#098;&amp;#111;&amp;#108;&amp;#100;&amp;#114;&amp;#101;&amp;#112;&amp;#111;&amp;#114;&amp;#116;&amp;#046;&amp;#110;&amp;#101;&amp;#116;&quot;&gt;&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#116;&amp;#104;&amp;#101;&amp;#098;&amp;#111;&amp;#108;&amp;#100;&amp;#114;&amp;#101;&amp;#112;&amp;#111;&amp;#114;&amp;#116;&amp;#046;&amp;#110;&amp;#101;&amp;#116;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thank you for reading, it means a lot to me.&lt;/p&gt;
+
+&lt;p&gt;—Tim&lt;/p&gt;
+</content>
+  </entry>
   
 
 </feed>
