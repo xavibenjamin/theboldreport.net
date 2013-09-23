@@ -50,15 +50,16 @@ HEADER
     margin-top: .8em
   }
   a {
-    background: lighten($darkColor, 30%);
+    background: lighten($darkColor, 5%);
     border-radius: 3px;
-    color: white;
+    color: lighten($darkColor, 50%);
     cursor: pointer;
     display: inline-block;
     font-size: .75em;
     padding: 2px 8px;
     &:hover {
       background: $linkColor;
+      color: white;
     }
   }
 }
