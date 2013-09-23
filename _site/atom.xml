@@ -5,13 +5,45 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-09-23T14:05:07-05:00</updated>
+  <updated>2013-09-23T14:21:27-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/09/apple-iphone-touchscreen-faster-than-android-devices</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/apple-iphone-touchscreen-faster-than-android-devices"/>
+    <title>Apple iPhone Touchscreen Faster than Android Devices</title>
+    <published>2013-09-23T14:17:25-05:00</published>
+    <updated>2013-09-23T14:17:25-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Apple’s iPhone 5 is 2.5 times faster at responding to touches than Google Android devices, according to a benchmark test by game and app streaming firm Agawi.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This doesn’t surprise me at all. The level of care and detail Apple spends on this type of stuff is the reason people line up in the rain to get their devices. The article goes on to explain:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;the iPhone 5 responded to touches at an average time of 55 milliseconds…. The closest Android device was the Samsung Galaxy S4 at 114 milliseconds.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s almost ridiculous to be examining this at the millisecond level, but tell me you’ve never noticed this delay when borrowing an Android device from a someone.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Those small details matter.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Because you don’t own one do you? &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/09/netflix-first-to-win-emmy-award-for-online-only-shows</id>
