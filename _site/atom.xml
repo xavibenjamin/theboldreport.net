@@ -5,13 +5,31 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-09-23T11:43:38-05:00</updated>
+  <updated>2013-09-23T12:50:22-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/09/blackberry-receives-buyout-offer</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/blackberry-receives-buyout-offer"/>
+    <title>BlackBerry Receives Buyout Offer</title>
+    <published>2013-09-23T12:50:07-05:00</published>
+    <updated>2013-09-23T12:50:07-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;BlackBerry has officially filed a letter with Canadian holding company Fairfax Financial, an offer that could lead to it returning to private ownership.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This could be a good thing for them. I remember when BlackBerry was on top, and then fell to the pits of irrelevance. Personally, I hope this helps them get their act together. I believe that the smartphone market will only continue to get better with better competition.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/09/apple-sells-nine-million-iphones</id>
