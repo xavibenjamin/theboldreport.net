@@ -5,13 +5,31 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-09-23T13:53:39-05:00</updated>
+  <updated>2013-09-23T14:05:07-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/09/netflix-first-to-win-emmy-award-for-online-only-shows</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/netflix-first-to-win-emmy-award-for-online-only-shows"/>
+    <title>Netflix First to Win Emmy Award for Online-Only Shows</title>
+    <published>2013-09-23T14:03:04-05:00</published>
+    <updated>2013-09-23T14:03:04-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Netflix made history tonight, winning three Emmy awards for House of Cards, becoming the first company to win the awards for online-only shows. Original shows produced by Netflix had received 14 nominations — 9 of those for House of Cards alone. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is huge. I’ve said it before, and I’ll say it again: Netflix gets it. They’re making entertaining shows, and minimizing piracy. Traditional television hasn’t been able to nail both.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/09/blackberry-receives-buyout-offer</id>
