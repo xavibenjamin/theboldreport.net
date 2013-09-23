@@ -5,13 +5,31 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-09-23T11:16:32-05:00</updated>
+  <updated>2013-09-23T11:43:38-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/09/apple-sells-nine-million-iphones</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/apple-sells-nine-million-iphones"/>
+    <title>Apple Sells Nine Million iPhones in a Weekend</title>
+    <published>2013-09-23T11:43:37-05:00</published>
+    <updated>2013-09-23T11:43:37-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Apple® today announced it has sold a record-breaking nine million new iPhone® 5s and iPhone 5c models, just three days after the launch of the new iPhones on September 20. In addition, more than 200 million iOS devices are now running the completely redesigned iOS 7, making it the fastest software upgrade in history.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Every time the worlds says Apple is done, they come and do something like this. It’s also interesting to note that &lt;a href=&quot;http://news.cnet.com/8301-1035_3-57603876-94/samsung-sends-spies-to-uncover-apples-iphone-line-phenom/&quot;&gt;Samsung sent out a film crew to the iPhone lines&lt;/a&gt;. None of the competitors get why people are so passionate about Apple’s products.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/09/welcome</id>
