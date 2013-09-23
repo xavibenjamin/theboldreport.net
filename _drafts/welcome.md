@@ -1,0 +1,21 @@
+---
+layout: post
+title: 'Dear Reader,'
+categories: articles
+custom_type: post
+---
+Welcome to *The Bold Report*!
+
+I've been pondering the creation of a blog for quite some time now. In the past few months, I've felt that the goals I have for my writing have outgrown my personal site, and it was time to move it to its own home.
+
+*The Bold Report* is that new home. If you were a fan of my personal blog, you'll see most of the same content on here. There will be long form articles which address topics that are on my mind, and links which point you to great content or exciting news around the web. As I have before, the links will have my commentary, which I've found that people appreciate. 
+
+The purpose of this site *is not* to report on breaking news—there are many other sites doing that—rather to inform you of exciting new technology, products you should keep your eye on, or what I happen to be learning at the moment. 
+
+We live in fascinating times. The evolution of technology is not only influencing how we design and develop experiences, it is changing the way we interact with others and our surroundings. Whole industries have been re-imagined, and that will only continue to happen. If nothing else, I want this blog to document that, and show my predictions as false or accurate.
+
+It is my hope that you'll join me on this journey. You can find the different ways to subscribe on the [subscribe page](/subscribe/). Although there are no comments on this site, please feel free to reach me [via Twitter](https://twitter.com/ttimsmith) or email me at <contact@theboldreport.net>.
+
+Thank you for reading, it means a lot to me.
+
+—Tim

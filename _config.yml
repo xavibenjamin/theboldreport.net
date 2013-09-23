@@ -3,7 +3,7 @@ description: 'An exploration of design, development, tech, Geek culture, Apple, 
 markdown: kramdown
 pygments: true
 permalink: /:year/:month/:title
-paginate: 8
+paginate: 20
 exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock']
 include: ['.htaccess']
 lunr_excludes: ['feed.xml', 'sitemap.xml']
