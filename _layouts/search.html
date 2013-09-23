@@ -22,7 +22,7 @@
 
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>The Bold Report</title>
+        <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 
         <!-- DNS Prefetch -->
@@ -32,16 +32,18 @@
         <!-- Author Info for Google -->
         <link rel="author" href="https://plus.google.com/117161754644004218749">
         <meta name="author" content="Tim Smith">
-        <link rel="canonical" href="http://theboldreport.net/tag/BlackBerry/index.html">
-        <meta name="description" content="">
+        <link rel="canonical" href="http://theboldreport.net{{ page.url }}">
+        <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 156 }}">
 
         <!-- Facebook Article Info -->
         <meta property="og:image" content="http://theboldreport.net/uploads/2013/09/theboldreport-avatar.png">
-        <meta property="og:title" content="">
+        <meta property="og:title" content="{{ page.title }}">
         <meta property="og:site_name" content="The Bold Report">
-        <meta property="og:url" content="http://theboldreport.net/tag/BlackBerry/index.html">
-        <meta property="og:description" content="">
-        
+        <meta property="og:url" content="http://theboldreport.net{{ page.url }}">
+        <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 156 }}">
+        {% if page.custom_type %}
+        <meta property="og:type" content="article">
+        {% endif %}
 
         <!-- Twitter Info -->
         <meta name="twitter:card" content="summary">
@@ -52,17 +54,17 @@
         <link rel="alternate" type="application/rss+xml" title="RSS Feed for The Bold Report" href="/atom.articles.xml" />
 
         <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/assets/syntax-ab257e4a95483d681053dc1adfe3d6c8.css">
+        {% stylesheet syntax %}
 
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="/assets/global-a92d02db8f5f5b44b746f29401671d10.css">
+        {% stylesheet global %}
 
         <!-- Typekit Code  -->
         <script type="text/javascript" src="//use.typekit.net/dto7tfw.js"></script>
         <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
     </head>
-    <body >
+    <body {% if page.custom_css_class %} class="{{ page.custom_css_class }}" {% endif %}>
 
         <div class="site__wrapper">
 
@@ -80,12 +82,6 @@
                   </ul>
                 </nav>
 
-                <div class="open-search">
-                  <a class="reveal" role="button">
-                    <span data-icon="s" aria-hidden="true"></span>
-                    <span class="screen-reader-hide">show search form</span>
-                  </a>
-                </div>
               </div><!-- .contain -->
             </div><!-- sit__nav-search-wrapper -->
 
@@ -97,7 +93,7 @@
 
           </header>
 
-          <div class="contain search-wrapper">
+          <div class="contain search__search-wrapper">
             <div id="search" class="site__search-form">
               <form action="/search" method="get">
                 <p>
@@ -110,16 +106,7 @@
           <main class="content__main-content" role="main">
             <div class="contain">
 
-              <h1 class="page__title">Posts tagged ‘BlackBerry’</h1>
-
-
-<div class="tag-list">
-  
-  <h3><a href="/2013/09/blackberry-receives-buyout-offer">BlackBerry Receives Buyout Offer</a><small class="pubdate"><time datetime="2013-09-23T12:50:07-05:00">September 23, 2013</time></small></h3>
-  
-</div><!-- .tag-list -->
-
-
+              {{ content }}
 
             </div><!-- .content__main-content -->
           </main>
@@ -127,7 +114,7 @@
           <footer class="site__footer" role="contentinfo">
             <div class="contain">
               <small><a href="/subscribe/">Subscribe</a> &middot; <a href="/archives/">Archives</a> &middot; <a href="https://github.com/ttimsmith/theboldreport.net">View Source on GitHub</a></small>
-              <small><em>The Bold Report</em> &copy; 2013 Anythin’ Goes LLC. &amp; Timothy B. Smith.</small>
+              <small><em>The Bold Report</em> &copy; {{ site.time | date: "%Y" }} Anythin’ Goes LLC. &amp; Timothy B. Smith.</small>
 
             </div><!-- .contain -->
           </footer>
@@ -149,8 +136,8 @@
 
         <!-- Other JS libraries -->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script src="/assets/stuff-84d13cd5ebb8ac46ae3c72ee62995163.js"></script>
-        <script src="/assets/search-d499b26bd739a6fa12043e434a8bad97.js"></script>
+        {% javascript stuff %}
+        {% javascript search %}
 
     </body>
 </html>
