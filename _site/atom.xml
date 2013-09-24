@@ -5,13 +5,35 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-09-24T10:11:11-05:00</updated>
+  <updated>2013-09-24T11:29:58-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/09/marco-arments-lastest-project-overcast</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/marco-arments-lastest-project-overcast"/>
+    <title>Marco Arment’s Latest Project: Overcast</title>
+    <published>2013-09-24T11:29:01-05:00</published>
+    <updated>2013-09-24T11:29:01-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;If you need tons of features or anything I’m choosing not to do, you’ll probably be happier with one of the others. (Before I started using Overcast full-time, Downcast was my podcast app of choice.)&lt;/p&gt;
+
+  &lt;p&gt;I’m adding some new stuff that I haven’t seen before in podcast players, and implementing what I think is the best set of core features from the existing apps. It’s my ideal podcast app.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is why I love Marco Arment. It happens to be the reason he’s also very successful. He trusts his gut, which I think is one of the most difficult things to learn how to do. &lt;/p&gt;
+
+&lt;p&gt;Marco isn’t given enough credit as a designer. He may not create the visuals for all of his products, but he is very deliberate with his design decisions. Can’t wait for this app.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/09/sustainable-web</id>
