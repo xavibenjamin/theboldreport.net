@@ -5,13 +5,31 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-09-23T23:45:29-05:00</updated>
+  <updated>2013-09-24T10:11:11-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/09/sustainable-web</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/sustainable-web"/>
+    <title>James Christie on Sustainable Web Design</title>
+    <published>2013-09-24T10:10:39-05:00</published>
+    <updated>2013-09-24T10:10:39-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;At 1.4MB, today’s average page is 15 times larger than it was 10 years ago, primarily due to images (881kB) and script (224kB). Plain old HTML totals just 54kB—but when’s the last time you saw an HTML-only site? This average page also makes more than 100 HTTP requests. Whether they fetch a big object or a small one, these add up to more delay and more power wastage. The average site is also slow: Alexa’s top 2,000 retailer sites now take an average of more than seven seconds to load—much longer than users consider acceptable.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We published &lt;a href=&quot;http://alistapart.com/issue/383&quot;&gt;a great issue&lt;/a&gt; today, but this particular article written by &lt;a href=&quot;http://jcux.co.uk/&quot;&gt;James Christie&lt;/a&gt; caught my eye. I’ve been doing a lot of research into performance, but I’d stupidly never thought how slow sites can have an impact on our environment. Site performance matters; not only to visitors, but to our planet.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/09/apple-iphone-touchscreen-faster-than-android-devices</id>
