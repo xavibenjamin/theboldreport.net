@@ -2,39 +2,43 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://theboldreport.net/2013/09/welcome</loc>
-        <lastmod>2013-09-23T23:32:12-05:00</lastmod>
+        <lastmod>2013-09-24T12:42:59-05:00</lastmod>
     </url>
     <url>
         <loc>http://theboldreport.net/2013/09/apple-sells-nine-million-iphones</loc>
-        <lastmod>2013-09-23T23:32:12-05:00</lastmod>
+        <lastmod>2013-09-24T12:42:59-05:00</lastmod>
     </url>
     <url>
         <loc>http://theboldreport.net/2013/09/blackberry-receives-buyout-offer</loc>
-        <lastmod>2013-09-23T23:32:12-05:00</lastmod>
+        <lastmod>2013-09-24T12:42:59-05:00</lastmod>
     </url>
     <url>
         <loc>
             http://theboldreport.net/2013/09/netflix-first-to-win-emmy-award-for-online-only-shows
         </loc>
-        <lastmod>2013-09-23T23:32:12-05:00</lastmod>
+        <lastmod>2013-09-24T12:42:59-05:00</lastmod>
     </url>
     <url>
         <loc>
             http://theboldreport.net/2013/09/apple-iphone-touchscreen-faster-than-android-devices
         </loc>
-        <lastmod>2013-09-23T23:32:12-05:00</lastmod>
+        <lastmod>2013-09-24T12:42:59-05:00</lastmod>
     </url>
     <url>
         <loc>http://theboldreport.net/2013/09/sustainable-web</loc>
-        <lastmod>2013-09-24T11:29:57-05:00</lastmod>
+        <lastmod>2013-09-24T12:42:59-05:00</lastmod>
     </url>
     <url>
         <loc>http://theboldreport.net/2013/09/marco-arments-lastest-project-overcast</loc>
-        <lastmod>2013-09-24T11:29:02-05:00</lastmod>
+        <lastmod>2013-09-24T12:42:59-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theboldreport.net/2013/09/theeastwing-70</loc>
+        <lastmod>2013-09-24T16:15:56-05:00</lastmod>
     </url>
     <url>
         <loc>http://theboldreport.net/404/404/</loc>
-        <lastmod>2013-09-23T23:30:59-05:00</lastmod>
+        <lastmod>2013-09-24T12:42:59-05:00</lastmod>
     </url>
     <url>
         <loc>http://theboldreport.net/atom.articles.xml</loc>
@@ -42,18 +46,18 @@
     </url>
     <url>
         <loc>http://theboldreport.net/colophon/colophon/</loc>
-        <lastmod>2013-09-23T23:30:59-05:00</lastmod>
+        <lastmod>2013-09-24T12:42:59-05:00</lastmod>
     </url>
     <url>
         <loc>http://theboldreport.net/</loc>
-        <lastmod>2013-09-24T11:29:57-05:00</lastmod>
+        <lastmod>2013-09-24T16:15:56-05:00</lastmod>
     </url>
     <url>
         <loc>http://theboldreport.net/search/search/</loc>
-        <lastmod>2013-09-24T11:29:57-05:00</lastmod>
+        <lastmod>2013-09-24T16:15:56-05:00</lastmod>
     </url>
     <url>
         <loc>http://theboldreport.net/subscribe/subscribe/</loc>
-        <lastmod>2013-09-23T23:30:59-05:00</lastmod>
+        <lastmod>2013-09-24T12:42:59-05:00</lastmod>
     </url>
 </urlset>

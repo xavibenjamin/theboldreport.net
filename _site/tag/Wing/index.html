@@ -22,7 +22,7 @@
 
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
+        <title>The Bold Report</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
         <link href="/apple-touch-icon.png" rel="apple-touch-icon">
 
@@ -33,18 +33,16 @@
         <!-- Author Info for Google -->
         <link rel="author" href="https://plus.google.com/117161754644004218749">
         <meta name="author" content="Tim Smith">
-        <link rel="canonical" href="http://theboldreport.net{{ page.url }}">
-        <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 156 }}">
+        <link rel="canonical" href="http://theboldreport.net/tag/Wing/index.html">
+        <meta name="description" content="">
 
         <!-- Facebook Article Info -->
         <meta property="og:image" content="http://theboldreport.net/uploads/2013/09/theboldreport-avatar.png">
-        <meta property="og:title" content="{{ page.title }}">
+        <meta property="og:title" content="">
         <meta property="og:site_name" content="The Bold Report">
-        <meta property="og:url" content="http://theboldreport.net{{ page.url }}">
-        <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 156 }}">
-        {% if page.custom_type %}
-        <meta property="og:type" content="article">
-        {% endif %}
+        <meta property="og:url" content="http://theboldreport.net/tag/Wing/index.html">
+        <meta property="og:description" content="">
+        
 
         <!-- Twitter Info -->
         <meta name="twitter:card" content="summary">
@@ -55,19 +53,19 @@
         <link rel="alternate" type="application/rss+xml" title="Articles-Only Feed for The Bold Report" href="/atom.articles.xml" />
 
         <!-- syntax highlighting CSS -->
-        {% stylesheet syntax %}
+        <link rel="stylesheet" href="/assets/syntax-ab257e4a95483d681053dc1adfe3d6c8.css">
 
         <!-- Custom CSS -->
-        {% stylesheet global %}
+        <link rel="stylesheet" href="/assets/global-a92d02db8f5f5b44b746f29401671d10.css">
 
-        {% if page.custom_css %}{{ page.custom_css | stylesheet }}{% endif %}
+        
 
         <!-- Typekit Code  -->
         <script type="text/javascript" src="//use.typekit.net/dto7tfw.js"></script>
         <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
     </head>
-    <body {% if page.custom_css_class %} class="{{ page.custom_css_class }}" {% endif %}>
+    <body >
 
         <div class="site__wrapper">
 
@@ -115,7 +113,16 @@
           <main class="content__main-content" role="main">
             <div class="contain">
 
-              {{ content }}
+              <h1 class="page__title">Posts tagged ‘Wing’</h1>
+
+
+<div class="tag-list">
+  
+  <h3><a href="/2013/09/theeastwing-70">The East Wing: Jeremy Fuksa</a><small class="pubdate"><time datetime="2013-09-24T16:15:55-05:00">September 24, 2013</time></small></h3>
+  
+</div><!-- .tag-list -->
+
+
 
             </div><!-- .content__main-content -->
           </main>
@@ -123,7 +130,7 @@
           <footer class="site__footer" role="contentinfo">
             <div class="contain">
               <small><a href="/subscribe/">Subscribe</a> &middot; <a href="/archives/">Archives</a> &middot; <a href="https://github.com/ttimsmith/theboldreport.net">View Source on GitHub</a></small>
-              <small><em>The Bold Report</em> &copy; {{ site.time | date: "%Y" }} Anythin’ Goes LLC. &amp; Timothy B. Smith.</small>
+              <small><em>The Bold Report</em> &copy; 2013 Anythin’ Goes LLC. &amp; Timothy B. Smith.</small>
 
             </div><!-- .contain -->
           </footer>
@@ -145,8 +152,8 @@
 
         <!-- Other JS libraries -->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        {% javascript stuff %}
-        {% javascript search %}
+        <script src="/assets/stuff-84d13cd5ebb8ac46ae3c72ee62995163.js"></script>
+        <script src="/assets/search-d499b26bd739a6fa12043e434a8bad97.js"></script>
 
     </body>
 </html>
