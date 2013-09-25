@@ -5,13 +5,29 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-09-24T16:16:16-05:00</updated>
+  <updated>2013-09-25T11:15:32-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/09/deployments-with-github-and-ssh</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/deployments-with-github-and-ssh"/>
+    <title>Deployments with GitHub and SSH</title>
+    <published>2013-09-25T11:12:03-05:00</published>
+    <updated>2013-09-25T11:12:03-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;I had no idea that deployments could be this easy. Which surprises me, because I thought I had explored my deployment options. Kennedy was kind enough to make a video too.&lt;/p&gt;
+
+&lt;p&gt;Obviously this route is a bit nerdy, so if you want something that’s managed for you, I recommend &lt;a href=&quot;http://beanstalkapp.com/&quot;&gt;Beanstalk&lt;/a&gt; or &lt;a href=&quot;http://deployhq.com/&quot;&gt;Deploy&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/09/theeastwing-70</id>

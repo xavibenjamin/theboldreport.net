@@ -80,6 +80,15 @@
         "links"
       ],
       "body": "This week: I talk with Jeremy Fuksa about being a design director, hiring designers, and the side-projects he works on. Bandwidth is kindly provided by Campaign Monitor."
+    },
+    {
+      "title": "Deployments with GitHub and SSH",
+      "url": "/2013/09/deployments-with-github-and-ssh",
+      "date": "2013-09-25 11:12:03 -0500",
+      "categories": [
+        "links"
+      ],
+      "body": "I had no idea that deployments could be this easy. Which surprises me, because I thought I had explored my deployment options. Kennedy was kind enough to make a video too. Obviously this route is a bit nerdy, so if you want something that’s managed for you, I recommend Beanstalk or Deploy."
     }
   ]
 }
