@@ -5,13 +5,41 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-09-25T11:15:32-05:00</updated>
+  <updated>2013-09-25T11:52:33-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/09/the-app-store-problem</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/the-app-store-problem"/>
+    <title>The App Store Problem</title>
+    <published>2013-09-25T11:50:17-05:00</published>
+    <updated>2013-09-25T11:50:17-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Stephen Hackett on 512 Pixels:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The bottom line is this: developers should be able to work on their product in a sustainable way. Realmac are some of the good guys, and to have to backtrack on a business decision is a damn shame, especially in a world where people pour money into IAP-based games day and night.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is a real problem. We can obviously see a huge hole in the App Store ecosystem. Honestly, I have no idea if Apple will ever implement upgrade pricing. &lt;a href=&quot;http://www.imore.com/apple-puts-its-price-tag-where-its-policy-charges-full-price-logic-pro-x-mac-app-store&quot;&gt;Signs point to no&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;Apple desperately needs to examine this problem, and understand that the beautiful ecosystem it’s created, could crumble because of issues like this. And as the person purchasing software, I need to understand that developers &lt;strong&gt;are in their right&lt;/strong&gt; to charge money for new software. I love what &lt;a href=&quot;https://twitter.com/marcoarment/status/382899550341853184&quot;&gt;Marco Arment said&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Upset about &lt;a href=&quot;https://twitter.com/realmacsoftware&quot;&gt;@realmacsoftware&lt;/a&gt; asking for another 3 dollars for a big update to Clear and going universal?&lt;/p&gt;
+
+  &lt;p&gt;You should be ashamed of yourself.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/09/deployments-with-github-and-ssh</id>
