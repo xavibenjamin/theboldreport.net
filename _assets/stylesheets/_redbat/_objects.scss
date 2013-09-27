@@ -14,3 +14,8 @@ OBJECTS
     padding: 0 20px
   }
 }
+
+body {
+  background-color: $linkColor;
+  @include background-image(linear-gradient(white, white));
+}
