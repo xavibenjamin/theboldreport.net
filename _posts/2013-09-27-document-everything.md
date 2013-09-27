@@ -5,6 +5,7 @@ categories: articles
 custom_type: post
 custom_css: document-everything
 date: '2013-09-27 14:35:13'
+tags: ["design", "sharing"]
 ---
 Something I've been thinking about a lot recently is documentation. And yes, I'm thinking a little bit about legacy—documenting our life, and the things we make. However, I also mean documenting our process.
 
