@@ -5,13 +5,51 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-09-27T14:38:51-05:00</updated>
+  <updated>2013-09-27T16:02:52-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/09/the-14-hour-work-day-myth</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/the-14-hour-work-day-myth"/>
+    <title>The 14-Hour Work Day Myth</title>
+    <published>2013-09-27T16:02:02-05:00</published>
+    <updated>2013-09-27T16:02:02-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Once I discovered the best times I like to work as a freelancer, I realized, why would I want to be working past that anyways? I love my job but I also love doing things outside my job. These things bring me great happiness and satisfaction, in turn, giving me the motivation and passion needed to perform effectively at my job.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I love when people write about how working long hours is not a good idea. I love it when someone like Janna Hagan—whom I admire very much—does it.&lt;/p&gt;
+
+&lt;p&gt;Speaking of which, have a great weekend!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://theboldreport.net/2013/09/making-star-wars-great-again</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/making-star-wars-great-again"/>
+    <title>Making Star Wars Great Again</title>
+    <published>2013-09-27T16:01:57-05:00</published>
+    <updated>2013-09-27T16:01:57-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;This is just magical. I think Abrams should bring this guy on board as a technical advisor in charge of proper use of the force.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Agreed.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/09/document-everything</id>
