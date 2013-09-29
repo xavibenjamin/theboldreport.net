@@ -20,7 +20,7 @@ Most writing is done on my Macbook Pro in [Byword](http://bywordapp.com/). The s
 
 
 ## Contact
-If you have questions, concerns, feedback, or compliments about *The Bold Report*, please feel free to contact me. You can reach me on [Twitter](https://twitter.com/ttimsmith) or email [contact@theboldreport.net](mailto:contact@theboldreport.net).
+If you have questions, concerns, feedback, or compliments about *The Bold Report*, please feel free to contact me. You can reach me on [Twitter](https://twitter.com/ttimsmith) or email [tim@theboldreport.net](mailto:tim@theboldreport.net).
 
 
 
