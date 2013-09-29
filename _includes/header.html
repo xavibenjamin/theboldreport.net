@@ -22,7 +22,7 @@
 
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Subscribe - The Bold Report</title>
+        <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
         <link href="/apple-touch-icon.png" rel="apple-touch-icon">
 
@@ -33,16 +33,18 @@
         <!-- Author Info for Google -->
         <link rel="author" href="https://plus.google.com/117161754644004218749">
         <meta name="author" content="Tim Smith">
-        <link rel="canonical" href="http://theboldreport.net/subscribe/index.html">
-        <meta name="description" content="">
+        <link rel="canonical" href="http://theboldreport.net{{ page.url }}">
+        <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 156 }}">
 
         <!-- Facebook Article Info -->
         <meta property="og:image" content="http://theboldreport.net/uploads/2013/09/theboldreport-avatar.png">
-        <meta property="og:title" content="Subscribe">
+        <meta property="og:title" content="{{ page.title }}">
         <meta property="og:site_name" content="The Bold Report">
-        <meta property="og:url" content="http://theboldreport.net/subscribe/index.html">
-        <meta property="og:description" content="">
-        
+        <meta property="og:url" content="http://theboldreport.net{{ page.url }}">
+        <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 156 }}">
+        {% if page.custom_type %}
+        <meta property="og:type" content="article">
+        {% endif %}
 
         <!-- Twitter Info -->
         <meta name="twitter:card" content="summary">
@@ -53,19 +55,19 @@
         <link rel="alternate" type="application/rss+xml" title="Articles-Only Feed for The Bold Report" href="/atom.articles.xml" />
 
         <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/assets/syntax-ab257e4a95483d681053dc1adfe3d6c8.css">
+        {% stylesheet syntax %}
 
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="/assets/global-98a2d6b9539966b73a4fd74f41ee4688.css">
+        {% stylesheet global %}
 
-        
+        {% if page.custom_css %}{{ page.custom_css | stylesheet }}{% endif %}
 
         <!-- Typekit Code  -->
         <script type="text/javascript" src="//use.typekit.net/dto7tfw.js"></script>
         <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
     </head>
-    <body  class="page" >
+    <body {% if page.custom_css_class %} class="{{ page.custom_css_class }}" {% endif %}>
 
         <div class="site__wrapper">
 
@@ -99,66 +101,3 @@
             </div>
 
           </header>
-
-
-  <div class="contain search-wrapper">
-    <div id="search" class="site__search-form">
-      <form action="/search" method="get">
-        <p>
-          <input type="text" id="search-query" name="q" placeholder="Search…" autocomplete="off">
-        </p>
-      </form>
-    </div><!-- .site__search-form -->
-  </div>
-
-  <main class="content__main-content" role="main">
-    <div class="contain">
-
-      <h1 class="page__title">Subscribe</h1>
-<h2 id="master-feed">Master Feed</h2>
-
-<p><a href="http://theboldreport.net/atom.xml">http://theboldreport.net/atom.xml</a></p>
-
-<h2 id="articles-only-feed">Articles-Only Feed</h2>
-
-<p>The feed with only long form articles.
-<a href="http://theboldreport.net/atom.articles.xml">http://theboldreport.net/atom.articles.xml</a></p>
-
-<h2 id="twiter-and-appnet">Twiter and App.net</h2>
-<p>You should <a href="https://twitter.com/theboldreport">follow The Bold Report on Twitter</a>. You can also <a href="https://alpha.app.net/theboldreport">follow The Bold Report on App.net</a>.</p>
-
-
-
-    </div><!-- .content__main-content -->
-  </main>
-
-        <footer class="site__footer" role="contentinfo">
-          <div class="contain">
-            <small><a href="/subscribe/">Subscribe</a> &middot; <a href="/archives/">Archives</a> &middot; <a href="https://github.com/ttimsmith/theboldreport.net">View Source on GitHub</a></small>
-            <small><em>The Bold Report</em> &copy; 2013 Anythin’ Goes LLC. &amp; Timothy B. Smith.</small>
-
-          </div><!-- .contain -->
-        </footer>
-
-
-      </div><!-- .site__wrapper -->
-
-      <!-- Google Analytics -->
-      <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        ga('create', 'UA-43045564-2', 'theboldreport.net');
-        ga('send', 'pageview');
-
-      </script>
-
-      <!-- Other JS libraries -->
-      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-      <script src="/assets/app-0247b4fcfb4ee79b62e26769654addd1.js"></script>
-
-    </body>
-</html>
-

@@ -8,7 +8,7 @@ require 'rbconfig'
 # == Configuration =============================================================
 
 # Set "rake watch" as default task
-task :default => :watch
+task :default => :w
 
 # Load the configuration file
 CONFIG = YAML.load_file("_config.yml")
@@ -107,7 +107,7 @@ end
 
 # rake publish
 desc "Move a post from _drafts to _posts"
-task :publish do
+task :pub do
   extension = CONFIG["post"]["extension"]
   files = Dir["#{DRAFTS}/*.#{extension}"]
   files.each_with_index do |file, index|
@@ -154,12 +154,12 @@ end
 # rake watch[number]
 # rake watch["drafts"]
 desc "Serve and watch the site (with post limit or drafts)"
-task :watch, :option do |t, args|
+task :w, :option do |t, args|
   option = args[:option]
   if option.nil? or option.empty?
     execute("jekyll serve --watch")
   else
-    if option == "drafts"
+    if option == "d"
       execute("jekyll serve --watch --drafts")
     else
       execute("jekyll serve --watch --limit_posts #{option}")
