@@ -5,13 +5,39 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-09-30T11:41:30-05:00</updated>
+  <updated>2013-09-30T12:05:21-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/09/apple-becomes-most-valuable-brand-of-2013</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/apple-becomes-most-valuable-brand-of-2013"/>
+    <title>Apple Becomes ‘Most Valuable Brand’ of 2013</title>
+    <published>2013-09-30T12:05:04-05:00</published>
+    <updated>2013-09-30T12:05:04-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Apple has taken the top spot as 2013′s Most Valuable Brand, ending Coca-Cola’s 13 year streak as number one in the &lt;a href=&quot;http://www.interbrand.com/en/best-global-brands/2013/Best-Global-Brands-2013-Brand-View.aspx&quot;&gt;annual Best Global Brands report&lt;/a&gt; compiled by Interbrand. Coca-Cola ended up third, surpassed by both Apple and Google this year.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I think this is pretty big news. A company’s brand is based a lot on public perception, and for Apple and Google to surpass Coca-Cola, which in my opinion is the one of the best brands ever created,&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; is quite the compliment on how they’re doing.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;You know you agree with that. Whether you’re a Coke lover, or Pepi lover (Oh god, can I footnote the footnote?), Coca-Cola has been advertising it’s drink with bears… bears. If you can advertise your product without taking cheap shots at your competitor, you’re doing well. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/09/google-web-designer</id>
