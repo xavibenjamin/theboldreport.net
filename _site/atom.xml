@@ -5,13 +5,37 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-09-28T21:41:32-05:00</updated>
+  <updated>2013-09-30T11:41:30-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/09/google-web-designer</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/google-web-designer"/>
+    <title>Google Web Designer</title>
+    <published>2013-09-30T11:41:11-05:00</published>
+    <updated>2013-09-30T11:41:11-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Interestingly, I see a tool like this from Google, and my whole opinion changes. I had some pretty harsh things to say about Macaw.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Google—in many ways—is the reason I do my job the way I do it. They’re advocates for building the web well, and fast. It’s hard for me to believe they’ll make a tool that does the opposite.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;I don’t know what happened to the tweet. But, I basically said that Macaw holds designers back from doing what they should do: learn to code. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/09/the-14-hour-work-day-myth</id>
