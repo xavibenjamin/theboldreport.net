@@ -11,4 +11,4 @@ tags: ["Apple", "Google"]
 
 I think this is pretty big news. A company's brand is based a lot on public perception, and for Apple and Google to surpass Coca-Cola, which in my opinion is the one of the best brands ever created,[^1] is quite the compliment on how they're doing.
 
-[^1]: You know you agree with that. Whether you're a Coke lover, or Pepi lover (Oh god, can I footnote the footnote?), Coca-Cola has been advertising it's drink with bears… bears. If you can advertise your product without taking cheap shots at your competitor, you're doing well.
+[^1]: You know you agree with that. Whether you're a Coke lover, or Pepsi lover (Oh god, can I footnote the footnote?), Coca-Cola has been advertising it's drink with bears… bears. If you can advertise your product without taking cheap shots at your competitor, you're doing well.
