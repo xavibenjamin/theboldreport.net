@@ -157,13 +157,28 @@ ul {
     font-size: 15px;
     line-height: 160%;
     list-style-type: disc;
-    padding: 01.25% 0 0 2%;
+    padding: 01.25% 0 0;
+    @media screen and (max-width: 400px ) {
+      font-size: 12px;
+    }
     p {
       font-size: 130% !important;
       margin: 0 0 3.125% 0 !important;
+      @media screen and (max-width: 620px ) {
+        font-size: 125% !important;
+      }
+      @media screen and (max-width: 500px ) {
+        font-size: 110% !important;
+      }
+      @media screen and (max-width: 400px ) {
+        font-size: 130% !important;
+      }
+      @media screen and (max-width: 340px ) {
+        font-size: 125% !important;
+      }
     }
     &:last-child {
-      padding: 01.25% 0 0 2%;
+      padding: 01.25% 0 0;
     }
   }
 }
