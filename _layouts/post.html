@@ -5,7 +5,7 @@ custom_css_class: single
 <div class="type-post format-{% if page.custom_type %}{{ page.custom_type }}{% endif %}">
   <article class="entry">
     {% if page.custom_type == 'post' %}
-      <p class="pubdate"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %e, %Y" }}</time> &middot; {{ content.size | readtime }} min read</p>
+      <p class="pubdate"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %e, %Y" }}</time></p>
       <h1>{{ page.title }}</h1>
       <p class="screen-reader-hide">by Tim Smith</p>
       {{ content }}

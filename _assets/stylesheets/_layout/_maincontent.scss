@@ -67,6 +67,9 @@ small.pubdate {
       font-size: .85em;
       padding: 0;
       margin: 0;
+      @media screen and (max-width: 320px ) {
+        font-size: 1em;
+      }
     }
   }
   &:before {

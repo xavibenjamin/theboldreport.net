@@ -5,13 +5,51 @@
   <title>The Bold Report - Articles Only</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/feed.article.xml"/>
-  <updated>2013-10-01T16:32:04-05:00</updated>
+  <updated>2013-10-02T09:54:21-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/using-portly-for-local-development</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/using-portly-for-local-development"/>
+    <title>Using Portly for Local Development</title>
+    <published>2013-10-02T09:52:41-05:00</published>
+    <updated>2013-10-02T09:52:41-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;My friend, &lt;a href=&quot;http://adamstacoviak.com/&quot;&gt;Adam Stacoviak&lt;/a&gt;, pointed me to a tool called &lt;a href=&quot;https://getportly.com/&quot;&gt;Portly&lt;/a&gt;. Portly allows you to display your local web server, publicly. &lt;/p&gt;
+
+&lt;p&gt;If you look at the Portly site, you can tell that the applications of this menubar app, are many. I’ve been using it to do local device testing without the need for a staging server. This a very basic usage of this powerful app, but it’s been a huge timesaver for me.&lt;/p&gt;
+
+&lt;p&gt;I &lt;em&gt;always&lt;/em&gt; develop sites locally.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; One problem I constantly ran into, is that I wasn’t able to easily test sites on my different devices. Sure, you can use a bookmarklet, resize your browser, or sign up for something like BrowserStack, but I like to test from the comfort of my couch.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2013/10/portly-screenshot.png&quot; alt=&quot;Portly Preferences&quot; title=&quot;Portly Preferences&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is where Portly comes in. I simply add a tunnel in the app, point it to my local connection string,&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; turn on the tunnel,  and go to the subdomain on my iPad or iPhone.&lt;/p&gt;
+
+&lt;p&gt;Now, I know there are other ways to do this, but I just wasn’t nerdy enough to implement them. Portly is easy, and &lt;a href=&quot;https://getportly.com/plans&quot;&gt;starting at $2.99/month&lt;/a&gt;, a very good deal. You should definitely check it out. If you need help or have questions, ping me on &lt;a href=&quot;https://twitter.com/ttimsmith&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#116;&amp;#105;&amp;#109;&amp;#064;&amp;#116;&amp;#104;&amp;#101;&amp;#098;&amp;#111;&amp;#108;&amp;#100;&amp;#114;&amp;#101;&amp;#112;&amp;#111;&amp;#114;&amp;#116;&amp;#046;&amp;#110;&amp;#101;&amp;#116;&quot;&gt;email me&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;If you’re working on a live server, stop that. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;I’ve found that QA is much more enjoyable—and effective—when I’m relaxed and comfortable. I turn on the TV for background noise, sit back on the couch, and browse every single page of the site. I find things I need to fix and assign myself GitHub issues. This ritual is often accompanied by a cup of coffee as well. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;For example, &lt;a href=&quot;http://localhost:4000&quot;&gt;http://localhost:4000&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/09/document-everything</id>

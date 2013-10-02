@@ -22,7 +22,7 @@
 
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Google Web Designer - The Bold Report</title>
+        <title>Using Portly for Local Development - The Bold Report</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
         <link href="/apple-touch-icon.png" rel="apple-touch-icon">
 
@@ -33,15 +33,15 @@
         <!-- Author Info for Google -->
         <link rel="author" href="https://plus.google.com/117161754644004218749">
         <meta name="author" content="Tim Smith">
-        <link rel="canonical" href="http://theboldreport.net/2013/09/google-web-designer">
-        <meta name="description" content="Interestingly, I see a tool like this from Google, and my whole opinion changes. I had some pretty harsh things to say about Macaw.1            I don’t k...">
+        <link rel="canonical" href="http://theboldreport.net/2013/10/using-portly-for-local-development">
+        <meta name="description" content="My friend, Adam Stacoviak, pointed me to a tool called Portly. Portly allows you to display your local web server, publicly. ">
 
         <!-- Facebook Article Info -->
         <meta property="og:image" content="http://theboldreport.net/uploads/2013/09/theboldreport-avatar.png">
-        <meta property="og:title" content="Google Web Designer">
+        <meta property="og:title" content="Using Portly for Local Development">
         <meta property="og:site_name" content="The Bold Report">
-        <meta property="og:url" content="http://theboldreport.net/2013/09/google-web-designer">
-        <meta property="og:description" content="Interestingly, I see a tool like this from Google, and my whole opinion changes. I had some pretty harsh things to say about Macaw.1            I don’t k...">
+        <meta property="og:url" content="http://theboldreport.net/2013/10/using-portly-for-local-development">
+        <meta property="og:description" content="My friend, Adam Stacoviak, pointed me to a tool called Portly. Portly allows you to display your local web server, publicly. ">
         
         <meta property="og:type" content="article">
         
@@ -116,22 +116,34 @@
   <main class="content__main-content" role="main">
     <div class="contain">
 
-      <div class="type-post format-link">
+      <div class="type-post format-post">
   <article class="entry">
     
-      <p class="pubdate"><small><time datetime="2013-09-30T11:41:11-05:00">September 30, 2013</time></small></p>
-      <h1>
-       <a href="https://www.google.com/webdesigner/" target="_blank">Google Web Designer</a>
-      </h1>
+      <p class="pubdate"><time datetime="2013-10-02T09:52:41-05:00">October  2, 2013</time></p>
+      <h1>Using Portly for Local Development</h1>
       <p class="screen-reader-hide">by Tim Smith</p>
-      <p>Interestingly, I see a tool like this from Google, and my whole opinion changes. I had some pretty harsh things to say about Macaw.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></p>
+      <p>My friend, <a href="http://adamstacoviak.com/">Adam Stacoviak</a>, pointed me to a tool called <a href="https://getportly.com/">Portly</a>. Portly allows you to display your local web server, publicly. </p>
 
-<p>Google—in many ways—is the reason I do my job the way I do it. They’re advocates for building the web well, and fast. It’s hard for me to believe they’ll make a tool that does the opposite.</p>
+<p>If you look at the Portly site, you can tell that the applications of this menubar app, are many. I’ve been using it to do local device testing without the need for a staging server. This a very basic usage of this powerful app, but it’s been a huge timesaver for me.</p>
+
+<p>I <em>always</em> develop sites locally.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> One problem I constantly ran into, is that I wasn’t able to easily test sites on my different devices. Sure, you can use a bookmarklet, resize your browser, or sign up for something like BrowserStack, but I like to test from the comfort of my couch.<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup></p>
+
+<p><img src="/uploads/2013/10/portly-screenshot.png" alt="Portly Preferences" title="Portly Preferences" /></p>
+
+<p>This is where Portly comes in. I simply add a tunnel in the app, point it to my local connection string,<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup> turn on the tunnel,  and go to the subdomain on my iPad or iPhone.</p>
+
+<p>Now, I know there are other ways to do this, but I just wasn’t nerdy enough to implement them. Portly is easy, and <a href="https://getportly.com/plans">starting at $2.99/month</a>, a very good deal. You should definitely check it out. If you need help or have questions, ping me on <a href="https://twitter.com/ttimsmith">Twitter</a> or <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#116;&#105;&#109;&#064;&#116;&#104;&#101;&#098;&#111;&#108;&#100;&#114;&#101;&#112;&#111;&#114;&#116;&#046;&#110;&#101;&#116;">email me</a>.</p>
 
 <div class="footnotes">
   <ol>
     <li id="fn:1">
-      <p>I don’t know what happened to the tweet. But, I basically said that Macaw holds designers back from doing what they should do: learn to code. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+      <p>If you’re working on a live server, stop that. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>I’ve found that QA is much more enjoyable—and effective—when I’m relaxed and comfortable. I turn on the TV for background noise, sit back on the couch, and browse every single page of the site. I find things I need to fix and assign myself GitHub issues. This ritual is often accompanied by a cup of coffee as well. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+      <p>For example, <a href="http://localhost:4000">http://localhost:4000</a>. <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
     </li>
   </ol>
 </div>
