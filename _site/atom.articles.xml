@@ -5,7 +5,7 @@
   <title>The Bold Report - Articles Only</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/feed.article.xml"/>
-  <updated>2013-10-03T13:42:42-05:00</updated>
+  <updated>2013-10-03T14:36:20-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
@@ -92,7 +92,9 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
 
 &lt;p&gt;If you’ve never used 1Password, this is a perfect time to purchase. In this day and age, it’s crucial to have secure passwords. This is an app you’ll later wonder how you did without.&lt;/p&gt;
 
-&lt;p&gt;It seems you can’t currently purchase the new 1Password from &lt;a href=&quot;https://agilebits.com/store&quot;&gt;the AgileBits store&lt;/a&gt;, but that is where it’ll be very soon.&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; You can also purchase from &lt;a href=&quot;https://itunes.apple.com/us/app/1password/id443987910?mt=12&quot;&gt;the Mac App Store&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;It seems you can’t currently purchase the new 1Password from &lt;a href=&quot;https://agilebits.com/store&quot;&gt;the AgileBits store&lt;/a&gt;, but that is where it’ll be very soon.&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; You can also purchase from &lt;a href=&quot;https://itunes.apple.com/us/app/1password/id443987910?mt=12&quot;&gt;the Mac App Store&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; You can now purchase and/or upgrade on &lt;a href=&quot;https://agilebits.com/store&quot;&gt;the AgileBits store&lt;/a&gt;. Seems my speculation was wrong.&lt;/p&gt;
 
 &lt;h5 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h5&gt;
 &lt;p&gt;&lt;a href=&quot;http://blog.agilebits.com/2013/08/31/how-long-should-my-passwords-be/&quot;&gt;How long should my passwords be?&lt;/a&gt; - If you’re interested in making generated passwords from 1Password very secure, I definitely recommend this article by the AgileBits team.&lt;/p&gt;

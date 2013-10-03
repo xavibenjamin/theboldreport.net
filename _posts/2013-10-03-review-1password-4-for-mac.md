@@ -62,7 +62,9 @@ The AgileBits team have definitely outdone themselves. Not only is this update t
 
 If you've never used 1Password, this is a perfect time to purchase. In this day and age, it's crucial to have secure passwords. This is an app you'll later wonder how you did without.
 
-It seems you can't currently purchase the new 1Password from [the AgileBits store](https://agilebits.com/store), but that is where it'll be very soon.[^3] You can also purchase from [the Mac App Store](https://itunes.apple.com/us/app/1password/id443987910?mt=12). 
+It seems you can't currently purchase the new 1Password from [the AgileBits store](https://agilebits.com/store), but that is where it'll be very soon.[^3] You can also purchase from [the Mac App Store](https://itunes.apple.com/us/app/1password/id443987910?mt=12).
+
+**Update:** You can now purchase and/or upgrade on [the AgileBits store](https://agilebits.com/store). Seems my speculation was wrong.
 
 ##### Further Reading
 [How long should my passwords be?](http://blog.agilebits.com/2013/08/31/how-long-should-my-passwords-be/) - If you're interested in making generated passwords from 1Password very secure, I definitely recommend this article by the AgileBits team.
