@@ -5,13 +5,113 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-02T18:58:02-05:00</updated>
+  <updated>2013-10-03T12:17:32-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/review-1password-4-for-mac</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/review-1password-4-for-mac"/>
+    <title>Review: 1Password 4 for Mac</title>
+    <published>2013-10-03T00:00:00-05:00</published>
+    <updated>2013-10-03T00:00:00-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://agilebits.com/onepassword&quot;&gt;1Password&lt;/a&gt; is one of my favorite apps. The amount of time it has saved me is unmeasurable, and it’s made my password strategy secure and delightful.&lt;/p&gt;
+
+&lt;p&gt;For those of you who don’t know about 1Password, it’s a great utility app to store and generate passwords. For years, I was the person who had &lt;em&gt;the same password for everything&lt;/em&gt;. With 1Password, I don’t do that anymore, I’m able to search through weak passwords and generate stronger ones, making it less likely to get hacked. Even if that does happen, none of my passwords are the same, so I only need to reset the one that’s been compromised.&lt;/p&gt;
+
+&lt;h2 id=&quot;first-impressions&quot;&gt;First Impressions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The new interface is beautiful, and obviously influenced by the iOS version.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Chrome extension got a facelift, and generated passwords are not only filled in forms, they’re also copied to your clipboard.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1Password Mini brings most of the power of the main app to the menubar. This is great for entering passwords into apps that aren’t the browser. I disliked having to open the main app to do this in previous versions.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;new-features-in-1password-4-for-mac&quot;&gt;New Features in 1Password 4 for Mac&lt;/h2&gt;
+
+&lt;h3 id=&quot;design&quot;&gt;Design&lt;/h3&gt;
+
+&lt;p&gt;The first thing you’ll notice when you open the new 1Password is the beautiful interface. If you’ve already purchased &lt;a href=&quot;https://agilebits.com/onepassword/ios&quot;&gt;the latest iOS app&lt;/a&gt;, you’ll notice that the new design is very similar, which delights me greatly. This redesign is years overdue, and the AgileBits team has delivered.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2013/10/1p4-mac-main.png&quot; alt=&quot;1Password 4 for Mac main view&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I love that this redesign in a lot of ways is a re-align. The interface remains in the three column layout, yet with an easy-on-the-eyes, light background. The type has greatly improved, and the middle column no longer has the “shelf” look. The new layout, allows you to see more logins in the window without having to scroll and sports better looking icons. &lt;/p&gt;
+
+&lt;p&gt;Thankfully, the last column has been redone too. It used to be confusing to look at, and honestly, I didn’t know what was going on. It’s now a lot more simplified and only displays necessary information.&lt;/p&gt;
+
+&lt;p&gt;That being said, my favorite part of the main view, is the new “Security Audit” that appears in the far left column. It gives you easy access to weak passwords, duplicate passwords, and passwords that are old and might need to be changed. To be clear, this type of filtering has always been present in 1Password, but the fact that it’s now front and center, is very valuable to me.&lt;/p&gt;
+
+&lt;h3 id=&quot;multiple-vaults&quot;&gt;Multiple Vaults&lt;/h3&gt;
+
+&lt;p&gt;One feature that I can see becoming very popular is the new feature of multiple vaults. I haven’t actually been using this feature, but it’s one of those things that I think could help me organize the different sets of passwords. &lt;/p&gt;
+
+&lt;p&gt;This is especially true when I worked for a company. Having a separate vault exclusively for company logins, would’ve been a great way to get organized. This makes managing items easier, and makes cleaning out items you no longer need, a breeze.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2013/10/1p4-mac-create-new-vault.png&quot; alt=&quot;Create a new vault&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;password-mini&quot;&gt;1Password Mini&lt;/h3&gt;
+&lt;p&gt;I love that they made a menubar app. I’m definitely one of those people that has &lt;em&gt;way too many&lt;/em&gt; of them.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Interestingly, the menubar app is what comes up now when you press &lt;code&gt;⌘CMD + /&lt;/code&gt;. It seems that the 1Password browser extension is now only needed to run the code necessary for the autofill. You’ll never actually need to press the button anymore, which is nice, because it’s one less button in the extensions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2013/10/1p4-mac-1p-mini-item-details.png&quot; alt=&quot;1Password Mini details&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s too early for me to say, but I think 1Password Mini could completely replace the main app for me. So far, I haven’t needed to open the main app for day-to-day responsibilities. To be honest, I only looked at the main app the day I downloaded it, and today when writing this review.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-features-you-should-know-about&quot;&gt;Other Features You Should Know About&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Shared Items&lt;/strong&gt;   &lt;br /&gt;
+Till now, I haven’t needed to ever share login items, but I can definitely see the practicality of this. You can share items with email or iMessage, and if the person makes changes, the item automatically updates when shared back.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;256-bit Authenticated Encryption&lt;/strong&gt;   &lt;br /&gt;
+I have no idea what this means, except that 1Password is constantly being updated to be more and more secure. From what I’m told, this prevents attacks that don’t even exist yet.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Wifi Sync&lt;/strong&gt;   &lt;br /&gt;
+This feature is back from previous versions. Personally, I use Dropbox to sync my Vault between my Mac, iPad and iPhone, but whatever floats your boat. They have iCloud sync too.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;final-thoughts&quot;&gt;Final Thoughts&lt;/h2&gt;
+&lt;p&gt;The AgileBits team have definitely outdone themselves. Not only is this update to 1Password beautiful, the new features and menubar app, make the upgrade very worth it.&lt;/p&gt;
+
+&lt;p&gt;If you’ve never used 1Password, this is a perfect time to purchase. In this day and age, it’s crucial to have secure passwords. This is an app you’ll later wonder how you did without.&lt;/p&gt;
+
+&lt;p&gt;It seems you can’t currently purchase the new 1Password from &lt;a href=&quot;https://agilebits.com/store&quot;&gt;the AgileBits store&lt;/a&gt;, but that is where it’ll be very soon.&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; You can also purchase from &lt;a href=&quot;https://itunes.apple.com/us/app/1password/id443987910?mt=12&quot;&gt;the Mac App Store&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h5 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;http://blog.agilebits.com/2013/08/31/how-long-should-my-passwords-be/&quot;&gt;How long should my passwords be?&lt;/a&gt; - If you’re interested in making generated passwords from 1Password very secure, I definitely recommend this article by the AgileBits team.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;This might seem like a small thing, but it’s one of my favorite additions to 1Password. I used to copy the password then press the fill button, and now those two actions are done with one press. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;By the way, you can use &lt;a href=&quot;http://www.macbartender.com/&quot;&gt;Bartender&lt;/a&gt; to clean that menubar up.  &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;This is only speculation, but I wonder if they’re required to give the App Store preference for a set amount of time. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/babblenut-9</id>
