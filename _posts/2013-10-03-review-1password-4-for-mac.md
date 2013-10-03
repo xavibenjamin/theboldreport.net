@@ -40,7 +40,7 @@ This is especially true when I worked for a company. Having a separate vault exc
 ![Create a new vault](/uploads/2013/10/1p4-mac-create-new-vault.png)
 
 ### 1Password Mini
-I love that they made a menubar app. I'm definitely one of those people that has *way too many* of them.[^2] Interestingly, the menubar app is what comes up now when you press `⌘CMD + /`. It seems that the 1Password browser extension is now only needed to run the code necessary for the autofill. You'll never actually need to press the button anymore, which is nice, because it's one less button in the extensions.
+I love that they made a menubar app. I'm definitely one of those people that has *way too many* of them.[^2] Interestingly, the menubar app is what comes up now when you press `⌘CMD + \`. It seems that the 1Password browser extension is now only needed to run the code necessary for the autofill. You'll never actually need to press the button anymore, which is nice, because it's one less button in the extensions.
 
 ![1Password Mini details](/uploads/2013/10/1p4-mac-1p-mini-item-details.png)
 

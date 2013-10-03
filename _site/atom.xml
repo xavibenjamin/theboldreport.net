@@ -5,7 +5,7 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-03T12:17:32-05:00</updated>
+  <updated>2013-10-03T13:03:17-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
@@ -64,7 +64,7 @@
 &lt;p&gt;&lt;img src=&quot;/uploads/2013/10/1p4-mac-create-new-vault.png&quot; alt=&quot;Create a new vault&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;password-mini&quot;&gt;1Password Mini&lt;/h3&gt;
-&lt;p&gt;I love that they made a menubar app. I’m definitely one of those people that has &lt;em&gt;way too many&lt;/em&gt; of them.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Interestingly, the menubar app is what comes up now when you press &lt;code&gt;⌘CMD + /&lt;/code&gt;. It seems that the 1Password browser extension is now only needed to run the code necessary for the autofill. You’ll never actually need to press the button anymore, which is nice, because it’s one less button in the extensions.&lt;/p&gt;
+&lt;p&gt;I love that they made a menubar app. I’m definitely one of those people that has &lt;em&gt;way too many&lt;/em&gt; of them.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Interestingly, the menubar app is what comes up now when you press &lt;code&gt;⌘CMD + \&lt;/code&gt;. It seems that the 1Password browser extension is now only needed to run the code necessary for the autofill. You’ll never actually need to press the button anymore, which is nice, because it’s one less button in the extensions.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/uploads/2013/10/1p4-mac-1p-mini-item-details.png&quot; alt=&quot;1Password Mini details&quot; /&gt;&lt;/p&gt;
 
