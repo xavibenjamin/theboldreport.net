@@ -23,7 +23,7 @@ For those of you who don't know about 1Password, it's a great utility app to sto
 
 The first thing you'll notice when you open the new 1Password is the beautiful interface. If you've already purchased [the latest iOS app](https://agilebits.com/onepassword/ios), you'll notice that the new design is very similar, which delights me greatly. This redesign is years overdue, and the AgileBits team has delivered.
 
-![1Password 4 for Mac main view](/uploads/2013/10/1p4-mac-main.png)
+![1Password 4 for Mac main view]({{ site.url }}/uploads/2013/10/1p4-mac-main.png)
 
 I love that this redesign in a lot of ways is a re-align. The interface remains in the three column layout, yet with an easy-on-the-eyes, light background. The type has greatly improved, and the middle column no longer has the "shelf" look. The new layout, allows you to see more logins in the window without having to scroll and sports better looking icons. 
 
@@ -37,12 +37,12 @@ One feature that I can see becoming very popular is the new feature of multiple 
 
 This is especially true when I worked for a company. Having a separate vault exclusively for company logins, would've been a great way to get organized. This makes managing items easier, and makes cleaning out items you no longer need, a breeze.
 
-![Create a new vault](/uploads/2013/10/1p4-mac-create-new-vault.png)
+![Create a new vault]({{ site.url }}/uploads/2013/10/1p4-mac-create-new-vault.png)
 
 ### 1Password Mini
 I love that they made a menubar app. I'm definitely one of those people that has *way too many* of them.[^2] Interestingly, the menubar app is what comes up now when you press `⌘CMD + \`. It seems that the 1Password browser extension is now only needed to run the code necessary for the autofill. You'll never actually need to press the button anymore, which is nice, because it's one less button in the extensions.
 
-![1Password Mini details](/uploads/2013/10/1p4-mac-1p-mini-item-details.png)
+![1Password Mini details]({{ site.url }}/uploads/2013/10/1p4-mac-1p-mini-item-details.png)
 
 It's too early for me to say, but I think 1Password Mini could completely replace the main app for me. So far, I haven't needed to open the main app for day-to-day responsibilities. To be honest, I only looked at the main app the day I downloaded it, and today when writing this review.
 
