@@ -27,5 +27,15 @@ custom_css_class: single
       </div> -->
 
     {% endif %}
+
+    <div class="social">
+      <p>Share this post:</p>
+      <div class="social__button">
+        <iframe src="http://platform.twitter.com/widgets/tweet_button.html?url=http://theboldreport.net{{ post.url }}&amp;via=theboldreport&amp;text=&ldquo;{{ post.title }}&rdquo;&amp;related=ttimsmith" allowtransparency="true" frameborder="0" scrolling="no"></iframe>
+      </div>
+      <div class="social__button">
+        <iframe src="//www.facebook.com/plugins/like.php?href=http://theboldreport.net{{ post.url }}&amp;width=120&amp;height=21&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;send=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;" allowTransparency="true"></iframe>
+      </div>
+    </div><!-- .social -->
   </article>
  </div>

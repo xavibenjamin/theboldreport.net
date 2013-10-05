@@ -82,6 +82,35 @@ small.pubdate {
   }
 }
 
+.social {
+  padding: 20px;
+  background: #f9f9f9;
+  border: 1px solid #ecefef;
+  overflow: hidden;
+  margin: 30px 0 50px;
+  p {
+    display: inline-block;
+    vertical-align: baseline;
+    font-size: 18px;
+    margin: 0;
+    line-height: 1;
+    margin-right: -0.5em;
+  }
+}
+
+.social__button {
+  display: inline-block;
+  vertical-align: bottom;
+  zoom: 1;
+  margin-left: 1em;
+  width: 4em;
+  height: 20px;
+  @media screen and (max-width: 480px ) {
+    display: block;
+    margin: 1em 0 0;
+  }
+}
+
 // Format Post
 
 .format-post {
