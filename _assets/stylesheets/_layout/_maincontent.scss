@@ -119,9 +119,10 @@ small.pubdate {
 // Format Link
 .format-link {
   h1 {
-    font-size: 1.5em;
+    font-size: 1.7em;
     font-weight: 700;
-    line-height: 165%;
+    line-height: 130%;
+    margin: 0 0 .2em;
     a {
       color: $darkColor;
       &:hover {
@@ -137,9 +138,8 @@ small.pubdate {
 .link__icon {
   border-bottom: none !important;
   margin: 0 0 0 10px;
-  font-size: .85em;
+  font-size: .75em;
   font-weight: normal !important;
-  vertical-align: middle;
   color: lighten($darkColor, 40%) !important;
   text-decoration: none !important;
   &:hover {
