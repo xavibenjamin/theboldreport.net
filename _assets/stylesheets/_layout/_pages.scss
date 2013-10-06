@@ -16,11 +16,13 @@ PAGES
     display: inline-block;
     list-style-type: none;
     font-size: 1.15em;
+    line-height: 1.8em;
     padding: 0;
     &:after {
-      color: lighten($darkColor, 65%);
-      content: "/";
+      color: lighten($darkColor, 70%);
+      content: "//";
       padding: 0 3px 0 6px;
+      font-size: .7em;
     }
     &:last-child {
       padding: 0;
