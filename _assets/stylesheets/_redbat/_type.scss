@@ -90,6 +90,7 @@ h4,
 h5,
 h6 {
 	@extend %sans;
+  line-height: 120%;
 }
 
 /*
@@ -116,25 +117,26 @@ TEXT
     line-height: 125%;
   }
   h2 {
-    margin: 2em 0 .4em;
-    font-size: 1.5em;
+    margin: 2em 0 .2em;
+    font-size: 1.7em;
     font-weight: 700;
   }
   h3 {
-    margin: 2em 0 .4em;
-    font-size: 1.3em;
+    margin: 2em 0 .2em;
+    font-size: 1.5em;
     font-weight: bold;
   }
   h4 {
     color: $jazzColor;
-    margin: 2em 0 .4em;
-    font-size: 1.15em;
+    margin: 2em 0 .2em;
+    font-size: 1.3em;
     font-weight: bold;
     text-transform: uppercase;
   }
   h5 {
-    margin: 2em 0 .4em;
-    font-size: 1em;
+    color: lighten($darkColor, 55%);
+    margin: 2em 0 .2em;
+    font-size: 1.1em;
     font-weight: bold;
     text-transform: uppercase;
     &:before {
