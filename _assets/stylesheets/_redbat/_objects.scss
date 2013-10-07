@@ -19,3 +19,13 @@ body {
   background-color: $linkColor;
   @include background-image(linear-gradient(white, white));
 }
+
+.site__wrapper {
+  @include transition(.2s ease-in-out);
+  &.MenuIsOpen {
+   @include transform(translateY(169px));
+   @media screen and (max-width: 340px ) {
+    @include transform(translateY(152px));
+   }
+  }
+}
