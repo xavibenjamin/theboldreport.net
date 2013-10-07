@@ -21,6 +21,7 @@ assets:
       - _assets/fonts
       - _assets/javascripts
       - _assets/stylesheets
+  gzip: false
 authors:
   ttimsmith:
     display_name: Tim Smith
