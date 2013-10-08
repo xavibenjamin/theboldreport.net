@@ -5,13 +5,34 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-08T10:57:14-05:00</updated>
+  <updated>2013-10-08T10:59:37-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/sponsor-mailchimp</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/sponsor-mailchimp"/>
+    <title>Sponsor: MailChimp</title>
+    <published>2013-10-08T10:59:27-05:00</published>
+    <updated>2013-10-08T10:59:27-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://syndicateads.net/cms/images/MC_GoesWithYou_600wide.jpg&quot; alt=&quot;MailChimp Sponsor&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://syndicateads.net/s/sz&quot;&gt;new generation of MailChimp&lt;/a&gt; adapts to your workflow, regardless of the device you’re using and size of your team. A cohesive experience across desktop and mobile devices means you can create, send, and track email campaigns in any context.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://syndicateads.net/s/sz&quot;&gt;Check out the MailChimp today.&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;Thanks to &lt;a href=&quot;http://syndicateads.net/s/sz&quot;&gt;MailChimp&lt;/a&gt; for supporting The Bold Report this week. &lt;a href=&quot;http://syndicateads.net/&quot;&gt;Sponsorship by The Syndicate.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/eric-schmidt-tells-jokes</id>
