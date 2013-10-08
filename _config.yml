@@ -30,28 +30,3 @@ authors:
     twitter: ttimsmith
     github: ttimsmith
     bio: 'Designer who codes, blabber mouth, coffee addict.'
-
-# prose.io settings
-# https://github.com/prose/prose/wiki/Prose-Configuration
-prose:
-  rooturl: '_posts'
-  siteurl: 'http://theboldreport.net'
-  media: 'uploads'
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-          type: "text"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          alterable: true
