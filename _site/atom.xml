@@ -5,13 +5,29 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-07T13:53:09-05:00</updated>
+  <updated>2013-10-08T10:57:14-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/eric-schmidt-tells-jokes</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/eric-schmidt-tells-jokes"/>
+    <title>Eric Schmidt Tells Jokes</title>
+    <published>2013-10-08T10:56:17-05:00</published>
+    <updated>2013-10-08T10:56:17-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Eric Schmidt is apparently quite the jokester. When told that some don’t find Android secure, Schmidt responded, “Not secure? It’s more secure than the iPhone.”&lt;/p&gt;
+
+&lt;p&gt;Good one, dude.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/starting-with-sass</id>
