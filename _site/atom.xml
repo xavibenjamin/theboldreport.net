@@ -5,13 +5,31 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-08T16:53:29-05:00</updated>
+  <updated>2013-10-08T19:01:09-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/brad-frost-on-development-being-design</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/brad-frost-on-development-being-design"/>
+    <title>Brad Frost on Development Being Design</title>
+    <published>2013-10-08T19:00:43-05:00</published>
+    <updated>2013-10-08T19:00:43-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;As the Web landscape grows increasingly complex, it’s increasingly important to demonstrate the myriad ways a Web experience can be interacted with. It’s impossible for designers working in static environments to realistically articulate every device, user setting, and variable that effects how a design is realized. Because of this, front-end developers need to work closely with other designers to ensure what’s being created is realistic and feasible. This requires rolling front-end development into the design workflow, rethinking our deliverables, and working together in order to create experiences that look and function beautifully on a whole host of screen sizes, form factors, and environments.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Well said. Brad excellently explains why I think the web is so exciting right now. Sure, there will always be people who don’t get it. But, the line between design and front-end development is being blurred, and I love that.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/the-east-wing-72</id>
