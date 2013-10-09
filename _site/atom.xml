@@ -5,13 +5,33 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-08T19:01:09-05:00</updated>
+  <updated>2013-10-08T19:21:32-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/apple-ipad-event-on-october-22</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/apple-ipad-event-on-october-22"/>
+    <title>Apple iPad Event on October 22</title>
+    <published>2013-10-08T19:20:18-05:00</published>
+    <updated>2013-10-08T19:20:18-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;John Paczkowski reporting for &lt;em&gt;AllThingsD&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;People familiar with Apple’s plans tell &lt;em&gt;AllThingsD&lt;/em&gt; that the company will hold its next invitation-only event on Tuesday, October 22. The focal point of the gathering will be the latest updates to the company’s iPad line, but the new Mac Pro and OS X Mavericks will likely get some stage time as well, I’m told.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I love Apple Event days. I never get anything else done.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/brad-frost-on-development-being-design</id>
