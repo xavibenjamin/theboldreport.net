@@ -5,13 +5,31 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-10T10:55:52-05:00</updated>
+  <updated>2013-10-10T11:17:26-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/bill-nye-youtube-series-with-nasa</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/bill-nye-youtube-series-with-nasa"/>
+    <title>Bill Nye Back with a YouTube Series on NASA’s Mission to Jupiter</title>
+    <published>2013-10-10T11:16:49-05:00</published>
+    <updated>2013-10-10T11:16:49-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Bill Nye has collaborated with NASA to launch a new eight-part web series on the agency’s latest mission to Jupiter. The science enthusiast and TV host, who for years entertained kids with the PBS show Bill Nye the Science Guy, first teased a return to presenting back in July…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’m so excited to see Bill Nye hosting a science show again. When I was in middle school, we often watched his show in science class. I’ve always loved his ability to make science fun and interesting. He clearly has a passion for it, and it shines through.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/google-fiber-isn-t-for-small-businesses-yet</id>
