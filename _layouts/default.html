@@ -1,14 +1,8 @@
 {% include header.html %}
 
-  <div class="contain search-wrapper">
-    <div id="search" class="site__search-form">
-      <form action="/search" method="get">
-        <p>
-          <input type="text" id="search-query" name="q" placeholder="Search…" autocomplete="off">
-        </p>
-      </form>
-    </div><!-- .site__search-form -->
-  </div>
+  {% include search-form.html %}
+
+  {% include sidebar.html %}
 
   <main class="content__main-content" role="main">
     <div class="contain">

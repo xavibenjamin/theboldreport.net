@@ -5,13 +5,128 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
+<<<<<<< HEAD
   <updated>2013-10-07T13:02:23-05:00</updated>
+=======
+  <updated>2013-10-08T19:21:32-05:00</updated>
+>>>>>>> 0118b1e8e62aa929a0c5451b46486697c21d9efa
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/apple-ipad-event-on-october-22</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/apple-ipad-event-on-october-22"/>
+    <title>Apple iPad Event on October 22</title>
+    <published>2013-10-08T19:20:18-05:00</published>
+    <updated>2013-10-08T19:20:18-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;John Paczkowski reporting for &lt;em&gt;AllThingsD&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;People familiar with Apple’s plans tell &lt;em&gt;AllThingsD&lt;/em&gt; that the company will hold its next invitation-only event on Tuesday, October 22. The focal point of the gathering will be the latest updates to the company’s iPad line, but the new Mac Pro and OS X Mavericks will likely get some stage time as well, I’m told.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I love Apple Event days. I never get anything else done.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/brad-frost-on-development-being-design</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/brad-frost-on-development-being-design"/>
+    <title>Brad Frost on Development Being Design</title>
+    <published>2013-10-08T19:00:43-05:00</published>
+    <updated>2013-10-08T19:00:43-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;As the Web landscape grows increasingly complex, it’s increasingly important to demonstrate the myriad ways a Web experience can be interacted with. It’s impossible for designers working in static environments to realistically articulate every device, user setting, and variable that effects how a design is realized. Because of this, front-end developers need to work closely with other designers to ensure what’s being created is realistic and feasible. This requires rolling front-end development into the design workflow, rethinking our deliverables, and working together in order to create experiences that look and function beautifully on a whole host of screen sizes, form factors, and environments.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Well said. Brad excellently explains why I think the web is so exciting right now. Sure, there will always be people who don’t get it. But, the line between design and front-end development is being blurred, and I love that.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/the-east-wing-72</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/the-east-wing-72"/>
+    <title>The East Wing: Garth Braithwaite</title>
+    <published>2013-10-08T16:53:12-05:00</published>
+    <updated>2013-10-08T16:53:12-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;This week: I talk with Garth Braithwaite about how he got started, projects he’s worked on at Adobe, Open Source Design, and design education.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Bandwidth is kindly provided by &lt;a href=&quot;http://www.campaignmonitor.com/&quot;&gt;Campaign Monitor&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/sponsor-mailchimp</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/sponsor-mailchimp"/>
+    <title>Sponsor: MailChimp</title>
+    <published>2013-10-08T10:59:27-05:00</published>
+    <updated>2013-10-08T10:59:27-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://syndicateads.net/cms/images/MC_GoesWithYou_600wide.jpg&quot; alt=&quot;MailChimp Sponsor&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://syndicateads.net/s/sz&quot;&gt;new generation of MailChimp&lt;/a&gt; adapts to your workflow, regardless of the device you’re using and size of your team. A cohesive experience across desktop and mobile devices means you can create, send, and track email campaigns in any context.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://syndicateads.net/s/sz&quot;&gt;Check out the MailChimp today.&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;Thanks to &lt;a href=&quot;http://syndicateads.net/s/sz&quot;&gt;MailChimp&lt;/a&gt; for supporting The Bold Report this week. &lt;a href=&quot;http://syndicateads.net/&quot;&gt;Sponsorship by The Syndicate.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/eric-schmidt-tells-jokes</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/eric-schmidt-tells-jokes"/>
+    <title>Eric Schmidt Tells Jokes</title>
+    <published>2013-10-08T10:56:17-05:00</published>
+    <updated>2013-10-08T10:56:17-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Eric Schmidt is apparently quite the jokester. When told that some don’t find Android secure, Schmidt responded, “Not secure? It’s more secure than the iPhone.”&lt;/p&gt;
+
+&lt;p&gt;Good one, dude.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/starting-with-sass</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/starting-with-sass"/>
+    <title>Starting with Sass</title>
+    <published>2013-10-07T13:50:16-05:00</published>
+    <updated>2013-10-07T13:50:16-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Chris Bowler:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’ve looked at several tutorials over the years, but many were written with a certain assumption for the level of knowledge on the other end. Many can be a struggle for the beginner because you may not even have the tools to be able to use Sass. Because of this, I wanted to write a handful of tips on what helped me get on board.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you’ve been on the fence about trying Sass, this is a really good place to start. I promise you, &lt;em&gt;I promise you&lt;/em&gt;, you’ll never go back to normal CSS.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/yale-professor-calls-bing-it-on-claims-bogus</id>
