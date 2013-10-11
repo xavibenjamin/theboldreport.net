@@ -5,13 +5,42 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-11T12:27:59-05:00</updated>
+  <updated>2013-10-11T13:05:48-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/minor-upgrade-to-instagram-no-longer-lets-users-disable-video-autoplay</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/minor-upgrade-to-instagram-no-longer-lets-users-disable-video-autoplay"/>
+    <title>‘Minor’ Upgrade to Instagram No Longer Lets Users Disable Video Autoplay</title>
+    <published>2013-10-11T13:05:20-05:00</published>
+    <updated>2013-10-11T13:05:20-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Jon Russell reporting for &lt;em&gt;The Next Web&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Instagram announced earlier this month that it will begin serving in-feed advertising before the end of the year, and the Facebook-owned photo and video app has made a subtle, but important, change after it removed the option to switch off autoplay for videos on iOS.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I don’t know what to say. Do I like that Instagram is about to be Facebook-ized? No. But, the fact of the matter is, that they weren’t profitable, and now they have to be. Is there a better way? Maybe. But what is it? I have no idea. &lt;/p&gt;
+
+&lt;p&gt;Here’s what I do know: I hate quotes like this, where Instagram says they want “these ads to be enjoyable and creative in much the same way you see engaging, high-quality ads when you flip through your favorite magazine.” Guess what? Everyone, &lt;em&gt;everyone&lt;/em&gt;, flips right past them.&lt;/p&gt;
+
+&lt;p&gt;But, what are they supposed to do? If they offered some type of subscription, it wouldn’t make enough to sustain the business. If they &lt;em&gt;only&lt;/em&gt; allowed paying customers, they’d loose their core user base of adolescents and young adults. They could offer filters as an in-app purchase, &lt;a href=&quot;http://favd.net/&quot;&gt;like Favd does&lt;/a&gt;, but I have no idea whether that would make enough.&lt;/p&gt;
+
+&lt;p&gt;So, as much as it bothers me that they’ve gone the advertising route, I can’t help but empathize. I myself put ads on this site, and on my podcast. It’s easy, it often pays the bills, and sometimes more. &lt;/p&gt;
+
+&lt;h5 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;http://powazek.com/posts/3024&quot;&gt;What If Social Networks Just Aren’t Profitable?&lt;/a&gt; — A really great read, on the cycle that social networks go through.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/facebook-removes-hide-from-search-privacy-setting</id>
