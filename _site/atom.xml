@@ -5,13 +5,37 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-10T16:04:56-05:00</updated>
+  <updated>2013-10-11T12:27:59-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/facebook-removes-hide-from-search-privacy-setting</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/facebook-removes-hide-from-search-privacy-setting"/>
+    <title>Facebook Removes ‘Hide from Search’ Privacy Setting</title>
+    <published>2013-10-11T12:27:27-05:00</published>
+    <updated>2013-10-11T12:27:27-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;The &lt;em&gt;Associated Press&lt;/em&gt; reports:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Facebook Inc. said Thursday that it is removing a setting that controls whether users could be found when people type their name into the website’s search bar.&lt;/p&gt;
+
+  &lt;p&gt;Facebook says only a single-digit percentage of the nearly 1.2 billion people on its network were using the setting.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;What is Facebook without their continued unethical behavior involving privacy. And then to say “only a single-digit percentage of the nearly 1.2 billion people on its network” are using it? As &lt;a href=&quot;https://twitter.com/tubes/status/388505400527450113&quot;&gt;Sean Tubridy pointed out so well&lt;/a&gt;, that’s “between 10 million and 90 million people.”&lt;/p&gt;
+
+&lt;p&gt;What Facebook seems to forget, is that what’s bad for users, is bad for business. A lesson they might learn the hard way.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/my-article-on-open-source-design</id>
