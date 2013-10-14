@@ -5,13 +5,35 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-11T13:05:48-05:00</updated>
+  <updated>2013-10-14T11:59:09-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/sonos-announces-the-play-1</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/sonos-announces-the-play-1"/>
+    <title>Sonos Announces the Play:1</title>
+    <published>2013-10-14T11:57:23-05:00</published>
+    <updated>2013-10-14T11:57:23-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Dan Seifert from &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Compared to the similarly priced Jambox, the Play:1 is considerably louder, crisper, and more present. The more expensive Big Jambox offers a wider range and better separation than a single Play:1 thanks to its larger speakers and configuration. But the Play:1 is still louder and sounds bigger, if slightly more muddled because of the lack of speaker separation.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Really excited about this news. Since receiving my new iPhone, I now need to replace by bathroom speaker because it uses the old 30-pin connector. I started thinking that it would be better to buy things that are connector-independent, this way, it’ll last me longer. &lt;/p&gt;
+
+&lt;p&gt;I’d looked at several speakers, and had heard very good things of all the Sonos speakers and &lt;a href=&quot;https://jawbone.com/speakers/bigjambox&quot;&gt;Big Jambox&lt;/a&gt;, but was worried to go Sonos because of the high price point. This new speaker is more wallet friendly, and could be the start of a great relationship with the Sonos ecosystem. I’ll write some thoughts on the speaker once I receive and use it for a while.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/minor-upgrade-to-instagram-no-longer-lets-users-disable-video-autoplay</id>
