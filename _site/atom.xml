@@ -5,13 +5,36 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-15T12:27:47-05:00</updated>
+  <updated>2013-10-15T12:39:04-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/sponsor-squarespace</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/sponsor-squarespace"/>
+    <title>Sponsor: Squarespace</title>
+    <published>2013-10-15T12:37:46-05:00</published>
+    <updated>2013-10-15T12:37:46-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://syndicateads.net/cms/images/600px.jpg&quot; alt=&quot;Squarespace ad image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you want people to see when they find you online?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Whether you’re growing a business, starting a blog, or are ready to sell online, you need to make a great impression. Squarespace is the best way to create a modern and professional website, with all the features you need integrated into one platform. Every Squarespace website is mobile-ready, includes e-commerce, and is backed up by award-winning 24/7 customer service.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://syndicateads.net/s/td&quot;&gt;Try Squarespace today at squarespace.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;Thank you to &lt;a href=&quot;http://syndicateads.net/s/td&quot;&gt;Squarespace&lt;/a&gt; for sponsoring the RSS feed this week. &lt;a href=&quot;http://syndicateads.net/&quot;&gt;Sponsorship by The Syndicate.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/chris-coyier-on-media-temple-acquisition</id>
