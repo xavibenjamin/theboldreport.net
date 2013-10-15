@@ -17,12 +17,12 @@ custom_css_class: single
     {% elsif page.custom_type == 'link' %}
       <p class="pubdate"><small><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %e, %Y" }}</time></small></p>
       <h1>
-       <a href="{{ page.link_url }}" target="_blank">{{ page.title }}</a>
+       <a href="{{ page.link_url }}">{{ page.title }}</a>
       </h1>
       <p class="screen-reader-hide">by Tim Smith</p>
       {{ content }}
 
-      <!-- <div class="member-cta">
+     <!--  <div class="member-cta">
         <p>If you liked this post, <a href="/membership/">consider becoming a member</a>.</p>
       </div> -->
 
