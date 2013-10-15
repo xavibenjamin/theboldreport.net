@@ -350,6 +350,15 @@
         "links"
       ],
       "body": " What do you want people to see when they find you online? Whether you’re growing a business, starting a blog, or are ready to sell online, you need to make a great impression. Squarespace is the best way to create a modern and professional website, with all the features you need integrated into one platform. Every Squarespace website is mobile-ready, includes e-commerce, and is backed up by award-winning 24/7 customer service. Try Squarespace today at squarespace.com. Thank you to Squarespace for sponsoring the RSS feed this week. Sponsorship by The Syndicate."
+    },
+    {
+      "title": "Tim Likes to Teach: Using the Jekyll Assets Plugin",
+      "url": "/2013/10/tim-likes-to-teach-using-the-jekyll-assets-plugin",
+      "date": "2013-10-15 13:02:56 -0500",
+      "categories": [
+        "links"
+      ],
+      "body": "I made a quick video tutorial on how to use the Jekyll Assets plugin. It’s super helpful, and allows you to use Sass, Compass, Coffeescript, and other cool stuff."
     }
   ]
 }
