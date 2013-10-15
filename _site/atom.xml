@@ -5,13 +5,31 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-14T21:19:06-05:00</updated>
+  <updated>2013-10-15T12:27:47-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/chris-coyier-on-media-temple-acquisition</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/chris-coyier-on-media-temple-acquisition"/>
+    <title>Chris Coyier on Media Temple Acquisition</title>
+    <published>2013-10-15T12:19:33-05:00</published>
+    <updated>2013-10-15T12:19:33-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;If anyone thinks MediaTemple is just going to be exactly the same or better forever, I’ll bet you a nickel you’re wrong. I bet they are losing employees as we speak who aren’t happy about this. Things will change. I am going to give them the benefit of the doubt though. I’m going to keep on liking both services until there is a real reason to not.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Agreed.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/sonos-announces-the-play-1</id>
