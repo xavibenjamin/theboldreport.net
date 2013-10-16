@@ -5,13 +5,31 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-15T13:28:55-05:00</updated>
+  <updated>2013-10-16T13:24:49-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/square-cash-makes-sending-money-easy</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/square-cash-makes-sending-money-easy"/>
+    <title>Square Cash Makes Sending Money Easy</title>
+    <published>2013-10-16T13:24:20-05:00</published>
+    <updated>2013-10-16T13:24:20-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;To use Square Cash, all you do is compose an email to a friend, type the amount you way to pay in the subject title, and cc cash@square.com. If it’s your first time using the service, you’re directed to Square’s website where you type in your debit card number — and you’re done. There are no accounts to create, apps to download, friends to add, surcharges to pay, or bank account numbers to look up.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is amazing. My only question is: why has this taken so long? It seems that this could’ve existed years ago. Good on Square for continuing to do great things.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/tim-likes-to-teach-using-the-jekyll-assets-plugin</id>
