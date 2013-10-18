@@ -17,6 +17,6 @@ date: '2013-10-18 11:11:02'
 >
 >Park also emphasized that Fitbit is vertically focused on the health and fitness space, so it’s not worried about smartwatches that are rumored to be coming from Apple and Google.
 
-That's very smart of Fitbit, because they have no chance in competing with Google or Apple, if these rumors are true. For some, a "smartwatch"[^1] will be overkill for tracking their health and fitness. However, if their products serve the niche market well, the have the opportunity to continue being very successful in the space.
+That's very smart of Fitbit, because they have no chance in competing with Google or Apple, if these rumors are true. For some, a "smartwatch"[^1] will be overkill for tracking their health and fitness. However, if their products serve the niche market well, they have the opportunity to continue being very successful in the space.
 
 [^1]: Is that really the term we've settled on?
