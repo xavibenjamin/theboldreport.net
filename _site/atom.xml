@@ -5,13 +5,31 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-18T11:11:25-05:00</updated>
+  <updated>2013-10-18T11:23:48-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/shawn-blanc-on-successful-creative-business</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/shawn-blanc-on-successful-creative-business"/>
+    <title>Shawn Blanc on Successful Creative Business</title>
+    <published>2013-10-18T11:21:37-05:00</published>
+    <updated>2013-10-18T11:21:37-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;A huge part of making art online and growing an audience is centered around how often you show up, how good you are at what you do, and how narrow your focus is and how “&lt;a href=&quot;http://daringfireball.net/2009/03/obsession_times_voice&quot;&gt;weirdly obsessed&lt;/a&gt;” you are about it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Shawn knows what he’s talking about.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/fitbit-tracker-becoming-more-like-a-smartwatch</id>
@@ -33,7 +51,7 @@
   &lt;p&gt;Park also emphasized that Fitbit is vertically focused on the health and fitness space, so it’s not worried about smartwatches that are rumored to be coming from Apple and Google.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;That’s very smart of Fitbit, because they have no chance in competing with Google or Apple, if these rumors are true. For some, a “smartwatch”&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; will be overkill for tracking their health and fitness. However, if their products serve the niche market well, the have the opportunity to continue being very successful in the space.&lt;/p&gt;
+&lt;p&gt;That’s very smart of Fitbit, because they have no chance in competing with Google or Apple, if these rumors are true. For some, a “smartwatch”&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; will be overkill for tracking their health and fitness. However, if their products serve the niche market well, they have the opportunity to continue being very successful in the space.&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
