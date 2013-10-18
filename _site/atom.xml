@@ -5,13 +5,45 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-18T10:58:44-05:00</updated>
+  <updated>2013-10-18T11:11:25-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/fitbit-tracker-becoming-more-like-a-smartwatch</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/fitbit-tracker-becoming-more-like-a-smartwatch"/>
+    <title>Fitbit Tracker Becoming More Like a Smartwatch</title>
+    <published>2013-10-18T11:11:02-05:00</published>
+    <updated>2013-10-18T11:11:02-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Josh Ong reporting for &lt;em&gt;The Next Web&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Fitbit CEO James Park said the company is “inching closer and closer to being a smartwatch.”&lt;/p&gt;
+
+  &lt;p&gt;…&lt;/p&gt;
+
+  &lt;p&gt;Park also emphasized that Fitbit is vertically focused on the health and fitness space, so it’s not worried about smartwatches that are rumored to be coming from Apple and Google.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That’s very smart of Fitbit, because they have no chance in competing with Google or Apple, if these rumors are true. For some, a “smartwatch”&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; will be overkill for tracking their health and fitness. However, if their products serve the niche market well, the have the opportunity to continue being very successful in the space.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Is that really the term we’ve settled on? &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/easter-eggs-in-star-wars-and-indiana-jones</id>
