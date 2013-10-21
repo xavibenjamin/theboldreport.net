@@ -422,6 +422,15 @@
         "links"
       ],
       "body": "Amar Toor reporting for The Verge: According to analysis from Needham & Co., it’s likely that Netflix’s paid US subscriber base reached 30 million by the end of September. That may be enough to overtake HBO, which has an estimated 28.7 million subscribers in the US… In its fiscal Q2 earnings report this year, Netflix said it had more than 29 million US subscribers and expected to add between 230,000 and 880,000 in Q3. Netflix is one of those companies that I love to root for. However, as someone in the comments for this article pointed out, the fact that Netflix has more subscribers than HBO, doesn’t mean they’re making more money. Still, these numbers might just give HBO the scare they need, to consider an online subscription that isn’t tied to any cable company. With Time Warner Cable being the parent company of HBO, I see this as a small probability, but there’s no way they don’t see the potential business they’re missing out on. One thing is for sure, the competition between these two channels will be interesting to watch. "
+    },
+    {
+      "title": "John Gruber on iMessage Encryption",
+      "url": "/2013/10/john-gruber-on-imessage-encryption",
+      "date": "2013-10-21 13:02:22 -0500",
+      "categories": [
+        "links"
+      ],
+      "body": "What Quarkslab’s research proves […] is that Apple’s iMessage back-end could be designed to allow for Apple to intercept and read message content, and there is no way we, as iMessage users, would be able to detect it. What Apple has said, and reiterated today, is that iMessage’s back-end is not in fact designed in that way — that there is no mechanism in the system for Apple employees to surreptitiously change the encryption key to allow for messages to be decrypted during transit. I don’t much to add to this one, I just found the article to be interesting. I agree with Gruber that it would be a huge mistake for Apple to lie about something as sensitive as this. However, at the end of the day, which side does it make more sense for companies to side with? Users? That’s naive."
     }
   ]
 }

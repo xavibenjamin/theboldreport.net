@@ -5,13 +5,33 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-21T12:20:15-05:00</updated>
+  <updated>2013-10-21T13:05:37-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/john-gruber-on-imessage-encryption</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/john-gruber-on-imessage-encryption"/>
+    <title>John Gruber on iMessage Encryption</title>
+    <published>2013-10-21T13:02:22-05:00</published>
+    <updated>2013-10-21T13:02:22-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;What Quarkslab’s research proves […] is that Apple’s iMessage back-end &lt;em&gt;could&lt;/em&gt; be designed to allow for Apple to intercept and read message content, and there is no way we, as iMessage users, would be able to detect it.&lt;/p&gt;
+
+  &lt;p&gt;What Apple has said, and reiterated today, is that iMessage’s back-end is not in fact designed in that way — that there is no mechanism in the system for Apple employees to surreptitiously change the encryption key to allow for messages to be decrypted during transit.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I don’t much to add to this one, I just found the article to be interesting. I agree with Gruber that it would be a &lt;em&gt;huge&lt;/em&gt; mistake for Apple to lie about something as sensitive as this. &lt;strong&gt;However&lt;/strong&gt;, at the end of the day, which side does it make more sense for companies to side with? Users? That’s naive.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/netflix-likely-to-have-overtaken-hbo-in-paid-us-subscribers</id>
