@@ -5,13 +5,35 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-21T13:21:04-05:00</updated>
+  <updated>2013-10-22T09:57:01-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/sponsor-tonx-coffee</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/sponsor-tonx-coffee"/>
+    <title>Sponsor: Tonx Coffee</title>
+    <published>2013-10-22T09:56:29-05:00</published>
+    <updated>2013-10-22T09:56:29-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://syndicateads.net/cms/images/ad_2.jpg&quot; alt=&quot;Tonx Coffee Ad&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://syndicateads.net/s/tr&quot;&gt;Tonx&lt;/a&gt; is a small team of coffee experts who believe it’s easy to make a better cup in your kitchen than you’ll get at the best cafes - and for a fraction of the cost. By sourcing the finest coffees in the world and roasting them 24-hours before shipping, you’ll have the freshest coffee delivered straight to your door. &lt;a href=&quot;http://syndicateads.net/s/tr&quot;&gt;And for a limited time, get a free trial to taste for yourself.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Also, Tonx is pleased to introduce &lt;a href=&quot;https://tonx.org/newsletter_sign_up/new/?utm_source=syndicate&amp;amp;utm_medium=sponsorship&amp;amp;utm_campaign=syndicate&quot;&gt;The Frequency&lt;/a&gt;, an email newsletter packed with coffee secrets, brew tips, and special limited offers, exclusively for Tonx members.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;I have a Tonx Coffee subscription. It’s amazing. Thank you to Tonx Coffee for sponsoring the RSS feed this week. &lt;a href=&quot;http://syndicateads.net/&quot;&gt;Sponsorship by The Syndicate.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/john-gruber-on-imessage-encryption</id>
