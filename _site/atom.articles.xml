@@ -5,13 +5,41 @@
   <title>The Bold Report - Articles Only</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/feed.article.xml"/>
-  <updated>2013-10-22T09:57:01-05:00</updated>
+  <updated>2013-10-22T10:42:17-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/apple-event-day</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/apple-event-day"/>
+    <title>Apple Event Day</title>
+    <published>2013-10-22T10:40:36-05:00</published>
+    <updated>2013-10-22T10:40:36-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Apple Event Days are always exciting for me, and this one will be no different.&lt;/p&gt;
+
+&lt;p&gt;You’ll be able to &lt;a href=&quot;http://www.apple.com/apple-events/october-2013/&quot;&gt;watch the event live&lt;/a&gt; on your iOS device, Mac, or Apple TV. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; During the event, I’ll be in the &lt;em&gt;#ssktn&lt;/em&gt; iRC chatroom, as a kind of virtual-viewing party. &lt;/p&gt;
+
+&lt;p&gt;After the event, Chris Enns, Kyle Roderick, and myself will be talking about the event and new gadgets on the &lt;a href=&quot;http://www.ssktn.com/live/&quot;&gt;SSKTN live stream&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Happy Apple Event Day!&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;I’m so glad they’ve started to stream most of these events on the Apple TV. It seems that the only one they’re not streaming live these days is WWDC, which is totally understandable. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/freelancing-and-saying-no</id>
