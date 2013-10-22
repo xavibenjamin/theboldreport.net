@@ -5,13 +5,35 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-22T17:25:18-05:00</updated>
+  <updated>2013-10-22T17:37:18-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/os-x-mavericks-review</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/os-x-mavericks-review"/>
+    <title>OS X Mavericks Review</title>
+    <published>2013-10-22T17:34:20-05:00</published>
+    <updated>2013-10-22T17:34:20-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Stephen Hackett on &lt;em&gt;512 Pixels&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The bones haven’t changed all that much over the last 13 years, but every time Apple updates OS X, it continues to improve and refine features and the underlying technologies that make them possible.&lt;/p&gt;
+
+  &lt;p&gt;…I firmly believe that OS X is the best consumer desktop operating system on the planet. It has undergone some major changes over the years, but it’s the same OS under the hood. OS X is still as stable, powerful and resilient to viruses and other malware as it has always been.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Stephen is one of my favorite writers, and he’s published an amazing, in-depth review of the latest OS X. &lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/the-east-wing-74</id>
