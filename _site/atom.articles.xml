@@ -5,13 +5,73 @@
   <title>The Bold Report - Articles Only</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/feed.article.xml"/>
-  <updated>2013-10-23T13:16:04-05:00</updated>
+  <updated>2013-10-23T13:17:13-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/our-first-month</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/our-first-month"/>
+    <title>A Look Back on Our First Month</title>
+    <published>2013-10-23T12:48:50-05:00</published>
+    <updated>2013-10-23T12:48:50-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;A month ago today, I launched &lt;em&gt;The Bold Report&lt;/em&gt;. I’m so glad I did it, and we’ve had some pretty great growth in our first month!&lt;/p&gt;
+
+&lt;p&gt;First of all, if you’re reading this, I want to say thank you. This site is something I’ve been wanting to do for a long time. I love writing about my interests, and I love the fact that there are people like you, who have similar passions.&lt;/p&gt;
+
+&lt;h2 id=&quot;now-for-some-stats&quot;&gt;Now for Some Stats&lt;/h2&gt;
+
+&lt;p&gt;The site has been viewed 5,013 times, and people stay an average of two minutes. The site had 3,006 visitors, 1,313 of which were returning. 1,902 visitors are from the United States, the United Kingdom came in second place with 399.&lt;/p&gt;
+
+&lt;p&gt;Not surprisingly, the two most common mobile devices the site is viewed on, are iOS devices. Coming in first place: iPhone with sixty-two percent. &lt;/p&gt;
+
+&lt;p&gt;Chrome was the popular browser, responsible for fifty-six percent of traffic. Nine people visited from Internet Explorer.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Most visitors are using a Mac, but twelve percent is on Windows.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;The number one source of referrals was Twitter with 1,560, my personal site in third place, and Sidebar.io coming in fourth. The main RSS feed currently has twelve subscribers, and the Twitter account has sixty-six followers.&lt;/p&gt;
+
+&lt;h2 id=&quot;top-five-posts&quot;&gt;Top Five Posts&lt;/h2&gt;
+&lt;p&gt;In the first month, these were the top posts:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://theboldreport.net/2013/10/freelancing-and-saying-no/&quot;&gt;Freelancing and Saying “No”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://theboldreport.net/2013/09/document-everything/&quot;&gt;Document Everything&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://theboldreport.net/2013/10/review-1password-4-for-mac/&quot;&gt;Review: 1Password 4 for Mac&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://theboldreport.net/2013/09/welcome/&quot;&gt;Dear Reader,&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://theboldreport.net/2013/10/using-portly-for-local-development/&quot;&gt;Using Portly for Local Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;giveaway&quot;&gt;Giveaway&lt;/h2&gt;
+&lt;p&gt;As a token of my appreciation, I wanted to give away two &lt;a href=&quot;https://tonx.org/&quot;&gt;“The Standard” Tonx Coffee Subscriptions&lt;/a&gt;. I’ll personally pay for your first month, which includes two shipments of great-tasting coffee. The winners will be choosen at random on Friday at 1pm Central. Here’s what you have to do to win:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Follow &lt;a href=&quot;https://twitter.com/theboldreport&quot;&gt;&lt;em&gt;The Bold Report&lt;/em&gt; on Twitter&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Mention @theboldreport, and tell me what you like about the site, and what I could possibly do better.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In closing, a huge thank you to everyone who has followed, subscribed, and read. I sincerely appreciate all of your support, and I hope you continue to find the content here, of interest to you.&lt;/p&gt;
+
+&lt;p&gt;—Tim&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Even that, was a bigger number that I would’ve thought. Thanks IE folks! Hope you can see everything well! &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Again, a bigger number than I thought. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/apple-event-day</id>
