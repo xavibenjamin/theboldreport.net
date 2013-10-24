@@ -5,13 +5,39 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-24T11:27:40-05:00</updated>
+  <updated>2013-10-24T11:52:17-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/does-the-web-industry-have-a-drinking-problem</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/does-the-web-industry-have-a-drinking-problem"/>
+    <title>Does the Web Industry Have a Drinking Problem?</title>
+    <published>2013-10-24T11:49:34-05:00</published>
+    <updated>2013-10-24T11:49:34-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Rachel Andrew writing on &lt;em&gt;A List Apart&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Almost every conference’s second day opens with attendees being asked how their hangovers are. Second day early-slot speakers joke that no one will turn up anyway, or they’ll all just be staring into their coffee. It has become normal, in fact expected, that drinking and staying out late is what we do while at conferences.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I think Rachel brings up a very real issue with our conferences and events. Because our industry is very friendly, and social, it seems we might be blurring the lines of professional time and social time, a bit too much. She goes on to say:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We’re also underlining that our events are for over-18s, maybe even over-21s, by holding them in licensed premises. Most of us know students or even those who are working professionally in our field long before they are “adult.” Should they be excluded?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Don’t get me wrong, I enjoy having drinks—and the article isn’t advocating for the banishment of alcohol—but I remember being the seventeen year-old kid that couldn’t drink. I’ve always been very extroverted, so it never stopped me from talking to people. However, I can see how it could affect others; making them feel excluded and not part of the group, and Rachel’s article does a great job of shining light on that fact.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/amazon-s-biodome-approved-in-seattle</id>
