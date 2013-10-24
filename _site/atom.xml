@@ -5,13 +5,27 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-24T11:07:08-05:00</updated>
+  <updated>2013-10-24T11:27:40-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/amazon-s-biodome-approved-in-seattle</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/amazon-s-biodome-approved-in-seattle"/>
+    <title>Amazon’s Biodome Approved in Seattle</title>
+    <published>2013-10-24T11:27:21-05:00</published>
+    <updated>2013-10-24T11:27:21-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;I love this. Architecture is an integral part of the beauty and history of our cities. The fact that companies like Amazon, and &lt;a href=&quot;http://www.macrumors.com/2013/10/17/apple-cfo-peter-oppenheimer-speaks-about-apple-campus-2-at-cupertino-press-conference/&quot;&gt;Apple&lt;/a&gt; are doing things to contribute to that history, in the cities they call home, is a very good thing.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/samsung-fine-340-000-in-taiwan-for-fake-online-comments</id>
