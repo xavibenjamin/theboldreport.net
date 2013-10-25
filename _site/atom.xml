@@ -5,13 +5,33 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-25T12:05:11-05:00</updated>
+  <updated>2013-10-25T12:21:57-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/marco-arment-on-apples-recent-event</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/marco-arment-on-apples-recent-event"/>
+    <title>Marco Arment on Apple’s Recent Event</title>
+    <published>2013-10-25T12:19:57-05:00</published>
+    <updated>2013-10-25T12:19:57-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Something felt a bit off about this week’s Apple event.&lt;/p&gt;
+
+  &lt;p&gt;Part of it was the lack of surprises, which isn’t Apple’s fault. All of the product upgrades, while nice, were incremental and predictable. None of the pricing was a surprise. In fact, the only unexpected product announcement is the zombie iPad 2 sticking around for another year, shamelessly at the same price as last year.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I agree. It felt weird, and ended abruptly.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/tapbots-launches-new-tweetbot</id>
