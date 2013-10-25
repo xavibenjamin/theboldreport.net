@@ -31,7 +31,7 @@ In the first month, these were the top posts:
 5. [Using Portly for Local Development](http://theboldreport.net/2013/10/using-portly-for-local-development/)
 
 ## Giveaway
-As a token of my appreciation, I wanted to give away two ["The Standard" Tonx Coffee Subscriptions](https://tonx.org/). I'll personally pay for your first month, which includes two shipments of great-tasting coffee. The winners will be choosen at random on Friday at 1pm Central. Here's what you have to do to win:
+As a token of my appreciation, I wanted to give away two ["The Standard" Tonx Coffee Subscriptions](https://tonx.org/). I'll personally pay for your first month, which includes two shipments of great-tasting coffee. My pal Jory Raphael is also kindly giving away two of his amazing [Symbolicons icon bundles](http://symbolicons.com/)! The winners will be choosen at random on Friday at 1pm Central. Here's what you have to do to win:
 
 1. Follow [*The Bold Report* on Twitter](https://twitter.com/theboldreport).
 2. Mention @theboldreport, and tell me what you like about the site, and what I could possibly do better.
