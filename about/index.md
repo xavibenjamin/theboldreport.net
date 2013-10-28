@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Colophon
+title: About
 exclude_from_search: true
 ---
 
