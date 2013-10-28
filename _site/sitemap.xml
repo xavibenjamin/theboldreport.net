@@ -256,16 +256,11 @@
     </url>
     <url>
         <loc>http://theboldreport.net/about/about/</loc>
-        <lastmod>2013-10-25T16:20:19-05:00</lastmod>
+        <lastmod>2013-10-28T12:14:47-05:00</lastmod>
     </url>
     <url>
-<<<<<<< HEAD
-        <loc>http://theboldreport.net/colophon/colophon/</loc>
-        <lastmod>2013-10-25T16:33:40-05:00</lastmod>
-=======
         <loc>http://theboldreport.net/atom.articles.xml</loc>
         <lastmod>2013-09-22T02:48:24-05:00</lastmod>
->>>>>>> 498c8af180e117d308b8bfd4b0b28b36aa1382d4
     </url>
     <url>
         <loc>http://theboldreport.net/</loc>
