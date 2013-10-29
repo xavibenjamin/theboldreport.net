@@ -91,7 +91,7 @@ small.pubdate {
     margin: 0 0 .3em;
     a {
       border-bottom: none;
-      color: $darkColor;
+      color: $headlineColor;
       font-weight: 800;
       text-decoration: none !important;
       &:hover {
@@ -124,9 +124,9 @@ small.pubdate {
     line-height: 130%;
     margin: 0 0 .2em;
     a {
-      color: $darkColor;
+      color: $headlineColor;
       &:hover {
-        color: lighten($darkColor, 10%);
+        color: lighten($headlineColor, 10%);
       }
     }
   }
@@ -140,7 +140,7 @@ small.pubdate {
   margin: 0 0 0 10px;
   font-size: .75em;
   font-weight: normal !important;
-  color: lighten($darkColor, 40%) !important;
+  color: lighten($darkColor, 60%) !important;
   text-decoration: none !important;
   &:hover {
     color: $linkColor !important;
