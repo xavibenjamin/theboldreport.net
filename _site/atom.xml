@@ -5,13 +5,33 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-28T21:31:08-05:00</updated>
+  <updated>2013-10-29T14:10:36-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/adobe-security-breach-worse-than-originally-thought</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/adobe-security-breach-worse-than-originally-thought"/>
+    <title>Adobe Security Breach Worse Than Originally Thought</title>
+    <published>2013-10-29T15:10:09-05:00</published>
+    <updated>2013-10-29T15:10:09-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Jared Newman reporting for &lt;em&gt;Macworld&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When &lt;a href=&quot;http://blogs.adobe.com/conversations/2013/10/important-customer-security-announcement.html&quot;&gt;Adobe announced the breach on October 3&lt;/a&gt;, it said that attackers stole user names and encrypted passwords for an undisclosed numbers of users, along with encrypted credit or debit card numbers and expiration dates for 2.9 million customers. &lt;a href=&quot;http://krebsonsecurity.com/2013/10/adobe-breach-impacted-at-least-38-million-users/&quot;&gt;Krebs on Security now reports&lt;/a&gt; on the full extent of the attack, confirming the 38 million figure with Adobe.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Wow. 2.9 million was already a huge number, but now thirty-eight million? I’m keeping a close watch on my card to see if it’s being used, and I’d recommend you do the same. Also, if you were using the same password in multiple places, it might be a good time to look into 1Password. At this point, the probability of your information &lt;em&gt;not&lt;/em&gt; being involved in this attack is low.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/billy-joel-interviewed-on-heres-the-thing</id>
