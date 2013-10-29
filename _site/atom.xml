@@ -5,13 +5,33 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-28T17:00:04-05:00</updated>
+  <updated>2013-10-28T20:14:03-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/metalab-launches-peak</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/metalab-launches-peak"/>
+    <title>MetaLab Launches Peak</title>
+    <published>2013-10-28T20:13:39-05:00</published>
+    <updated>2013-10-28T20:13:39-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://twitter.com/matro/status/394982616132517889&quot;&gt;Matt Pearson&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Being micromanaged by robots is no better than by humans. This kind of stats-obsessed moronity breeds a toxic workplace.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I couldn’t agree more. Although this product might have been created with great intentions, I can easily see it being abused. If people work for you, ask them to update you. Don’t spy on them, even if under the guise of “avoiding shoulder taps.”&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/apple-reports-fourth-quarter-profit</id>
