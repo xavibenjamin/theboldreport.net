@@ -5,13 +5,27 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-10-28T20:14:03-05:00</updated>
+  <updated>2013-10-28T20:32:40-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/10/billy-joel-interviewed-on-heres-the-thing</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/billy-joel-interviewed-on-heres-the-thing"/>
+    <title>Billy Joel Interviewed on Here’s the Thing</title>
+    <published>2013-10-28T20:30:17-05:00</published>
+    <updated>2013-10-28T20:30:17-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;I &lt;em&gt;love&lt;/em&gt; Billy Joel, and I &lt;em&gt;love&lt;/em&gt; Alec Baldwin. With every episode that goes by, I’m amazed at how great of an interviewer Mr. Baldwin is. They talk about Joel’s early days, songs that weren’t hits but now considered classics, and a lot more.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/10/metalab-launches-peak</id>
