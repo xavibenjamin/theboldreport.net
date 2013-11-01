@@ -575,6 +575,15 @@
         "links"
       ],
       "body": "Jared Newman reporting for Macworld: When Adobe announced the breach on October 3, it said that attackers stole user names and encrypted passwords for an undisclosed numbers of users, along with encrypted credit or debit card numbers and expiration dates for 2.9 million customers. Krebs on Security now reports on the full extent of the attack, confirming the 38 million figure with Adobe. Wow. 2.9 million was already a huge number, but now thirty-eight million? I’m keeping a close watch on my card to see if it’s being used, and I’d recommend you do the same. Also, if you were using the same password in multiple places, it might be a good time to look into 1Password. At this point, the probability of your information not being involved in this attack is low."
+    },
+    {
+      "title": "Rules of Tech Journalism",
+      "url": "/2013/11/rules-of-tech-journalism",
+      "date": "2013-11-01 11:08:56 -0500",
+      "categories": [
+        "links"
+      ],
+      "body": "Harry Marks: Things have gotten out of hand. Tech writers are given far too much freedom to perpetuate inaccuracies and falsehoods, as well as a generous helping of incompetence these days. That’s why it’s time to put a bit of structure in place for those publications that don’t understand good work from bad work. This is an interesting read. Although The Bold Report isn’t incredibly popular yet, I’ve always tried to hold myself to the rules of proper journalism. I do not want to contribute to the assumption that online writers are an unprofessional bunch."
     }
   ]
 }
