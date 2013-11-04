@@ -5,13 +5,33 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-11-04T10:41:04-06:00</updated>
+  <updated>2013-11-04T10:53:17-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/11/blackberry-secures-1-billion-in-funding</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/blackberry-secures-1-billion-in-funding"/>
+    <title>BlackBerry Secures $1 Billion in Funding</title>
+    <published>2013-11-04T10:53:00-06:00</published>
+    <updated>2013-11-04T10:53:00-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Vlad Savov reporting for &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Today was always going to be a momentous day for BlackBerry, with a looming deadline for its proposed takeover deal with Fairfax Financial Holdings. As it turns out, the full takeover isn’t taking place, but the company is going to receive an investment of $1 billion from Fairfax and a group of other institutional investors as it seeks to steer a new course.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;What? I mean, it’s tough to feel bad for a company that just received a billion dollars, but what are they doing? BlackBerry is holding on for dear life, and I have to wonder whether this can turn things around for them. I hope for the best.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/11/twitter-facing-challenges-in-japan-and-korea</id>
