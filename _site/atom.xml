@@ -5,13 +5,33 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-11-14T14:53:30-06:00</updated>
+  <updated>2013-11-15T16:33:15-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/11/why-you-should-use-sass</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/why-you-should-use-sass"/>
+    <title>Why You Should Use Sass</title>
+    <published>2013-11-15T14:31:59-06:00</published>
+    <updated>2013-11-15T14:31:59-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Dan Cederholm on &lt;em&gt;A List Apart&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;…the reality is that Sass (and other CSS preprocessors) can be a powerful ally—a tool that any style-crafter can easily insert into their daily work. It took me a while to come around, but I’m sure glad that I did.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We published a great excerpt from Dan’s new book &lt;a href=&quot;http://www.abookapart.com/products/sass-for-web-designers&quot;&gt;&lt;em&gt;Sass for Web Designers&lt;/em&gt;&lt;/a&gt;. Dan has been long regarded as one of the best when it comes to CSS, and I can’t wait to finish reading this new book. If you’re on the fence about whether to buy the book, this great excerpt might be just the thing to whet your appetite.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/11/sponsor-lootback</id>
