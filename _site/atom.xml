@@ -5,13 +5,33 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-11-15T16:33:15-06:00</updated>
+  <updated>2013-11-21T10:24:14-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/11/twitter-tests-cleaner-web-design</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/twitter-tests-cleaner-web-design"/>
+    <title>Twitter Tests Cleaner Web Design</title>
+    <published>2013-11-21T00:00:00-06:00</published>
+    <updated>2013-11-21T00:00:00-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Darrell Etherington on &lt;em&gt;TechCrunch&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Twitter is testing a new website design, which opts for a lighter, flat design that seems at least partly inspired by its shift to similar design trends on mobile.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This looks terrible. It lacks the polish it should have. The type continues to feel tight, and the fact that they’re going “flat”, is disappointing.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/11/why-you-should-use-sass</id>
