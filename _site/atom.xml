@@ -5,13 +5,31 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-11-21T10:35:05-06:00</updated>
+  <updated>2013-11-21T10:58:00-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/11/geri-coady-on-design-trends</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/geri-coady-on-design-trends"/>
+    <title>Geri Coady on Design Trends</title>
+    <published>2013-11-21T10:56:11-06:00</published>
+    <updated>2013-11-21T10:56:11-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Should we really be dropping buttons, even if it negatively affects intuitive interaction patterns or confuses people with cognitive disabilities? Should we really be using thin type to look “modern” at the risk of decreasing legibility? And tell me, should we really be dropping textures and reducing contrast because it’s the “stylish” thing to do this week?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Geri makes some amazing points, and then drops the mic. Such a great read.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/11/sponsor-voila-ultimate-screen-capture-solution-for-your-mac</id>
