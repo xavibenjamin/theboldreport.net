@@ -5,13 +5,33 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-11-26T13:14:35-06:00</updated>
+  <updated>2013-11-27T09:59:01-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/11/magneto-blamed-for-jfk-murder</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/magneto-blamed-for-jfk-murder"/>
+    <title>Magneto Blamed for JFK Murder</title>
+    <published>2013-11-27T09:48:03-06:00</published>
+    <updated>2013-11-27T09:48:03-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Kwame Opam on &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To promote the upcoming X-men: Days of Future Past, a new viral site takes the 50th anniversary of JFK’s murder and spins a new conspiracy theory out of the historic tragedy.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Some will say this is wrong, but it’s quite an interesting twist on actual history, and an intriguing way to promote a movie.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/11/kobe-bryants-signs-2-year-extension-with-lakers</id>
