@@ -701,6 +701,15 @@
         "links"
       ],
       "body": "Kwame Opam on The Verge: To promote the upcoming X-men: Days of Future Past, a new viral site takes the 50th anniversary of JFK’s murder and spins a new conspiracy theory out of the historic tragedy. Some will say this is wrong, but it’s quite an interesting twist on actual history, and an intriguing way to promote a movie."
+    },
+    {
+      "title": "Organize that Sass!",
+      "url": "/2013/11/organize-that-sass",
+      "date": "2013-11-27 10:18:11 -0600",
+      "categories": [
+        "links"
+      ],
+      "body": "One of the many beauties of working with Sass is how easy it is to get organized. In the past, importing different CSS files wasn’t good practice and in fact made for more HTTP requests. With Sass, you can have many different partials which allow you to isolate styles in a logical way. I’m so excited about my first post for the A List Apart blog! It’s a quick post on using partials to get organized with Sass."
     }
   ]
 }
