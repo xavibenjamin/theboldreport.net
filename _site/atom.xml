@@ -5,13 +5,29 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-12-02T10:53:21-06:00</updated>
+  <updated>2013-12-02T11:14:46-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/12/beyond-ink</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/beyond-ink"/>
+    <title>Beyond Ink</title>
+    <published>2013-12-02T11:13:39-06:00</published>
+    <updated>2013-12-02T11:13:39-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;My friend, &lt;a href=&quot;http://www.rachil.li/&quot;&gt;Rachel Shillcock&lt;/a&gt;, launched her new podcast called &lt;em&gt;Beyond Ink&lt;/em&gt;. She’s a natural in front of the microphone, and does &lt;a href=&quot;http://www.beyondink.co.uk/shows/01-laura-and-simon&quot;&gt;a great first show with Simon Collison and Laura Kalbag&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;She’ll hopefully be on &lt;em&gt;The East Wing&lt;/em&gt; later this month to talk more about her new show.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/12/ron-burgundy-takes-over-local-news-to-promote-anchorman-2</id>
