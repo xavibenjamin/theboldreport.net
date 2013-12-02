@@ -5,13 +5,35 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-11-27T10:18:49-06:00</updated>
+  <updated>2013-12-02T10:29:07-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/12/amazon-plans-to-use-drones-for-new-prime-air-service</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/amazon-plans-to-use-drones-for-new-prime-air-service"/>
+    <title>Amazon Plans to Use Drones for New Prime Air Service</title>
+    <published>2013-12-02T10:28:44-06:00</published>
+    <updated>2013-12-02T10:28:44-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;John Ribeiro on &lt;em&gt;TechHive&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Amazon.com plans to deliver packages to customers using unmanned aerial vehicles in 30 minutes or less.&lt;/p&gt;
+
+  &lt;p&gt;“It looks like science fiction, but it’s real,” Amazon said on its website. Its Prime Air service, powered by drones, will be ready from a technology point of view to enter commercial operations as soon as the necessary regulations are in place, it said. The company’s research and development team is already working on the new delivery method.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I don’t know whether I should be enthused or panicked by this story. I think the answer is both.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/11/organize-that-sass</id>

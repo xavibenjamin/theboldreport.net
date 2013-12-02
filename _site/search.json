@@ -710,6 +710,15 @@
         "links"
       ],
       "body": "One of the many beauties of working with Sass is how easy it is to get organized. In the past, importing different CSS files wasn’t good practice and in fact made for more HTTP requests. With Sass, you can have many different partials which allow you to isolate styles in a logical way. I’m so excited about my first post for the A List Apart blog! It’s a quick post on using partials to get organized with Sass."
+    },
+    {
+      "title": "Amazon Plans to Use Drones for New Prime Air Service",
+      "url": "/2013/12/amazon-plans-to-use-drones-for-new-prime-air-service",
+      "date": "2013-12-02 10:28:44 -0600",
+      "categories": [
+        "links"
+      ],
+      "body": "John Ribeiro on TechHive: Amazon.com plans to deliver packages to customers using unmanned aerial vehicles in 30 minutes or less. “It looks like science fiction, but it’s real,” Amazon said on its website. Its Prime Air service, powered by drones, will be ready from a technology point of view to enter commercial operations as soon as the necessary regulations are in place, it said. The company’s research and development team is already working on the new delivery method. I don’t know whether I should be enthused or panicked by this story. I think the answer is both."
     }
   ]
 }
