@@ -13,5 +13,5 @@ exclude_from_search: true
 The feed with only long form articles.
 <http://theboldreport.net/atom.articles.xml>
 
-## Twiter and App.net
+## Twitter and App.net
 You should [follow The Bold Report on Twitter](https://twitter.com/theboldreport). You can also [follow The Bold Report on App.net](https://alpha.app.net/theboldreport).
