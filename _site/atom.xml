@@ -5,13 +5,33 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-12-03T11:44:28-06:00</updated>
+  <updated>2013-12-03T12:04:08-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/12/yahoo-year-in-review-report</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/yahoo-year-in-review-report"/>
+    <title>Yahoo’s ‘Year in Review’ Report</title>
+    <published>2013-12-03T12:03:31-06:00</published>
+    <updated>2013-12-03T12:03:31-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Ken Yeung on &lt;em&gt;The Next Web&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Are there any shockers in the top searches of 2013? What may come as no surprise to some people is that Miley Cyrus takes the top spot, followed by Kim Kardashian, and American model Kate Upton. Minecraft and Apple’s iPhone 5 are the only two technology-related queries to make it into the top 10.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Shocking&lt;/em&gt;. It should be cause of concern that in the top ten searches on Yahoo, only &lt;strong&gt;&lt;em&gt;one&lt;/em&gt;&lt;/strong&gt; of them is a current news item that people should be well informed on. &lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/12/sponsor-pencils-com</id>
