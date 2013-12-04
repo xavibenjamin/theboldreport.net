@@ -5,13 +5,47 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-12-04T12:16:24-06:00</updated>
+  <updated>2013-12-04T12:18:03-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/12/netflix-breaking-from-all-at-once-release-strategy-with-turbo-fast</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/netflix-breaking-from-all-at-once-release-strategy-with-turbo-fast"/>
+    <title>Netflix Breaking From All-At-Once Release Strategy with ‘Turbo Fast’</title>
+    <published>2013-12-04T12:17:50-06:00</published>
+    <updated>2013-12-04T12:17:50-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Chris Welch on &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Netflix is deviating from the all-at-once release strategy it’s followed for House of Cards, Orange is the New Black, and the fourth season of Arrested Development. Instead of releasing an entire season on day one, just five episodes of Turbo Fast will be available for streaming on Christmas Eve. Additional new episodes will follow “throughout the year” according to Netflix.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;An interesting move by Netflix, but one that makes a lot of sense. The article goes on to say: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In its Q3 2013 &lt;a href=&quot;http://files.shareholder.com/downloads/NFLX/2822396166x0x698481/ecfe1ab4-66f5-4e23-a64a-1ca025216e5e/Q313%20Earnings%20Letter%2010.21.13%2010.30am.pdf&quot;&gt;letter to shareholders&lt;/a&gt;, Netflix noted that original shows see “more viewing in the early months” after they first premiere.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Seems that their numbers drop once people are done binging on a particular show. I know of many who only renew their subscription while they watch a new series,&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; which can’t be good for Netflix financially. We’ll find out whether this is just an experiment, or their new strategy &lt;a href=&quot;/2013/12/house-of-cards-returns-in-february/&quot;&gt;come February&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;These jerks better not ruin it for the rest of us. It’s $8 people. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/12/house-of-cards-returns-in-february</id>
