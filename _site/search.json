@@ -755,6 +755,15 @@
         "links"
       ],
       "body": "Ken Yeung on The Next Web: Are there any shockers in the top searches of 2013? What may come as no surprise to some people is that Miley Cyrus takes the top spot, followed by Kim Kardashian, and American model Kate Upton. Minecraft and Apple’s iPhone 5 are the only two technology-related queries to make it into the top 10. Shocking. It should be cause of concern that in the top ten searches on Yahoo, only one of them is a current news item that people should be well informed on. "
+    },
+    {
+      "title": "A List Apart Issue 386",
+      "url": "/2013/12/a-list-apart-386",
+      "date": "2013-12-04 11:46:32 -0600",
+      "categories": [
+        "links"
+      ],
+      "body": "In “Surveying the Big Screen”, Mike Pick does a great job of pointing out the need to explore the possibilities on larger screens.1 Alex Feyerke writes an excellent article titled “Designing Offline-First Web Apps”, and talks about a fact of life—being offline. How does that affect the way we design and build applications? Be sure to check out the CSS Columns-based demo that Mike created for this article. (via Tim Murtaugh) ↩"
     }
   ]
 }

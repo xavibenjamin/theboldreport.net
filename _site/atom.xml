@@ -5,13 +5,35 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-12-03T12:04:08-06:00</updated>
+  <updated>2013-12-04T11:46:58-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/12/a-list-apart-386</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/a-list-apart-386"/>
+    <title>A List Apart Issue 386</title>
+    <published>2013-12-04T11:46:32-06:00</published>
+    <updated>2013-12-04T11:46:32-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;In &lt;a href=&quot;http://alistapart.com/article/surveying-the-big-screen&quot;&gt;“Surveying the Big Screen”&lt;/a&gt;, Mike Pick does a great job of pointing out the need to explore the possibilities on larger screens.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Alex Feyerke writes an excellent article titled &lt;a href=&quot;http://alistapart.com/article/offline-first&quot;&gt;“Designing Offline-First Web Apps”&lt;/a&gt;, and talks about a fact of life—being offline. How does that affect the way we design and build applications?&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Be sure to check out &lt;a href=&quot;http://d.alistapart.com/386/surveying_the_big_screen/demo/&quot;&gt;the CSS Columns-based demo&lt;/a&gt; that Mike created for this article. (via &lt;a href=&quot;https://twitter.com/murtaugh&quot;&gt;Tim Murtaugh&lt;/a&gt;) &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/12/yahoo-year-in-review-report</id>
