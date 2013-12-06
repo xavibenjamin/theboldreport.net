@@ -5,13 +5,39 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-12-05T18:52:41-06:00</updated>
+  <updated>2013-12-05T19:21:45-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/12/newsstand-isnt-the-problem</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/newsstand-isnt-the-problem"/>
+    <title>Newsstand Isn’t the Problem</title>
+    <published>2013-12-05T19:20:33-06:00</published>
+    <updated>2013-12-05T19:20:33-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Ben Brooks on &lt;em&gt;The Brooks Review&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[A post on PandoDaily] blames the Newsstand icon and design on faltering sales. Perceived lack of attention from Apple, and lack of icon badging (I assume, because it is never explicitly said) were other ‘excuses’ mentioned.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Okay, fair point. The fact that you can completely hide Newsstand can’t be good for publishers. He goes on to say:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have a lot of respect for people making a go of digital publishing like this, and for Fleishman specifically. BUT, it seems to me that if subscribers are dwindling and people are “forgetting” about your publication, then your problem is rather straightforward: content.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Agreed. I’ve been very disappointed with the subscriptions I have in Newsstand. Blaming Apple is easy, and people just don’t “forget” about your publication.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/12/tirp-15</id>
