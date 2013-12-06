@@ -5,13 +5,27 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-12-04T12:18:03-06:00</updated>
+  <updated>2013-12-05T18:52:41-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/12/tirp-15</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/tirp-15"/>
+    <title>The Intellectual Radio Program: I Instapaper a Lot of Things I Shouldn’t</title>
+    <published>2013-12-05T18:51:37-06:00</published>
+    <updated>2013-12-05T18:51:37-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;This week: All three amigos are back in the SSKTN studios. We follow up on Adam’s 13″ vs 15″ debate, his smoke alarm battery, and we have a group therapy session on getting projects out the virtual door. In the words of mudmonster from the chat room—“the best TIRP yet.”&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/12/netflix-breaking-from-all-at-once-release-strategy-with-turbo-fast</id>
