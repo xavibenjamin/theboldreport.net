@@ -5,13 +5,29 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-12-10T10:27:28-06:00</updated>
+  <updated>2013-12-10T10:46:10-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/12/stay-organized-with-bartender</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/stay-organized-with-bartender"/>
+    <title>Stay Organized with Bartender</title>
+    <published>2013-12-10T10:45:04-06:00</published>
+    <updated>2013-12-10T10:45:04-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Stephen Hackett writes a concise review of Bartender, and why it’s &lt;em&gt;The Sweet Setup’s&lt;/em&gt; best app for keeping the menu bar organized. &lt;/p&gt;
+
+&lt;p&gt;I’m a huge fan of &lt;a href=&quot;http://www.macbartender.com/&quot;&gt;Bartender&lt;/a&gt;. Because I normally prefer menu bar apps, things can get cluttered pretty easily, and as Stephen points out, there are some that you don’t need to monitor 24/7.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/12/sponsor-atlassians-agile-guide</id>
