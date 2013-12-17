@@ -5,13 +5,29 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-12-17T10:59:44-06:00</updated>
+  <updated>2013-12-17T11:16:55-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/12/ala-387</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/ala-387"/>
+    <title>A List Apart Issue 387</title>
+    <published>2013-12-17T11:16:28-06:00</published>
+    <updated>2013-12-17T11:16:28-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Nick Cox writes an excellent article in the last &lt;em&gt;A List Apart&lt;/em&gt; issue of the year. In &lt;a href=&quot;http://alistapart.com/article/a-moment-to-breathe&quot;&gt;“A Moment to Breath”&lt;/a&gt;, he tells the story of how he realized he was working too much, and what he &lt;strong&gt;&lt;em&gt;forced himself&lt;/em&gt;&lt;/strong&gt; to do, to correct it.&lt;/p&gt;
+
+&lt;p&gt;What I find so fascinating about stories like this, is that because we’re all so passionate about our work, it can be difficult to listen when our body is telling us we need a break. But story after story (Nick’s included), we see that the world won’t end if we step back, work less, and sleep eight hours.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/12/sponsor-webydo</id>
