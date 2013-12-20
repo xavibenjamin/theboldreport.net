@@ -12,7 +12,7 @@ exclude_from_search: true
 
 I write about design, development, technology, Geek culture, Apple, and more. My purpose *is not* to inform you of breaking news, rather to give perspective and insight into these topics. The coverage of news is biased by personal interest, and doesn't attempt to follow any type of model which some might believe to consitute a "tech blog".
 
-I endevour to be well-balanced when reporting any type of news, however I am very passionate and opinionated on these topics, and that will always have an influence on what I write.
+I endeavor to be well-balanced when reporting any type of news, however I am very passionate and opinionated on these topics, and that will always have an influence on what I write.
 
 ## Tools
 
