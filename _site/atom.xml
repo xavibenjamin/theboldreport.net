@@ -5,13 +5,29 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-12-17T16:37:39-06:00</updated>
+  <updated>2013-12-20T12:07:34-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2013/12/the-east-wing-77</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/the-east-wing-77"/>
+    <title>The East Wing: Rachel Shillcock</title>
+    <published>2013-12-20T12:07:05-06:00</published>
+    <updated>2013-12-20T12:07:05-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;This week: I talk with Rachel Shillcock about her speaking engagements, her new podcast, Beyond Ink, and an update on her freelancing.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Sponsored by &lt;a href=&quot;http://symbolicons.com/&quot;&gt;Symbolicons&lt;/a&gt;. Use the code ‘timlovesicons’ for 15% off.&lt;/em&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/12/ala-387</id>
