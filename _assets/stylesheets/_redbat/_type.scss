@@ -31,20 +31,8 @@ BASE TYPE
 body {
 	font-size: 110%;
 	line-height: 140%;
-	color: #666;
+	color: $bodyColor;
 	@extend %serif;
-  @media screen and (max-width: 620px ) {
-    font-size: 105%;
-  }
-  @media screen and (max-width: 500px ) {
-    font-size: 90%;
-  }
-  @media screen and (max-width: 400px ) {
-    font-size: 85%
-  }
-  @media screen and (max-width: 340px ) {
-    font-size: 75%;
-  }
 }
 
 // TYPE SIZE VARIABLES
@@ -68,11 +56,13 @@ FONTS
 
 %serif {
 	font-family: "ff-tisa-web-pro",serif;
+  // font-family: "freight-text-pro",sans-serif;
 }
 
 
 %sans {
-	font-family: "freight-sans-pro",sans-serif;
+	// font-family: "freight-sans-pro",sans-serif;
+  font-family: "jaf-facitweb",sans-serif;
 }
 
 /*
@@ -105,7 +95,7 @@ TEXT
 
 .content__main-content {
 	p {
-    font-size: 1.15em;
+    font-size: 1em;
     line-height: 170%;
     margin: 0 0 3.125%;
     &:last-child {

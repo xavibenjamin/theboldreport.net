@@ -3,40 +3,64 @@
 SIDEBAR
 --------------------------------------------------------- */
 
+/*
+SIDEBAR MODULES ================== */
+
+%sidebar-module {
+  border-bottom: 1px solid lighten($darkColor, 65%);
+  margin-bottom: 1.5em;
+  padding-bottom: 1.5em;
+}
+
 .sidebar {
-  .contain {
-    position: relative;
+  background: lighten($darkColor, 70%);
+  float: left;
+  padding: 2em;
+  width: percentage(320/940);
+  @extend %sans;
+  h4 {
+    font-size: .9em;
+    font-weight: 700;
+    margin-bottom: .7em;
   }
-  img {
-    width: auto;
-    @media screen and (max-width: 500px ) {
-      max-width: 80px;
-      width: 100%;
+}
+
+.sidebar__about-me {
+  @extend %sidebar-module;
+  font-size: .75em;
+  margin-top: 1.3em;
+}
+
+.site__navigation {
+  @extend %sidebar-module;
+}
+
+.primary-navigation {
+  margin: 0;
+  li {
+    list-style-type: none;
+    a {
+      color: lighten($darkColor, 25%);
+      text-decoration: none;
+      &:hover {
+        color: $linkColor;
+      }
     }
   }
 }
 
 .sidebar__ad {
-  position: absolute;
-  top: 120px;
-  left: 110%;
-  @extend %clearfix;
-  @media screen and (max-width: 1005px ) {
-    position: static;
-    margin: 0 0 2em;
-    width: 280px;
-  }
+  @extend %sidebar-module;
 }
 
 .fusionimg {
-  @media screen and (max-width: 1005px ) {
-    float: left;
-    margin: 0 .8em 0 0;
-  }
+  padding: 0;
+  border: none;
+  max-width: 130px;
 }
 
 .fusiontext {
-  color: lighten($darkColor, 50%);
+  color: $bodyColor;
   display: block;
   font-size: .7em;
   line-height: 155%;
@@ -51,7 +75,7 @@ SIDEBAR
 }
 
 .fusionlink {
-  color: lighten($darkColor, 65%);
+  color: lighten($darkColor, 45%);
   font-size: .65em;
   font-weight: bold;
   line-height: 130%;
@@ -59,6 +83,6 @@ SIDEBAR
   text-transform: uppercase;
   @extend %sans;
   &:hover {
-    color: lighten($darkColor, 65%);
+    color: lighten($darkColor, 45%);
   }
 }

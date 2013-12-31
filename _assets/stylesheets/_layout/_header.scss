@@ -4,123 +4,8 @@ HEADER
 --------------------------------------------------------- */
 
 .site__header {
-  @extend %sans;
-  margin: 0 0 3em;
-  @media screen and (max-width: 480px ) {
-    margin: 0 0 4.8em;
-  }
-  @media screen and (max-width: 320px ) {
-    margin: 0 0 4em;
-  }
-}
-
-.site__nav-search-wrapper {
-  background: darken($darkColor, 3%);
-  position: relative;
-  @extend %clearfix;
-}
-
-.open-menu {
-  background: lighten($darkColor, 5%);
-  border-radius: 3px;
-  color: lighten($darkColor, 50%);
-  display: none;
-  float: left;
-  font-size: 1em;
-  font-weight: 700;
-  margin: 1em 0;
-  padding: 4px 8px;
-
-  -webkit-appearance: none;
-  border: 0;
-  z-index: 1001;
-  &:hover {
-    background: $linkColor;
-    color: white;
-  }
-  @media screen and (max-width: 400px ) {
-    display: inline-block;
-  }
-}
-
-.site__navigation {
-  padding: .5em 0;
-  float: left;
-  @media screen and (max-width: 480px ) {
-    padding: 1em 0;
-  }
-  ul {
-    margin: 0;
-    @media screen and (max-width: 400px ) {
-      background: darken($darkColor, 5%);
-      padding: 20px;
-      position: absolute;
-      z-index: 1001;
-      bottom: 100%;
-      left: 0;
-      right: 0;
-      pointer-events: none;
-      @include transition(.1s ease-in-out);
-    }
-    li {
-      display: inline-block;
-      font-size: .9em;
-      list-style-type: none;
-      margin: 0 .8em 0 0;
-      padding: 0;
-      @media screen and (max-width: 400px ) {
-        display: block;
-        font-size: 1em;
-        margin: 0 0 1em;
-        &:last-child {
-          margin: 0;
-        }
-      }
-      a {
-        color: lighten($darkColor, 30%);
-        font-weight: 700;
-        &:hover {
-          color: $linkColor;
-        }
-      }
-    }
-  }
-}
-
-.site__navigation ul.MenuIsOpen {
-  pointer-events: auto;
-}
-
-.open-search {
-  float: right;
-  margin-top: .4em;
-  @media screen and (max-width: 480px ) {
-    margin-top: 1em
-  }
-  a {
-    background: lighten($darkColor, 5%);
-    border-radius: 3px;
-    color: lighten($darkColor, 50%);
-    cursor: pointer;
-    display: inline-block;
-    font-size: .75em;
-    padding: 2px 8px;
-    @media screen and (max-width: 400px ) {
-      font-size: .85em;
-      padding: 3px 8px;
-    }
-    &:hover {
-      background: $linkColor;
-      color: white;
-    }
-  }
-}
-
-.site__branding {
-  background: $darkColor;
-  padding: 1.5em 0;
-  position: relative;
-  z-index: 2;
+  background: darken($darkColor, 10%);
+  padding: 2em 0;
 }
 
 .logo {
@@ -130,6 +15,7 @@ HEADER
   text-indent: -9999px;
   width: 332px;
   height: 85px;
+  margin: 0 auto;
   @media screen and (max-width: 480px ) {
     width: 250px;
     height: 63px;
