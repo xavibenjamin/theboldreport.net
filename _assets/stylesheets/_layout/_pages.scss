@@ -2,10 +2,9 @@
 
 PAGES
 --------------------------------------------------------- */
-
 .archive-list, .search-results-list, .tag-list {
   h3 {
-    font-size: 1em;
+    font-size: .95em;
     margin: 1.5em 0 0;
   }
 }
@@ -30,20 +29,5 @@ PAGES
         content: "";
       }
     }
-  }
-}
-
-.search__search-wrapper {
-  margin: -53px auto 1.5em;
-  pointer-events: auto;
-  opacity: 1;
-  @media screen and (max-width: 500px ) {
-    margin-top: -43px;
-  }
-  @media screen and (max-width: 480px ) {
-    margin-top: -69px;
-  }
-  @media screen and (max-width: 320px ) {
-    margin-top: -48px;
   }
 }

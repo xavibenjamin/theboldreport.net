@@ -1,15 +1,9 @@
 {% include header.html %}
 
-  {% include search-form.html %}
+{% include sidebar.html %}
 
-  {% include sidebar.html %}
-
-  <main class="content__main-content" role="main">
-    <div class="contain">
-
-      {{ content }}
-
-    </div><!-- .content__main-content -->
-  </main>
+<main class="content__main-content" role="main">
+  {{ content }}
+</main>
 
 {% include footer.html %}

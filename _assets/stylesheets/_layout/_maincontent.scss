@@ -3,57 +3,77 @@
 MAIN CONTENT
 --------------------------------------------------------- */
 
-.search-wrapper {
-  margin-top: -86px;
-  pointer-events: none;
-  opacity: 0;
-  @include transition(.2s ease-in-out);
+.content__main-content {
+  background: white;
+  float: left;
+  padding: 4em 0;
+  width: percentage(620/940);
+  @include breakpoint(screen-xl) {
+    width: percentage(650/940);
+  }
+  @include breakpoint(screen-m) {
+    width: 100%;
+    padding: 7em 3em 3em;
+  }
+  @include breakpoint(screen-s) {
+    padding: 7em 0 3em;
+  }
+  .page & {
+    padding: 4em 2.8em;
+    @include breakpoint(screen-xl) {
+      padding: 7em 2em 3em;
+    }
+    @include breakpoint(screen-xs) {
+      padding: 7em 1em 3em;
+    }
+  }
 }
 
-.search-wrapper.searchIsOpen {
-  margin: -53px auto 1.5em;
-  pointer-events: auto;
-  opacity: 1;
-  @media screen and (max-width: 500px ) {
-    margin-top: -43px;
+.type-post {
+  &.format-link {
+    margin-bottom: 6em;
   }
-  @media screen and (max-width: 480px ) {
-    margin-top: -69px;
+  &.format-post {
+    margin: 3em 0 8em 0;
+    &:after {
+      content: "♨";
+      text-align: center;
+      font-size: 75px;
+      color: lighten($borderColor, 3%);
+      position: relative;
+      left: 42%;
+      top: 70px;
+      @include breakpoint(screen-xs) {
+        left: 33%;
+      }
+    }
+    .single & {
+      margin: 0 0 5em 0;
+    }
   }
-  @media screen and (max-width: 320px ) {
-    margin-top: -48px;
-  }
-}
-
-.site__search-form {
-  background: $borderColor;
-  border-radius: 0 0 3px 3px;
-  padding: 3%;
 }
 
 .entry {
-  border-bottom: 1px solid $borderColor;
-  padding: 0 0 4em;
-  margin: 0 0 4em;
-}
-
-.single {
-  .entry {
-    border-bottom: none;
-    padding: 0;
+  // border-bottom: 1px solid $borderColor;
+  padding: 0 2.8em;
+  @include breakpoint(screen-xl) {
+    padding: 0 2em;
+  }
+  @include breakpoint(screen-xs) {
+    padding: 0 1em;
   }
 }
 
 p.pubdate {
-  color: lighten($darkColor, 45%);
-  font-size: .9em;
+  color: lighten($darkColor, 50%);
+  font-size: .8em;
   font-weight: normal;
   @extend %sans;
 }
 
 small.pubdate {
-  color: lighten($darkColor, 45%);
-  font-size: .9em;
+  color: lighten($darkColor, 50%);
+  font-size: .8em;
   font-weight: normal;
   margin-left: 8px;
   @extend %sans;
@@ -76,7 +96,7 @@ small.pubdate {
     background: $borderColor;
     content: " ";
     display: block;
-    height: 3px;
+    height: 2px;
     width: 150px;
     margin-bottom: 20px;
   }
@@ -86,7 +106,7 @@ small.pubdate {
 
 .format-post {
   h1 {
-    font-size: 2.5em;
+    font-size: 1.8em;
     font-weight: 900;
     margin: 0 0 .3em;
     a {
@@ -101,16 +121,16 @@ small.pubdate {
     }
   }
   p:nth-child(4) {
-    font-size: 1.6em;
+    font-size: 1.35em;
   }
 }
 
 // Format Link
 .format-link {
   h1 {
-    font-size: 1.7em;
+    font-size: 1.3em;
     font-weight: 700;
-    line-height: 130%;
+    line-height: 155%;
     margin: 0 0 .2em;
     a {
       color: $headlineColor;
@@ -129,7 +149,7 @@ small.pubdate {
   margin: 0 0 0 10px;
   font-size: .75em;
   font-weight: normal !important;
-  color: lighten($darkColor, 60%) !important;
+  color: lighten($darkColor, 45%) !important;
   text-decoration: none !important;
   &:hover {
     color: $linkColor !important;

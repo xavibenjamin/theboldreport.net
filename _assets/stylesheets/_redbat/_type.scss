@@ -29,21 +29,15 @@ BASE TYPE
 ------------------------------------------- */
 
 body {
-	font-size: 110%;
+	font-size: 108%;
 	line-height: 140%;
-	color: #666;
+	color: $bodyColor;
 	@extend %serif;
-  @media screen and (max-width: 620px ) {
-    font-size: 105%;
+  @include breakpoint(screen-l) {
+    font-size: 103%;
   }
-  @media screen and (max-width: 500px ) {
-    font-size: 90%;
-  }
-  @media screen and (max-width: 400px ) {
-    font-size: 85%
-  }
-  @media screen and (max-width: 340px ) {
-    font-size: 75%;
+  @include breakpoint(screen-xs) {
+    font-size: 95%;
   }
 }
 
@@ -68,11 +62,13 @@ FONTS
 
 %serif {
 	font-family: "ff-tisa-web-pro",serif;
+  // font-family: "freight-text-pro",sans-serif;
 }
 
 
 %sans {
-	font-family: "freight-sans-pro",sans-serif;
+	// font-family: "freight-sans-pro",sans-serif;
+  font-family: "jaf-facitweb",sans-serif;
 }
 
 /*
@@ -94,8 +90,8 @@ h6 {
   line-height: 130%;
 }
 
-h1,h2,h3 {
-  color: #4a4a4a;
+h1,h2,h3,h5 {
+  color: $headlineColor;
 }
 
 /*
@@ -105,7 +101,7 @@ TEXT
 
 .content__main-content {
 	p {
-    font-size: 1.15em;
+    font-size: 1em;
     line-height: 170%;
     margin: 0 0 3.125%;
     &:last-child {
@@ -114,33 +110,30 @@ TEXT
     @media screen and (max-width: 480px ) {
       margin-bottom: 7%;
     }
-    @media screen and (max-width: 320px ) {
-      font-size: 1.25em;
-    }
   }
   h1 {
     line-height: 125%;
   }
   h2 {
-    margin: 2em 0 .2em;
-    font-size: 1.7em;
+    margin: 1.8em 0 .2em;
+    font-size: 1.45em;
     font-weight: 700;
   }
   h3 {
-    margin: 2em 0 .2em;
-    font-size: 1.5em;
+    margin: 1.3em 0 .2em;
+    font-size: 1.3em;
     font-weight: bold;
   }
   h4 {
     color: $jazzColor;
     margin: 2em 0 .2em;
-    font-size: 1.15em;
+    font-size: 1.1em;
     font-weight: bold;
     text-transform: uppercase;
   }
   h5 {
     margin: 2em 0 .2em;
-    font-size: 1.1em;
+    font-size: 1em;
     font-weight: bold;
     text-transform: uppercase;
     &:before {
@@ -163,12 +156,12 @@ ul {
     font-size: 15px;
     line-height: 160%;
     list-style-type: disc;
-    padding: 01.25% 0 0;
+    padding: 01.15% 0 0;
     @media screen and (max-width: 400px ) {
       font-size: 12px;
     }
     p {
-      font-size: 130% !important;
+      font-size: 115% !important;
       margin: 0 0 3.125% 0 !important;
       @media screen and (max-width: 620px ) {
         font-size: 125% !important;
@@ -197,7 +190,7 @@ ol {
     margin: 0 0 0 25px;
   }
   li {
-    font-size: 1.15em;
+    font-size: 1em;
     line-height: 160%;
     margin: 0 0 2.5%;
     p {
@@ -210,7 +203,7 @@ ol {
 .page__title {
   color: $headlineColor;
   font-size: 2.5em;
-  font-weight: 900;
+  font-weight: 800;
   margin: 0 0 1em;
 }
 
@@ -271,10 +264,11 @@ BLOCKQUOTE
 ------------------------------------------- */
 
 blockquote {
-  border-left: 3px solid #eee;
-  color: lighten($darkColor, 45%);
+  border-left: 2px solid $borderColor;
+  color: lighten($bodyColor, 5%);
   padding-left: 15px;
-  margin: 0 0 03.125% 3.125%;
+  margin: 0 0 03.125% 3%;
+  width: 90%;
   @media screen and (max-width: 480px ) {
     margin-bottom: 7%;
   }

@@ -3,29 +3,13 @@
 OBJECTS
 ------------------------------------------- */
 
-.contain {
-  max-width: 620px;
-  margin: 0 auto;
-  @extend %clearfix;
-  @media screen and (max-width: 768px ) {
-    padding: 0 30px;
-  }
-  @media screen and (max-width: 400px ) {
-    padding: 0 20px
-  }
-}
-
 body {
-  background-color: $linkColor;
-  @include background-image(linear-gradient(white, white));
+  // background: $darkColor;
 }
-
-.site__wrapper {
-  @include transition(.2s ease-in-out);
-  &.MenuIsOpen {
-   @include transform(translateY(169px));
-   @media screen and (max-width: 340px ) {
-    @include transform(translateY(152px));
-   }
-  }
+.container {
+  margin: 0 auto;
+  max-width: 1000px;
+  width: 100%;
+  @extend %clearfix;
+  position: relative;
 }

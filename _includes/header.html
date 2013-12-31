@@ -79,37 +79,17 @@
 
     </head>
     <body {% if page.custom_css_class %} class="{{ page.custom_css_class }}" {% endif %}>
+      <div class="container">
 
-        <div class="site__wrapper">
-
-          <header class="site__header" role="banner">
-
-            <div class="site__nav-search-wrapper">
-              <div class="contain">
-              <button class="open-menu">Menu</button>
-                <nav class="site__navigation" role="navigation">
-                  <ul class="primary-navigation">
-                    <li><a href="/archives/">Archives</a></li>
-                    <!-- <li><a href="#">Membership</a></li> -->
-                    <li><a href="/about/">About</a></li>
-                    <li><a href="/subscribe/">Subscribe</a></li>
-                    <li><a href="/support/">Support</a></li>
-                  </ul>
-                </nav>
-
-                <div class="open-search">
-                  <a class="reveal" role="button">
-                    <span data-icon="s" aria-hidden="true"></span>
-                    <span class="screen-reader-hide">show search form</span>
-                  </a>
-                </div>
-              </div><!-- .contain -->
-            </div><!-- sit__nav-search-wrapper -->
-
-            <div class="site__branding">
-              <div class="contain">
-                <a href="/" class="logo">The Bold Report</a>
-              </div>
-            </div>
-
-          </header>
+        <header class="site__header" role="banner">
+            <button class="toggleNav mobile-logo">The Bold Report</button>
+            <nav class="mobile-nav">
+              <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/archives/">Archives</a></li>
+                <li><a href="/about/">About</a></li>
+                <li><a href="/subscribe/">Subscribe</a></li>
+                <li><a href="/support/">Support</a></li>
+              </ul>
+            </nav>
+        </header>

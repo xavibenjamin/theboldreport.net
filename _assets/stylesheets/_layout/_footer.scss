@@ -4,18 +4,26 @@ FOOTER
 --------------------------------------------------------- */
 
 .site__footer {
-  @extend %sans;
-  margin: 3em 0 1.5em;
+  margin-left: percentage(320/940);
+  padding: 3em 2.8em;
+  @extend %clearfix;
+  @include breakpoint(screen-xl) {
+    margin-left: percentage(290/940);
+    padding: 3em 2em;
+  }
+  @include breakpoint(screen-m) {
+    margin-left: 3em;
+  }
+  @include breakpoint(screen-s) {
+    margin-left: 0;
+  }
+  @include breakpoint(screen-xs) {
+    padding: 3em 1em;
+  }
   small {
     color: lighten($darkColor, 50%);
     display: block;
-    font-size: .9em;
-  }
-  a {
-    color: lighten($darkColor, 30%);
-    text-decoration: none;
-    &:hover {
-      color: $linkColor;
-    }
+    font-size: .85em;
+    @extend %sans;
   }
 }
