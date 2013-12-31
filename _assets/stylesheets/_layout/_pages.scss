@@ -2,3 +2,32 @@
 
 PAGES
 --------------------------------------------------------- */
+.archive-list, .search-results-list, .tag-list {
+  h3 {
+    font-size: .95em;
+    margin: 1.5em 0 0;
+  }
+}
+
+.archive__tag-list {
+  margin: 1.3em 0 0 0;
+  li {
+    display: inline-block;
+    list-style-type: none;
+    font-size: 1.15em;
+    line-height: 1.8em;
+    padding: 0;
+    &:after {
+      color: lighten($darkColor, 70%);
+      content: "//";
+      padding: 0 3px 0 6px;
+      font-size: .7em;
+    }
+    &:last-child {
+      padding: 0;
+      &:after {
+        content: "";
+      }
+    }
+  }
+}

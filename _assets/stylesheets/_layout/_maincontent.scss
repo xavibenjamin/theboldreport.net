@@ -6,6 +6,152 @@ MAIN CONTENT
 .content__main-content {
   background: white;
   float: left;
-  padding: 2em 2.1em;
+  padding: 4em 0;
   width: percentage(620/940);
+  @include breakpoint(screen-xl) {
+    width: percentage(650/940);
+  }
+  @include breakpoint(screen-m) {
+    width: 100%;
+    padding: 7em 3em 3em;
+  }
+  @include breakpoint(screen-s) {
+    padding: 7em 0 3em;
+  }
+  .page & {
+    padding: 4em 2.8em;
+    @include breakpoint(screen-xl) {
+      padding: 7em 2em 3em;
+    }
+    @include breakpoint(screen-xs) {
+      padding: 7em 1em 3em;
+    }
+  }
+}
+
+.type-post {
+  &.format-link {
+    margin-bottom: 6em;
+  }
+  &.format-post {
+    margin: 3em 0 8em 0;
+    &:after {
+      content: "♨";
+      text-align: center;
+      font-size: 75px;
+      color: lighten($borderColor, 3%);
+      position: relative;
+      left: 42%;
+      top: 70px;
+      @include breakpoint(screen-xs) {
+        left: 33%;
+      }
+    }
+    .single & {
+      margin: 0 0 5em 0;
+    }
+  }
+}
+
+.entry {
+  // border-bottom: 1px solid $borderColor;
+  padding: 0 2.8em;
+  @include breakpoint(screen-xl) {
+    padding: 0 2em;
+  }
+  @include breakpoint(screen-xs) {
+    padding: 0 1em;
+  }
+}
+
+p.pubdate {
+  color: lighten($darkColor, 50%);
+  font-size: .8em;
+  font-weight: normal;
+  @extend %sans;
+}
+
+small.pubdate {
+  color: lighten($darkColor, 50%);
+  font-size: .8em;
+  font-weight: normal;
+  margin-left: 8px;
+  @extend %sans;
+}
+
+.footnotes {
+  margin: 40px 0 0;
+  ol {
+    margin-left: 6%;
+    li {
+      font-size: .85em;
+      padding: 0;
+      margin: 0;
+      @media screen and (max-width: 320px ) {
+        font-size: 1em;
+      }
+    }
+  }
+  &:before {
+    background: $borderColor;
+    content: " ";
+    display: block;
+    height: 2px;
+    width: 150px;
+    margin-bottom: 20px;
+  }
+}
+
+// Format Post
+
+.format-post {
+  h1 {
+    font-size: 1.8em;
+    font-weight: 900;
+    margin: 0 0 .3em;
+    a {
+      border-bottom: none;
+      color: $headlineColor;
+      font-weight: 800;
+      text-decoration: none !important;
+      &:hover {
+        color: $linkColor;
+        border-bottom: none;
+      }
+    }
+  }
+  p:nth-child(4) {
+    font-size: 1.35em;
+  }
+}
+
+// Format Link
+.format-link {
+  h1 {
+    font-size: 1.3em;
+    font-weight: 700;
+    line-height: 155%;
+    margin: 0 0 .2em;
+    a {
+      color: $headlineColor;
+      &:hover {
+        color: lighten($headlineColor, 10%);
+      }
+    }
+  }
+  span {
+    vertical-align: middle;
+  }
+}
+
+.link__icon {
+  border-bottom: none !important;
+  margin: 0 0 0 10px;
+  font-size: .75em;
+  font-weight: normal !important;
+  color: lighten($darkColor, 45%) !important;
+  text-decoration: none !important;
+  &:hover {
+    color: $linkColor !important;
+  }
 }

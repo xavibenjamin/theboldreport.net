@@ -61,7 +61,7 @@
         <link rel="stylesheet" href="/assets/syntax-b6f88a5f5f29b2abfc0d9f387f56cdf9.css">
 
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="/assets/global-b0708e36c8b6bd511ae47d76c086df16.css">
+        <link rel="stylesheet" href="/assets/global-2779350fc4e48394f607f6aae0b202df.css">
 
         
 
@@ -80,45 +80,55 @@
     </head>
     <body  class="single" >
       <div class="container">
+
         <header class="site__header" role="banner">
-          <div class="contain">
-            <a href="/" class="logo">The Bold Report</a>
-          </div>
+            <button class="toggleNav mobile-logo">The Bold Report</button>
+            <nav class="mobile-nav">
+              <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/archives/">Archives</a></li>
+                <li><a href="/about/">About</a></li>
+                <li><a href="/subscribe/">Subscribe</a></li>
+                <li><a href="/support/">Support</a></li>
+              </ul>
+            </nav>
         </header>
 
 
 <aside class="sidebar" role="complementary">
 
-  <figure class="border--white">
-    <img src="/uploads/2013/12/tim_500.jpg" alt="Tim Smith">
-  </figure>
+  <div class="site__branding">
+    <a href="/" class="logo">The Bold Report</a>
+  </div><!-- .site__branding -->
 
-  <div class="sidebar__about-me">
-    <p><em>The Bold Report</em> is designed, developed, and written by Tim Smith.</p>
-  </div>
+  <div class="sidebar__wrap">
+    <div class="sidebar__about-me">
+      <p><em>The Bold Report</em> is designed, developed, and written by Tim&nbsp;Smith.</p>
+    </div>
 
 
-  <nav class="site__navigation" role="navigation">
-    <ul class="primary-navigation">
-      <li><a href="/archives/">Archives</a></li>
-      <!-- <li><a href="#">Membership</a></li> -->
-      <li><a href="/about/">About</a></li>
-      <li><a href="/subscribe/">Subscribe</a></li>
-      <li><a href="/support/">Support</a></li>
-    </ul>
-  </nav>
+    <nav class="site__navigation" role="navigation">
+      <ul class="primary-navigation">
+        <li><a href="/archives/">Archives</a></li>
+        <!-- <li><a href="#">Membership</a></li> -->
+        <li><a href="/about/">About</a></li>
+        <li><a href="/subscribe/">Subscribe</a></li>
+        <li><a href="/support/">Support</a></li>
+      </ul>
+    </nav>
 
-  <div class="sidebar__ad" id="fusion_ad">
-    <a class="fusionlink" href="http://fusionads.net">Powered by Fusion</a>
-  </div>
+    <div class="sidebar__ad" id="fusion_ad">
+      <a class="fusionlink" href="http://fusionads.net">Powered by Fusion</a>
+    </div>
 
-  <div id="search" class="site__search-form">
-    <form action="/search" method="get">
-      <p>
-        <input type="text" id="search-query" name="q" placeholder="Search…" autocomplete="off">
-      </p>
-    </form>
-  </div><!-- .site__search-form -->
+    <div id="search" class="site__search-form">
+      <form action="/search" method="get">
+        <p>
+          <input type="text" id="search-query" name="q" placeholder="Search…" autocomplete="off">
+        </p>
+      </form>
+    </div><!-- .site__search-form -->
+  </div><!-- .sidebar__wrap -->
 
 </aside>
 
@@ -145,13 +155,14 @@
 
 </main>
 
+
+
         <footer class="site__footer" role="contentinfo">
           <small><a href="/subscribe/">Subscribe</a> &middot; <a href="/archives/">Archives</a> &middot; <a href="https://github.com/ttimsmith/theboldreport.net">View Source on GitHub</a></small>
           <small><em>The Bold Report</em> &copy; 2013 Anythin’ Goes LLC. &amp; Timothy B. Smith.</small>
         </footer>
 
-
-      </div><!-- .container -->
+        </div><!-- .container -->
 
       <!-- Google Analytics -->
       <script>
@@ -167,7 +178,7 @@
 
       <!-- Other JS libraries -->
       <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-      <script src="/assets/app-0e4d6fb53e523665ac9f3412209c96d4.js"></script>
+      <script src="/assets/app-7277a53aef72951fe83c53cfd6d6145e.js"></script>
 
     </body>
 </html>

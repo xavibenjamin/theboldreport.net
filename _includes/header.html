@@ -80,8 +80,16 @@
     </head>
     <body {% if page.custom_css_class %} class="{{ page.custom_css_class }}" {% endif %}>
       <div class="container">
+
         <header class="site__header" role="banner">
-          <div class="contain">
-            <a href="/" class="logo">The Bold Report</a>
-          </div>
+            <button class="toggleNav mobile-logo">The Bold Report</button>
+            <nav class="mobile-nav">
+              <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/archives/">Archives</a></li>
+                <li><a href="/about/">About</a></li>
+                <li><a href="/subscribe/">Subscribe</a></li>
+                <li><a href="/support/">Support</a></li>
+              </ul>
+            </nav>
         </header>

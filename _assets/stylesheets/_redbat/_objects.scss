@@ -4,11 +4,12 @@ OBJECTS
 ------------------------------------------- */
 
 body {
-  background: $darkColor;
+  // background: $darkColor;
 }
 .container {
   margin: 0 auto;
-  max-width: 940px;
+  max-width: 1000px;
   width: 100%;
   @extend %clearfix;
+  position: relative;
 }

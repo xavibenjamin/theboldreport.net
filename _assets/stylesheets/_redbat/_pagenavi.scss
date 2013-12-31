@@ -22,7 +22,7 @@ PAGE NAVIGATION
 }
 
 .pagination a {
-  background: $jazzColor;
+  background: $darkColor;
   border: none !important;
   display: inline-block;
   padding: 5px 14px;
@@ -33,7 +33,7 @@ PAGE NAVIGATION
   text-decoration: none !important;
   @include border-radius (4px);
   &:hover {
-    background: darken($jazzColor, 10%);
+    background: $linkColor;
     color: white;
   }
   &:active {
