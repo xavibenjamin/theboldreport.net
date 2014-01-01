@@ -5,13 +5,29 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2013-12-31T16:52:03-06:00</updated>
+  <updated>2014-01-01T13:31:17-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2014/01/version-two</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/01/version-two"/>
+    <title>Version 2.0</title>
+    <published>2014-01-01T13:29:19-06:00</published>
+    <updated>2014-01-01T13:29:19-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;With a fresh year, comes a fresh design. I had some serious issues with the previous version’s typography, which I’ve mostly addressed with this redesign. It still needs refinement, but this is a good starting point for the year.&lt;/p&gt;
+
+&lt;p&gt;If you normally read in your RSS reader, take a look at the site today. I’d love to hear what you think.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2013/12/tirp-17</id>

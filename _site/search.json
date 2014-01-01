@@ -872,6 +872,15 @@
         "links"
       ],
       "body": "For our final episode of 2013 we talk IRC history, communicating properly with Adam, follow up on Snapchat, Adam’s new MacBook Pro and how to decide when to buy new gear for yourself. Needs vs wants."
+    },
+    {
+      "title": "Version 2.0",
+      "url": "/2014/01/version-two",
+      "date": "2014-01-01 13:29:19 -0600",
+      "categories": [
+        "articles"
+      ],
+      "body": "With a fresh year, comes a fresh design. I had some serious issues with the previous version’s typography, which I’ve mostly addressed with this redesign. It still needs refinement, but this is a good starting point for the year. If you normally read in your RSS reader, take a look at the site today. I’d love to hear what you think."
     }
   ]
 }

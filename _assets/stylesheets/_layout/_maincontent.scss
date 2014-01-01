@@ -6,26 +6,20 @@ MAIN CONTENT
 .content__main-content {
   background: white;
   float: left;
-  padding: 4em 0;
+  padding: 4em 3em;
   width: percentage(620/940);
   @include breakpoint(screen-xl) {
     width: percentage(650/940);
+  }
+  @include breakpoint(screen-l) {
+    padding: 3em 2em;
   }
   @include breakpoint(screen-m) {
     width: 100%;
     padding: 7em 3em 3em;
   }
   @include breakpoint(screen-s) {
-    padding: 7em 0 3em;
-  }
-  .page & {
-    padding: 4em 2.8em;
-    @include breakpoint(screen-xl) {
-      padding: 7em 2em 3em;
-    }
-    @include breakpoint(screen-xs) {
-      padding: 7em 1em 3em;
-    }
+    padding: 7em 1em 3em;
   }
 }
 
@@ -35,6 +29,9 @@ MAIN CONTENT
   }
   &.format-post {
     margin: 3em 0 8em 0;
+    &:first-child {
+      margin-top: 0;
+    }
     &:after {
       content: "♨";
       text-align: center;
@@ -50,17 +47,6 @@ MAIN CONTENT
     .single & {
       margin: 0 0 5em 0;
     }
-  }
-}
-
-.entry {
-  // border-bottom: 1px solid $borderColor;
-  padding: 0 2.8em;
-  @include breakpoint(screen-xl) {
-    padding: 0 2em;
-  }
-  @include breakpoint(screen-xs) {
-    padding: 0 1em;
   }
 }
 

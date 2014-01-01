@@ -18,6 +18,9 @@ REGULAR SIDEBAR STYLES =========== */
 .site__branding {
   background: darken($darkColor, 10%);
   padding: 6em 2em;
+  @include breakpoint(screen-l) {
+    padding: 3em 2em;
+  }
 }
 
 .logo {
@@ -36,7 +39,7 @@ REGULAR SIDEBAR STYLES =========== */
 
 
 .sidebar {
-  background: lighten($darkColor, 70%);
+background: lighten($darkColor, 72%);
   float: left;
   width: percentage(320/940);
   // position: fixed;
