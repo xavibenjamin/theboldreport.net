@@ -5,13 +5,68 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-01-02T11:15:56-06:00</updated>
+  <updated>2014-01-02T12:13:24-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    
+      <entry>
+        <id>http://theboldreport.net/2014/01/modification-to-main-rss-feed</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/01/modification-to-main-rss-feed"/>
+        <title>♨ Modification to Main RSS Feed</title>
+        <published>2014-01-02T12:10:36-06:00</published>
+        <updated>2014-01-02T12:10:36-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;I made a small modification to the main RSS feed. And I wanted to take a second to tell you about it.&lt;/p&gt;
+
+&lt;p&gt;This site publishes both articles, and link posts. Up until this point, if you were subscribed to the main RSS feed, or &lt;a href=&quot;https://twitter.com/theboldreport&quot;&gt;follow &lt;em&gt;The Bold Report&lt;/em&gt; on Twitter&lt;/a&gt;, there was really no way of distinguishing the difference without clicking on the link, or reading the post. If it was frustrating to me, I’m sure some of you felt the same.&lt;/p&gt;
+
+&lt;p&gt;Now, all articles have the ♨ symbol before the title, and those that don’t, are links. How did I do this? It’s actually quite simple.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;xml&quot;&gt;{% for post in site.posts %}
+  {% if post.custom_type == &amp;#39;post&amp;#39; %}
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;entry&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;id&amp;gt;&lt;/span&gt;http://theboldreport.net{{ post.id }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/id&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;text/html&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;alternate&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://theboldreport.net{{ post.url }}&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;♨ {{ post.title }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;published&amp;gt;&lt;/span&gt;{{ post.date | date_to_xmlschema }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/published&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;updated&amp;gt;&lt;/span&gt;{{ post.date | date_to_xmlschema }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/updated&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;author&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;name&amp;gt;&lt;/span&gt;Tim Smith&lt;span class=&quot;nt&quot;&gt;&amp;lt;/name&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;uri&amp;gt;&lt;/span&gt;http://ttimsmith.com/&lt;span class=&quot;nt&quot;&gt;&amp;lt;/uri&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;/author&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;content&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;html&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;{{ post.content | xml_escape }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/content&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/entry&amp;gt;&lt;/span&gt;
+
+  {% elsif post.custom_type == &amp;#39;link&amp;#39; %}
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;entry&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;id&amp;gt;&lt;/span&gt;http://theboldreport.net{{ post.id }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/id&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;text/html&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;alternate&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://theboldreport.net{{ post.url }}&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;{{ post.title }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;published&amp;gt;&lt;/span&gt;{{ post.date | date_to_xmlschema }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/published&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;updated&amp;gt;&lt;/span&gt;{{ post.date | date_to_xmlschema }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/updated&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;author&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;name&amp;gt;&lt;/span&gt;Tim Smith&lt;span class=&quot;nt&quot;&gt;&amp;lt;/name&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;uri&amp;gt;&lt;/span&gt;http://ttimsmith.com/&lt;span class=&quot;nt&quot;&gt;&amp;lt;/uri&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;/author&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;content&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;html&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;{{ post.content | xml_escape }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/content&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/entry&amp;gt;&lt;/span&gt;
+  {% endif %}
+{% endfor %}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Let me know if you have any questions. If you’d like to see the whole &lt;code&gt;atom.xml&lt;/code&gt;, &lt;a href=&quot;https://github.com/ttimsmith/theboldreport.net/blob/master/atom.xml&quot;&gt;here’s the source code&lt;/a&gt;. I hope this improves the reading experience ever so slightly.&lt;/p&gt;
+</content>
+      </entry>
+
+    
   
     
       <entry>

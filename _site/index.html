@@ -135,6 +135,59 @@
   <!-- This loops through the paginated posts -->
 <div class="content__posts">
 
+  <div class="type-post format-post">
+    <article class="entry">
+
+      
+        <p class="pubdate"><time datetime="2014-01-02T12:10:36-06:00">January  2, 2014</time></p>
+        <h1><a href="/2014/01/modification-to-main-rss-feed">Modification to Main RSS Feed</a></h1>
+        <p class="screen-reader-hide"><small>by Tim Smith</small></p>
+
+        <p>I made a small modification to the main RSS feed. And I wanted to take a second to tell you about it.</p>
+
+<p>This site publishes both articles, and link posts. Up until this point, if you were subscribed to the main RSS feed, or <a href="https://twitter.com/theboldreport">follow <em>The Bold Report</em> on Twitter</a>, there was really no way of distinguishing the difference without clicking on the link, or reading the post. If it was frustrating to me, I’m sure some of you felt the same.</p>
+
+<p>Now, all articles have the ♨ symbol before the title, and those that don’t, are links. How did I do this? It’s actually quite simple.</p>
+
+<div class="highlight"><pre><code class="xml">{% for post in site.posts %}
+  {% if post.custom_type == &#39;post&#39; %}
+    <span class="nt">&lt;entry&gt;</span>
+      <span class="nt">&lt;id&gt;</span>http://theboldreport.net{{ post.id }}<span class="nt">&lt;/id&gt;</span>
+      <span class="nt">&lt;link</span> <span class="na">type=</span><span class="s">&quot;text/html&quot;</span> <span class="na">rel=</span><span class="s">&quot;alternate&quot;</span> <span class="na">href=</span><span class="s">&quot;http://theboldreport.net{{ post.url }}&quot;</span><span class="nt">/&gt;</span>
+      <span class="nt">&lt;title&gt;</span>♨ {{ post.title }}<span class="nt">&lt;/title&gt;</span>
+      <span class="nt">&lt;published&gt;</span>{{ post.date | date_to_xmlschema }}<span class="nt">&lt;/published&gt;</span>
+      <span class="nt">&lt;updated&gt;</span>{{ post.date | date_to_xmlschema }}<span class="nt">&lt;/updated&gt;</span>
+      <span class="nt">&lt;author&gt;</span>
+        <span class="nt">&lt;name&gt;</span>Tim Smith<span class="nt">&lt;/name&gt;</span>
+        <span class="nt">&lt;uri&gt;</span>http://ttimsmith.com/<span class="nt">&lt;/uri&gt;</span>
+      <span class="nt">&lt;/author&gt;</span>
+      <span class="nt">&lt;content</span> <span class="na">type=</span><span class="s">&quot;html&quot;</span><span class="nt">&gt;</span>{{ post.content | xml_escape }}<span class="nt">&lt;/content&gt;</span>
+    <span class="nt">&lt;/entry&gt;</span>
+
+  {% elsif post.custom_type == &#39;link&#39; %}
+    <span class="nt">&lt;entry&gt;</span>
+      <span class="nt">&lt;id&gt;</span>http://theboldreport.net{{ post.id }}<span class="nt">&lt;/id&gt;</span>
+      <span class="nt">&lt;link</span> <span class="na">type=</span><span class="s">&quot;text/html&quot;</span> <span class="na">rel=</span><span class="s">&quot;alternate&quot;</span> <span class="na">href=</span><span class="s">&quot;http://theboldreport.net{{ post.url }}&quot;</span><span class="nt">/&gt;</span>
+      <span class="nt">&lt;title&gt;</span>{{ post.title }}<span class="nt">&lt;/title&gt;</span>
+      <span class="nt">&lt;published&gt;</span>{{ post.date | date_to_xmlschema }}<span class="nt">&lt;/published&gt;</span>
+      <span class="nt">&lt;updated&gt;</span>{{ post.date | date_to_xmlschema }}<span class="nt">&lt;/updated&gt;</span>
+      <span class="nt">&lt;author&gt;</span>
+        <span class="nt">&lt;name&gt;</span>Tim Smith<span class="nt">&lt;/name&gt;</span>
+        <span class="nt">&lt;uri&gt;</span>http://ttimsmith.com/<span class="nt">&lt;/uri&gt;</span>
+      <span class="nt">&lt;/author&gt;</span>
+      <span class="nt">&lt;content</span> <span class="na">type=</span><span class="s">&quot;html&quot;</span><span class="nt">&gt;</span>{{ post.content | xml_escape }}<span class="nt">&lt;/content&gt;</span>
+    <span class="nt">&lt;/entry&gt;</span>
+  {% endif %}
+{% endfor %}
+</code></pre></div>
+
+<p>Let me know if you have any questions. If you’d like to see the whole <code>atom.xml</code>, <a href="https://github.com/ttimsmith/theboldreport.net/blob/master/atom.xml">here’s the source code</a>. I hope this improves the reading experience ever so slightly.</p>
+
+
+      
+    </article>
+  </div><!-- .type-post -->
+
   <div class="type-post format-link">
     <article class="entry">
 
@@ -584,24 +637,6 @@ Running my own business allows me to work from anywhere. There is no need for me
 <hr />
 
 <p><em>A big thank you to <a href="http://syndicateads.net/s/vp">Pencils.com</a> for sponsoring the RSS feed this week. <a href="http://syndicateads.net/">Sponsorship by The Syndicate.</a></em></p>
-
-
-      
-    </article>
-  </div><!-- .type-post -->
-
-  <div class="type-post format-link">
-    <article class="entry">
-
-      
-        <h1>
-          <a href="http://www.beyondink.co.uk/">Beyond Ink</a><a href="/2013/12/beyond-ink" class="link__icon" title="Link to Beyond Ink"><span class="screen-reader-hide">Link to Post</span><span data-icon="a"></span></a>
-        </h1>
-        <p class="screen-reader-hide"><small>by Tim Smith</small></p>
-
-        <p>My friend, <a href="http://www.rachil.li/">Rachel Shillcock</a>, launched her new podcast called <em>Beyond Ink</em>. She’s a natural in front of the microphone, and does <a href="http://www.beyondink.co.uk/shows/01-laura-and-simon">a great first show with Simon Collison and Laura Kalbag</a>.</p>
-
-<p>She’ll hopefully be on <em>The East Wing</em> later this month to talk more about her new show.</p>
 
 
       
