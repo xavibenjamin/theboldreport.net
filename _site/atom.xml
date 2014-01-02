@@ -5,7 +5,7 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-01-02T11:11:29-06:00</updated>
+  <updated>2014-01-02T11:15:56-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
@@ -13,17 +13,18 @@
   </author>
 
   
-  <entry>
-    <id>http://theboldreport.net/2014/01/the-silent-subcontractor</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/01/the-silent-subcontractor"/>
-    <title>‘The Silent Subcontractor’</title>
-    <published>2014-01-02T11:09:02-06:00</published>
-    <updated>2014-01-02T11:09:02-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Laura Kalbag in her column on &lt;em&gt;A List Apart&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2014/01/the-silent-subcontractor</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/01/the-silent-subcontractor"/>
+        <title>‘The Silent Subcontractor’</title>
+        <published>2014-01-02T11:09:02-06:00</published>
+        <updated>2014-01-02T11:09:02-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Laura Kalbag in her column on &lt;em&gt;A List Apart&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;For the last four years I’ve had this daft rule: I don’t work with agencies.&lt;/p&gt;
@@ -35,19 +36,21 @@
 
 &lt;p&gt;Great advice for independent contractors. Laura’s perspective has definitely changed the way I look at the issue.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2014/01/the-top-10-worst-albums-of-the-year</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/01/the-top-10-worst-albums-of-the-year"/>
-    <title>‘The Top 10 Worst Albums of the Year’</title>
-    <published>2014-01-02T10:43:33-06:00</published>
-    <updated>2014-01-02T10:43:33-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Henry Monteiro: &lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2014/01/the-top-10-worst-albums-of-the-year</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/01/the-top-10-worst-albums-of-the-year"/>
+        <title>‘The Top 10 Worst Albums of the Year’</title>
+        <published>2014-01-02T10:43:33-06:00</published>
+        <updated>2014-01-02T10:43:33-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Henry Monteiro: &lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;As I’ve said before, 2013 was one of the best years in music I’ve seen personally.But still, even with such great music being released, there had to be some crap. Here are the 10 worst I’ve heard.&lt;/p&gt;
@@ -55,19 +58,21 @@
 
 &lt;p&gt;I love Henry’s honest and blunt critique. He’s spot on too.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2014/01/looking-forward</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/01/looking-forward"/>
-    <title>Looking Forward</title>
-    <published>2014-01-01T14:27:15-06:00</published>
-    <updated>2014-01-01T14:27:15-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;It’s 2014. I can’t believe I’m writing that. It seems like yesterday that I published &lt;a href=&quot;http://ttimsmith.com/2013/01/my-definition-of-success/&quot;&gt;this post&lt;/a&gt;.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2014/01/looking-forward</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/01/looking-forward"/>
+        <title>♨ Looking Forward</title>
+        <published>2014-01-01T14:27:15-06:00</published>
+        <updated>2014-01-01T14:27:15-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;It’s 2014. I can’t believe I’m writing that. It seems like yesterday that I published &lt;a href=&quot;http://ttimsmith.com/2013/01/my-definition-of-success/&quot;&gt;this post&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;2013 was an interesting year. It was riddled with both success and failure. Thankfully, the year ended on a high note. This was the first year that I accomplished all of my goals, except one.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
@@ -125,95 +130,109 @@ Running my own business allows me to work from anywhere. There is no need for me
   &lt;/ol&gt;
 &lt;/div&gt;
 </content>
-  </entry>
+      </entry>
+
+    
   
-  <entry>
-    <id>http://theboldreport.net/2014/01/version-two</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/01/version-two"/>
-    <title>Version 2.0</title>
-    <published>2014-01-01T13:29:19-06:00</published>
-    <updated>2014-01-01T13:29:19-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;With a fresh year, comes a fresh design. I had some serious issues with the previous version’s typography, which I’ve mostly addressed with this redesign. It still needs refinement, but this is a good starting point for the year.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2014/01/version-two</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/01/version-two"/>
+        <title>♨ Version 2.0</title>
+        <published>2014-01-01T13:29:19-06:00</published>
+        <updated>2014-01-01T13:29:19-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;With a fresh year, comes a fresh design. I had some serious issues with the previous version’s typography, which I’ve mostly addressed with this redesign. It still needs refinement, but this is a good starting point for the year.&lt;/p&gt;
 
 &lt;p&gt;If you normally read in your RSS reader, take a look at the site today. I’d love to hear what you think.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/12/tirp-17</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/tirp-17"/>
-    <title>The Intellectual Radio Program: Time Flies When You’re Complaining on the Internet</title>
-    <published>2013-12-20T13:57:31-06:00</published>
-    <updated>2013-12-20T13:57:31-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;For our final episode of 2013 we talk IRC history, communicating properly with Adam, follow up on Snapchat, Adam’s new MacBook Pro and how to decide when to buy new gear for yourself. Needs vs wants.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/12/tirp-17</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/tirp-17"/>
+        <title>The Intellectual Radio Program: Time Flies When You’re Complaining on the Internet</title>
+        <published>2013-12-20T13:57:31-06:00</published>
+        <updated>2013-12-20T13:57:31-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;For our final episode of 2013 we talk IRC history, communicating properly with Adam, follow up on Snapchat, Adam’s new MacBook Pro and how to decide when to buy new gear for yourself. Needs vs wants.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/12/my-interview-on-the-shakes</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/my-interview-on-the-shakes"/>
-    <title>My Interview on The Shakes</title>
-    <published>2013-12-20T12:14:24-06:00</published>
-    <updated>2013-12-20T12:14:24-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Pat and Jeremy were so kind to invite me on their show. We talk about how I started out, my age, Ron Burgundy, and a lot more.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/12/my-interview-on-the-shakes</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/my-interview-on-the-shakes"/>
+        <title>My Interview on The Shakes</title>
+        <published>2013-12-20T12:14:24-06:00</published>
+        <updated>2013-12-20T12:14:24-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Pat and Jeremy were so kind to invite me on their show. We talk about how I started out, my age, Ron Burgundy, and a lot more.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/12/the-east-wing-77</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/the-east-wing-77"/>
-    <title>The East Wing: Rachel Shillcock</title>
-    <published>2013-12-20T12:07:05-06:00</published>
-    <updated>2013-12-20T12:07:05-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;This week: I talk with Rachel Shillcock about her speaking engagements, her new podcast, Beyond Ink, and an update on her freelancing.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/12/the-east-wing-77</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/the-east-wing-77"/>
+        <title>The East Wing: Rachel Shillcock</title>
+        <published>2013-12-20T12:07:05-06:00</published>
+        <updated>2013-12-20T12:07:05-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;This week: I talk with Rachel Shillcock about her speaking engagements, her new podcast, Beyond Ink, and an update on her freelancing.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Sponsored by &lt;a href=&quot;http://symbolicons.com/&quot;&gt;Symbolicons&lt;/a&gt;. Use the code ‘timlovesicons’ for 15% off.&lt;/em&gt;&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/12/ala-387</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/ala-387"/>
-    <title>A List Apart Issue 387</title>
-    <published>2013-12-17T11:16:28-06:00</published>
-    <updated>2013-12-17T11:16:28-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Nick Cox writes an excellent article in the last &lt;em&gt;A List Apart&lt;/em&gt; issue of the year. In &lt;a href=&quot;http://alistapart.com/article/a-moment-to-breathe&quot;&gt;“A Moment to Breathe”&lt;/a&gt;, he tells the story of how he realized he was working too much, and what he &lt;strong&gt;&lt;em&gt;forced himself&lt;/em&gt;&lt;/strong&gt; to do, to correct it.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/12/ala-387</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/ala-387"/>
+        <title>A List Apart Issue 387</title>
+        <published>2013-12-17T11:16:28-06:00</published>
+        <updated>2013-12-17T11:16:28-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Nick Cox writes an excellent article in the last &lt;em&gt;A List Apart&lt;/em&gt; issue of the year. In &lt;a href=&quot;http://alistapart.com/article/a-moment-to-breathe&quot;&gt;“A Moment to Breathe”&lt;/a&gt;, he tells the story of how he realized he was working too much, and what he &lt;strong&gt;&lt;em&gt;forced himself&lt;/em&gt;&lt;/strong&gt; to do, to correct it.&lt;/p&gt;
 
 &lt;p&gt;What I find so fascinating about stories like this, is that because we’re all so passionate about our work, it can be difficult to listen when our body is telling us we need a break. But story after story (Nick’s included), we see that the world won’t end if we step back, work less, and sleep eight hours.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/12/sponsor-webydo</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/sponsor-webydo"/>
-    <title>Sponsor: Webydo - Professional Website Design Software</title>
-    <published>2013-12-17T00:00:00-06:00</published>
-    <updated>2013-12-17T00:00:00-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://webydo.com&quot;&gt;Webydo&lt;/a&gt; enables professional web and graphic designers to create, publish, and manage pixel-perfect websites without having to write a single line of code, and provides them with the freedom of creativity to focus on what’s important—the &lt;em&gt;design&lt;/em&gt;. &lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/12/sponsor-webydo</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/sponsor-webydo"/>
+        <title>Sponsor: Webydo - Professional Website Design Software</title>
+        <published>2013-12-17T00:00:00-06:00</published>
+        <updated>2013-12-17T00:00:00-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;&lt;a href=&quot;http://webydo.com&quot;&gt;Webydo&lt;/a&gt; enables professional web and graphic designers to create, publish, and manage pixel-perfect websites without having to write a single line of code, and provides them with the freedom of creativity to focus on what’s important—the &lt;em&gt;design&lt;/em&gt;. &lt;/p&gt;
 
 &lt;p&gt;Webydo is made by designers, for designers and is the only solution for &lt;a href=&quot;http://webydo.com&quot;&gt;website creation&lt;/a&gt; with a built in CMS (content management system) and DMS (design management system). Webydo also gives you the option to directly bill your clients, brand Webydo as your own, and provide full cross-browser capabilities. What’s more, with Webydo, you can efficiently &lt;a href=&quot;http://webydo.com&quot;&gt;create a responsive website&lt;/a&gt; with complete cross-browser capabilities as well.&lt;/p&gt;
 
@@ -224,49 +243,55 @@ Running my own business allows me to work from anywhere. There is no need for me
 &lt;hr /&gt;
 &lt;p&gt;&lt;em&gt;A huge thanks to &lt;a href=&quot;http://syndicateads.net/s/wh&quot;&gt;Webydo&lt;/a&gt; for sponsoring the RSS feed this week. &lt;a href=&quot;http://syndicateads.net/&quot;&gt;Sponsorship by The Syndicate&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/12/godzilla-official-trailer</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/godzilla-official-trailer"/>
-    <title>Godzilla Official Trailer</title>
-    <published>2013-12-10T12:14:14-06:00</published>
-    <updated>2013-12-10T12:14:14-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Please let this one be better than &lt;a href=&quot;http://www.imdb.com/title/tt0120685/&quot;&gt;the one from 1998&lt;/a&gt;. Brian Cranston is in it, so that’s something to look forward to.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/12/godzilla-official-trailer</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/godzilla-official-trailer"/>
+        <title>Godzilla Official Trailer</title>
+        <published>2013-12-10T12:14:14-06:00</published>
+        <updated>2013-12-10T12:14:14-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Please let this one be better than &lt;a href=&quot;http://www.imdb.com/title/tt0120685/&quot;&gt;the one from 1998&lt;/a&gt;. Brian Cranston is in it, so that’s something to look forward to.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/12/stay-organized-with-bartender</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/stay-organized-with-bartender"/>
-    <title>Stay Organized with Bartender</title>
-    <published>2013-12-10T10:45:04-06:00</published>
-    <updated>2013-12-10T10:45:04-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Stephen Hackett writes a concise review of Bartender, and why it’s &lt;em&gt;The Sweet Setup’s&lt;/em&gt; best app for keeping the menu bar organized. &lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/12/stay-organized-with-bartender</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/stay-organized-with-bartender"/>
+        <title>Stay Organized with Bartender</title>
+        <published>2013-12-10T10:45:04-06:00</published>
+        <updated>2013-12-10T10:45:04-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Stephen Hackett writes a concise review of Bartender, and why it’s &lt;em&gt;The Sweet Setup’s&lt;/em&gt; best app for keeping the menu bar organized. &lt;/p&gt;
 
 &lt;p&gt;I’m a huge fan of &lt;a href=&quot;http://www.macbartender.com/&quot;&gt;Bartender&lt;/a&gt;. Because I normally prefer menu bar apps, things can get cluttered pretty easily, and as Stephen points out, there are some that you don’t need to monitor 24/7.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/12/sponsor-atlassians-agile-guide</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/sponsor-atlassians-agile-guide"/>
-    <title>Sponsor: Atlassian’s Agile Guide</title>
-    <published>2013-12-10T10:25:43-06:00</published>
-    <updated>2013-12-10T10:25:43-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;What’s the point of an agile standup meeting? &lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/12/sponsor-atlassians-agile-guide</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/sponsor-atlassians-agile-guide"/>
+        <title>Sponsor: Atlassian’s Agile Guide</title>
+        <published>2013-12-10T10:25:43-06:00</published>
+        <updated>2013-12-10T10:25:43-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;What’s the point of an agile standup meeting? &lt;/p&gt;
 
 &lt;p&gt;Gone are the days of 30-minute status meetings where most people are half-asleep or pecking away on their laptops, oblivious to what’s being said. Agile standups are the leaner, more efficient cousin of status meetings where attendees actually stand up. On our feet, we’re more focused, attentive, and concise. It’s science!&lt;/p&gt;
 
@@ -276,19 +301,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;&lt;em&gt;A huge thanks to &lt;a href=&quot;http://syndicateads.net/s/w3&quot;&gt;Atlassian’s Agile Guide&lt;/a&gt; for sponsoring the RSS feed this week. &lt;a href=&quot;http://syndicateads.net/&quot;&gt;Sponsorship by The Syndicate.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/12/newsstand-isnt-the-problem</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/newsstand-isnt-the-problem"/>
-    <title>Newsstand Isn’t the Problem</title>
-    <published>2013-12-05T19:20:33-06:00</published>
-    <updated>2013-12-05T19:20:33-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Ben Brooks on &lt;em&gt;The Brooks Review&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/12/newsstand-isnt-the-problem</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/newsstand-isnt-the-problem"/>
+        <title>Newsstand Isn’t the Problem</title>
+        <published>2013-12-05T19:20:33-06:00</published>
+        <updated>2013-12-05T19:20:33-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Ben Brooks on &lt;em&gt;The Brooks Review&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;[A post on PandoDaily] blames the Newsstand icon and design on faltering sales. Perceived lack of attention from Apple, and lack of icon badging (I assume, because it is never explicitly said) were other ‘excuses’ mentioned.&lt;/p&gt;
@@ -302,33 +329,37 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;Agreed. I’ve been very disappointed with the subscriptions I have in Newsstand. Blaming Apple is easy, and people just don’t “forget” about your publication.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/12/tirp-15</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/tirp-15"/>
-    <title>The Intellectual Radio Program: I Instapaper a Lot of Things I Shouldn’t</title>
-    <published>2013-12-05T18:51:37-06:00</published>
-    <updated>2013-12-05T18:51:37-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;This week: All three amigos are back in the SSKTN studios. We follow up on Adam’s 13″ vs 15″ debate, his smoke alarm battery, and we have a group therapy session on getting projects out the virtual door. In the words of mudmonster from the chat room—“the best TIRP yet.”&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/12/tirp-15</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/tirp-15"/>
+        <title>The Intellectual Radio Program: I Instapaper a Lot of Things I Shouldn’t</title>
+        <published>2013-12-05T18:51:37-06:00</published>
+        <updated>2013-12-05T18:51:37-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;This week: All three amigos are back in the SSKTN studios. We follow up on Adam’s 13″ vs 15″ debate, his smoke alarm battery, and we have a group therapy session on getting projects out the virtual door. In the words of mudmonster from the chat room—“the best TIRP yet.”&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/12/netflix-breaking-from-all-at-once-release-strategy-with-turbo-fast</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/netflix-breaking-from-all-at-once-release-strategy-with-turbo-fast"/>
-    <title>Netflix Breaking From All-At-Once Release Strategy with ‘Turbo Fast’</title>
-    <published>2013-12-04T12:17:50-06:00</published>
-    <updated>2013-12-04T12:17:50-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Chris Welch on &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/12/netflix-breaking-from-all-at-once-release-strategy-with-turbo-fast</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/netflix-breaking-from-all-at-once-release-strategy-with-turbo-fast"/>
+        <title>Netflix Breaking From All-At-Once Release Strategy with ‘Turbo Fast’</title>
+        <published>2013-12-04T12:17:50-06:00</published>
+        <updated>2013-12-04T12:17:50-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Chris Welch on &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Netflix is deviating from the all-at-once release strategy it’s followed for House of Cards, Orange is the New Black, and the fourth season of Arrested Development. Instead of releasing an entire season on day one, just five episodes of Turbo Fast will be available for streaming on Christmas Eve. Additional new episodes will follow “throughout the year” according to Netflix.&lt;/p&gt;
@@ -350,33 +381,37 @@ Running my own business allows me to work from anywhere. There is no need for me
   &lt;/ol&gt;
 &lt;/div&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/12/house-of-cards-returns-in-february</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/house-of-cards-returns-in-february"/>
-    <title>‘House of Cards’ Returns in February</title>
-    <published>2013-12-04T12:14:46-06:00</published>
-    <updated>2013-12-04T12:14:46-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Can’t wait.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/12/house-of-cards-returns-in-february</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/house-of-cards-returns-in-february"/>
+        <title>‘House of Cards’ Returns in February</title>
+        <published>2013-12-04T12:14:46-06:00</published>
+        <updated>2013-12-04T12:14:46-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Can’t wait.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/12/a-list-apart-386</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/a-list-apart-386"/>
-    <title>A List Apart Issue 386</title>
-    <published>2013-12-04T11:46:32-06:00</published>
-    <updated>2013-12-04T11:46:32-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;In &lt;a href=&quot;http://alistapart.com/article/surveying-the-big-screen&quot;&gt;“Surveying the Big Screen”&lt;/a&gt;, Mike Pick does a great job of pointing out the need to explore the possibilities on larger screens.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Alex Feyerke writes an excellent article titled &lt;a href=&quot;http://alistapart.com/article/offline-first&quot;&gt;“Designing Offline-First Web Apps”&lt;/a&gt;, and talks about a fact of life—being offline. How does that affect the way we design and build applications?&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/12/a-list-apart-386</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/a-list-apart-386"/>
+        <title>A List Apart Issue 386</title>
+        <published>2013-12-04T11:46:32-06:00</published>
+        <updated>2013-12-04T11:46:32-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;In &lt;a href=&quot;http://alistapart.com/article/surveying-the-big-screen&quot;&gt;“Surveying the Big Screen”&lt;/a&gt;, Mike Pick does a great job of pointing out the need to explore the possibilities on larger screens.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Alex Feyerke writes an excellent article titled &lt;a href=&quot;http://alistapart.com/article/offline-first&quot;&gt;“Designing Offline-First Web Apps”&lt;/a&gt;, and talks about a fact of life—being offline. How does that affect the way we design and build applications?&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
@@ -386,19 +421,21 @@ Running my own business allows me to work from anywhere. There is no need for me
   &lt;/ol&gt;
 &lt;/div&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/12/yahoo-year-in-review-report</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/yahoo-year-in-review-report"/>
-    <title>Yahoo’s ‘Year in Review’ Report</title>
-    <published>2013-12-03T12:03:31-06:00</published>
-    <updated>2013-12-03T12:03:31-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Ken Yeung on &lt;em&gt;The Next Web&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/12/yahoo-year-in-review-report</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/yahoo-year-in-review-report"/>
+        <title>Yahoo’s ‘Year in Review’ Report</title>
+        <published>2013-12-03T12:03:31-06:00</published>
+        <updated>2013-12-03T12:03:31-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Ken Yeung on &lt;em&gt;The Next Web&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Are there any shockers in the top searches of 2013? What may come as no surprise to some people is that Miley Cyrus takes the top spot, followed by Kim Kardashian, and American model Kate Upton. Minecraft and Apple’s iPhone 5 are the only two technology-related queries to make it into the top 10.&lt;/p&gt;
@@ -406,19 +443,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;&lt;em&gt;Shocking&lt;/em&gt;. It should be cause of concern that in the top ten searches on Yahoo, only &lt;strong&gt;&lt;em&gt;one&lt;/em&gt;&lt;/strong&gt; of them is a current news item that people should be well informed on. &lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/12/sponsor-pencils-com</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/sponsor-pencils-com"/>
-    <title>Sponsor: Pencils.com</title>
-    <published>2013-12-03T11:37:56-06:00</published>
-    <updated>2013-12-03T11:37:56-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;At &lt;a href=&quot;http://syndicateads.net/s/vp&quot;&gt;Pencils.com&lt;/a&gt;, we believe that creativity is the greatest of all virtues. And, with our selection of unique, high-quality pencils, notebooks, and creative tools, we’ve got everything you need to unleash yours. &lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/12/sponsor-pencils-com</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/sponsor-pencils-com"/>
+        <title>Sponsor: Pencils.com</title>
+        <published>2013-12-03T11:37:56-06:00</published>
+        <updated>2013-12-03T11:37:56-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;At &lt;a href=&quot;http://syndicateads.net/s/vp&quot;&gt;Pencils.com&lt;/a&gt;, we believe that creativity is the greatest of all virtues. And, with our selection of unique, high-quality pencils, notebooks, and creative tools, we’ve got everything you need to unleash yours. &lt;/p&gt;
 
 &lt;p&gt;Whether you’re a pencil nut who knows all the brands (&lt;a href=&quot;http://www.pencils.com/all-brands/caran-d-ache?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=caran&amp;amp;utm_campaign=dec&quot;&gt;Caran d’Ache&lt;/a&gt;, &lt;a href=&quot;http://www.pencils.com/all-brands/blackwing?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=blackwing&amp;amp;utm_campaign=dec&quot;&gt;Blackwing&lt;/a&gt;, &lt;a href=&quot;http://www.pencils.com/all-brands/faber-castell?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=faber&amp;amp;utm_campaign=dec&quot;&gt;Faber-Castell&lt;/a&gt;, we stock them all), or a casual doodler looking for something to inspire you, there’s something for you on Pencils.com. Combine that with our legendary customer service and fast, reliable shipping, and you’ve got some serious creative potential.&lt;/p&gt;
 
@@ -430,35 +469,39 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;&lt;em&gt;A big thank you to &lt;a href=&quot;http://syndicateads.net/s/vp&quot;&gt;Pencils.com&lt;/a&gt; for sponsoring the RSS feed this week. &lt;a href=&quot;http://syndicateads.net/&quot;&gt;Sponsorship by The Syndicate.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/12/beyond-ink</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/beyond-ink"/>
-    <title>Beyond Ink</title>
-    <published>2013-12-02T11:13:39-06:00</published>
-    <updated>2013-12-02T11:13:39-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;My friend, &lt;a href=&quot;http://www.rachil.li/&quot;&gt;Rachel Shillcock&lt;/a&gt;, launched her new podcast called &lt;em&gt;Beyond Ink&lt;/em&gt;. She’s a natural in front of the microphone, and does &lt;a href=&quot;http://www.beyondink.co.uk/shows/01-laura-and-simon&quot;&gt;a great first show with Simon Collison and Laura Kalbag&lt;/a&gt;.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/12/beyond-ink</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/beyond-ink"/>
+        <title>Beyond Ink</title>
+        <published>2013-12-02T11:13:39-06:00</published>
+        <updated>2013-12-02T11:13:39-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;My friend, &lt;a href=&quot;http://www.rachil.li/&quot;&gt;Rachel Shillcock&lt;/a&gt;, launched her new podcast called &lt;em&gt;Beyond Ink&lt;/em&gt;. She’s a natural in front of the microphone, and does &lt;a href=&quot;http://www.beyondink.co.uk/shows/01-laura-and-simon&quot;&gt;a great first show with Simon Collison and Laura Kalbag&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;She’ll hopefully be on &lt;em&gt;The East Wing&lt;/em&gt; later this month to talk more about her new show.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/12/ron-burgundy-takes-over-local-news-to-promote-anchorman-2</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/ron-burgundy-takes-over-local-news-to-promote-anchorman-2"/>
-    <title>Ron Burgundy Takes Over Local News to Promote ‘Anchorman 2’</title>
-    <published>2013-12-02T10:48:57-06:00</published>
-    <updated>2013-12-02T10:48:57-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Kwame Opam on &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/12/ron-burgundy-takes-over-local-news-to-promote-anchorman-2</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/ron-burgundy-takes-over-local-news-to-promote-anchorman-2"/>
+        <title>Ron Burgundy Takes Over Local News to Promote ‘Anchorman 2’</title>
+        <published>2013-12-02T10:48:57-06:00</published>
+        <updated>2013-12-02T10:48:57-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Kwame Opam on &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The theatrical release of Anchorman 2: The Legend Continues is only weeks away, and the promotion campaign for the film is only getting wilder. &lt;a href=&quot;http://www.theverge.com/2013/11/25/5143208/anchorman-2-targets-the-social-web-with-more-than-50-short-videos&quot;&gt;After starring in 50 short clips where Ron Burgundy reads news from around the world&lt;/a&gt;, Will Ferrell co-anchored a live news broadcast in North Dakota last night, staying in character the entire time.&lt;/p&gt;
@@ -466,19 +509,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;Hilarious. The way they’ve promoted this film is absolute genius, and I can’t wait to watch it.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/12/amazon-plans-to-use-drones-for-new-prime-air-service</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/amazon-plans-to-use-drones-for-new-prime-air-service"/>
-    <title>Amazon Plans to Use Drones for New Prime Air Service</title>
-    <published>2013-12-02T10:28:44-06:00</published>
-    <updated>2013-12-02T10:28:44-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;John Ribeiro on &lt;em&gt;TechHive&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/12/amazon-plans-to-use-drones-for-new-prime-air-service</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/12/amazon-plans-to-use-drones-for-new-prime-air-service"/>
+        <title>Amazon Plans to Use Drones for New Prime Air Service</title>
+        <published>2013-12-02T10:28:44-06:00</published>
+        <updated>2013-12-02T10:28:44-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;John Ribeiro on &lt;em&gt;TechHive&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Amazon.com plans to deliver packages to customers using unmanned aerial vehicles in 30 minutes or less.&lt;/p&gt;
@@ -488,37 +533,41 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;I don’t know whether I should be enthused or panicked by this story. I think the answer is both.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/11/organize-that-sass</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/organize-that-sass"/>
-    <title>Organize that Sass!</title>
-    <published>2013-11-27T10:18:11-06:00</published>
-    <updated>2013-11-27T10:18:11-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/11/organize-that-sass</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/organize-that-sass"/>
+        <title>Organize that Sass!</title>
+        <published>2013-11-27T10:18:11-06:00</published>
+        <updated>2013-11-27T10:18:11-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;One of the many beauties of working with Sass is how easy it is to get organized. In the past, importing different CSS files wasn’t good practice and in fact made for more HTTP requests. With Sass, you can have many different partials which allow you to isolate styles in a logical way.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;I’m so excited about my first post for the &lt;em&gt;A List Apart&lt;/em&gt; blog! It’s a quick post on using partials to get organized with Sass.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/11/magneto-blamed-for-jfk-murder</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/magneto-blamed-for-jfk-murder"/>
-    <title>Magneto Blamed for JFK Murder</title>
-    <published>2013-11-27T09:48:03-06:00</published>
-    <updated>2013-11-27T09:48:03-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Kwame Opam on &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/11/magneto-blamed-for-jfk-murder</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/magneto-blamed-for-jfk-murder"/>
+        <title>Magneto Blamed for JFK Murder</title>
+        <published>2013-11-27T09:48:03-06:00</published>
+        <updated>2013-11-27T09:48:03-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Kwame Opam on &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;To promote the upcoming X-men: Days of Future Past, a new viral site takes the 50th anniversary of JFK’s murder and spins a new conspiracy theory out of the historic tragedy.&lt;/p&gt;
@@ -526,19 +575,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;Some will say this is wrong, but it’s quite an interesting twist on actual history, and an intriguing way to promote a movie.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/11/kobe-bryants-signs-2-year-extension-with-lakers</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/kobe-bryants-signs-2-year-extension-with-lakers"/>
-    <title>Kobe Bryant Signs 2-Year Extension with Los Angeles Lakers</title>
-    <published>2013-11-26T13:14:11-06:00</published>
-    <updated>2013-11-26T13:14:11-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/11/kobe-bryants-signs-2-year-extension-with-lakers</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/kobe-bryants-signs-2-year-extension-with-lakers"/>
+        <title>Kobe Bryant Signs 2-Year Extension with Los Angeles Lakers</title>
+        <published>2013-11-26T13:14:11-06:00</published>
+        <updated>2013-11-26T13:14:11-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Kobe Bryant signed a two-year contract extension with the Los Angeles Lakers on Monday.&lt;/p&gt;
 
   &lt;p&gt;The Lakers did not announce financial terms, but a source told ESPNLosAngeles.com’s Ramona Shelburne that the deal is worth $48.5 million.&lt;/p&gt;
@@ -548,33 +599,37 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;But&lt;/em&gt;&lt;/strong&gt; I could be terribly wrong. They don’t call him the Black Mamba for nothing.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/11/the-sweet-setup</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/the-sweet-setup"/>
-    <title>The Sweet Setup</title>
-    <published>2013-11-26T12:56:52-06:00</published>
-    <updated>2013-11-26T12:56:52-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://shawnblanc.net/&quot;&gt;Shawn Blanc&lt;/a&gt; launched a new site last week, called The Sweet Setup. I’ve always payed close attention to Shawn’s app recommendations, but creating a site just for these is a great idea.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/11/the-sweet-setup</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/the-sweet-setup"/>
+        <title>The Sweet Setup</title>
+        <published>2013-11-26T12:56:52-06:00</published>
+        <updated>2013-11-26T12:56:52-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;&lt;a href=&quot;http://shawnblanc.net/&quot;&gt;Shawn Blanc&lt;/a&gt; launched a new site last week, called The Sweet Setup. I’ve always payed close attention to Shawn’s app recommendations, but creating a site just for these is a great idea.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/11/sponsor-fracture-your-picture-directly-on-glass</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/sponsor-fracture-your-picture-directly-on-glass"/>
-    <title>Sponsor: Fracture. Your picture, directly on glass.</title>
-    <published>2013-11-26T12:22:09-06:00</published>
-    <updated>2013-11-26T12:22:09-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://fractureme.com/?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=fracture&amp;amp;utm_campaign=syn2&quot;&gt;Fracture&lt;/a&gt; prints your photo in vivid color directly on glass. It’s a picture, frame, &amp;amp; mount all in one.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/11/sponsor-fracture-your-picture-directly-on-glass</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/sponsor-fracture-your-picture-directly-on-glass"/>
+        <title>Sponsor: Fracture. Your picture, directly on glass.</title>
+        <published>2013-11-26T12:22:09-06:00</published>
+        <updated>2013-11-26T12:22:09-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;&lt;a href=&quot;http://fractureme.com/?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=fracture&amp;amp;utm_campaign=syn2&quot;&gt;Fracture&lt;/a&gt; prints your photo in vivid color directly on glass. It’s a picture, frame, &amp;amp; mount all in one.&lt;/p&gt;
 
 &lt;p&gt;It’s a &lt;a href=&quot;http://fractureme.com/?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=modern&amp;amp;utm_campaign=syn2&quot;&gt;modern, elegant, and affordable way&lt;/a&gt; to print and display your favorite memories. Your print comes with everything you need to display your photo, right in the durable packaging.&lt;/p&gt;
 
@@ -586,37 +641,41 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;&lt;em&gt;Big thanks to &lt;a href=&quot;http://syndicateads.net/s/vb&quot;&gt;Fracture&lt;/a&gt; for sponsoring this week’s RSS Feed. &lt;a href=&quot;http://syndicateads.net/&quot;&gt;Sponsorship by The Syndicate.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/11/geri-coady-on-design-trends</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/geri-coady-on-design-trends"/>
-    <title>Geri Coady on Design Trends</title>
-    <published>2013-11-21T10:56:11-06:00</published>
-    <updated>2013-11-21T10:56:11-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/11/geri-coady-on-design-trends</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/geri-coady-on-design-trends"/>
+        <title>Geri Coady on Design Trends</title>
+        <published>2013-11-21T10:56:11-06:00</published>
+        <updated>2013-11-21T10:56:11-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Should we really be dropping buttons, even if it negatively affects intuitive interaction patterns or confuses people with cognitive disabilities? Should we really be using thin type to look “modern” at the risk of decreasing legibility? And tell me, should we really be dropping textures and reducing contrast because it’s the “stylish” thing to do this week?&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Geri makes some amazing points, and then drops the mic. Such a great read.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/11/sponsor-voila-ultimate-screen-capture-solution-for-your-mac</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/sponsor-voila-ultimate-screen-capture-solution-for-your-mac"/>
-    <title>Sponsor: Voila: Ultimate Screen Capture Solution for your Mac</title>
-    <published>2013-11-21T08:34:24-06:00</published>
-    <updated>2013-11-21T08:34:24-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://syndicateads.net/s/ux&quot;&gt;Voila&lt;/a&gt; is the most powerful screen capturing software available for your Mac. Voila lets you capture and record content and then easily share it with friends and co-workers or upload it to the web.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/11/sponsor-voila-ultimate-screen-capture-solution-for-your-mac</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/sponsor-voila-ultimate-screen-capture-solution-for-your-mac"/>
+        <title>Sponsor: Voila: Ultimate Screen Capture Solution for your Mac</title>
+        <published>2013-11-21T08:34:24-06:00</published>
+        <updated>2013-11-21T08:34:24-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;&lt;a href=&quot;http://syndicateads.net/s/ux&quot;&gt;Voila&lt;/a&gt; is the most powerful screen capturing software available for your Mac. Voila lets you capture and record content and then easily share it with friends and co-workers or upload it to the web.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://syndicateads.net/s/ux&quot;&gt;Voila&lt;/a&gt; is the perfect screen recorder for your Mac. You can easily make high-quality product demos, DIY app simulations, and tutorials. Create interactive content by recording your Mac screen along with audio and all your click streams. Then complete your screencast by annotating your screenshots with professional tools and features. Record like a pro and publish your final project to FTP/SFTP, Tumblr, Dropbox, Evernote, and YouTube with Voila.&lt;/p&gt;
 
@@ -627,19 +686,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 &lt;hr /&gt;
 &lt;p&gt;&lt;em&gt;Thanks to &lt;a href=&quot;http://syndicateads.net/s/ux&quot;&gt;Voila&lt;/a&gt; for sponsoring the RSS feed this week. &lt;a href=&quot;http://syndicateads.net/&quot;&gt;Sponsorship by The Syndicate.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/11/twitter-tests-cleaner-web-design</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/twitter-tests-cleaner-web-design"/>
-    <title>Twitter Tests Cleaner Web Design</title>
-    <published>2013-11-21T00:00:00-06:00</published>
-    <updated>2013-11-21T00:00:00-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Darrell Etherington on &lt;em&gt;TechCrunch&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/11/twitter-tests-cleaner-web-design</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/twitter-tests-cleaner-web-design"/>
+        <title>Twitter Tests Cleaner Web Design</title>
+        <published>2013-11-21T00:00:00-06:00</published>
+        <updated>2013-11-21T00:00:00-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Darrell Etherington on &lt;em&gt;TechCrunch&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Twitter is testing a new website design, which opts for a lighter, flat design that seems at least partly inspired by its shift to similar design trends on mobile.&lt;/p&gt;
@@ -647,19 +708,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;This looks terrible. It lacks the polish it should have. The type continues to feel tight, and the fact that they’re going “flat”, is disappointing.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/11/why-you-should-use-sass</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/why-you-should-use-sass"/>
-    <title>Why You Should Use Sass</title>
-    <published>2013-11-15T14:31:59-06:00</published>
-    <updated>2013-11-15T14:31:59-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Dan Cederholm on &lt;em&gt;A List Apart&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/11/why-you-should-use-sass</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/why-you-should-use-sass"/>
+        <title>Why You Should Use Sass</title>
+        <published>2013-11-15T14:31:59-06:00</published>
+        <updated>2013-11-15T14:31:59-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Dan Cederholm on &lt;em&gt;A List Apart&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;…the reality is that Sass (and other CSS preprocessors) can be a powerful ally—a tool that any style-crafter can easily insert into their daily work. It took me a while to come around, but I’m sure glad that I did.&lt;/p&gt;
@@ -667,19 +730,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;We published a great excerpt from Dan’s new book &lt;a href=&quot;http://www.abookapart.com/products/sass-for-web-designers&quot;&gt;&lt;em&gt;Sass for Web Designers&lt;/em&gt;&lt;/a&gt;. Dan has been long regarded as one of the best when it comes to CSS, and I can’t wait to finish reading this new book. If you’re on the fence about whether to buy the book, this great excerpt might be just the thing to whet your appetite.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/11/sponsor-lootback</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/sponsor-lootback"/>
-    <title>Sponsor: Lootback</title>
-    <published>2013-11-14T12:50:24-06:00</published>
-    <updated>2013-11-14T12:50:24-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;/uploads/2013/11/Lootback.png&quot; alt=&quot;Lootback ad&quot; /&gt;&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/11/sponsor-lootback</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/sponsor-lootback"/>
+        <title>Sponsor: Lootback</title>
+        <published>2013-11-14T12:50:24-06:00</published>
+        <updated>2013-11-14T12:50:24-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;&lt;img src=&quot;/uploads/2013/11/Lootback.png&quot; alt=&quot;Lootback ad&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.executionists.com/blog/website-design/cost-to-build-websites-2013/&quot;&gt;According to recent research&lt;/a&gt;, the average small business owner can expect to pay somewhere between $100 and $200 for stock images for their website. Of course, for the owner going through a professional designer, this is just part of a larger number. If you’re a designer, you should always be looking for ways to bring down the final cost of a website. Outbidding the competition isn’t the only factor when it comes to success, but cutting costs where possible certainly won’t hurt. &lt;/p&gt;
 
@@ -693,19 +758,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;&lt;em&gt;Thanks to &lt;a href=&quot;http://syndicateads.net/s/uj&quot;&gt;Lootback&lt;/a&gt; for sponsoring the RSS feed this week. &lt;a href=&quot;http://syndicateads.net/&quot;&gt;Sponsorship by The Syndicate.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/11/marvel-creating-superhero-shows-for-netflix</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/marvel-creating-superhero-shows-for-netflix"/>
-    <title>Marvel Creating Superhero Shows for Netflix</title>
-    <published>2013-11-07T12:55:45-06:00</published>
-    <updated>2013-11-07T12:55:45-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Jacob Kastrenakes reporting for &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/11/marvel-creating-superhero-shows-for-netflix</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/marvel-creating-superhero-shows-for-netflix"/>
+        <title>Marvel Creating Superhero Shows for Netflix</title>
+        <published>2013-11-07T12:55:45-06:00</published>
+        <updated>2013-11-07T12:55:45-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Jacob Kastrenakes reporting for &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Marvel is creating four live-action superhero series and an Avengers-style special event that will all air exclusively on Netflix, beginning in 2015. The first of the TV series will focus on Daredevil, while the following series will star Jessica Jones, Iron Fist, and Luke Cage.&lt;/p&gt;
@@ -713,19 +780,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;Netflix does it again. Can’t wait to see this. &lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/11/sponsor-meet-techi-all-the-tech-news-in-one-place</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/sponsor-meet-techi-all-the-tech-news-in-one-place"/>
-    <title>Sponsor: Meet Techi: All the tech news in ONE place</title>
-    <published>2013-11-05T11:04:04-06:00</published>
-    <updated>2013-11-05T11:04:04-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;/uploads/2013/11/techi.jpg&quot; alt=&quot;Techi.com ad&quot; /&gt;&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/11/sponsor-meet-techi-all-the-tech-news-in-one-place</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/sponsor-meet-techi-all-the-tech-news-in-one-place"/>
+        <title>Sponsor: Meet Techi: All the tech news in ONE place</title>
+        <published>2013-11-05T11:04:04-06:00</published>
+        <updated>2013-11-05T11:04:04-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;&lt;img src=&quot;/uploads/2013/11/techi.jpg&quot; alt=&quot;Techi.com ad&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://syndicateads.net/s/u5&quot;&gt;Techi.com&lt;/a&gt; is a site dedicated to all things tech. From updates on Sony’s PS4 to reports on Google’s latest acquisition; whether you’re looking for the latest Apple product or looking for views on mobile web, Techi is the site to visit. &lt;/p&gt;
 
@@ -741,19 +810,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;&lt;em&gt;Thanks to &lt;a href=&quot;http://syndicateads.net/s/u5&quot;&gt;Techi.com&lt;/a&gt; for sponsoring the RSS feed this week. &lt;a href=&quot;http://syndicateads.net/&quot;&gt;Sponsorship by The Syndicate.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/11/blackberry-secures-1-billion-in-funding</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/blackberry-secures-1-billion-in-funding"/>
-    <title>BlackBerry Secures $1 Billion in Funding</title>
-    <published>2013-11-04T10:53:00-06:00</published>
-    <updated>2013-11-04T10:53:00-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Vlad Savov reporting for &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/11/blackberry-secures-1-billion-in-funding</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/blackberry-secures-1-billion-in-funding"/>
+        <title>BlackBerry Secures $1 Billion in Funding</title>
+        <published>2013-11-04T10:53:00-06:00</published>
+        <updated>2013-11-04T10:53:00-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Vlad Savov reporting for &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Today was always going to be a momentous day for BlackBerry, with a looming deadline for its proposed takeover deal with Fairfax Financial Holdings. As it turns out, the full takeover isn’t taking place, but the company is going to receive an investment of $1 billion from Fairfax and a group of other institutional investors as it seeks to steer a new course.&lt;/p&gt;
@@ -761,19 +832,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;What? I mean, it’s tough to feel bad for a company that just received a billion dollars, but what are they doing? BlackBerry is holding on for dear life, and I have to wonder whether this can turn things around for them. I hope for the best.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/11/twitter-facing-challenges-in-japan-and-korea</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/twitter-facing-challenges-in-japan-and-korea"/>
-    <title>Twitter Facing Monetary Challenges in Japan and Korea</title>
-    <published>2013-11-04T10:39:46-06:00</published>
-    <updated>2013-11-04T10:39:46-06:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Reported on &lt;em&gt;The Next Web&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/11/twitter-facing-challenges-in-japan-and-korea</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/twitter-facing-challenges-in-japan-and-korea"/>
+        <title>Twitter Facing Monetary Challenges in Japan and Korea</title>
+        <published>2013-11-04T10:39:46-06:00</published>
+        <updated>2013-11-04T10:39:46-06:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Reported on &lt;em&gt;The Next Web&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Twitter is strong in Japan (as &lt;a href=&quot;http://thenextweb.com/socialmedia/2011/02/02/why-twitter-outguns-facebook-in-japan/&quot;&gt;we noted back in 2011&lt;/a&gt;) where it’s used by one-third of the Internet population — but the country accounts for under 10 percent of its global revenue and one ad exec told WSJ that many Japanese brands “don’t think Twitter is something to pay money for.”&lt;/p&gt;
@@ -783,19 +856,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;With that said, I really do admire these new ways of generating revenue that they’re trying. Partnering with TV, although I originally didn’t understand it, makes a lot of sense, and is one alternative to the advertising route that so many seem to just default to.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/11/rules-of-tech-journalism</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/rules-of-tech-journalism"/>
-    <title>Rules of Tech Journalism</title>
-    <published>2013-11-01T11:08:56-05:00</published>
-    <updated>2013-11-01T11:08:56-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Harry Marks:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/11/rules-of-tech-journalism</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/11/rules-of-tech-journalism"/>
+        <title>Rules of Tech Journalism</title>
+        <published>2013-11-01T11:08:56-05:00</published>
+        <updated>2013-11-01T11:08:56-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Harry Marks:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Things have gotten out of hand. Tech writers are given far too much freedom to perpetuate inaccuracies and falsehoods, as well as a generous helping of incompetence these days. That’s why it’s time to put a bit of structure in place for those publications that don’t understand good work from bad work.&lt;/p&gt;
@@ -803,19 +878,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;This is an interesting read. Although &lt;em&gt;The Bold Report&lt;/em&gt; isn’t incredibly popular yet, I’ve always tried to hold myself to the rules of proper journalism. I &lt;strong&gt;&lt;em&gt;do not&lt;/em&gt;&lt;/strong&gt; want to contribute to the assumption that online writers are an unprofessional bunch.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/adobe-security-breach-worse-than-originally-thought</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/adobe-security-breach-worse-than-originally-thought"/>
-    <title>Adobe Security Breach Worse Than Originally Thought</title>
-    <published>2013-10-29T15:10:09-05:00</published>
-    <updated>2013-10-29T15:10:09-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Jared Newman reporting for &lt;em&gt;Macworld&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/adobe-security-breach-worse-than-originally-thought</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/adobe-security-breach-worse-than-originally-thought"/>
+        <title>Adobe Security Breach Worse Than Originally Thought</title>
+        <published>2013-10-29T15:10:09-05:00</published>
+        <updated>2013-10-29T15:10:09-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Jared Newman reporting for &lt;em&gt;Macworld&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;When &lt;a href=&quot;http://blogs.adobe.com/conversations/2013/10/important-customer-security-announcement.html&quot;&gt;Adobe announced the breach on October 3&lt;/a&gt;, it said that attackers stole user names and encrypted passwords for an undisclosed numbers of users, along with encrypted credit or debit card numbers and expiration dates for 2.9 million customers. &lt;a href=&quot;http://krebsonsecurity.com/2013/10/adobe-breach-impacted-at-least-38-million-users/&quot;&gt;Krebs on Security now reports&lt;/a&gt; on the full extent of the attack, confirming the 38 million figure with Adobe.&lt;/p&gt;
@@ -823,33 +900,37 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;Wow. 2.9 million was already a huge number, but now thirty-eight million? I’m keeping a close watch on my card to see if it’s being used, and I’d recommend you do the same. Also, if you were using the same password in multiple places, it might be a good time to look into 1Password. At this point, the probability of your information &lt;em&gt;not&lt;/em&gt; being involved in this attack is low.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/billy-joel-interviewed-on-heres-the-thing</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/billy-joel-interviewed-on-heres-the-thing"/>
-    <title>Billy Joel Interviewed on Here’s the Thing</title>
-    <published>2013-10-28T20:30:17-05:00</published>
-    <updated>2013-10-28T20:30:17-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;I &lt;em&gt;love&lt;/em&gt; Billy Joel, and I &lt;em&gt;love&lt;/em&gt; Alec Baldwin. With every episode that goes by, I’m amazed at how great of an interviewer Mr. Baldwin is. They talk about Joel’s early days, songs that weren’t hits but now considered classics, and a lot more.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/billy-joel-interviewed-on-heres-the-thing</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/billy-joel-interviewed-on-heres-the-thing"/>
+        <title>Billy Joel Interviewed on Here’s the Thing</title>
+        <published>2013-10-28T20:30:17-05:00</published>
+        <updated>2013-10-28T20:30:17-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;I &lt;em&gt;love&lt;/em&gt; Billy Joel, and I &lt;em&gt;love&lt;/em&gt; Alec Baldwin. With every episode that goes by, I’m amazed at how great of an interviewer Mr. Baldwin is. They talk about Joel’s early days, songs that weren’t hits but now considered classics, and a lot more.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/metalab-launches-peak</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/metalab-launches-peak"/>
-    <title>MetaLab Launches Peak</title>
-    <published>2013-10-28T20:13:39-05:00</published>
-    <updated>2013-10-28T20:13:39-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://twitter.com/matro/status/394982616132517889&quot;&gt;Matt Pearson&lt;/a&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/metalab-launches-peak</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/metalab-launches-peak"/>
+        <title>MetaLab Launches Peak</title>
+        <published>2013-10-28T20:13:39-05:00</published>
+        <updated>2013-10-28T20:13:39-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;&lt;a href=&quot;https://twitter.com/matro/status/394982616132517889&quot;&gt;Matt Pearson&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Being micromanaged by robots is no better than by humans. This kind of stats-obsessed moronity breeds a toxic workplace.&lt;/p&gt;
@@ -857,19 +938,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;I couldn’t agree more. Although this product might have been created with great intentions, I can easily see it being abused. If people work for you, ask them to update you. Don’t spy on them, even if under the guise of “avoiding shoulder taps.”&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/apple-reports-fourth-quarter-profit</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/apple-reports-fourth-quarter-profit"/>
-    <title>Apple Reports Fourth Quarter Profit</title>
-    <published>2013-10-28T16:59:17-05:00</published>
-    <updated>2013-10-28T16:59:17-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Jim Dalrymple on &lt;em&gt;The Loop&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/apple-reports-fourth-quarter-profit</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/apple-reports-fourth-quarter-profit"/>
+        <title>Apple Reports Fourth Quarter Profit</title>
+        <published>2013-10-28T16:59:17-05:00</published>
+        <updated>2013-10-28T16:59:17-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Jim Dalrymple on &lt;em&gt;The Loop&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Apple on Monday reported its fourth quarter results, posting revenue of $37.5 billion and a profit of $7.5 billion. This compares to revenue of $36 billion and net profit of $8.2 billion in the year-ago quarter.&lt;/p&gt;
@@ -877,33 +960,37 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;I love Apple, but the amount of success they have is sickening at times. This is a stupid amount of money.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/honest-slogans</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/honest-slogans"/>
-    <title>Honest Slogans</title>
-    <published>2013-10-28T12:07:43-05:00</published>
-    <updated>2013-10-28T12:07:43-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Hilarious, and true. This is Tumblr at its best. &lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/honest-slogans</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/honest-slogans"/>
+        <title>Honest Slogans</title>
+        <published>2013-10-28T12:07:43-05:00</published>
+        <updated>2013-10-28T12:07:43-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Hilarious, and true. This is Tumblr at its best. &lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/marco-arment-on-apples-recent-event</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/marco-arment-on-apples-recent-event"/>
-    <title>Marco Arment on Apple’s Recent Event</title>
-    <published>2013-10-25T12:19:57-05:00</published>
-    <updated>2013-10-25T12:19:57-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/marco-arment-on-apples-recent-event</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/marco-arment-on-apples-recent-event"/>
+        <title>Marco Arment on Apple’s Recent Event</title>
+        <published>2013-10-25T12:19:57-05:00</published>
+        <updated>2013-10-25T12:19:57-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Something felt a bit off about this week’s Apple event.&lt;/p&gt;
 
   &lt;p&gt;Part of it was the lack of surprises, which isn’t Apple’s fault. All of the product upgrades, while nice, were incremental and predictable. None of the pricing was a surprise. In fact, the only unexpected product announcement is the zombie iPad 2 sticking around for another year, shamelessly at the same price as last year.&lt;/p&gt;
@@ -911,35 +998,39 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;I agree. It felt weird, and ended abruptly.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/tapbots-launches-new-tweetbot</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/tapbots-launches-new-tweetbot"/>
-    <title>Tapbots Launches New Tweetbot</title>
-    <published>2013-10-25T12:02:12-05:00</published>
-    <updated>2013-10-25T12:02:12-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;While I admire all the hard work that went in creating this new version of Tweetbot, I can’t help be a little disappointed. The app has lost much of its personality; both visually and sonically. The new app has some very well done animations, but unfortunately looks too “default iOS 7” for my taste. &lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/tapbots-launches-new-tweetbot</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/tapbots-launches-new-tweetbot"/>
+        <title>Tapbots Launches New Tweetbot</title>
+        <published>2013-10-25T12:02:12-05:00</published>
+        <updated>2013-10-25T12:02:12-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;While I admire all the hard work that went in creating this new version of Tweetbot, I can’t help be a little disappointed. The app has lost much of its personality; both visually and sonically. The new app has some very well done animations, but unfortunately looks too “default iOS 7” for my taste. &lt;/p&gt;
 
 &lt;p&gt;However, I did purchase because I respect the work of Tapbots very much and I want to support them. They have the reputation of making incredible things, and I look forward to seeing the betterment of Tweetbot.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/does-the-web-industry-have-a-drinking-problem</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/does-the-web-industry-have-a-drinking-problem"/>
-    <title>Does the Web Industry Have a Drinking Problem?</title>
-    <published>2013-10-24T11:49:34-05:00</published>
-    <updated>2013-10-24T11:49:34-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Rachel Andrew writing on &lt;em&gt;A List Apart&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/does-the-web-industry-have-a-drinking-problem</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/does-the-web-industry-have-a-drinking-problem"/>
+        <title>Does the Web Industry Have a Drinking Problem?</title>
+        <published>2013-10-24T11:49:34-05:00</published>
+        <updated>2013-10-24T11:49:34-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Rachel Andrew writing on &lt;em&gt;A List Apart&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Almost every conference’s second day opens with attendees being asked how their hangovers are. Second day early-slot speakers joke that no one will turn up anyway, or they’ll all just be staring into their coffee. It has become normal, in fact expected, that drinking and staying out late is what we do while at conferences.&lt;/p&gt;
@@ -953,33 +1044,37 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;Don’t get me wrong, I enjoy having drinks—and the article isn’t advocating for the banishment of alcohol—but I remember being the seventeen year-old kid that couldn’t drink. I’ve always been very extroverted, so it never stopped me from talking to people. However, I can see how it could affect others; making them feel excluded and not part of the group, and Rachel’s article does a great job of shining light on that fact.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/amazon-s-biodome-approved-in-seattle</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/amazon-s-biodome-approved-in-seattle"/>
-    <title>Amazon’s Biodome Approved in Seattle</title>
-    <published>2013-10-24T11:27:21-05:00</published>
-    <updated>2013-10-24T11:27:21-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;I love this. Architecture is an integral part of the beauty and history of our cities. The fact that companies like Amazon, and &lt;a href=&quot;http://www.macrumors.com/2013/10/17/apple-cfo-peter-oppenheimer-speaks-about-apple-campus-2-at-cupertino-press-conference/&quot;&gt;Apple&lt;/a&gt; are doing things to contribute to that history, in the cities they call home, is a very good thing.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/amazon-s-biodome-approved-in-seattle</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/amazon-s-biodome-approved-in-seattle"/>
+        <title>Amazon’s Biodome Approved in Seattle</title>
+        <published>2013-10-24T11:27:21-05:00</published>
+        <updated>2013-10-24T11:27:21-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;I love this. Architecture is an integral part of the beauty and history of our cities. The fact that companies like Amazon, and &lt;a href=&quot;http://www.macrumors.com/2013/10/17/apple-cfo-peter-oppenheimer-speaks-about-apple-campus-2-at-cupertino-press-conference/&quot;&gt;Apple&lt;/a&gt; are doing things to contribute to that history, in the cities they call home, is a very good thing.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/samsung-fine-340-000-in-taiwan-for-fake-online-comments</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/samsung-fine-340-000-in-taiwan-for-fake-online-comments"/>
-    <title>Samsung Fined $340,000 in Taiwan for Fake Online Comments</title>
-    <published>2013-10-24T11:06:11-05:00</published>
-    <updated>2013-10-24T11:06:11-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Aaron Souppouris reporting for &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/samsung-fine-340-000-in-taiwan-for-fake-online-comments</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/samsung-fine-340-000-in-taiwan-for-fake-online-comments"/>
+        <title>Samsung Fined $340,000 in Taiwan for Fake Online Comments</title>
+        <published>2013-10-24T11:06:11-05:00</published>
+        <updated>2013-10-24T11:06:11-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Aaron Souppouris reporting for &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;After being caught paying for false praise and negative comments about competitors, Samsung has been fined just over $340,000. The issue first arose internationally in April, when Taiwan’s Fair Trade Commission (FTC) announced it was opening an investigation into the allegations. That investigation found the allegations were true: the FTC says Samsung used a “large number of hired writers and designated employees” to post in Taiwanese forums.&lt;/p&gt;
@@ -995,19 +1090,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;Get your stuff together, Samsung. You’re better than this.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/microsoft-talks-apple-ipads-and-iwork</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/microsoft-talks-apple-ipads-and-iwork"/>
-    <title>Microsoft Talks Apple iPads and iWork</title>
-    <published>2013-10-23T16:30:34-05:00</published>
-    <updated>2013-10-23T16:30:34-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Frank Shaw on &lt;em&gt;The Official Microsoft Blog&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/microsoft-talks-apple-ipads-and-iwork</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/microsoft-talks-apple-ipads-and-iwork"/>
+        <title>Microsoft Talks Apple iPads and iWork</title>
+        <published>2013-10-23T16:30:34-05:00</published>
+        <updated>2013-10-23T16:30:34-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Frank Shaw on &lt;em&gt;The Official Microsoft Blog&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Surface and Surface 2 both include Office, the world’s most popular, most powerful productivity software for free and are priced below both the iPad 2 and iPad Air respectively. Making Apple’s decision to build the price of their less popular and less powerful iWork into their tablets not a very big (or very good) deal.&lt;/p&gt;
@@ -1023,19 +1120,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;Microsoft has so much untapped potential they could use for making great new products. Instead, they waste their time writing a post like this that claims they understand “how people work better than anyone else.” Talk is cheap, but the fact is this: while Microsoft was busy loosing $900 million on Surface tablets in Q3 2013, Apple sold 14.6 million iPads.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/our-first-month</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/our-first-month"/>
-    <title>A Look Back on Our First Month</title>
-    <published>2013-10-23T12:48:50-05:00</published>
-    <updated>2013-10-23T12:48:50-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;A month ago today, I launched &lt;em&gt;The Bold Report&lt;/em&gt;. I’m so glad I did it, and we’ve had some pretty great growth in our first month!&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/our-first-month</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/our-first-month"/>
+        <title>♨ A Look Back on Our First Month</title>
+        <published>2013-10-23T12:48:50-05:00</published>
+        <updated>2013-10-23T12:48:50-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;A month ago today, I launched &lt;em&gt;The Bold Report&lt;/em&gt;. I’m so glad I did it, and we’ve had some pretty great growth in our first month!&lt;/p&gt;
 
 &lt;p&gt;First of all, if you’re reading this, I want to say thank you. This site is something I’ve been wanting to do for a long time. I love writing about my interests, and I love the fact that there are people like you, who have similar passions.&lt;/p&gt;
 
@@ -1083,19 +1182,22 @@ Running my own business allows me to work from anywhere. There is no need for me
   &lt;/ol&gt;
 &lt;/div&gt;
 </content>
-  </entry>
+      </entry>
+
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/os-x-mavericks-review</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/os-x-mavericks-review"/>
-    <title>OS X Mavericks Review</title>
-    <published>2013-10-22T17:34:20-05:00</published>
-    <updated>2013-10-22T17:34:20-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Stephen Hackett on &lt;em&gt;512 Pixels&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/os-x-mavericks-review</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/os-x-mavericks-review"/>
+        <title>OS X Mavericks Review</title>
+        <published>2013-10-22T17:34:20-05:00</published>
+        <updated>2013-10-22T17:34:20-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Stephen Hackett on &lt;em&gt;512 Pixels&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The bones haven’t changed all that much over the last 13 years, but every time Apple updates OS X, it continues to improve and refine features and the underlying technologies that make them possible.&lt;/p&gt;
@@ -1105,35 +1207,39 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;Stephen is one of my favorite writers, and he’s published an amazing, in-depth review of the latest OS X. &lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/the-east-wing-74</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/the-east-wing-74"/>
-    <title>The East Wing: Liz Elcoate</title>
-    <published>2013-10-22T17:14:51-05:00</published>
-    <updated>2013-10-22T17:14:51-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;This week: I talk with Liz Elcoate about her start in the design industry, her podcast, and how she’d never go back to a full-time job.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/the-east-wing-74</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/the-east-wing-74"/>
+        <title>The East Wing: Liz Elcoate</title>
+        <published>2013-10-22T17:14:51-05:00</published>
+        <updated>2013-10-22T17:14:51-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;This week: I talk with Liz Elcoate about her start in the design industry, her podcast, and how she’d never go back to a full-time job.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Bandwidth sponsored by &lt;a href=&quot;http://www.campaignmonitor.com/&quot;&gt;Campaign Monitor&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/apple-event-day</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/apple-event-day"/>
-    <title>Apple Event Day</title>
-    <published>2013-10-22T10:40:36-05:00</published>
-    <updated>2013-10-22T10:40:36-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Apple Event Days are always exciting for me, and this one will be no different.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/apple-event-day</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/apple-event-day"/>
+        <title>♨ Apple Event Day</title>
+        <published>2013-10-22T10:40:36-05:00</published>
+        <updated>2013-10-22T10:40:36-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Apple Event Days are always exciting for me, and this one will be no different.&lt;/p&gt;
 
 &lt;p&gt;You’ll be able to &lt;a href=&quot;http://www.apple.com/apple-events/october-2013/&quot;&gt;watch the event live&lt;/a&gt; on your iOS device, Mac, or Apple TV. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; During the event, I’ll be in the &lt;em&gt;#ssktn&lt;/em&gt; iRC chatroom, as a kind of virtual-viewing party. &lt;/p&gt;
 
@@ -1149,19 +1255,22 @@ Running my own business allows me to work from anywhere. There is no need for me
   &lt;/ol&gt;
 &lt;/div&gt;
 </content>
-  </entry>
+      </entry>
+
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/sponsor-tonx-coffee</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/sponsor-tonx-coffee"/>
-    <title>Sponsor: Tonx Coffee</title>
-    <published>2013-10-22T09:56:29-05:00</published>
-    <updated>2013-10-22T09:56:29-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://syndicateads.net/cms/images/ad_2.jpg&quot; alt=&quot;Tonx Coffee Ad&quot; /&gt;&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/sponsor-tonx-coffee</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/sponsor-tonx-coffee"/>
+        <title>Sponsor: Tonx Coffee</title>
+        <published>2013-10-22T09:56:29-05:00</published>
+        <updated>2013-10-22T09:56:29-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;&lt;img src=&quot;http://syndicateads.net/cms/images/ad_2.jpg&quot; alt=&quot;Tonx Coffee Ad&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://syndicateads.net/s/tr&quot;&gt;Tonx&lt;/a&gt; is a small team of coffee experts who believe it’s easy to make a better cup in your kitchen than you’ll get at the best cafes - and for a fraction of the cost. By sourcing the finest coffees in the world and roasting them 24-hours before shipping, you’ll have the freshest coffee delivered straight to your door. &lt;a href=&quot;http://syndicateads.net/s/tr&quot;&gt;And for a limited time, get a free trial to taste for yourself.&lt;/a&gt;&lt;/p&gt;
 
@@ -1171,19 +1280,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;&lt;em&gt;I have a Tonx Coffee subscription. It’s amazing. Thank you to Tonx Coffee for sponsoring the RSS feed this week. &lt;a href=&quot;http://syndicateads.net/&quot;&gt;Sponsorship by The Syndicate.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/john-gruber-on-imessage-encryption</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/john-gruber-on-imessage-encryption"/>
-    <title>John Gruber on iMessage Encryption</title>
-    <published>2013-10-21T13:02:22-05:00</published>
-    <updated>2013-10-21T13:02:22-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/john-gruber-on-imessage-encryption</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/john-gruber-on-imessage-encryption"/>
+        <title>John Gruber on iMessage Encryption</title>
+        <published>2013-10-21T13:02:22-05:00</published>
+        <updated>2013-10-21T13:02:22-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;What Quarkslab’s research proves […] is that Apple’s iMessage back-end &lt;em&gt;could&lt;/em&gt; be designed to allow for Apple to intercept and read message content, and there is no way we, as iMessage users, would be able to detect it.&lt;/p&gt;
 
   &lt;p&gt;What Apple has said, and reiterated today, is that iMessage’s back-end is not in fact designed in that way — that there is no mechanism in the system for Apple employees to surreptitiously change the encryption key to allow for messages to be decrypted during transit.&lt;/p&gt;
@@ -1191,19 +1302,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;I don’t have much to add to this one, I just found the article to be interesting. I agree with Gruber that it would be a &lt;em&gt;huge&lt;/em&gt; mistake for Apple to lie about something as sensitive as this. &lt;strong&gt;However&lt;/strong&gt;, at the end of the day, which side does it make more sense for companies to side with? Users? That’s naive.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/netflix-likely-to-have-overtaken-hbo-in-paid-us-subscribers</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/netflix-likely-to-have-overtaken-hbo-in-paid-us-subscribers"/>
-    <title>Netflix Likely to Have Overtaken HBO in Paid US Subscribers</title>
-    <published>2013-10-21T12:19:57-05:00</published>
-    <updated>2013-10-21T12:19:57-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Amar Toor reporting for &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/netflix-likely-to-have-overtaken-hbo-in-paid-us-subscribers</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/netflix-likely-to-have-overtaken-hbo-in-paid-us-subscribers"/>
+        <title>Netflix Likely to Have Overtaken HBO in Paid US Subscribers</title>
+        <published>2013-10-21T12:19:57-05:00</published>
+        <updated>2013-10-21T12:19:57-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Amar Toor reporting for &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;According to analysis from Needham &amp;amp; Co., it’s likely that Netflix’s paid US subscriber base reached 30 million by the end of September. That may be enough to overtake HBO, which has an estimated 28.7 million subscribers in the US…&lt;/p&gt;
@@ -1215,19 +1328,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;One thing is for sure, the competition between these two channels will be interesting to watch. &lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/freelancing-and-saying-no</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/freelancing-and-saying-no"/>
-    <title>Freelancing and Saying “No”</title>
-    <published>2013-10-18T12:06:47-05:00</published>
-    <updated>2013-10-18T12:06:47-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;No. That word has been given lots of importance in our industry and rightly so. &lt;a href=&quot;http://vimeo.com/53155584&quot;&gt;Jason Santa Maria spoke about it&lt;/a&gt;, &lt;a href=&quot;https://medium.com/the-year-of-the-looking-glass/23ad80bdfbc&quot;&gt;Julie Zhuo wrote about it&lt;/a&gt;, and I’m sure you’ve read your fair share of articles on the topic. &lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/freelancing-and-saying-no</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/freelancing-and-saying-no"/>
+        <title>♨ Freelancing and Saying “No”</title>
+        <published>2013-10-18T12:06:47-05:00</published>
+        <updated>2013-10-18T12:06:47-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;No. That word has been given lots of importance in our industry and rightly so. &lt;a href=&quot;http://vimeo.com/53155584&quot;&gt;Jason Santa Maria spoke about it&lt;/a&gt;, &lt;a href=&quot;https://medium.com/the-year-of-the-looking-glass/23ad80bdfbc&quot;&gt;Julie Zhuo wrote about it&lt;/a&gt;, and I’m sure you’ve read your fair share of articles on the topic. &lt;/p&gt;
 
 &lt;p&gt;It’s a powerful word, and I’m glad that we’re a community that looks out for each other and is willing to share with newcomers how to avoid bad projects. There are some relationships that will rob you of your joy, and in the end cost you more money than you’re being paid.&lt;/p&gt;
 
@@ -1285,37 +1400,42 @@ Running my own business allows me to work from anywhere. There is no need for me
   &lt;/ol&gt;
 &lt;/div&gt;
 </content>
-  </entry>
+      </entry>
+
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/shawn-blanc-on-successful-creative-business</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/shawn-blanc-on-successful-creative-business"/>
-    <title>Shawn Blanc on Successful Creative Business</title>
-    <published>2013-10-18T11:21:37-05:00</published>
-    <updated>2013-10-18T11:21:37-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/shawn-blanc-on-successful-creative-business</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/shawn-blanc-on-successful-creative-business"/>
+        <title>Shawn Blanc on Successful Creative Business</title>
+        <published>2013-10-18T11:21:37-05:00</published>
+        <updated>2013-10-18T11:21:37-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;A huge part of making art online and growing an audience is centered around how often you show up, how good you are at what you do, and how narrow your focus is and how “&lt;a href=&quot;http://daringfireball.net/2009/03/obsession_times_voice&quot;&gt;weirdly obsessed&lt;/a&gt;” you are about it.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Shawn knows what he’s talking about.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/fitbit-tracker-becoming-more-like-a-smartwatch</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/fitbit-tracker-becoming-more-like-a-smartwatch"/>
-    <title>Fitbit Tracker Becoming More Like a Smartwatch</title>
-    <published>2013-10-18T11:11:02-05:00</published>
-    <updated>2013-10-18T11:11:02-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Josh Ong reporting for &lt;em&gt;The Next Web&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/fitbit-tracker-becoming-more-like-a-smartwatch</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/fitbit-tracker-becoming-more-like-a-smartwatch"/>
+        <title>Fitbit Tracker Becoming More Like a Smartwatch</title>
+        <published>2013-10-18T11:11:02-05:00</published>
+        <updated>2013-10-18T11:11:02-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Josh Ong reporting for &lt;em&gt;The Next Web&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Fitbit CEO James Park said the company is “inching closer and closer to being a smartwatch.”&lt;/p&gt;
@@ -1335,83 +1455,93 @@ Running my own business allows me to work from anywhere. There is no need for me
   &lt;/ol&gt;
 &lt;/div&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/easter-eggs-in-star-wars-and-indiana-jones</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/easter-eggs-in-star-wars-and-indiana-jones"/>
-    <title>Easter Eggs in Star Wars and Indiana Jones</title>
-    <published>2013-10-18T10:58:22-05:00</published>
-    <updated>2013-10-18T10:58:22-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Stuff like this is just so cool. I need to find ways to hide things on the sites I design. &lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/easter-eggs-in-star-wars-and-indiana-jones</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/easter-eggs-in-star-wars-and-indiana-jones"/>
+        <title>Easter Eggs in Star Wars and Indiana Jones</title>
+        <published>2013-10-18T10:58:22-05:00</published>
+        <updated>2013-10-18T10:58:22-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Stuff like this is just so cool. I need to find ways to hide things on the sites I design. &lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/laura-kalbag-on-being-open</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/laura-kalbag-on-being-open"/>
-    <title>Laura Kalbag on Being Open</title>
-    <published>2013-10-17T11:49:07-05:00</published>
-    <updated>2013-10-17T11:49:07-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/laura-kalbag-on-being-open</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/laura-kalbag-on-being-open"/>
+        <title>Laura Kalbag on Being Open</title>
+        <published>2013-10-17T11:49:07-05:00</published>
+        <updated>2013-10-17T11:49:07-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;The most conscious decision I made about openness was to not put up a front and not always try to make myself look better. We all do things that make us look stupid from time to time (I do it a lot!). But what’s really wrong with looking stupid? Why would I want to pretend to be superhuman? That would just set unrealistic expectations for my clients and everybody else around me.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Laura is one of my favorite people. She’s real, she’s humble, and crazy talented. That combination of qualities have made her the success she is. In her column today, on &lt;em&gt;A List Apart&lt;/em&gt;, she does a great job explaining why being open and transparent is a very good thing.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/square-cash-makes-sending-money-easy</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/square-cash-makes-sending-money-easy"/>
-    <title>Square Cash Makes Sending Money Easy</title>
-    <published>2013-10-16T13:24:20-05:00</published>
-    <updated>2013-10-16T13:24:20-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/square-cash-makes-sending-money-easy</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/square-cash-makes-sending-money-easy"/>
+        <title>Square Cash Makes Sending Money Easy</title>
+        <published>2013-10-16T13:24:20-05:00</published>
+        <updated>2013-10-16T13:24:20-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;To use Square Cash, all you do is compose an email to a friend, type the amount you way to pay in the subject title, and cc cash@square.com. If it’s your first time using the service, you’re directed to Square’s website where you type in your debit card number — and you’re done. There are no accounts to create, apps to download, friends to add, surcharges to pay, or bank account numbers to look up.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;This is amazing. My only question is: why has this taken so long? It seems that this could’ve existed years ago. Good on Square for continuing to do great things.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/tim-likes-to-teach-using-the-jekyll-assets-plugin</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/tim-likes-to-teach-using-the-jekyll-assets-plugin"/>
-    <title>Tim Likes to Teach: Using the Jekyll Assets Plugin</title>
-    <published>2013-10-15T13:02:56-05:00</published>
-    <updated>2013-10-15T13:02:56-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;I made a quick video tutorial on how to use the &lt;a href=&quot;https://github.com/ixti/jekyll-assets&quot;&gt;Jekyll Assets plugin&lt;/a&gt;. It’s super helpful, and allows you to use Sass, Compass, Coffeescript, and other cool stuff.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/tim-likes-to-teach-using-the-jekyll-assets-plugin</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/tim-likes-to-teach-using-the-jekyll-assets-plugin"/>
+        <title>Tim Likes to Teach: Using the Jekyll Assets Plugin</title>
+        <published>2013-10-15T13:02:56-05:00</published>
+        <updated>2013-10-15T13:02:56-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;I made a quick video tutorial on how to use the &lt;a href=&quot;https://github.com/ixti/jekyll-assets&quot;&gt;Jekyll Assets plugin&lt;/a&gt;. It’s super helpful, and allows you to use Sass, Compass, Coffeescript, and other cool stuff.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/sponsor-squarespace</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/sponsor-squarespace"/>
-    <title>Sponsor: Squarespace</title>
-    <published>2013-10-15T12:37:46-05:00</published>
-    <updated>2013-10-15T12:37:46-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://syndicateads.net/cms/images/600px.jpg&quot; alt=&quot;Squarespace ad image&quot; /&gt;&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/sponsor-squarespace</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/sponsor-squarespace"/>
+        <title>Sponsor: Squarespace</title>
+        <published>2013-10-15T12:37:46-05:00</published>
+        <updated>2013-10-15T12:37:46-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;&lt;img src=&quot;http://syndicateads.net/cms/images/600px.jpg&quot; alt=&quot;Squarespace ad image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;What do you want people to see when they find you online?&lt;/strong&gt;&lt;/p&gt;
 
@@ -1422,37 +1552,41 @@ Running my own business allows me to work from anywhere. There is no need for me
 &lt;hr /&gt;
 &lt;p&gt;&lt;em&gt;Thank you to &lt;a href=&quot;http://syndicateads.net/s/td&quot;&gt;Squarespace&lt;/a&gt; for sponsoring the RSS feed this week. &lt;a href=&quot;http://syndicateads.net/&quot;&gt;Sponsorship by The Syndicate.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/chris-coyier-on-media-temple-acquisition</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/chris-coyier-on-media-temple-acquisition"/>
-    <title>Chris Coyier on Media Temple Acquisition</title>
-    <published>2013-10-15T12:19:33-05:00</published>
-    <updated>2013-10-15T12:19:33-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/chris-coyier-on-media-temple-acquisition</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/chris-coyier-on-media-temple-acquisition"/>
+        <title>Chris Coyier on Media Temple Acquisition</title>
+        <published>2013-10-15T12:19:33-05:00</published>
+        <updated>2013-10-15T12:19:33-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;If anyone thinks MediaTemple is just going to be exactly the same or better forever, I’ll bet you a nickel you’re wrong. I bet they are losing employees as we speak who aren’t happy about this. Things will change. I am going to give them the benefit of the doubt though. I’m going to keep on liking both services until there is a real reason to not.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Agreed.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/sonos-announces-the-play-1</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/sonos-announces-the-play-1"/>
-    <title>Sonos Announces the Play:1</title>
-    <published>2013-10-14T11:57:23-05:00</published>
-    <updated>2013-10-14T11:57:23-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Dan Seifert from &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/sonos-announces-the-play-1</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/sonos-announces-the-play-1"/>
+        <title>Sonos Announces the Play:1</title>
+        <published>2013-10-14T11:57:23-05:00</published>
+        <updated>2013-10-14T11:57:23-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Dan Seifert from &lt;em&gt;The Verge&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Compared to the similarly priced Jambox, the Play:1 is considerably louder, crisper, and more present. The more expensive Big Jambox offers a wider range and better separation than a single Play:1 thanks to its larger speakers and configuration. But the Play:1 is still louder and sounds bigger, if slightly more muddled because of the lack of speaker separation.&lt;/p&gt;
@@ -1462,19 +1596,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;I’d looked at several speakers, and had heard very good things of all the Sonos speakers and &lt;a href=&quot;https://jawbone.com/speakers/bigjambox&quot;&gt;Big Jambox&lt;/a&gt;, but was worried to go Sonos because of the high price point. This new speaker is more wallet friendly, and could be the start of a great relationship with the Sonos ecosystem. I’ll write some thoughts on the speaker once I receive and use it for a while.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/minor-upgrade-to-instagram-no-longer-lets-users-disable-video-autoplay</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/minor-upgrade-to-instagram-no-longer-lets-users-disable-video-autoplay"/>
-    <title>‘Minor’ Upgrade to Instagram No Longer Lets Users Disable Video Autoplay</title>
-    <published>2013-10-11T13:05:20-05:00</published>
-    <updated>2013-10-11T13:05:20-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Jon Russell reporting for &lt;em&gt;The Next Web&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/minor-upgrade-to-instagram-no-longer-lets-users-disable-video-autoplay</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/minor-upgrade-to-instagram-no-longer-lets-users-disable-video-autoplay"/>
+        <title>‘Minor’ Upgrade to Instagram No Longer Lets Users Disable Video Autoplay</title>
+        <published>2013-10-11T13:05:20-05:00</published>
+        <updated>2013-10-11T13:05:20-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Jon Russell reporting for &lt;em&gt;The Next Web&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Instagram announced earlier this month that it will begin serving in-feed advertising before the end of the year, and the Facebook-owned photo and video app has made a subtle, but important, change after it removed the option to switch off autoplay for videos on iOS.&lt;/p&gt;
@@ -1491,19 +1627,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 &lt;h5 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h5&gt;
 &lt;p&gt;&lt;a href=&quot;http://powazek.com/posts/3024&quot;&gt;What If Social Networks Just Aren’t Profitable?&lt;/a&gt; — A really great read, on the cycle that social networks go through.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/facebook-removes-hide-from-search-privacy-setting</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/facebook-removes-hide-from-search-privacy-setting"/>
-    <title>Facebook Removes ‘Hide from Search’ Privacy Setting</title>
-    <published>2013-10-11T12:27:27-05:00</published>
-    <updated>2013-10-11T12:27:27-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;The &lt;em&gt;Associated Press&lt;/em&gt; reports:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/facebook-removes-hide-from-search-privacy-setting</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/facebook-removes-hide-from-search-privacy-setting"/>
+        <title>Facebook Removes ‘Hide from Search’ Privacy Setting</title>
+        <published>2013-10-11T12:27:27-05:00</published>
+        <updated>2013-10-11T12:27:27-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;The &lt;em&gt;Associated Press&lt;/em&gt; reports:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Facebook Inc. said Thursday that it is removing a setting that controls whether users could be found when people type their name into the website’s search bar.&lt;/p&gt;
@@ -1515,33 +1653,37 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;What Facebook seems to forget, is that what’s bad for users, is bad for business. A lesson they might learn the hard way.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/my-article-on-open-source-design</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/my-article-on-open-source-design"/>
-    <title>Open Source Design: Using GitHub for Design Collaboration</title>
-    <published>2013-10-10T16:04:03-05:00</published>
-    <updated>2013-10-10T16:04:03-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;I wrote a small article on how GitHub has really helped us on the Open Source Design project. With the use of GitHub issues, we’ve been able to talk and collaborate as a group. &lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/my-article-on-open-source-design</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/my-article-on-open-source-design"/>
+        <title>Open Source Design: Using GitHub for Design Collaboration</title>
+        <published>2013-10-10T16:04:03-05:00</published>
+        <updated>2013-10-10T16:04:03-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;I wrote a small article on how GitHub has really helped us on the Open Source Design project. With the use of GitHub issues, we’ve been able to talk and collaborate as a group. &lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/hp-and-microsoft-become-competitors</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/hp-and-microsoft-become-competitors"/>
-    <title>HP and Microsoft Become ‘Competitors’</title>
-    <published>2013-10-10T11:46:04-05:00</published>
-    <updated>2013-10-10T11:46:04-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/hp-and-microsoft-become-competitors</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/hp-and-microsoft-become-competitors"/>
+        <title>HP and Microsoft Become ‘Competitors’</title>
+        <published>2013-10-10T11:46:04-05:00</published>
+        <updated>2013-10-10T11:46:04-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Hewlett Packard and Microsoft are changing “from partners to outright competitors,” says HP CEO Meg Whitman…&lt;/p&gt;
 
   &lt;p&gt;Microsoft has made a number of recent decisions contrary to HP’s own interests, including bailing out competitor Dell in an attempt to push Windows 8 to the business sector. Also central to her reclassification is Microsoft’s commitment to Surface, despite previous claims from HP that Surface wasn’t a threat to its own Windows 8 tablet.&lt;/p&gt;
@@ -1557,37 +1699,41 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;Now you’re gettin’ it, Microsoft.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/bill-nye-youtube-series-with-nasa</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/bill-nye-youtube-series-with-nasa"/>
-    <title>Bill Nye Back with a YouTube Series on NASA’s Mission to Jupiter</title>
-    <published>2013-10-10T11:16:49-05:00</published>
-    <updated>2013-10-10T11:16:49-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/bill-nye-youtube-series-with-nasa</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/bill-nye-youtube-series-with-nasa"/>
+        <title>Bill Nye Back with a YouTube Series on NASA’s Mission to Jupiter</title>
+        <published>2013-10-10T11:16:49-05:00</published>
+        <updated>2013-10-10T11:16:49-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Bill Nye has collaborated with NASA to launch a new eight-part web series on the agency’s latest mission to Jupiter. The science enthusiast and TV host, who for years entertained kids with the PBS show Bill Nye the Science Guy, first teased a return to presenting back in July…&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;I’m so excited to see Bill Nye hosting a science show again. When I was in middle school, we often watched his show in science class. I’ve always loved his ability to make science fun and interesting. He clearly has a passion for it, and it shines through.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/google-fiber-isn-t-for-small-businesses-yet</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/google-fiber-isn-t-for-small-businesses-yet"/>
-    <title>Google Fiber Won’t Be Available for Small Businesses… Yet</title>
-    <published>2013-10-10T10:55:31-05:00</published>
-    <updated>2013-10-10T10:55:31-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/google-fiber-isn-t-for-small-businesses-yet</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/google-fiber-isn-t-for-small-businesses-yet"/>
+        <title>Google Fiber Won’t Be Available for Small Businesses… Yet</title>
+        <published>2013-10-10T10:55:31-05:00</published>
+        <updated>2013-10-10T10:55:31-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Google today decided to clarify its stance for small businesses using Google Fiber. In short, small businesses aren’t allowed to take advantage of the ISP, at least not yet.&lt;/p&gt;
 
   &lt;p&gt;…&lt;/p&gt;
@@ -1599,19 +1745,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;The question is: Will they enforce the policy?&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/apple-ipad-event-on-october-22</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/apple-ipad-event-on-october-22"/>
-    <title>Apple iPad Event on October 22</title>
-    <published>2013-10-08T19:20:18-05:00</published>
-    <updated>2013-10-08T19:20:18-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;John Paczkowski reporting for &lt;em&gt;AllThingsD&lt;/em&gt;:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/apple-ipad-event-on-october-22</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/apple-ipad-event-on-october-22"/>
+        <title>Apple iPad Event on October 22</title>
+        <published>2013-10-08T19:20:18-05:00</published>
+        <updated>2013-10-08T19:20:18-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;John Paczkowski reporting for &lt;em&gt;AllThingsD&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;People familiar with Apple’s plans tell &lt;em&gt;AllThingsD&lt;/em&gt; that the company will hold its next invitation-only event on Tuesday, October 22. The focal point of the gathering will be the latest updates to the company’s iPad line, but the new Mac Pro and OS X Mavericks will likely get some stage time as well, I’m told.&lt;/p&gt;
@@ -1619,53 +1767,59 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;I love Apple Event days. I never get anything else done.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/brad-frost-on-development-being-design</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/brad-frost-on-development-being-design"/>
-    <title>Brad Frost on Development Being Design</title>
-    <published>2013-10-08T19:00:43-05:00</published>
-    <updated>2013-10-08T19:00:43-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/brad-frost-on-development-being-design</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/brad-frost-on-development-being-design"/>
+        <title>Brad Frost on Development Being Design</title>
+        <published>2013-10-08T19:00:43-05:00</published>
+        <updated>2013-10-08T19:00:43-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;As the Web landscape grows increasingly complex, it’s increasingly important to demonstrate the myriad ways a Web experience can be interacted with. It’s impossible for designers working in static environments to realistically articulate every device, user setting, and variable that effects how a design is realized. Because of this, front-end developers need to work closely with other designers to ensure what’s being created is realistic and feasible. This requires rolling front-end development into the design workflow, rethinking our deliverables, and working together in order to create experiences that look and function beautifully on a whole host of screen sizes, form factors, and environments.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Well said. Brad excellently explains why I think the web is so exciting right now. Sure, there will always be people who don’t get it. But, the line between design and front-end development is being blurred, and I love that.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/the-east-wing-72</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/the-east-wing-72"/>
-    <title>The East Wing: Garth Braithwaite</title>
-    <published>2013-10-08T16:53:12-05:00</published>
-    <updated>2013-10-08T16:53:12-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;This week: I talk with Garth Braithwaite about how he got started, projects he’s worked on at Adobe, Open Source Design, and design education.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/the-east-wing-72</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/the-east-wing-72"/>
+        <title>The East Wing: Garth Braithwaite</title>
+        <published>2013-10-08T16:53:12-05:00</published>
+        <updated>2013-10-08T16:53:12-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;This week: I talk with Garth Braithwaite about how he got started, projects he’s worked on at Adobe, Open Source Design, and design education.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Bandwidth is kindly provided by &lt;a href=&quot;http://www.campaignmonitor.com/&quot;&gt;Campaign Monitor&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/sponsor-mailchimp</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/sponsor-mailchimp"/>
-    <title>Sponsor: MailChimp</title>
-    <published>2013-10-08T10:59:27-05:00</published>
-    <updated>2013-10-08T10:59:27-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://syndicateads.net/cms/images/MC_GoesWithYou_600wide.jpg&quot; alt=&quot;MailChimp Sponsor&quot; /&gt;&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/sponsor-mailchimp</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/sponsor-mailchimp"/>
+        <title>Sponsor: MailChimp</title>
+        <published>2013-10-08T10:59:27-05:00</published>
+        <updated>2013-10-08T10:59:27-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;&lt;img src=&quot;http://syndicateads.net/cms/images/MC_GoesWithYou_600wide.jpg&quot; alt=&quot;MailChimp Sponsor&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href=&quot;http://syndicateads.net/s/sz&quot;&gt;new generation of MailChimp&lt;/a&gt; adapts to your workflow, regardless of the device you’re using and size of your team. A cohesive experience across desktop and mobile devices means you can create, send, and track email campaigns in any context.&lt;/p&gt;
 
@@ -1674,35 +1828,39 @@ Running my own business allows me to work from anywhere. There is no need for me
 &lt;hr /&gt;
 &lt;p&gt;&lt;em&gt;Thanks to &lt;a href=&quot;http://syndicateads.net/s/sz&quot;&gt;MailChimp&lt;/a&gt; for supporting The Bold Report this week. &lt;a href=&quot;http://syndicateads.net/&quot;&gt;Sponsorship by The Syndicate.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/eric-schmidt-tells-jokes</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/eric-schmidt-tells-jokes"/>
-    <title>Eric Schmidt Tells Jokes</title>
-    <published>2013-10-08T10:56:17-05:00</published>
-    <updated>2013-10-08T10:56:17-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Eric Schmidt is apparently quite the jokester. When told that some don’t find Android secure, Schmidt responded, “Not secure? It’s more secure than the iPhone.”&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/eric-schmidt-tells-jokes</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/eric-schmidt-tells-jokes"/>
+        <title>Eric Schmidt Tells Jokes</title>
+        <published>2013-10-08T10:56:17-05:00</published>
+        <updated>2013-10-08T10:56:17-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Eric Schmidt is apparently quite the jokester. When told that some don’t find Android secure, Schmidt responded, “Not secure? It’s more secure than the iPhone.”&lt;/p&gt;
 
 &lt;p&gt;Good one, dude.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/starting-with-sass</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/starting-with-sass"/>
-    <title>Starting with Sass</title>
-    <published>2013-10-07T13:50:16-05:00</published>
-    <updated>2013-10-07T13:50:16-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Chris Bowler:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/starting-with-sass</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/starting-with-sass"/>
+        <title>Starting with Sass</title>
+        <published>2013-10-07T13:50:16-05:00</published>
+        <updated>2013-10-07T13:50:16-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Chris Bowler:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;I’ve looked at several tutorials over the years, but many were written with a certain assumption for the level of knowledge on the other end. Many can be a struggle for the beginner because you may not even have the tools to be able to use Sass. Because of this, I wanted to write a handful of tips on what helped me get on board.&lt;/p&gt;
@@ -1710,19 +1868,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;If you’ve been on the fence about trying Sass, this is a really good place to start. I promise you, &lt;em&gt;I promise you&lt;/em&gt;, you’ll never go back to normal CSS.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/yale-professor-calls-bing-it-on-claims-bogus</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/yale-professor-calls-bing-it-on-claims-bogus"/>
-    <title>Yale Professor Calls ‘Bing It On’ Claims Bogus</title>
-    <published>2013-10-04T11:42:35-05:00</published>
-    <updated>2013-10-04T11:42:35-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/yale-professor-calls-bing-it-on-claims-bogus</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/yale-professor-calls-bing-it-on-claims-bogus"/>
+        <title>Yale Professor Calls ‘Bing It On’ Claims Bogus</title>
+        <published>2013-10-04T11:42:35-05:00</published>
+        <updated>2013-10-04T11:42:35-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;This week, a Yale law professor took aim at Microsoft’s “&lt;a href=&quot;http://www.bingiton.com/&quot;&gt;Bing It On&lt;/a&gt;” campaign…&lt;/p&gt;
 
   &lt;p&gt;And &lt;a href=&quot;http://islandia.law.yale.edu/ayres/BingItOn_Draft%209.pdf&quot;&gt;Ayres’ results differed sharply&lt;/a&gt; from Microsoft’s: “We found that, to the contrary of Microsoft’s claim, 53 percent of subjects preferred Google and 41 percent Bing (6 percent of results were “ties”). This is not even close to the advertised claim that people prefer Bing ‘nearly two-to-one.’”&lt;/p&gt;
@@ -1735,19 +1895,21 @@ Running my own business allows me to work from anywhere. There is no need for me
 &lt;h5 id=&quot;related-watching&quot;&gt;Related Watching&lt;/h5&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=Xubz8EuHosQ&quot;&gt;TV Commercial - Microsoft Surface Tablet: Less Talking. More Doing&lt;/a&gt;&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/review-1password-4-for-mac</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/review-1password-4-for-mac"/>
-    <title>Review: 1Password 4 for Mac</title>
-    <published>2013-10-03T00:00:00-05:00</published>
-    <updated>2013-10-03T00:00:00-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://agilebits.com/onepassword&quot;&gt;1Password&lt;/a&gt; is one of my favorite apps. The amount of time it has saved me is unmeasurable, and it’s made my password strategy secure and delightful.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/review-1password-4-for-mac</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/review-1password-4-for-mac"/>
+        <title>♨ Review: 1Password 4 for Mac</title>
+        <published>2013-10-03T00:00:00-05:00</published>
+        <updated>2013-10-03T00:00:00-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;&lt;a href=&quot;https://agilebits.com/onepassword&quot;&gt;1Password&lt;/a&gt; is one of my favorite apps. The amount of time it has saved me is unmeasurable, and it’s made my password strategy secure and delightful.&lt;/p&gt;
 
 &lt;p&gt;For those of you who don’t know about 1Password, it’s a great utility app to store and generate passwords. For years, I was the person who had &lt;em&gt;the same password for everything&lt;/em&gt;. With 1Password, I don’t do that anymore, I’m able to search through weak passwords and generate stronger ones, making it less likely to get hacked. Even if that does happen, none of my passwords are the same, so I only need to reset the one that’s been compromised.&lt;/p&gt;
 
@@ -1837,33 +1999,38 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
   &lt;/ol&gt;
 &lt;/div&gt;
 </content>
-  </entry>
+      </entry>
+
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/babblenut-9</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/babblenut-9"/>
-    <title>Babblenut: I’m Not Scared of the Feels</title>
-    <published>2013-10-02T18:58:00-05:00</published>
-    <updated>2013-10-02T18:58:00-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;This week: Paul and I talk about Breaking Bad, being grateful, learning to be an advocate, and much more.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/babblenut-9</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/babblenut-9"/>
+        <title>Babblenut: I’m Not Scared of the Feels</title>
+        <published>2013-10-02T18:58:00-05:00</published>
+        <updated>2013-10-02T18:58:00-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;This week: Paul and I talk about Breaking Bad, being grateful, learning to be an advocate, and much more.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/contentment-and-feeling-grateful</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/contentment-and-feeling-grateful"/>
-    <title>Contentment and Being Grateful</title>
-    <published>2013-10-02T14:56:56-05:00</published>
-    <updated>2013-10-02T14:56:56-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;We all have our moments when we feel down. In my case, the past two years have been full of personal mistakes and bad decisions. Failure is difficult to accept. Yet, these things considered, it’s not the end; the book has not yet been finished, even when at times, it certainly feels like it.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/contentment-and-feeling-grateful</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/contentment-and-feeling-grateful"/>
+        <title>♨ Contentment and Being Grateful</title>
+        <published>2013-10-02T14:56:56-05:00</published>
+        <updated>2013-10-02T14:56:56-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;We all have our moments when we feel down. In my case, the past two years have been full of personal mistakes and bad decisions. Failure is difficult to accept. Yet, these things considered, it’s not the end; the book has not yet been finished, even when at times, it certainly feels like it.&lt;/p&gt;
 
 &lt;p&gt;Although, anyone would’ve considered me an optimist a year ago, it’s not so easy in practice. Yet, something I’ve forced myself to do, is always remember I have reasons to be grateful. I think it’s a good idea to do this whether you’re going through a tough time or not.&lt;/p&gt;
 
@@ -1881,19 +2048,22 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
 
 &lt;p&gt;&lt;em&gt;This post was originally written for &lt;a href=&quot;http://the-pastry-box-project.net/&quot;&gt;The Pastry Box&lt;/a&gt;. They have so many people wanting to contribute, that they weren’t able to accept my submission.&lt;/em&gt;&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/using-portly-for-local-development</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/using-portly-for-local-development"/>
-    <title>Using Portly for Local Development</title>
-    <published>2013-10-02T09:52:41-05:00</published>
-    <updated>2013-10-02T09:52:41-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;My friend, &lt;a href=&quot;http://adamstacoviak.com/&quot;&gt;Adam Stacoviak&lt;/a&gt;, pointed me to a tool called &lt;a href=&quot;https://getportly.com/&quot;&gt;Portly&lt;/a&gt;. Portly allows you to display your local web server, publicly. &lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/using-portly-for-local-development</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/using-portly-for-local-development"/>
+        <title>♨ Using Portly for Local Development</title>
+        <published>2013-10-02T09:52:41-05:00</published>
+        <updated>2013-10-02T09:52:41-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;My friend, &lt;a href=&quot;http://adamstacoviak.com/&quot;&gt;Adam Stacoviak&lt;/a&gt;, pointed me to a tool called &lt;a href=&quot;https://getportly.com/&quot;&gt;Portly&lt;/a&gt;. Portly allows you to display your local web server, publicly. &lt;/p&gt;
 
 &lt;p&gt;If you look at the Portly site, you can tell that the applications of this menubar app, are many. I’ve been using it to do local device testing without the need for a staging server. This a very basic usage of this powerful app, but it’s been a huge timesaver for me.&lt;/p&gt;
 
@@ -1919,35 +2089,40 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
   &lt;/ol&gt;
 &lt;/div&gt;
 </content>
-  </entry>
+      </entry>
+
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/the-east-wing-71</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/the-east-wing-71"/>
-    <title>The East Wing: Scott Johnson</title>
-    <published>2013-10-01T16:31:08-05:00</published>
-    <updated>2013-10-01T16:31:08-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;This week: I talk with Scott Johnson about how he got started, takings risks, and being kind to people.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/the-east-wing-71</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/the-east-wing-71"/>
+        <title>The East Wing: Scott Johnson</title>
+        <published>2013-10-01T16:31:08-05:00</published>
+        <updated>2013-10-01T16:31:08-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;This week: I talk with Scott Johnson about how he got started, takings risks, and being kind to people.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Bandwidth is provided by &lt;a href=&quot;http://www.campaignmonitor.com/&quot;&gt;Campaign Monitor&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/10/sponsor-the-theme-foundry</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/sponsor-the-theme-foundry"/>
-    <title>Sponsor: The Theme Foundry</title>
-    <published>2013-10-01T11:32:29-05:00</published>
-    <updated>2013-10-01T11:32:29-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://syndicateads.net/cms/images/collections-theme-by-the-theme-foundry.jpg&quot; alt=&quot;The Theme Foundry&quot; /&gt;&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/10/sponsor-the-theme-foundry</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/sponsor-the-theme-foundry"/>
+        <title>Sponsor: The Theme Foundry</title>
+        <published>2013-10-01T11:32:29-05:00</published>
+        <updated>2013-10-01T11:32:29-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;&lt;img src=&quot;http://syndicateads.net/cms/images/collections-theme-by-the-theme-foundry.jpg&quot; alt=&quot;The Theme Foundry&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://thethemefoundry.com/&quot;&gt;The Theme Foundry&lt;/a&gt; has been building premium WordPress themes since 2008. They recently released Collections – a unique and beautiful WordPress theme for sharing, designed by Veerle Pieters. Visit the &lt;a href=&quot;http://demo.thethemefoundry.com/collections-theme/&quot;&gt;live demo of Collections&lt;/a&gt; to see it in action, or &lt;a href=&quot;http://thethemefoundry.com/wordpress/collections/&quot;&gt;purchase it now for $79&lt;/a&gt;.&lt;/p&gt;
 
@@ -1970,19 +2145,21 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
 
 &lt;p&gt;&lt;em&gt;&lt;a href=&quot;http://syndicateads.net/&quot;&gt;Sponsorship by The Syndicate.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/09/an-argument-for-app-net</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/an-argument-for-app-net"/>
-    <title>An Argument for App.net</title>
-    <published>2013-09-30T16:17:17-05:00</published>
-    <updated>2013-09-30T16:17:17-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Chris Enns:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/09/an-argument-for-app-net</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/an-argument-for-app-net"/>
+        <title>An Argument for App.net</title>
+        <published>2013-09-30T16:17:17-05:00</published>
+        <updated>2013-09-30T16:17:17-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Chris Enns:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The peo­ple who scoff at App​.net and won­der “why do we need another Twit­ter?” are missing the point. Actu­ally, they’re miss­ing the point of the inter­net. There’s plenty of room for another social net­work. You don’t have to use it but that doesn’t make it invalid. For every per­son that makes fun of Google+, there’s another 5 peo­ple get­ting a lot of com­mu­nity and fun out of it.&lt;/p&gt;
@@ -1996,19 +2173,21 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
 
 &lt;p&gt;Chris effectively points out, that just when we think a market has been saturated beyond belief, there’s always someone who can approach a problem a bit smarter.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/09/apple-becomes-most-valuable-brand-of-2013</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/apple-becomes-most-valuable-brand-of-2013"/>
-    <title>Apple Becomes ‘Most Valuable Brand’ of 2013</title>
-    <published>2013-09-30T12:05:04-05:00</published>
-    <updated>2013-09-30T12:05:04-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/09/apple-becomes-most-valuable-brand-of-2013</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/apple-becomes-most-valuable-brand-of-2013"/>
+        <title>Apple Becomes ‘Most Valuable Brand’ of 2013</title>
+        <published>2013-09-30T12:05:04-05:00</published>
+        <updated>2013-09-30T12:05:04-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Apple has taken the top spot as 2013′s Most Valuable Brand, ending Coca-Cola’s 13 year streak as number one in the &lt;a href=&quot;http://www.interbrand.com/en/best-global-brands/2013/Best-Global-Brands-2013-Brand-View.aspx&quot;&gt;annual Best Global Brands report&lt;/a&gt; compiled by Interbrand. Coca-Cola ended up third, surpassed by both Apple and Google this year.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -2022,19 +2201,21 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
   &lt;/ol&gt;
 &lt;/div&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/09/google-web-designer</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/google-web-designer"/>
-    <title>Google Web Designer</title>
-    <published>2013-09-30T11:41:11-05:00</published>
-    <updated>2013-09-30T11:41:11-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Interestingly, I see a tool like this from Google, and my whole opinion changes. I had some pretty harsh things to say about Macaw.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/09/google-web-designer</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/google-web-designer"/>
+        <title>Google Web Designer</title>
+        <published>2013-09-30T11:41:11-05:00</published>
+        <updated>2013-09-30T11:41:11-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Interestingly, I see a tool like this from Google, and my whole opinion changes. I had some pretty harsh things to say about Macaw.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;Google—in many ways—is the reason I do my job the way I do it. They’re advocates for building the web well, and fast. It’s hard for me to believe they’ll make a tool that does the opposite.&lt;/p&gt;
 
@@ -2046,19 +2227,21 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
   &lt;/ol&gt;
 &lt;/div&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/09/the-14-hour-work-day-myth</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/the-14-hour-work-day-myth"/>
-    <title>The 14-Hour Work Day Myth</title>
-    <published>2013-09-27T16:02:02-05:00</published>
-    <updated>2013-09-27T16:02:02-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/09/the-14-hour-work-day-myth</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/the-14-hour-work-day-myth"/>
+        <title>The 14-Hour Work Day Myth</title>
+        <published>2013-09-27T16:02:02-05:00</published>
+        <updated>2013-09-27T16:02:02-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Once I discovered the best times I like to work as a freelancer, I realized, why would I want to be working past that anyways? I love my job but I also love doing things outside my job. These things bring me great happiness and satisfaction, in turn, giving me the motivation and passion needed to perform effectively at my job.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -2066,37 +2249,41 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
 
 &lt;p&gt;Speaking of which, have a great weekend!&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/09/making-star-wars-great-again</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/making-star-wars-great-again"/>
-    <title>Making Star Wars Great Again</title>
-    <published>2013-09-27T16:01:57-05:00</published>
-    <updated>2013-09-27T16:01:57-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/09/making-star-wars-great-again</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/making-star-wars-great-again"/>
+        <title>Making Star Wars Great Again</title>
+        <published>2013-09-27T16:01:57-05:00</published>
+        <updated>2013-09-27T16:01:57-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;This is just magical. I think Abrams should bring this guy on board as a technical advisor in charge of proper use of the force.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Agreed.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/09/document-everything</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/document-everything"/>
-    <title>Document Everything</title>
-    <published>2013-09-27T14:35:13-05:00</published>
-    <updated>2013-09-27T14:35:13-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Something I’ve been thinking about a lot recently is documentation. And yes, I’m thinking a little bit about legacy—documenting our life, and the things we make. However, I also mean documenting our process.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/09/document-everything</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/document-everything"/>
+        <title>♨ Document Everything</title>
+        <published>2013-09-27T14:35:13-05:00</published>
+        <updated>2013-09-27T14:35:13-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Something I’ve been thinking about a lot recently is documentation. And yes, I’m thinking a little bit about legacy—documenting our life, and the things we make. However, I also mean documenting our process.&lt;/p&gt;
 
 &lt;p&gt;There’s a lot of mystery surrounding what we do. I remember being a newcomer and feeling overwhelmed by everything it seemed that I needed to learn. This is where I think documentation can help us a lot. &lt;/p&gt;
 
@@ -2131,19 +2318,22 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
   &lt;/ol&gt;
 &lt;/div&gt;
 </content>
-  </entry>
+      </entry>
+
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/09/the-app-store-problem</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/the-app-store-problem"/>
-    <title>The App Store Problem</title>
-    <published>2013-09-25T11:50:17-05:00</published>
-    <updated>2013-09-25T11:50:17-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Stephen Hackett on 512 Pixels:&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/09/the-app-store-problem</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/the-app-store-problem"/>
+        <title>The App Store Problem</title>
+        <published>2013-09-25T11:50:17-05:00</published>
+        <updated>2013-09-25T11:50:17-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Stephen Hackett on 512 Pixels:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The bottom line is this: developers should be able to work on their product in a sustainable way. Realmac are some of the good guys, and to have to backtrack on a business decision is a damn shame, especially in a world where people pour money into IAP-based games day and night.&lt;/p&gt;
@@ -2159,51 +2349,57 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
   &lt;p&gt;You should be ashamed of yourself.&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/09/deployments-with-github-and-ssh</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/deployments-with-github-and-ssh"/>
-    <title>Deployments with GitHub and SSH</title>
-    <published>2013-09-25T11:12:03-05:00</published>
-    <updated>2013-09-25T11:12:03-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;I had no idea that deployments could be this easy. Which surprises me, because I thought I had explored my deployment options. Kennedy was kind enough to make a video too.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/09/deployments-with-github-and-ssh</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/deployments-with-github-and-ssh"/>
+        <title>Deployments with GitHub and SSH</title>
+        <published>2013-09-25T11:12:03-05:00</published>
+        <updated>2013-09-25T11:12:03-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;I had no idea that deployments could be this easy. Which surprises me, because I thought I had explored my deployment options. Kennedy was kind enough to make a video too.&lt;/p&gt;
 
 &lt;p&gt;Obviously this route is a bit nerdy, so if you want something that’s managed for you, I recommend &lt;a href=&quot;http://beanstalkapp.com/&quot;&gt;Beanstalk&lt;/a&gt; or &lt;a href=&quot;http://deployhq.com/&quot;&gt;Deploy&lt;/a&gt;.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/09/theeastwing-70</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/theeastwing-70"/>
-    <title>The East Wing: Jeremy Fuksa</title>
-    <published>2013-09-24T16:15:55-05:00</published>
-    <updated>2013-09-24T16:15:55-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;This week: I talk with Jeremy Fuksa about being a design director, hiring designers, and the side-projects he works on.&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/09/theeastwing-70</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/theeastwing-70"/>
+        <title>The East Wing: Jeremy Fuksa</title>
+        <published>2013-09-24T16:15:55-05:00</published>
+        <updated>2013-09-24T16:15:55-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;This week: I talk with Jeremy Fuksa about being a design director, hiring designers, and the side-projects he works on.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Bandwidth is kindly provided by &lt;a href=&quot;http://www.campaignmonitor.com/&quot;&gt;Campaign Monitor&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/09/marco-arments-lastest-project-overcast</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/marco-arments-lastest-project-overcast"/>
-    <title>Marco Arment’s Latest Project: Overcast</title>
-    <published>2013-09-24T11:29:01-05:00</published>
-    <updated>2013-09-24T11:29:01-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/09/marco-arments-lastest-project-overcast</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/marco-arments-lastest-project-overcast"/>
+        <title>Marco Arment’s Latest Project: Overcast</title>
+        <published>2013-09-24T11:29:01-05:00</published>
+        <updated>2013-09-24T11:29:01-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;If you need tons of features or anything I’m choosing not to do, you’ll probably be happier with one of the others. (Before I started using Overcast full-time, Downcast was my podcast app of choice.)&lt;/p&gt;
 
   &lt;p&gt;I’m adding some new stuff that I haven’t seen before in podcast players, and implementing what I think is the best set of core features from the existing apps. It’s my ideal podcast app.&lt;/p&gt;
@@ -2213,37 +2409,41 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
 
 &lt;p&gt;Marco isn’t given enough credit as a designer. He may not create the visuals for all of his products, but he is very deliberate with his design decisions. Can’t wait for this app.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/09/sustainable-web</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/sustainable-web"/>
-    <title>James Christie on Sustainable Web Design</title>
-    <published>2013-09-24T10:10:39-05:00</published>
-    <updated>2013-09-24T10:10:39-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/09/sustainable-web</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/sustainable-web"/>
+        <title>James Christie on Sustainable Web Design</title>
+        <published>2013-09-24T10:10:39-05:00</published>
+        <updated>2013-09-24T10:10:39-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;At 1.4MB, today’s average page is 15 times larger than it was 10 years ago, primarily due to images (881kB) and script (224kB). Plain old HTML totals just 54kB—but when’s the last time you saw an HTML-only site? This average page also makes more than 100 HTTP requests. Whether they fetch a big object or a small one, these add up to more delay and more power wastage. The average site is also slow: Alexa’s top 2,000 retailer sites now take an average of more than seven seconds to load—much longer than users consider acceptable.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;We published &lt;a href=&quot;http://alistapart.com/issue/383&quot;&gt;a great issue&lt;/a&gt; today, but this particular article written by &lt;a href=&quot;http://jcux.co.uk/&quot;&gt;James Christie&lt;/a&gt; caught my eye. I’ve been doing a lot of research into performance, but I’d stupidly never thought how slow sites can have an impact on our environment. Site performance matters; not only to visitors, but to our planet.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/09/apple-iphone-touchscreen-faster-than-android-devices</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/apple-iphone-touchscreen-faster-than-android-devices"/>
-    <title>Apple iPhone Touchscreen Faster than Android Devices</title>
-    <published>2013-09-23T14:17:25-05:00</published>
-    <updated>2013-09-23T14:17:25-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/09/apple-iphone-touchscreen-faster-than-android-devices</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/apple-iphone-touchscreen-faster-than-android-devices"/>
+        <title>Apple iPhone Touchscreen Faster than Android Devices</title>
+        <published>2013-09-23T14:17:25-05:00</published>
+        <updated>2013-09-23T14:17:25-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Apple’s iPhone 5 is 2.5 times faster at responding to touches than Google Android devices, according to a benchmark test by game and app streaming firm Agawi.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -2263,73 +2463,81 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
   &lt;/ol&gt;
 &lt;/div&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/09/netflix-first-to-win-emmy-award-for-online-only-shows</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/netflix-first-to-win-emmy-award-for-online-only-shows"/>
-    <title>Netflix First to Win Emmy Award for Online-Only Shows</title>
-    <published>2013-09-23T14:03:04-05:00</published>
-    <updated>2013-09-23T14:03:04-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/09/netflix-first-to-win-emmy-award-for-online-only-shows</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/netflix-first-to-win-emmy-award-for-online-only-shows"/>
+        <title>Netflix First to Win Emmy Award for Online-Only Shows</title>
+        <published>2013-09-23T14:03:04-05:00</published>
+        <updated>2013-09-23T14:03:04-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Netflix made history tonight, winning three Emmy awards for House of Cards, becoming the first company to win the awards for online-only shows. Original shows produced by Netflix had received 14 nominations — 9 of those for House of Cards alone. &lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;This is huge. I’ve said it before, and I’ll say it again: Netflix gets it. They’re making entertaining shows, and minimizing piracy. Traditional television hasn’t been able to nail both.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/09/blackberry-receives-buyout-offer</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/blackberry-receives-buyout-offer"/>
-    <title>BlackBerry Receives Buyout Offer</title>
-    <published>2013-09-23T12:50:07-05:00</published>
-    <updated>2013-09-23T12:50:07-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/09/blackberry-receives-buyout-offer</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/blackberry-receives-buyout-offer"/>
+        <title>BlackBerry Receives Buyout Offer</title>
+        <published>2013-09-23T12:50:07-05:00</published>
+        <updated>2013-09-23T12:50:07-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;BlackBerry has officially filed a letter with Canadian holding company Fairfax Financial, an offer that could lead to it returning to private ownership.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;This could be a good thing for them. I remember when BlackBerry was on top, and then fell to the pits of irrelevance. Personally, I hope this helps them get their act together. I believe that the smartphone market will only continue to get better with better competition.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/09/apple-sells-nine-million-iphones</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/apple-sells-nine-million-iphones"/>
-    <title>Apple Sells Nine Million iPhones in a Weekend</title>
-    <published>2013-09-23T11:43:37-05:00</published>
-    <updated>2013-09-23T11:43:37-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;blockquote&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/09/apple-sells-nine-million-iphones</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/apple-sells-nine-million-iphones"/>
+        <title>Apple Sells Nine Million iPhones in a Weekend</title>
+        <published>2013-09-23T11:43:37-05:00</published>
+        <updated>2013-09-23T11:43:37-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Apple® today announced it has sold a record-breaking nine million new iPhone® 5s and iPhone 5c models, just three days after the launch of the new iPhones on September 20. In addition, more than 200 million iOS devices are now running the completely redesigned iOS 7, making it the fastest software upgrade in history.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Every time the worlds says Apple is done, they come and do something like this. It’s also interesting to note that &lt;a href=&quot;http://news.cnet.com/8301-1035_3-57603876-94/samsung-sends-spies-to-uncover-apples-iphone-line-phenom/&quot;&gt;Samsung sent out a film crew to the iPhone lines&lt;/a&gt;. None of the competitors get why people are so passionate about Apple’s products.&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+    
   
-  <entry>
-    <id>http://theboldreport.net/2013/09/welcome</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/welcome"/>
-    <title>Dear Reader,</title>
-    <published>2013-09-23T00:00:00-05:00</published>
-    <updated>2013-09-23T00:00:00-05:00</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Welcome to &lt;em&gt;The Bold Report&lt;/em&gt;!&lt;/p&gt;
+    
+      <entry>
+        <id>http://theboldreport.net/2013/09/welcome</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/welcome"/>
+        <title>♨ Dear Reader,</title>
+        <published>2013-09-23T00:00:00-05:00</published>
+        <updated>2013-09-23T00:00:00-05:00</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">&lt;p&gt;Welcome to &lt;em&gt;The Bold Report&lt;/em&gt;!&lt;/p&gt;
 
 &lt;p&gt;I’ve been pondering the creation of a blog for quite some time now. In the past few months, I’ve felt that the goals I have for my writing have outgrown my personal site, and it was time to move it to its own home.&lt;/p&gt;
 
@@ -2345,7 +2553,9 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
 
 &lt;p&gt;—Tim&lt;/p&gt;
 </content>
-  </entry>
+      </entry>
+
+    
   
 
 </feed>

@@ -16,18 +16,34 @@ layout: nil
   </author>
 
   {% for post in site.posts %}
-  <entry>
-    <id>http://theboldreport.net{{ post.id }}</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net{{ post.url }}"/>
-    <title>{{ post.title }}</title>
-    <published>{{ post.date | date_to_xmlschema }}</published>
-    <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <author>
-      <name>Tim Smith</name>
-      <uri>http://ttimsmith.com/</uri>
-    </author>
-    <content type="html">{{ post.content | xml_escape }}</content>
-  </entry>
+    {% if post.custom_type == 'post' %}
+      <entry>
+        <id>http://theboldreport.net{{ post.id }}</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net{{ post.url }}"/>
+        <title>♨ {{ post.title }}</title>
+        <published>{{ post.date | date_to_xmlschema }}</published>
+        <updated>{{ post.date | date_to_xmlschema }}</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">{{ post.content | xml_escape }}</content>
+      </entry>
+
+    {% elsif post.custom_type == 'link' %}
+      <entry>
+        <id>http://theboldreport.net{{ post.id }}</id>
+        <link type="text/html" rel="alternate" href="http://theboldreport.net{{ post.url }}"/>
+        <title>{{ post.title }}</title>
+        <published>{{ post.date | date_to_xmlschema }}</published>
+        <updated>{{ post.date | date_to_xmlschema }}</updated>
+        <author>
+          <name>Tim Smith</name>
+          <uri>http://ttimsmith.com/</uri>
+        </author>
+        <content type="html">{{ post.content | xml_escape }}</content>
+      </entry>
+    {% endif %}
   {% endfor %}
 
 </feed>
