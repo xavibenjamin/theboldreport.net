@@ -917,6 +917,15 @@
         "articles"
       ],
       "body": "I made a small modification to the main RSS feed. And I wanted to take a second to tell you about it. This site publishes both articles, and link posts. Up until this point, if you were subscribed to the main RSS feed, or follow The Bold Report on Twitter, there was really no way of distinguishing the difference without clicking on the link, or reading the post. If it was frustrating to me, I’m sure some of you felt the same. Now, all articles have the ♨ symbol before the title, and those that don’t, are links. How did I do this? It’s actually quite simple. Let me know if you have any questions. If you’d like to see the whole atom.xml, here’s the source code. I hope this improves the reading experience ever so slightly."
+    },
+    {
+      "title": "On Getting the Work You Want",
+      "url": "/2014/01/on-getting-the-work-you-want",
+      "date": "2014-01-02 12:50:21 -0600",
+      "categories": [
+        "links"
+      ],
+      "body": "Daniel Mall:  One of the most common questions I’m asked about design is how to get the work you really want to do. Students often bring up the fact that they feel so far away from their dream projects. Even experienced agencies make excuses like “gotta make payroll” and “we’re too busy right now.” First off, I’m honored to be mentioned in this post. I like both of Dan’s suggestions, but especially the second one. Seemingly obvious advice, yet can have such a huge impact on the work you do."
     }
   ]
 }
