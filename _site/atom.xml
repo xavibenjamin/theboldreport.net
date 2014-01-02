@@ -5,13 +5,37 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-01-02T10:43:46-06:00</updated>
+  <updated>2014-01-02T11:11:29-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2014/01/the-silent-subcontractor</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/01/the-silent-subcontractor"/>
+    <title>‘The Silent Subcontractor’</title>
+    <published>2014-01-02T11:09:02-06:00</published>
+    <updated>2014-01-02T11:09:02-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Laura Kalbag in her column on &lt;em&gt;A List Apart&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For the last four years I’ve had this daft rule: I don’t work with agencies.&lt;/p&gt;
+
+  &lt;p&gt;…&lt;/p&gt;
+
+  &lt;p&gt;Why was I doing this? I was really just attributing a few dodgy practices to all agencies—and minimizing my potential to work with great people. By a basic definition, an agency is just a collective that produces work for clients. If I worked with one more person, I could be an agency. Now I’m feeling a bit silly for discriminating for so long.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Great advice for independent contractors. Laura’s perspective has definitely changed the way I look at the issue.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2014/01/the-top-10-worst-albums-of-the-year</id>
