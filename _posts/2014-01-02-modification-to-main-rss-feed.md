@@ -51,7 +51,7 @@ Let me know if you have any questions. If you'd like to see the whole `atom.xml`
 
 ---
 
-## Update
+**Update: 01.03.2014 at 10:50am**     
 The amazing [Dan Eden](https://daneden.me/) created [a pull request](https://github.com/ttimsmith/theboldreport.net/pull/11#issuecomment-31509288) in which he did the same exact thing I had done with twenty-seven lines of code, in eleven. Here's the update to the `atom.xml`. Thanks Dan!
 
 {% highlight xml %}
@@ -61,6 +61,30 @@ The amazing [Dan Eden](https://daneden.me/) created [a pull request](https://git
     <id>http://theboldreport.net{{ post.id }}</id>
     <link type="text/html" rel="alternate" href="http://theboldreport.net{{ post.url }}"/>
     <title>{{ '♨ ' if post.custom_type == 'post' else '' }}{{ post.title }}</title>
+    <published>{{ post.date | date_to_xmlschema }}</published>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+{% endfor %}
+{% endraw %}
+{% endhighlight %}
+
+---
+
+**Update: 01.03.2014 at 11:10am**     
+After testing, it seems that the fix still needed a little bit more tweaking. Here's the final.
+
+{% highlight xml %}
+{% raw %}
+{% for post in site.posts %}
+  <entry>
+    <id>http://theboldreport.net{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net{{ post.url }}"/>
+    <title>{% if post.custom_type == 'post' %}♨ {% endif %}{{ post.title }}</title>
     <published>{{ post.date | date_to_xmlschema }}</published>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>

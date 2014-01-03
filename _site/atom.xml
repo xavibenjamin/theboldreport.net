@@ -5,7 +5,7 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-01-03T11:04:35-06:00</updated>
+  <updated>2014-01-03T11:13:55-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
@@ -85,14 +85,35 @@
 
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;update&quot;&gt;Update&lt;/h2&gt;
-&lt;p&gt;The amazing &lt;a href=&quot;https://daneden.me/&quot;&gt;Dan Eden&lt;/a&gt; created &lt;a href=&quot;https://github.com/ttimsmith/theboldreport.net/pull/11#issuecomment-31509288&quot;&gt;a pull request&lt;/a&gt; in which he did the same exact thing I had done with twenty-seven lines of code, in eleven. Here’s the update to the &lt;code&gt;atom.xml&lt;/code&gt;. Thanks Dan!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update: 01.03.2014 at 10:50am&lt;/strong&gt;   &lt;br /&gt;
+The amazing &lt;a href=&quot;https://daneden.me/&quot;&gt;Dan Eden&lt;/a&gt; created &lt;a href=&quot;https://github.com/ttimsmith/theboldreport.net/pull/11#issuecomment-31509288&quot;&gt;a pull request&lt;/a&gt; in which he did the same exact thing I had done with twenty-seven lines of code, in eleven. Here’s the update to the &lt;code&gt;atom.xml&lt;/code&gt;. Thanks Dan!&lt;/p&gt;
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;xml&quot;&gt;{% for post in site.posts %}
   &lt;span class=&quot;nt&quot;&gt;&amp;lt;entry&amp;gt;&lt;/span&gt;
     &lt;span class=&quot;nt&quot;&gt;&amp;lt;id&amp;gt;&lt;/span&gt;http://theboldreport.net{{ post.id }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/id&amp;gt;&lt;/span&gt;
     &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;text/html&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;alternate&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://theboldreport.net{{ post.url }}&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
     &lt;span class=&quot;nt&quot;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;{{ &amp;#39;♨ &amp;#39; if post.custom_type == &amp;#39;post&amp;#39; else &amp;#39;&amp;#39; }}{{ post.title }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;published&amp;gt;&lt;/span&gt;{{ post.date | date_to_xmlschema }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/published&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;updated&amp;gt;&lt;/span&gt;{{ post.date | date_to_xmlschema }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/updated&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;author&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;name&amp;gt;&lt;/span&gt;Tim Smith&lt;span class=&quot;nt&quot;&gt;&amp;lt;/name&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;uri&amp;gt;&lt;/span&gt;http://ttimsmith.com/&lt;span class=&quot;nt&quot;&gt;&amp;lt;/uri&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/author&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;content&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;html&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;{{ post.content | xml_escape }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/content&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/entry&amp;gt;&lt;/span&gt;
+{% endfor %}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Update: 01.03.2014 at 11:10am&lt;/strong&gt;   &lt;br /&gt;
+After testing, it seems that the fix still needed a little bit more tweaking. Here’s the final.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;xml&quot;&gt;{% for post in site.posts %}
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;entry&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;id&amp;gt;&lt;/span&gt;http://theboldreport.net{{ post.id }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/id&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;text/html&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;alternate&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://theboldreport.net{{ post.url }}&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;{% if post.custom_type == &amp;#39;post&amp;#39; %}♨ {% endif %}{{ post.title }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
     &lt;span class=&quot;nt&quot;&gt;&amp;lt;published&amp;gt;&lt;/span&gt;{{ post.date | date_to_xmlschema }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/published&amp;gt;&lt;/span&gt;
     &lt;span class=&quot;nt&quot;&gt;&amp;lt;updated&amp;gt;&lt;/span&gt;{{ post.date | date_to_xmlschema }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/updated&amp;gt;&lt;/span&gt;
     &lt;span class=&quot;nt&quot;&gt;&amp;lt;author&amp;gt;&lt;/span&gt;
