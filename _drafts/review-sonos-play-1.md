@@ -16,6 +16,9 @@ Sonos is widely regarded as a premier speaker system for your home. Recently, th
 
 - The design of the speaker is quite beautiful, and really blends in with any type of decor.
 
+{% image fullwidth /uploads/2014/01/sonos-top_view.jpg "The Sonos Play:1 from the top" %}
+
+
 ## Setting Up the Sonos
 Sonos is very simple to setup, and you can do it one of two ways. The first is to connect your speaker via ethernet cable. I didn't personally try this, but it seems simple enough. This does limit where you can put the speaker, since it will need to be close to your router.
 
@@ -26,9 +29,11 @@ I was very impressed by how easy this setup is. The instructions of setting up t
 Many people complain about connection issues with Bluetooth speakers, and I've personally had this problem too. Not with Sonos. In the three weeks I've had the speaker, I've not had one connection issue, and the delay between controller app and speaker is very minimal, if almost non-existent.
 
 ## Sound Quality
-I'm no audiophile, but I know what sounds good. This speaker is spectacular. The bass is surprisingly impressive, with my rap/hip-hop songs playing beautifully. 
+I'm no audiophile, but I know what sounds good. This speaker is spectacular. The bass is surprisingly impressive, with my rap/hip-hop songs playing beautifully.
 
 The Play:1 can easily fill my large studio apartment, and I'm sure could fill quite a bit more space. I'd love to buy two just so that I have one just for my horrendous shower singing.
+
+{% image fullwidth /uploads/2014/01/sonos-side_view.jpg "The Sonos Play:1 from the side" %}
 
 ## Controller Apps
 Unfortunately, this is my biggest gripe against Sonos. As impressive as their hardware is, the software powering everything is terrible. 

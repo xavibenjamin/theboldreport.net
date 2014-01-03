@@ -12,3 +12,13 @@ img {
   background: white;
   padding: 10px;
 }
+
+figure {
+  margin: 1.8em 0;
+}
+
+figcaption {
+  @extend %sans;
+  color: lighten($darkColor, 45%);
+  font-size: .8em;
+}
