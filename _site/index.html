@@ -205,6 +205,28 @@
 
 <p>Let me know if you have any questions. If you’d like to see the whole <code>atom.xml</code>, <a href="https://github.com/ttimsmith/theboldreport.net/blob/master/atom.xml">here’s the source code</a>. I hope this improves the reading experience ever so slightly.</p>
 
+<hr />
+
+<h2 id="update">Update</h2>
+<p>The amazing <a href="https://daneden.me/">Dan Eden</a> created <a href="https://github.com/ttimsmith/theboldreport.net/pull/11#issuecomment-31509288">a pull request</a> in which he did the same exact thing I had done with twenty-seven lines of code, in eleven. Here’s the update to the <code>atom.xml</code>. Thanks Dan!</p>
+
+<div class="highlight"><pre><code class="xml">{% for post in site.posts %}
+  <span class="nt">&lt;entry&gt;</span>
+    <span class="nt">&lt;id&gt;</span>http://theboldreport.net{{ post.id }}<span class="nt">&lt;/id&gt;</span>
+    <span class="nt">&lt;link</span> <span class="na">type=</span><span class="s">&quot;text/html&quot;</span> <span class="na">rel=</span><span class="s">&quot;alternate&quot;</span> <span class="na">href=</span><span class="s">&quot;http://theboldreport.net{{ post.url }}&quot;</span><span class="nt">/&gt;</span>
+    <span class="nt">&lt;title&gt;</span>{{ &#39;♨ &#39; if post.custom_type == &#39;post&#39; else &#39;&#39; }}{{ post.title }}<span class="nt">&lt;/title&gt;</span>
+    <span class="nt">&lt;published&gt;</span>{{ post.date | date_to_xmlschema }}<span class="nt">&lt;/published&gt;</span>
+    <span class="nt">&lt;updated&gt;</span>{{ post.date | date_to_xmlschema }}<span class="nt">&lt;/updated&gt;</span>
+    <span class="nt">&lt;author&gt;</span>
+      <span class="nt">&lt;name&gt;</span>Tim Smith<span class="nt">&lt;/name&gt;</span>
+      <span class="nt">&lt;uri&gt;</span>http://ttimsmith.com/<span class="nt">&lt;/uri&gt;</span>
+    <span class="nt">&lt;/author&gt;</span>
+    <span class="nt">&lt;content</span> <span class="na">type=</span><span class="s">&quot;html&quot;</span><span class="nt">&gt;</span>{{ post.content | xml_escape }}<span class="nt">&lt;/content&gt;</span>
+  <span class="nt">&lt;/entry&gt;</span>
+{% endfor %}
+</code></pre></div>
+
+
 
       
     </article>
