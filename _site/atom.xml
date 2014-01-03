@@ -5,13 +5,33 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-01-03T11:13:55-06:00</updated>
+  <updated>2014-01-03T12:13:24-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/01/twenty-thirteen-the-learnering</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/01/twenty-thirteen-the-learnering"/>
+      <title>‘Twenty Thirteen, The Learnering’</title>
+      <published>2014-01-03T12:13:03-06:00</published>
+      <updated>2014-01-03T12:13:03-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Paul Armstrong: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;…there’s no sense in just listing the things that have transpired in a year without taking full account of why they were and are important. If you can’t determine what you’ve learned, whether good and bad, then you’re missing the chance to improve your life — and believe me, there isn’t much life to go around.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I love it when Paul writes. Hell, I love it when he writes, thinks, talks, whatever. He’s got a wisdom about him and a sincerity that is difficult to find. He talks about some of the things he’s learned this past year and also gives sound advice.&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/01/on-getting-the-work-you-want</id>
