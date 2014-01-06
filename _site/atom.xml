@@ -5,13 +5,33 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-01-03T17:57:42-06:00</updated>
+  <updated>2014-01-06T12:36:40-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/01/fired-speak-no-evil</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/01/fired-speak-no-evil"/>
+      <title>‘Fired? Speak No Evil’</title>
+      <published>2014-01-06T12:36:25-06:00</published>
+      <updated>2014-01-06T12:36:25-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Will Blyte writing for &lt;em&gt;The New York Times&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The increased prevalence of nondisparagement agreements is part of a corporate culture of risk management that would have us say nothing if we can’t say anything nice. And yet it occurs to me that if a company isn’t strong enough to be reproached, then it simply isn’t strong enough, period.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Interesting perspective.&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/01/twenty-thirteen-the-learnering</id>
