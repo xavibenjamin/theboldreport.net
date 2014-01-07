@@ -5,13 +5,40 @@
   <title>The Bold Report - Articles Only</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/feed.article.xml"/>
-  <updated>2014-01-06T12:49:47-06:00</updated>
+  <updated>2014-01-07T13:34:58-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2014/01/the-east-wing-on-5by5</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/01/the-east-wing-on-5by5"/>
+    <title>The East Wing on 5by5</title>
+    <published>2014-01-07T13:33:29-06:00</published>
+    <updated>2014-01-07T13:33:29-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://5by5.tv/eastwing&quot;&gt;The East Wing has moved to 5by5&lt;/a&gt;! I’m really excited about the move, and I hope that the show will reach a lot more people. I want to thank &lt;a href=&quot;http://5by5.tv/people/dan-benjamin&quot;&gt;Dan Benjamin&lt;/a&gt; for inviting me to his network, and &lt;a href=&quot;http://sensibleworld.com/&quot;&gt;Jory Raphael&lt;/a&gt; for the gorgeous new artwork.&lt;/p&gt;
+
+&lt;p&gt;I’ve been working behind the scenes on this move for some time now, and I’m happy that the show is launched on it’s new home.&lt;/p&gt;
+
+&lt;h3 id=&quot;listening-live&quot;&gt;Listening Live&lt;/h3&gt;
+&lt;p&gt;The East Wing will now record live at &lt;a href=&quot;http://5by5.tv/live&quot;&gt;5by5.tv/live&lt;/a&gt; every Wednesday at 3pm Central.&lt;/p&gt;
+
+&lt;p&gt;5by5 has some pretty awesome apps that you can use to listen as well. There’s the &lt;a href=&quot;https://itunes.apple.com/us/app/5by5-radio/id520847556?mt=8&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;uo=8&amp;amp;at=11laDR&quot;&gt;5by5 Radio app for iOS&lt;/a&gt; and &lt;a href=&quot;https://itunes.apple.com/us/app/5by5-radio/id553498407?mt=12&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;uo=8&amp;amp;at=11laDR&quot;&gt;5by5 for Mac&lt;/a&gt;. From there, you can decide to be notified when the show starts. As always, you can &lt;a href=&quot;http://theeastwing.net/schedule&quot;&gt;subscribe to the Google calendar&lt;/a&gt; which tells you the time and guest.&lt;/p&gt;
+
+&lt;h3 id=&quot;subscribing&quot;&gt;Subscribing&lt;/h3&gt;
+&lt;p&gt;You won’t have to do a thing. I’ve redirected the feed to the new one on 5by5. If you’re not currently subscribed, and you’d like to, the new feed is &lt;a href=&quot;feed://feeds.5by5.tv/eastwing&quot;&gt;feeds.5by5.tv/eastwing&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;thank-you&quot;&gt;Thank You&lt;/h3&gt;
+&lt;p&gt;I’ll be recording a more in-depth state of the union for The East Wing later, but I just wanted to say thank you. Thank you for listening to the show, supporting the show by sharing it, reviewing it, and checking out the sponsors. It means a lot to me, and I hope you stick around for this new era of the show!&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2014/01/updating-my-rss-setup</id>
