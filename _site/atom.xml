@@ -5,13 +5,27 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-03-10T09:38:55-05:00</updated>
+  <updated>2014-03-10T13:29:19-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/03/the-do-not-disturb-settings-for-presentations</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/03/the-do-not-disturb-settings-for-presentations"/>
+      <title>‘The Do-Not-Disturb Settings For Presentations’</title>
+      <published>2014-03-10T12:28:58-05:00</published>
+      <updated>2014-03-10T12:28:58-05:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;I had just seen an app called &lt;a href=&quot;http://coffitivity.com/hush/&quot;&gt;Hush&lt;/a&gt; that turns off notifications on your Mac. It allows you to toggle notifications or specify a period of time in which to disable them. Turns out, it’s baked into Mac OS X. As Sven points out, this is a great way in which Apple brought a feature in iOS, “back to the Mac.”&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/03/fun-facts-about-the-incredibles</id>
