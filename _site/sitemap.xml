@@ -431,10 +431,6 @@
         <lastmod>2014-01-02T11:09:04-06:00</lastmod>
     </url>
     <url>
-        <loc>http://theboldreport.net/2014/01/modification-to-main-rss-feed</loc>
-        <lastmod>2014-01-03T11:13:54-06:00</lastmod>
-    </url>
-    <url>
         <loc>http://theboldreport.net/2014/01/on-getting-the-work-you-want</loc>
         <lastmod>2014-01-02T12:50:36-06:00</lastmod>
     </url>
@@ -463,6 +459,10 @@
         <lastmod>2014-03-10T13:28:58-05:00</lastmod>
     </url>
     <url>
+        <loc>http://theboldreport.net/2014/04/goodstuff</loc>
+        <lastmod>2014-04-22T17:06:28-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://theboldreport.net/404/404/</loc>
         <lastmod>2013-12-31T17:04:27-06:00</lastmod>
     </url>
@@ -476,11 +476,11 @@
     </url>
     <url>
         <loc>http://theboldreport.net/</loc>
-        <lastmod>2014-03-10T13:28:58-05:00</lastmod>
+        <lastmod>2014-04-22T17:06:28-05:00</lastmod>
     </url>
     <url>
         <loc>http://theboldreport.net/search/search/</loc>
-        <lastmod>2014-03-10T13:28:58-05:00</lastmod>
+        <lastmod>2014-04-22T17:06:28-05:00</lastmod>
     </url>
     <url>
         <loc>http://theboldreport.net/subscribe/subscribe/</loc>

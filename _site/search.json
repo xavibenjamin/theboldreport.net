@@ -910,15 +910,6 @@
       "body": "Laura Kalbag in her column on A List Apart: For the last four years I’ve had this daft rule: I don’t work with agencies. … Why was I doing this? I was really just attributing a few dodgy practices to all agencies—and minimizing my potential to work with great people. By a basic definition, an agency is just a collective that produces work for clients. If I worked with one more person, I could be an agency. Now I’m feeling a bit silly for discriminating for so long. Great advice for independent contractors. Laura’s perspective has definitely changed the way I look at the issue."
     },
     {
-      "title": "Modification to Main RSS Feed",
-      "url": "/2014/01/modification-to-main-rss-feed",
-      "date": "2014-01-02 12:10:36 -0600",
-      "categories": [
-        "articles"
-      ],
-      "body": "I made a small modification to the main RSS feed. And I wanted to take a second to tell you about it. This site publishes both articles, and link posts. Up until this point, if you were subscribed to the main RSS feed, or follow The Bold Report on Twitter, there was really no way of distinguishing the difference without clicking on the link, or reading the post. If it was frustrating to me, I’m sure some of you felt the same. Now, all articles have the ♨ symbol before the title, and those that don’t, are links. How did I do this? It’s actually quite simple. Let me know if you have any questions. If you’d like to see the whole atom.xml, here’s the source code. I hope this improves the reading experience ever so slightly. Update: 01.03.2014 at 10:50am    The amazing Dan Eden created a pull request in which he did the same exact thing I had done with twenty-seven lines of code, in eleven. Here’s the update to the atom.xml. Thanks Dan! Update: 01.03.2014 at 11:10am    After testing, it seems that the fix still needed a little bit more tweaking. Here’s the final."
-    },
-    {
       "title": "On Getting the Work You Want",
       "url": "/2014/01/on-getting-the-work-you-want",
       "date": "2014-01-02 12:50:21 -0600",
@@ -980,6 +971,15 @@
         "links"
       ],
       "body": "I had just seen an app called Hush that turns off notifications on your Mac. It allows you to toggle notifications or specify a period of time in which to disable them. Turns out, it’s baked into Mac OS X. As Sven points out, this is a great way in which Apple brought a feature in iOS, “back to the Mac.”"
+    },
+    {
+      "title": "Presenting Goodstuff Broadcasting",
+      "url": "/2014/04/goodstuff",
+      "date": "2014-04-22 17:01:40 -0500",
+      "categories": [
+        "articles"
+      ],
+      "body": "On March 17th, I launched Goodstuff Broadcasting together with my good friends Chris Enns and Adam Clark. On April 8th we did a more official launch where we did live broadcasting for eight hours, and it was one of the funnest things I’ve done in a long time. We finally got to see this thing that we’ve planned and worked on for months, in the wild. The best part? People seemed to like it. Goodstuff is by no means a huge network. However, we saw from the beginning that we have a core of amazing people who listen to our shows. I can’t tell you how grateful I am about that. If you listen to our shows, a heartfelt thank you to you. So what are we doing? What are we trying to accomplish? What makes us different? Those are great questions. We want to produce entertaining and educational content spanning technology (of course), culture, news, and more. As time goes by, we’d like to do shows that cover the different niches of these topics better, but we’re doing a fantastic job for a one month old network. In terms of what we want to accomplish, all three of us want to do this full time. As you may have heard on the latest episode of The Intellectual Radio Program, I’m so burnt out with the web. I’d love to make a transition into something else. What makes us different? That’s actually quite simple: we’re a group of nice people working hard to make great content. Unfortunately, that’s becoming a big differentiator nowadays. If you like what we’re doing, and would like to help us out, you can do that in couple of ways: In closing, thank you so much for supporting my projects. I can’t tell you how excited I am, to finally be doing this with people I love to work with. It’s the first time I’m part of a founding team, and actually enjoy it. In a short time, we’ve built a company and network that I feel fortunate and proud to be part of. "
     }
   ]
 }
