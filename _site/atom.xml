@@ -5,13 +5,31 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-04-23T14:50:02-05:00</updated>
+  <updated>2014-04-24T13:57:52-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/04/not-just-a-boy-scout</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/04/not-just-a-boy-scout"/>
+      <title>‘Not Just a Boy Scout’</title>
+      <published>2014-04-24T00:00:00-05:00</published>
+      <updated>2014-04-24T00:00:00-05:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;The quality of shows that Moisés Chiullan produces is by far one of the best. He’s an expert moderator, and his passion for the topics really shines through.&lt;/p&gt;
+
+&lt;p&gt;In this episode of Giant Size, they talk about Captain America. The panel, consisting of Moisés, John Gholson, Brad Graeber and Amanda Schuckman, gives such a detailed backstory helping me understand the character a lot better.&lt;/p&gt;
+
+&lt;p&gt;Give it a listen. In fact, listen to all the ESN shows.&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/04/hbo-comes-to-amazon-prime-instant-video</id>
