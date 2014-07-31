@@ -5,7 +5,7 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-07-31T08:29:06-05:00</updated>
+  <updated>2014-07-31T08:36:09-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
@@ -38,7 +38,7 @@
     <entry>
       <id>http://theboldreport.net/2014/07/ftr-3</id>
       <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/07/ftr-3"/>
-      <title>For the Record: Happy & Loved</title>
+      <title>For the Record: Happy &amp; Loved</title>
       <published>2014-07-23T00:00:00-05:00</published>
       <updated>2014-07-23T00:00:00-05:00</updated>
       <author>
