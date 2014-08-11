@@ -5,13 +5,40 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-07-31T08:36:09-05:00</updated>
+  <updated>2014-08-11T11:43:06-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/08/relay-fm</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/08/relay-fm"/>
+      <title>Relay FM</title>
+      <published>2014-08-11T11:42:46-05:00</published>
+      <updated>2014-08-11T11:42:46-05:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Today is an exciting day. My friends, Stephen Hackett and Myke Hurley, have announced their new project: &lt;a href=&quot;http://relay.fm&quot;&gt;Relay FM&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Relay FM is their new network, that will house some of their classic shows, and a few new ones. I for one, am very excited for them. My sentiments align very much with &lt;a href=&quot;http://www.chrisenns.com/2014/08/relay-fm/&quot;&gt;Chris’&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In as much as some­one might think a new pod­cast net­work would be bad and add com­pe­ti­tion to &lt;a href=&quot;http://goodstuff.fm/&quot;&gt;what I’m work­ing on&lt;/a&gt;, it’s really not the case. Pod­cast­ing needs to become more famil­iar to more peo­ple so that we all rise together. And the only way that’s going to hap­pen is by hav­ing qual­ity pod­casts that draw peo­ple in to the medium.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I think this new addition to the podcasting landscape is great for us as a whole. And really, the shows Myke and Stephen work on can’t really be called “new”. It’s more of a continuation of the amazing work they’ve already been doing.&lt;/p&gt;
+
+&lt;p&gt;Also, I’m incredibly excited that Relay FM is powered by the CMS that &lt;a href=&quot;https://twitter.com/willmanduffy&quot;&gt;Will Duffy&lt;/a&gt; and I created. The fact that we got to work on a project like this is beyond awesome.&lt;/p&gt;
+
+&lt;p&gt;With that said, do your ears a favor, and follow the happenings of Relay FM. It’ll be some &lt;em&gt;goodstuff™&lt;/em&gt;.&lt;/p&gt;
+
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/07/app-rot</id>
