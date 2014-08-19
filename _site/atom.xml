@@ -5,13 +5,29 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-08-11T11:43:06-05:00</updated>
+  <updated>2014-08-19T11:00:00-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/08/ftr-5</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/08/ftr-5"/>
+      <title>For the Record: RoboRebellion</title>
+      <published>2014-08-19T10:59:45-05:00</published>
+      <updated>2014-08-19T10:59:45-05:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;This week: I talk about OnePlus: how they stuck their foot in their mouth, and robot butlers coming to a hotel near you. Myke Hurley is the guest.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Sponsored by &lt;a href=&quot;http://www.campaignmonitor.com/&quot;&gt;Campaign Monitor&lt;/a&gt;, &lt;a href=&quot;http://atozcss.com/&quot;&gt;AtoZ CSS&lt;/a&gt;, &lt;a href=&quot;http://www.blendconf.com/&quot;&gt;Blend Conf&lt;/a&gt;, and &lt;a href=&quot;http://aeropresstimer.com/&quot;&gt;AeroPress Timer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/08/relay-fm</id>
