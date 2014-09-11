@@ -2,7 +2,7 @@ name: The Bold Report
 url: http://theboldreport.net
 description: 'An exploration of design, development, tech, Geek culture, Apple, and more.'
 markdown: kramdown
-pygments: true
+highlighter: pygments
 permalink: /:year/:month/:title
 paginate: 20
 exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock']

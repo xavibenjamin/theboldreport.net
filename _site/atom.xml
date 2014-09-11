@@ -5,13 +5,33 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-08-19T11:00:00-05:00</updated>
+  <updated>2014-09-11T18:23:36-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/09/the-daily-radio-column</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/09/the-daily-radio-column"/>
+      <title>The Daily Radio Column</title>
+      <published>2014-09-11T00:00:00-05:00</published>
+      <updated>2014-09-11T00:00:00-05:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;I started a new show. It’s called The Daily Radio Column.&lt;/p&gt;
+
+&lt;p&gt;When I was fifteen, I started a small column that I would write everyday. “Column” is a fancy word for it, really. More accurately, it was me at my computer, with Microsoft Word open (thank goodness those days are gone), writing my thoughts on the world around me.&lt;/p&gt;
+
+&lt;p&gt;Recently, I found some of these, and naturally they’re terrible. But it reminded me of the importance of practicing something, and how cathardic it can be to externalize your feelings on what’s happening around you.&lt;/p&gt;
+
+&lt;p&gt;That is what I want this show to be, and I hope you’ll join me for the ride.&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/08/ftr-5</id>
