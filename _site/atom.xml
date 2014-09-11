@@ -5,13 +5,29 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-09-11T18:23:36-05:00</updated>
+  <updated>2014-09-11T18:33:18-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/09/tirp-50</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/09/tirp-50"/>
+      <title>The Intellectual Radio Program: You Dare Call Yourself an Apple Fanboy</title>
+      <published>2014-09-11T00:00:00-05:00</published>
+      <updated>2014-09-11T00:00:00-05:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;This week: We talk about Adam’s vacation, explaining things to kids but of course spend the majority of the episode talking Apple’s recent announcements. Stay tuned to the end for our own special TIRP announcement as well!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Episode sponsored by &lt;a href=&quot;http://www.campaignmonitor.com/&quot;&gt;Campaign Monitor&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/09/the-daily-radio-column</id>
