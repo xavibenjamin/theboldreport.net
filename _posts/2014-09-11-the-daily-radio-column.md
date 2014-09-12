@@ -3,7 +3,7 @@ layout: post
 title: The Daily Radio Column
 categories: links
 custom_type: link
-custom_url: http://goodstuff.fm/dailycolumn
+link_url: http://goodstuff.fm/dailycolumn
 ---
 
 I started a new show. It's called The Daily Radio Column.
