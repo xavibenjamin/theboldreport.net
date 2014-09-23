@@ -9,7 +9,7 @@ exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock']
 include: ['.htaccess']
 lunr_excludes: ['atom.xml', 'atom.articles.xml', 'sitemap.xml']
 timezone: America/Chicago
-port: 4200
+port: 4000
 post:
   extension: md
 page:
