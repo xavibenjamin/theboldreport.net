@@ -49,4 +49,5 @@ I have a pretty varied music library, and a lot of songs aren't mixed at the sam
 For the quality of the speaker, I think $199 is a very reasonable price. You can't go any cheaper without sacrificing in quality. However, you could pay more, and still not get the quality of the Play:1.
 
 ## Wrapping Up
+This still needs to be done.
 
