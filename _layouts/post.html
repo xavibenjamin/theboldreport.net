@@ -3,24 +3,30 @@ layout: default
 custom_css_class: single
 ---
 <div class="type-post format-{% if page.custom_type %}{{ page.custom_type }}{% endif %}">
-  <article class="entry">
+  <article class="post">
     {% if page.custom_type == 'post' %}
-      <p class="pubdate"><time datetime="{{ page.date | date_to_xmlschema }}">{% assign d = page.date | date: "%-d"  %}{{ page.date | date: "%B" }}
+      <header class="post__header">
+        <h1>{{ page.title }}</h1>
+        <p>Written by Tim Smith on <span class="pubdate"><time datetime="{{ page.date | date_to_xmlschema }}">{% assign d = page.date | date: "%-d"  %}{{ page.date | date: "%B" }}
 {% case d %}{% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
-{{ page.date | date: "%Y" }}</time></p>
-      <h1>{{ page.title }}</h1>
-      <p class="screen-reader-hide">by Tim Smith</p>
-      {{ content }}
+{{ page.date | date: "%Y" }}</time></span></p>
+      </header><!-- /.post__header -->
+
+      <div class="post__entry">
+        {{ content }}
+      </div><!-- /.post__entry -->
 
     {% elsif page.custom_type == 'link' %}
-      <p class="pubdate"><small><time datetime="{{ page.date | date_to_xmlschema }}">{% assign d = page.date | date: "%-d"  %}{{ page.date | date: "%B" }}
+      <header class="post__header">
+        <h1><a href="{{ page.link_url }}">{{ page.title }}</a></h1>
+        <p>Written by Tim Smith on <span class="pubdate"><time datetime="{{ page.date | date_to_xmlschema }}">{% assign d = page.date | date: "%-d"  %}{{ page.date | date: "%B" }}
 {% case d %}{% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
-{{ page.date | date: "%Y" }}</time></small></p>
-      <h1>
-       <a href="{{ page.link_url }}">{{ page.title }}</a>
-      </h1>
-      <p class="screen-reader-hide">by Tim Smith</p>
-      {{ content }}
+{{ page.date | date: "%Y" }}</time></span></p>
+      </header><!-- /.post__header -->
+
+      <div class="post__entry">
+        {{ content }}
+      </div><!-- /.post__entry -->
 
     {% endif %}
   </article>

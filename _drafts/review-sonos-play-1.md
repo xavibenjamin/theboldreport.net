@@ -33,7 +33,7 @@ I'm no audiophile, but I know what sounds good. This speaker is spectacular. The
 
 The Play:1 could easily fill my previous studio apartment, and now still covers an impressive amount of space in the 2 bedroom basement apartment I'm currently in. Still, I'd love to have two just so that I have one specifically for my horrendous shower singing.
 
-{% image fullwidth /uploads/2014/01/sonos-side_view.jpg "The Sonos Play:1 from the side" %}
+{% image alignleft /uploads/2014/01/sonos-side_view.jpg "The Sonos Play:1 from the side" %}
 
 ## Controller Apps
 This is my biggest gripe against Sonos. As impressive as their hardware is, the software powering everything is less than ideal 

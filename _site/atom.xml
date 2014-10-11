@@ -5,13 +5,116 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-10-10T21:38:26-05:00</updated>
+  <updated>2014-10-11T01:08:36-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/10/review-sonos-play-1</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/10/review-sonos-play-1"/>
+      <title>♨ Review: Sonos Play:1</title>
+      <published>2014-10-11T00:17:04-05:00</published>
+      <updated>2014-10-11T00:17:04-05:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Sonos is widely regarded as a premier speaker system for your home. Recently, they announced a new product: the Play:1. This new speaker is their most affordable one, and could potentially get more people into the Sonos ecosystem.&lt;/p&gt;
+
+&lt;h2 id=&quot;first-impressions&quot;&gt;First Impressions&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The speaker may be small, but it is loud. I was very surprised by the power of the small speaker.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The speaker weighs [insert weight here] which is very nice. I don’t know about you, but their is something about weight that makes me feel the product is made well, and to last.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The design of the speaker is quite beautiful, and really blends in with any type of decor.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/uploads/2014/01/sonos-top_view.jpg&quot; class=&quot;resrc&quot; /&gt;&lt;figcaption&gt;The Sonos Play:1 from the top&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;setting-up-the-sonos&quot;&gt;Setting Up the Sonos&lt;/h2&gt;
+&lt;p&gt;Sonos is very simple to setup, and you can do it one of two ways. The first is to connect your speaker via ethernet cable. I didn’t personally try this, but it seems simple enough. This does limit where you can put the speaker, since it will need to be close to your router.&lt;/p&gt;
+
+&lt;p&gt;The second, is to purchase a &lt;a href=&quot;http://www.sonos.com/shop/products/bridge&quot;&gt;Bridge&lt;/a&gt; with your speaker. The Bridge allows the Sonos system to create an independent wireless signal that is &lt;em&gt;only&lt;/em&gt; for Sonos speakers. It also allows you to easily expand your system with more speakers, and only limits the placement of the speaker by location of a power outlet. Recently, Sonos started allowing you to connect the speakers via WiFi, instead of needing a Bridge, which I think will only make it easier for the average consumer to get started.&lt;/p&gt;
+
+&lt;p&gt;I was very impressed by how easy this setup is. The instructions to set up the Bridge and speaker through the controller apps are simple, and in my experience, took less than 5 minutes.&lt;/p&gt;
+
+&lt;p&gt;Many people complain about connection issues with Bluetooth speakers, and I’ve had this problem too. Not with Sonos. In the three weeks I’ve had the speaker, I’ve not had one connection issue, and the delay between controller app and speaker is minimal, if almost non-existent.&lt;/p&gt;
+
+&lt;h2 id=&quot;sound-quality&quot;&gt;Sound Quality&lt;/h2&gt;
+&lt;p&gt;I’m no audiophile, but I know what sounds good. This speaker is spectacular. The bass is surprisingly impressive, with my rap/hip-hop songs playing beautifully.&lt;/p&gt;
+
+&lt;p&gt;The Play:1 could easily fill my previous studio apartment, and now still covers an impressive amount of space in the 2 bedroom basement apartment I’m currently in. Still, I’d love to have two just so that I have one specifically for my horrendous shower singing.&lt;/p&gt;
+
+&lt;figure class=&quot;alignleft&quot;&gt;&lt;img src=&quot;/uploads/2014/01/sonos-side_view.jpg&quot; class=&quot;resrc&quot; /&gt;&lt;figcaption&gt;The Sonos Play:1 from the side&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;controller-apps&quot;&gt;Controller Apps&lt;/h2&gt;
+&lt;p&gt;This is my biggest gripe against Sonos. As impressive as their hardware is, the software powering everything is less than ideal &lt;/p&gt;
+
+&lt;p&gt;The iOS app looks like it hasn’t been updated in a while, even though technically, it has. You’ll have to spend some time learning how to use the app, and where exactly everything is. I had to consult the support documentation several times, which says something, considering I spend a lot of time on my phone. The Mac app is pretty terrible as well. It does have support for the play/pause keys on the keyboard, which is nice, but has an outdated aesthetic, and could use some UX improvements.&lt;/p&gt;
+
+&lt;p&gt;The controller apps have support for music on the iPad, music on your Mac, and a variety of music services. However, the things I want to play on this speaker aren’t always music. Sometimes I’m watching a video, or listening to a podcast in Instacast, and so far, I haven’t found an easy way to do these things. It’d be nice to play whatever sound is coming from the device you’re on, but I don’t see support for that at the moment. From a technical stand point, I could see how this would be difficult, but honestly needs to be figured out.&lt;/p&gt;
+
+&lt;p&gt;I have a pretty varied music library, and a lot of songs aren’t mixed at the same level. When I’m at my Mac, it’s a bit easier to just reduce the volume, but I’m not usually near volume controls when using the Play:1, so the absence of powerful EQ and volume controls is a disappointment. &lt;/p&gt;
+
+&lt;h2 id=&quot;price&quot;&gt;Price&lt;/h2&gt;
+&lt;p&gt;For the quality of the speaker, I think $199 is a very reasonable price. You can’t go any cheaper without sacrificing in quality. However, you could pay more, and still not get the quality of the Play:1.&lt;/p&gt;
+
+&lt;h2 id=&quot;wrapping-up&quot;&gt;Wrapping Up&lt;/h2&gt;
+&lt;p&gt;This still needs to be done.&lt;/p&gt;
+
+</content>
+    </entry>
+  
+    <entry>
+      <id>http://theboldreport.net/2014/10/satya-nadella-on-raises-for-women</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/10/satya-nadella-on-raises-for-women"/>
+      <title>Satya Nadella on Raises for Women</title>
+      <published>2014-10-10T21:14:31-05:00</published>
+      <updated>2014-10-10T21:14:31-05:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Satya Nadella really messed up this week. Colin Lecher reporting for &lt;em&gt;The Verge&lt;/em&gt; gives more information:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Addressing a group of mostly women at the Grace Hopper Celebration of Women in Computing, Nadella told the crowd, “It’s not really about asking for the raise, but knowing and having faith that the system will actually give you the right raises as you go along.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And the idiocy continues:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“That’s good karma. It will come back,” Nadella said. “That’s the kind of person that I want to trust, that I want to give more responsibility to.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Of course, because he’s the CEO of Microsoft, Nadella issued an apology which in part included:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Toward the end of the interview, Maria asked me what advice I would offer women who are not comfortable asking for pay raises. I answered that question completely wrong. Without a doubt I wholeheartedly support programs at Microsoft and in the industry that bring more women into technology and close the pay gap. I believe men and women should get equal pay for equal work.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This “apology” is crap, and really not an apology.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; The fact that he claims he “answered the question completely wrong” is a lie. This isn’t a small mixup where you said the wrong word, or maybe had a phrase wrong. Don’t be fooled, this is what he truly thinks. A belief which he had to back up on, when either he noticed that it didn’t go over well with the crowd, or was told by one of his people of the fact.&lt;/p&gt;
+
+&lt;p&gt;Idiots like these try convince you that asking for what you’re worth is greedy, and a show of bad character. This is terrible advice. If you believe you deserve a raise, ask.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Yes, he should apologize. Not only was his answer wrong, but it contributes to the fact that women are being underpaid within the tech industry. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/09/tirp-50</id>
