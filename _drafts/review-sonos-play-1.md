@@ -16,7 +16,7 @@ Sonos is widely regarded as a premier speaker system for your home. Recently, th
 
 - The design of the speaker is quite beautiful, and really blends in with any type of decor.
 
-{% image fullwidth /uploads/2014/01/sonos-top_view.jpg "The Sonos Play:1 from the top" %}
+{% image extendout /uploads/2014/01/sonos-top_view.jpg "The Sonos Play:1 from the top" %}
 
 
 ## Setting Up the Sonos

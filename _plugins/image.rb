@@ -35,7 +35,8 @@ module Jekyll
     end
 
     def render(context)
-      @site = "http://theboldreport.net"
+      site = context.registers[:site]
+      @site_url = site.config['url']
 
       if @class
         if @class == 'breakout'
@@ -48,7 +49,7 @@ module Jekyll
       end
 
       if ENV['JEKYLL_ENV'] != 'development' && (@url.include? '.jpg' or @url.include? '.jpeg' or @url.include? '.png')
-        source += "<img src=\"#{@site}#{@url}\" />"
+        source += "<img src=\"#{@site_url}#{@url}\" />"
       else
         source += "<img src=\"#{@url}\" />"
       end

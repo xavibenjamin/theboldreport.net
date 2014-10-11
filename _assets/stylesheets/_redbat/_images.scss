@@ -23,9 +23,16 @@ figcaption {
   font-size: .85em;
 }
 
-.fullwidth {
+.extendout {
   figcaption {
-    margin: $spacing-xs $postSides 0;
+    margin: $spacing-xs $postSides;
+  }
+}
+
+.fullwidth {
+  margin: 1.8em $postSides;
+  figcaption {
+    margin: $spacing-xs 0;
   }
 }
 

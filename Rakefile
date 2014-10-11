@@ -150,6 +150,12 @@ task :build do
   execute("jekyll build")
 end
 
+# rake deploy
+desc "Build the site for deployment"
+task :deploy do
+  execute("jekyll build --config _config_production.yml")
+end
+
 # rake watch
 # rake watch[number]
 # rake watch["drafts"]
