@@ -5,7 +5,7 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-10-11T01:08:36-05:00</updated>
+  <updated>2014-10-11T01:46:59-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
@@ -38,7 +38,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/uploads/2014/01/sonos-top_view.jpg&quot; class=&quot;resrc&quot; /&gt;&lt;figcaption&gt;The Sonos Play:1 from the top&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2014/01/sonos-top_view.jpg&quot; class=&quot;resrc&quot; /&gt;&lt;figcaption&gt;The Sonos Play:1 from the top&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;setting-up-the-sonos&quot;&gt;Setting Up the Sonos&lt;/h2&gt;
 &lt;p&gt;Sonos is very simple to setup, and you can do it one of two ways. The first is to connect your speaker via ethernet cable. I didn’t personally try this, but it seems simple enough. This does limit where you can put the speaker, since it will need to be close to your router.&lt;/p&gt;
@@ -54,7 +54,7 @@
 
 &lt;p&gt;The Play:1 could easily fill my previous studio apartment, and now still covers an impressive amount of space in the 2 bedroom basement apartment I’m currently in. Still, I’d love to have two just so that I have one specifically for my horrendous shower singing.&lt;/p&gt;
 
-&lt;figure class=&quot;alignleft&quot;&gt;&lt;img src=&quot;/uploads/2014/01/sonos-side_view.jpg&quot; class=&quot;resrc&quot; /&gt;&lt;figcaption&gt;The Sonos Play:1 from the side&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;alignleft&quot;&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2014/01/sonos-side_view.jpg&quot; class=&quot;resrc&quot; /&gt;&lt;figcaption&gt;The Sonos Play:1 from the side&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;controller-apps&quot;&gt;Controller Apps&lt;/h2&gt;
 &lt;p&gt;This is my biggest gripe against Sonos. As impressive as their hardware is, the software powering everything is less than ideal &lt;/p&gt;
@@ -2228,7 +2228,7 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;The first thing you’ll notice when you open the new 1Password is the beautiful interface. If you’ve already purchased &lt;a href=&quot;https://agilebits.com/onepassword/ios&quot;&gt;the latest iOS app&lt;/a&gt;, you’ll notice that the new design is very similar, which delights me greatly. This redesign is years overdue, and the AgileBits team has delivered.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2013/10/1p4-mac-main.png&quot; alt=&quot;1Password 4 for Mac main view&quot; /&gt;&lt;/p&gt;
+&lt;figure class=&quot;alignright&quot;&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2013/10/1p4-mac-main.png&quot; class=&quot;resrc&quot; /&gt;&lt;figcaption&gt;1Password 4 for Mac Main View&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;I love that this redesign in a lot of ways is a re-align. The interface remains in the three column layout, yet with an easy-on-the-eyes, light background. The type has greatly improved, and the middle column no longer has the “shelf” look. The new layout, allows you to see more logins in the window without having to scroll and sports better looking icons. &lt;/p&gt;
 

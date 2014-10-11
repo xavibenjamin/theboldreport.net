@@ -23,7 +23,7 @@ For those of you who don't know about 1Password, it's a great utility app to sto
 
 The first thing you'll notice when you open the new 1Password is the beautiful interface. If you've already purchased [the latest iOS app](https://agilebits.com/onepassword/ios), you'll notice that the new design is very similar, which delights me greatly. This redesign is years overdue, and the AgileBits team has delivered.
 
-![1Password 4 for Mac main view]({{ site.url }}/uploads/2013/10/1p4-mac-main.png)
+{% image alignright /uploads/2013/10/1p4-mac-main.png "1Password 4 for Mac Main View" %}
 
 I love that this redesign in a lot of ways is a re-align. The interface remains in the three column layout, yet with an easy-on-the-eyes, light background. The type has greatly improved, and the middle column no longer has the "shelf" look. The new layout, allows you to see more logins in the window without having to scroll and sports better looking icons. 
 
