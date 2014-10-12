@@ -7,6 +7,7 @@ MAIN CONTENT
 
 }
 
+
 .type-post {
   &.format-link {
     margin-bottom: 6em;
@@ -139,5 +140,91 @@ MAIN CONTENT
     height: 2px;
     width: 150px;
     margin-bottom: 20px;
+  }
+}
+
+/* Media Queries */
+
+@include breakpoint(xl) {
+  $postSides: 120px;
+  .post__header, .footnotes {
+    margin-right: $postSides !important;
+    margin-left: $postSides !important;
+  }
+  .post__entry {
+    h2, h3, h5, p {
+      margin-right: $postSides !important;
+      margin-left: $postSides !important;
+    }
+    ul, ol {
+      margin: 0 $postSides 3.125% ($postSides+40px) !important;
+      p {
+        margin-right: 0 !important;
+        margin-left: 0 !important;
+      }
+    }
+  }
+}
+
+@include breakpoint(m) {
+  $postSides: 80px;
+  .post__header, .footnotes {
+    margin-right: $postSides !important;
+    margin-left: $postSides !important;
+  }
+  .post__entry {
+    h2, h3, h5, p {
+      margin-right: $postSides !important;
+      margin-left: $postSides !important;
+    }
+    ul, ol {
+      margin: 0 $postSides 3.125% ($postSides+40px) !important;
+      p {
+        margin-right: 0 !important;
+        margin-left: 0 !important;
+      }
+    }
+  }
+}
+
+@include breakpoint(s) {
+  $postSides: 20px;
+  .post__header, .footnotes {
+    margin-right: $postSides !important;
+    margin-left: $postSides !important;
+  }
+  .post__entry {
+    h2, h3, h5, p {
+      margin-right: $postSides !important;
+      margin-left: $postSides !important;
+    }
+    ul, ol {
+      margin: 0 $postSides 3.125% ($postSides+40px) !important;
+      p {
+        margin-right: 0 !important;
+        margin-left: 0 !important;
+      }
+    }
+  }
+}
+
+@include breakpoint(xs) {
+  $postSides: 10px;
+  .post__header, .footnotes {
+    margin-right: $postSides !important;
+    margin-left: $postSides !important;
+  }
+  .post__entry {
+    h2, h3, h5, p {
+      margin-right: $postSides !important;
+      margin-left: $postSides !important;
+    }
+    ul, ol {
+      margin: 0 $postSides 3.125% ($postSides+40px) !important;
+      p {
+        margin-right: 0 !important;
+        margin-left: 0 !important;
+      }
+    }
   }
 }

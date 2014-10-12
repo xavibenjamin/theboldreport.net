@@ -33,10 +33,10 @@ body {
 	line-height: 140%;
 	color: $bodyColor;
 	@extend %serif;
-  @include breakpoint(screen-l) {
+  @include breakpoint(l) {
     font-size: 103%;
   }
-  @include breakpoint(screen-xs) {
+  @include breakpoint(m) {
     font-size: 95%;
   }
 }

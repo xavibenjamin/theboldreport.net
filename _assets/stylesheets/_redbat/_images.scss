@@ -26,13 +26,37 @@ figcaption {
 .extendout {
   figcaption {
     margin: $spacing-xs $postSides;
+    @include breakpoint(xl) {
+      margin: $spacing-xs 120px;
+    }
+    @include breakpoint(m) {
+      margin: $spacing-xs 80px;
+    }
+    @include breakpoint(s) {
+      margin: $spacing-xs 20px;
+    }
   }
 }
 
 .fullwidth {
   margin: 1.8em $postSides;
+  @include breakpoint(xl) {
+    margin: 1.8em 120px;
+  }
+  @include breakpoint(m) {
+    margin: 1.8em 80px;
+  }
+  @include breakpoint(s) {
+    margin: 1.8em 20px;
+  }
   figcaption {
     margin: $spacing-xs 0;
+  }
+}
+
+@include breakpoint(xl) {
+  .alignleft, .alignright {
+    margin: 1.8em 10px;
   }
 }
 
