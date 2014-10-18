@@ -12,4 +12,7 @@ FOOTER
     font-size: .85em;
     @extend %sans;
   }
+  @include breakpoint(container) {
+    padding: 2em 10px;
+  }
 }
