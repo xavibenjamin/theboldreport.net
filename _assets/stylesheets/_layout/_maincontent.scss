@@ -36,7 +36,7 @@ MAIN CONTENT
 }
 
 .post__header {
-  margin: 0 $postSides $spacing-m;
+  margin: 0 0 $spacing-m;
   p {
     font-size: .9em;
     color: lighten($darkColor, 50%);
@@ -44,23 +44,6 @@ MAIN CONTENT
   }
 }
 
-.post__entry {
-  h2 {
-    margin: 1.8em $postSides .2em;
-  }
-  h3 {
-    margin: 1.3em $postSides .2em;
-  }
-  h5 {
-    margin: 2em $postSides .2em;
-  }
-  p {
-    margin: 0 $postSides 3.125%;
-  }
-  ul, ol {
-    margin: 0 $postSides 3.125% ($postSides+40px);
-  }
-}
 
 /* Format Post */
 
@@ -121,7 +104,7 @@ MAIN CONTENT
 }
 
 .footnotes {
-  margin: 40px $postSides 0;
+  margin: 40px 0;
   ol {
     margin: 0 0 0 6%;
     li {
@@ -143,88 +126,11 @@ MAIN CONTENT
   }
 }
 
-/* Media Queries */
 
-@include breakpoint(xl) {
-  $postSides: 120px;
-  .post__header, .footnotes {
-    margin-right: $postSides !important;
-    margin-left: $postSides !important;
-  }
-  .post__entry {
-    h2, h3, h5, p {
-      margin-right: $postSides !important;
-      margin-left: $postSides !important;
-    }
-    ul, ol {
-      margin: 0 $postSides 3.125% ($postSides+40px) !important;
-      p {
-        margin-right: 0 !important;
-        margin-left: 0 !important;
-      }
-    }
-  }
-}
+/* Media Queries on Post Type */
 
-@include breakpoint(m) {
-  $postSides: 80px;
-  .post__header, .footnotes {
-    margin-right: $postSides !important;
-    margin-left: $postSides !important;
-  }
-  .post__entry {
-    h2, h3, h5, p {
-      margin-right: $postSides !important;
-      margin-left: $postSides !important;
-    }
-    ul, ol {
-      margin: 0 $postSides 3.125% ($postSides+40px) !important;
-      p {
-        margin-right: 0 !important;
-        margin-left: 0 !important;
-      }
-    }
-  }
-}
-
-@include breakpoint(s) {
-  $postSides: 20px;
-  .post__header, .footnotes {
-    margin-right: $postSides !important;
-    margin-left: $postSides !important;
-  }
-  .post__entry {
-    h2, h3, h5, p {
-      margin-right: $postSides !important;
-      margin-left: $postSides !important;
-    }
-    ul, ol {
-      margin: 0 $postSides 3.125% ($postSides+40px) !important;
-      p {
-        margin-right: 0 !important;
-        margin-left: 0 !important;
-      }
-    }
-  }
-}
-
-@include breakpoint(xs) {
-  $postSides: 10px;
-  .post__header, .footnotes {
-    margin-right: $postSides !important;
-    margin-left: $postSides !important;
-  }
-  .post__entry {
-    h2, h3, h5, p {
-      margin-right: $postSides !important;
-      margin-left: $postSides !important;
-    }
-    ul, ol {
-      margin: 0 $postSides 3.125% ($postSides+40px) !important;
-      p {
-        margin-right: 0 !important;
-        margin-left: 0 !important;
-      }
-    }
+@include breakpoint(container) {
+  h1,h2, h3, h4, h5, p, ul, ol, figcaption, .alignleft figcaption, .alignright figcaption, .footnotes {
+    padding: 0 10px;
   }
 }

@@ -4,8 +4,7 @@ FOOTER
 --------------------------------------------------------- */
 
 .site__footer {
-  // margin-left: percentage(320/940);
-  padding: 3em 2.8em;
+  padding: 3em 0;
   @extend %clearfix;
   small {
     color: lighten($darkColor, 35%);

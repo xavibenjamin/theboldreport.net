@@ -24,65 +24,101 @@ figcaption {
 }
 
 .extendout {
+  width: 170%;
+  margin-left: -35%;
+  @include breakpoint(xxl) {
+    width: 150%;
+    margin-left: -25%;
+  }
+  @include breakpoint(xl) {
+    width: 130%;
+    margin-left: -15%;
+  }
+  @include breakpoint(l) {
+    width: 118%;
+    margin-left: -9%;
+  }
+  @include breakpoint(m) {
+    width: 100%;
+    margin-left: 0;
+  }
   figcaption {
-    margin: $spacing-xs $postSides;
-    @include breakpoint(xl) {
-      margin: $spacing-xs 120px;
-    }
-    @include breakpoint(m) {
-      margin: $spacing-xs 80px;
-    }
-    @include breakpoint(s) {
-      margin: $spacing-xs 20px;
-    }
+    margin: $spacing-xs auto;
+    max-width: 600px;
+    width: 100%;
   }
 }
 
 .fullwidth {
   margin: 1.8em $postSides;
-  @include breakpoint(xl) {
-    margin: 1.8em 120px;
-  }
-  @include breakpoint(m) {
-    margin: 1.8em 80px;
-  }
-  @include breakpoint(s) {
-    margin: 1.8em 20px;
-  }
   figcaption {
     margin: $spacing-xs 0;
   }
 }
 
-@include breakpoint(xl) {
-  .alignleft, .alignright {
-    margin: 1.8em 10px;
+%aligned-email-widths {
+  width: 170%;
+  margin-left: -35%;
+  @include breakpoint(xxl) {
+    width: 150%;
+    margin-left: -25%;
+  }
+  @include breakpoint(xl) {
+    width: 130%;
+    margin-left: -15%;
+  }
+  @include breakpoint(l) {
+    width: 118%;
+    margin-left: -9%;
+  }
+  @include breakpoint(m) {
+    width: 100%;
+    margin-left: 0;
   }
 }
 
 .alignleft {
   @extend %clearfix;
+  @extend %aligned-email-widths;
   img {
     float: left;
     width: 70%;
+    @include breakpoint(m) {
+      float: none;
+      width: 100%;
+    }
   }
   figcaption {
     float: left;
     width: 30%;
     padding: 0 0 0 $spacing-s;
+    @include breakpoint(m) {
+      float: none;
+      padding: 0;
+      width: 100%;
+    }
   }
 }
 
 .alignright {
   @extend %clearfix;
+  @extend %aligned-email-widths;
   img {
     float: right;
     width: 70%;
+    @include breakpoint(m) {
+      float: none;
+      width: 100%;
+    }
   }
   figcaption {
-    // border-top: 1px solid $borderColor;
     float: right;
     width: 30%;
     padding: 0 $spacing-s 0 0;
+    @include breakpoint(m) {
+      float: none;
+      padding: 0;
+      width: 100%;
+    }
   }
 }
