@@ -2,6 +2,7 @@
 layout: page
 title: Subscribe
 exclude_from_search: true
+permalink: /subscribe/
 ---
 
 ## Master Feed

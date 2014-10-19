@@ -2,6 +2,7 @@
 title: "Support"
 layout: page
 exclude_from_search: true
+permalink: /support/
 ---
 Thank you for your interest in supporting *The Bold Report*! There are a couple of ways you can do this.
 
@@ -15,9 +16,7 @@ Sponsorships are booked via [The Syndicate](http://syndicateads.net/) network. T
 #### Why The Syndicate
 
 - Over 90,000 subscribers.
-
 - 1.6 million monthly webpage views.
-
 - Your product, service, or company is promoted on each network site throughout the week of your sponsorship.
 
 ### Fusion Ads

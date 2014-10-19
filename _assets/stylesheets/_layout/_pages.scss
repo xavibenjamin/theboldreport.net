@@ -6,6 +6,13 @@ PAGES
   h3 {
     font-size: .95em;
     margin: 1.5em 0 0;
+    .pubdate {
+      color: lighten($darkColor, 50%);
+      display: inline-block;
+      font-size: .85em;
+      font-weight: normal;
+      margin-left: 10px;
+    }
   }
 }
 

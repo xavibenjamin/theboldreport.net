@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: http://goodstuff.fm/theeastwing/1
 ---
-My old show is back! I can't tell you how excited I am. This relaunch means that we're starting all over. We've started back from episode one! 
+My old show is back! I can't tell you how excited I am. This relaunch means that we're starting all over. We've started back from episode one!
 
 This week, I talk with Guy Routledge about how he got his start, his video series AtoZ CSS, and a little behind-the-scenes work he does for the screencasts.
 

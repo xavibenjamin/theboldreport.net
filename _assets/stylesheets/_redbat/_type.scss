@@ -123,7 +123,7 @@ TEXT
     font-weight: bold;
   }
   h4 {
-    color: $jazzColor;
+    color: lighten($darkColor, 20%);
     margin: 2em 0 .2em;
     font-size: 1.1em;
     font-weight: bold;
@@ -181,7 +181,7 @@ ol {
 }
 
 .page__title {
-  color: $headlineColor;
+  color: $darkColor;
   font-size: 2.5em;
   font-weight: 800;
   margin: 0 0 1em;
@@ -248,16 +248,13 @@ BLOCKQUOTE
 ------------------------------------------- */
 
 blockquote {
-  border-left: 2px solid $jazzColor;
-  color: lighten($bodyColor, 5%);
+  border-left: 3px solid $linkColor;
+  color: lighten($bodyColor, 15%);
   padding-left: 15px;
   margin: 0 0 03.125% 3%;
   width: 90%;
   @media screen and (max-width: 480px ) {
     margin-bottom: 7%;
-  }
-  p {
-    margin-left: 0 !important;
   }
   small {
     display: block;

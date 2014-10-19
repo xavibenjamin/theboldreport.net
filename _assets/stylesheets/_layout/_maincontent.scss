@@ -44,7 +44,6 @@ MAIN CONTENT
   }
 }
 
-
 /* Format Post */
 
 .format-post {
@@ -60,7 +59,7 @@ MAIN CONTENT
     margin: 0;
     a {
       border-bottom: none;
-      color: $headlineColor;
+      color: $darkColor;
       font-weight: 800;
       text-decoration: none !important;
       &:hover {
@@ -78,30 +77,29 @@ MAIN CONTENT
     font-size: 1.3em;
     font-weight: 700;
     line-height: 155%;
-    margin: 0 0 .2em;
+    margin: 0;
     a {
-      color: $headlineColor;
-      &:hover {
-        color: lighten($headlineColor, 10%);
-      }
+      text-decoration: underline !important;
     }
   }
-  span {
+  .link__icon {
+    vertical-align: middle;
+  }
+  .arrow {
+    color: lighten($darkColor, 50%);
+    font-size: .8em;
+    line-height: 100%;
     vertical-align: middle;
   }
 }
 
 .link__icon {
-  border-bottom: none !important;
   margin: 0 0 0 10px;
-  font-size: .75em;
   font-weight: normal !important;
-  color: lighten($darkColor, 45%) !important;
-  text-decoration: none !important;
-  &:hover {
-    color: $linkColor !important;
-  }
 }
+
+
+/* Footnotes */
 
 .footnotes {
   margin: 40px 0;
