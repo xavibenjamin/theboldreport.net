@@ -17,7 +17,7 @@
 
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title>The Bold Report</title>
+      <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
       <link href="/apple-touch-icon.png" rel="apple-touch-icon">
 
@@ -31,16 +31,18 @@
       <!-- Author Info for Google -->
       <link rel="author" href="https://plus.google.com/117161754644004218749">
       <meta name="author" content="Tim Smith">
-      <link rel="canonical" href="http://theboldreport.net/tag/Work/Life/index.html">
-      <meta name="description" content="">
+      <link rel="canonical" href="http://theboldreport.net{{ page.url }}">
+      <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 156 }}">
 
       <!-- Facebook Article Info -->
       <meta property="og:image" content="http://theboldreport.net/uploads/2013/09/theboldreport-avatar.png">
-      <meta property="og:title" content="The Bold Report">
+      <meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}">
       <meta property="og:site_name" content="The Bold Report">
-      <meta property="og:url" content="http://theboldreport.net/tag/Work/Life/index.html">
-      <meta property="og:description" content="">
-      
+      <meta property="og:url" content="http://theboldreport.net{{ page.url }}">
+      <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 156 }}">
+      {% if page.custom_type %}
+      <meta property="og:type" content="article">
+      {% endif %}
 
       <!-- Twitter Info -->
       <meta name="twitter:card" content="summary">
@@ -51,12 +53,12 @@
       <link rel="alternate" type="application/rss+xml" title="Articles-Only Feed for The Bold Report" href="/atom.articles.xml" />
 
       <!-- syntax highlighting CSS -->
-      <link rel="stylesheet" href="/assets/syntax.css">
+      {% stylesheet syntax %}
 
       <!-- Custom CSS -->
-      <link rel="stylesheet" href="/assets/global.css">
+      {% stylesheet global %}
 
-      
+      {% if page.custom_css %}{{ page.custom_css | stylesheet }}{% endif %}
 
       <!-- Typekit Code  -->
       <script type="text/javascript" src="//use.typekit.net/dto7tfw.js"></script>
@@ -71,62 +73,3 @@
       })();</script>
 
     </head>
-
-
-<body >
-  <div class="container">
-    <header class="site__header" role="banner">
-        <button class="toggleNav mobile-logo">The Bold Report</button>
-        <nav class="mobile-nav">
-          <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/archives/">Archives</a></li>
-            <li><a href="/about/">About</a></li>
-            <li><a href="/subscribe/">Subscribe</a></li>
-            <li><a href="/support/">Support</a></li>
-          </ul>
-        </nav>
-    </header>
-
-
-<main class="content__main-content" role="main">
-  <h1 class="page__title">Posts tagged ‘Work/Life’</h1>
-
-
-<div class="tag-list">
-  
-  <h3><a href="/2013/12/ala-387">A List Apart Issue 387</a><small class="pubdate"><time datetime="2013-12-17T11:16:28-06:00">December 17, 2013</time></small></h3>
-  
-</div><!-- .tag-list -->
-
-
-</main>
-
-
-
-        <footer class="site__footer" role="contentinfo">
-          <small><a href="/subscribe/">Subscribe</a> &middot; <a href="/archives/">Archives</a> &middot; <a href="https://github.com/ttimsmith/theboldreport.net">View Source on GitHub</a></small>
-          <small><em>The Bold Report</em> &copy; 2014 Anythin’ Goes LLC. &amp; Timothy B. Smith.</small>
-        </footer>
-
-        </div><!-- .container -->
-
-      <!-- Google Analytics -->
-      <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        ga('create', 'UA-43045564-2', 'theboldreport.net');
-        ga('send', 'pageview');
-
-      </script>
-
-      <!-- Other JS libraries -->
-      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-      <script src="/assets/app.js"></script>
-
-    </body>
-</html>
-
