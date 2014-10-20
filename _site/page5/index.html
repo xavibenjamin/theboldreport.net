@@ -76,16 +76,40 @@
 <body  class="home" >
   <div class="container">
     <header class="site__header" role="banner">
-        <button class="toggleNav mobile-logo">The Bold Report</button>
-        <nav class="mobile-nav">
-          <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/archives/">Archives</a></li>
-            <li><a href="/about/">About</a></li>
-            <li><a href="/subscribe/">Subscribe</a></li>
-            <li><a href="/support/">Support</a></li>
-          </ul>
-        </nav>
+      <div class="site__branding">
+        <a href="/" class="logo">The Bold Report</a>
+      </div><!-- .site__branding -->
+
+      <nav class="site__navigation" role="navigation">
+        <ul class="primary-navigation">
+          <li><a href="/archives/">Archives</a></li>
+          <!-- <li><a href="#">Membership</a></li> -->
+          <li><a href="/about/">About</a></li>
+          <li><a href="/subscribe/">Subscribe</a></li>
+          <li><a href="/support/">Support</a></li>
+        </ul>
+      </nav>
+
+      <div id="search" class="site__search-form">
+        <form action="/search" method="get">
+          <p>
+            <input type="text" id="search-query" name="q" placeholder="Search…" autocomplete="off">
+          </p>
+        </form>
+      </div><!-- .site__search-form -->
+
+
+
+      <button class="toggleNav mobile-logo">The Bold Report</button>
+      <nav class="mobile-nav">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/archives/">Archives</a></li>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/subscribe/">Subscribe</a></li>
+          <li><a href="/support/">Support</a></li>
+        </ul>
+      </nav>
     </header>
 
 
