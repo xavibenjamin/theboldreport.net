@@ -218,7 +218,7 @@ sup {
 }
 
 pre {
-  background: lighten($borderColor, 3%);
+  background: lighten($borderColor, 5%);
   padding: 3% 3% 3%;
   white-space: pre;
   overflow-x: auto;
@@ -236,9 +236,11 @@ pre {
 }
 
 code {
-  background: $borderColor;
+  background: lighten($borderColor, 5%);
+  border-radius: 2px;
   color: $darkColor;
-  font-family: monospace;
+  font-family: Inconsolata, monospace;
+  font-size: .9em;
   padding: 2px 5px;
 }
 
