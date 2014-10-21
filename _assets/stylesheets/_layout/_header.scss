@@ -32,30 +32,37 @@ HEADER
 
 /* Desktop Navigation */
 
-.site__navigation {
+.nav-search__wrapper {
   background: lighten($darkColor, 1%);
   border-radius: 0 0 3px 3px;
   padding: .95em 1em;
+  @extend %clearfix;
+}
+
+.site__navigation {
+  float: left;
+  width: 56%;
 }
 
 .primary-navigation {
   margin: 0;
+  text-align: left;
   li {
     list-style-type: none;
     display: inline;
-    text-transform: uppercase;
+    // text-transform: uppercase;
     font-size: .85em;
-    font-weight: 700;
+    // font-weight: 700;
     margin-right: 8px;
     @extend %sans;
     &:last-child {
       margin-right: 0;
     }
     a {
-      color: lighten($darkColor, 25%);
+      color: lighten($darkColor, 50%);
       &:hover, &:focus {
         outline: none;
-        color: white;
+        color: lighten($darkColor, 65%);
       }
     }
   }
@@ -64,11 +71,9 @@ HEADER
 /* Search */
 
 .site__search-form {
-  background: lighten($borderColor, 2%);
-  padding: .65em;
-  margin: 0 auto;
-  max-width: 550px;
-  width: 100%;
+  padding-left: 20px;
+  float: left;
+  width: 44%;
   @extend %sans;
 }
 
