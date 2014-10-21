@@ -10,7 +10,7 @@ FORMS
 }
 
 input:focus::-webkit-input-placeholder {
-  color: lighten($darkColor, 65%);
+  color: lighten($darkColor, 60%);
 }
 
 // Firefox 18
@@ -20,7 +20,7 @@ input:focus::-webkit-input-placeholder {
 }
 
 input:focus:-moz-placeholder {
-  color: lighten($darkColor, 65%);
+  color: lighten($darkColor, 60%);
 }
 
 // Firefox 19
@@ -30,20 +30,33 @@ input:focus:-moz-placeholder {
 }
 
 input:focus::-moz-placeholder {
-  color: lighten($darkColor, 65%);
+  color: lighten($darkColor, 60%);
 }
 
 .site__search-form {
   input {
-    background: none;
-    // border-bottom: 1px solid lighten($darkColor, 40%);
-    color: lighten($darkColor, 65%);
-    font-size: .85em;
-    // padding: 0 10px 10px 0;
+    background: white;
+    border-radius: 3px;
+    color: $darkColor;
+    font-size: 1.1em;
+    padding: 20px;
     width: 100%;
     @include transition(.2s ease-in-out);
+  }
+}
+
+.search-page__search-form {
+  input {
+    background: lighten($darkColor, 70%);
+    border-radius: 3px;
+    color: $darkColor;
+    font-size: .85em;
+    padding: 12px;
+    width: 100%;
+    @include transition(.2s ease);
+    @extend %sans;
     &:focus {
-      border-bottom-color: lighten($darkColor, 65%);
+      box-shadow: inset 1px 1px 1px rgba(black, .1);
     }
   }
 }
