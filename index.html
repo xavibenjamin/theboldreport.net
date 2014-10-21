@@ -8,25 +8,37 @@ custom_css_class: home
 <div class="content__posts">
 {% for post in paginator.posts %}
   <div class="type-post format-{% if post.custom_type %}{{ post.custom_type }}{% endif %}">
-    <article class="entry">
+    <article class="post">
 
       {% if post.custom_type == 'post' %}
-        <p class="pubdate"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign d = post.date | date: "%-d" %}{{ post.date | date: "%B" }} {% case d %}{% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %}, {{ post.date | date: "%Y" }}</time></p>
-        <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-        <p class="screen-reader-hide"><small>by Tim Smith</small></p>
+        <header class="post__header">
+          <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+          <p><span class="pubdate"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign d = post.date | date: "%-d"  %}{{ post.date | date: "%B" }}
+        {% case d %}{% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
+        {{ post.date | date: "%Y" }}</time></span></p>
+        </header><!-- /.post__header -->
 
-        {{ post.content }}
+        <div class="post__entry">
+          {{ post.content }}
+        </div><!-- /.post__entry -->
 
       {% elsif post.custom_type == 'link' %}
-        <h1>
-          <a href="{{ post.link_url }}">{{ post.title }}</a><a href="{{ post.url }}" class="link__icon" title="Link to {{ post.title }}"><span class="screen-reader-hide">Link to Post</span><span data-icon="a"></span></a>
-        </h1>
-        <p class="screen-reader-hide"><small>by Tim Smith</small></p>
+        <header class="post__header">
+          <h1><a href="{{ post.link_url }}">{{ post.title }}</a><span class="arrow">&rarr;</span></h1>
 
-        {{ post.content }}
+          <p><span class="pubdate"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign d = post.date | date: "%-d"  %}{{ post.date | date: "%B" }}
+        {% case d %}{% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
+        {{ post.date | date: "%Y" }}</time></span> <a href="{{ post.url }}" class="link__icon" title="Link to {{ post.title }}">&infin;</a></p>
+
+        </header><!-- /.post__header -->
+
+
+        <div class="post__entry">
+          {{ post.content }}
+        </div><!-- /.post__entry -->
 
       {% endif %}
-    </article>
+    </article><!-- /.post -->
   </div><!-- .type-post -->
 {% endfor %}
 </div><!-- .content__posts -->

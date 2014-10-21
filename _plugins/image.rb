@@ -35,6 +35,9 @@ module Jekyll
     end
 
     def render(context)
+      site = context.registers[:site]
+      @site_url = site.config['url']
+
       if @class
         if @class == 'breakout'
           source = "</div><figure class='#{@class}'>"
@@ -46,17 +49,13 @@ module Jekyll
       end
 
       if ENV['JEKYLL_ENV'] != 'development' && (@url.include? '.jpg' or @url.include? '.jpeg' or @url.include? '.png')
-        source += "<img src=\"#{@resrc}#{@url}\" class=\"resrc\"/>"
+        source += "<img src=\"#{@site_url}#{@url}\" />"
       else
         source += "<img src=\"#{@url}\" />"
       end
 
       source += "<figcaption>#{@caption}</figcaption>" if @caption
       source += "</figure>"
-
-      if @class == 'breakout'
-        source += "<div class='entry-content wrap'>"
-      end
 
       source
     end

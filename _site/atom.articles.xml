@@ -5,7 +5,7 @@
   <title>The Bold Report - Articles Only</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/feed.article.xml"/>
-  <updated>2014-10-10T21:27:18-05:00</updated>
+  <updated>2014-10-21T16:42:02-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
@@ -398,7 +398,7 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;The first thing you’ll notice when you open the new 1Password is the beautiful interface. If you’ve already purchased &lt;a href=&quot;https://agilebits.com/onepassword/ios&quot;&gt;the latest iOS app&lt;/a&gt;, you’ll notice that the new design is very similar, which delights me greatly. This redesign is years overdue, and the AgileBits team has delivered.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2013/10/1p4-mac-main.png&quot; alt=&quot;1Password 4 for Mac main view&quot; /&gt;&lt;/p&gt;
+&lt;figure class=&quot;extendout&quot;&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2013/10/1p4-mac-main.png&quot; /&gt;&lt;figcaption&gt;1Password 4 for Mac Main View&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;I love that this redesign in a lot of ways is a re-align. The interface remains in the three column layout, yet with an easy-on-the-eyes, light background. The type has greatly improved, and the middle column no longer has the “shelf” look. The new layout, allows you to see more logins in the window without having to scroll and sports better looking icons. &lt;/p&gt;
 
@@ -412,12 +412,12 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;This is especially true when I worked for a company. Having a separate vault exclusively for company logins, would’ve been a great way to get organized. This makes managing items easier, and makes cleaning out items you no longer need, a breeze.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2013/10/1p4-mac-create-new-vault.png&quot; alt=&quot;Create a new vault&quot; /&gt;&lt;/p&gt;
+&lt;figure class=&quot;alignright&quot;&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2013/10/1p4-mac-create-new-vault.png&quot; /&gt;&lt;figcaption&gt;With 1Password 4 you can now create new vaults. Organizing your passwords based on their use is simple.&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h3 id=&quot;password-mini&quot;&gt;1Password Mini&lt;/h3&gt;
 &lt;p&gt;I love that they made a menubar app. I’m definitely one of those people that has &lt;em&gt;way too many&lt;/em&gt; of them.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Interestingly, the menubar app is what comes up now when you press &lt;code&gt;⌘CMD + \&lt;/code&gt;. It seems that the 1Password browser extension is now only needed to run the code necessary for the autofill. You’ll never actually need to press the button anymore, which is nice, because it’s one less button in the extensions.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2013/10/1p4-mac-1p-mini-item-details.png&quot; alt=&quot;1Password Mini details&quot; /&gt;&lt;/p&gt;
+&lt;figure class=&quot;alignleft&quot;&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2013/10/1p4-mac-1p-mini-item-details.png&quot; /&gt;&lt;figcaption&gt;1Password Mini makes using 1Password easier and faster than ever.&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;It’s too early for me to say, but I think 1Password Mini could completely replace the main app for me. So far, I haven’t needed to open the main app for day-to-day responsibilities. To be honest, I only looked at the main app the day I downloaded it, and today when writing this review.&lt;/p&gt;
 
@@ -546,13 +546,13 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
     </author>
     <content type="html">&lt;p&gt;Something I’ve been thinking about a lot recently is documentation. And yes, I’m thinking a little bit about legacy—documenting our life, and the things we make. However, I also mean documenting our process.&lt;/p&gt;
 
-&lt;p&gt;There’s a lot of mystery surrounding what we do. I remember being a newcomer and feeling overwhelmed by everything it seemed that I needed to learn. This is where I think documentation can help us a lot. &lt;/p&gt;
+&lt;p&gt;There’s a lot of mystery surrounding what we do. I remember being a newcomer and feeling overwhelmed by everything it seemed that I needed to learn. This is where I think documentation can help us a lot.&lt;/p&gt;
 
 &lt;p&gt;As an industry, we’re getting comfortable with doing things in the open. &lt;a href=&quot;http://opensourcedesign.is/&quot;&gt;Open Source Design&lt;/a&gt; is trying to do this, a project which I happen to be a contributor on, and &lt;a href=&quot;http://opensourcedesign.is/resourced/&quot;&gt;there are other people doing it&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;But what about being open about what we charge for services? What about talking about how much designers should be making in a beginning job? Medium level? Senior level? Should we negotiate for a signing bonus? Do companies still do this? To be very honest, I only learned about some of these things a couple months ago when I had dinner with my friend &lt;a href=&quot;http://bermonpainter.com/&quot;&gt;Bermon&lt;/a&gt;. Why is this such a mystery?&lt;/p&gt;
 
-&lt;p&gt;On a more personal level, what about our process? I have no documentation of my personal design and development process. All of it lives in my head, which quite frankly, isn’t useful for anyone. Pricing projects could be so much simpler if I had a process to run them through. &lt;/p&gt;
+&lt;p&gt;On a more personal level, what about our process? I have no documentation of my personal design and development process. All of it lives in my head, which quite frankly, isn’t useful for anyone. Pricing projects could be so much simpler if I had a process to run them through.&lt;/p&gt;
 
 &lt;p&gt;In a lot of ways, I don’t know what I’m doing. Yet, at the same time, I really do. But that knowledge is wasted if I don’t share it with others. Not to mention, there will always be people that can benefit from something I’ve learned. We’re all in different places of our career.&lt;/p&gt;
 
@@ -564,7 +564,7 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
 
 &lt;p&gt;If you want to have a voice, if you want to contribute, document everything. Tell people about what you’re doing, why you did it that way, and why others should think about doing it the same. We need your voice, but no one is going to beg you to use it.&lt;/p&gt;
 
-&lt;p&gt;As cliché as it might sound, anyone has the power to make our industry better, and personally that’s why I love our industry and working in the open. When many minds come together and collaborate and share, the end result is one-hundred times better. When more people share, we have a more diverse group of people to admire, to interview, to invite to speak, etc. &lt;/p&gt;
+&lt;p&gt;As cliché as it might sound, anyone has the power to make our industry better, and personally that’s why I love our industry and working in the open. When many minds come together and collaborate and share, the end result is one-hundred times better. When more people share, we have a more diverse group of people to admire, to interview, to invite to speak, etc.&lt;/p&gt;
 
 &lt;p&gt;Step up. Document everything.&lt;/p&gt;
 

@@ -38,19 +38,28 @@ Mixin to help import fonts
 
 
 @mixin breakpoint($point) {
-  @if $point == screen-xl {
+  @if $point == xxxl {
+    @media (max-width: 1200px) { @content; }
+  }
+  @if $point == xxl {
+    @media (max-width: 1000px) { @content; }
+  }
+  @if $point == xl {
     @media (max-width: 800px) { @content; }
   }
-  @else if $point == screen-l {
+  @else if $point == l {
     @media (max-width: 768px) { @content; }
   }
-  @else if $point == screen-m {
+  @else if $point == m {
     @media (max-width: 700px)  { @content; }
   }
-  @else if $point == screen-s {
+  @else if $point == container {
+    @media (max-width: 600px) { @content; }
+  }
+  @else if $point == s {
     @media (max-width: 400px)  { @content; }
   }
-  @else if $point == screen-xs {
+  @else if $point == xs {
     @media (max-width: 320px)  { @content; }
   }
 }

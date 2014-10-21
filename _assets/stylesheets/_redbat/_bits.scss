@@ -21,10 +21,10 @@ COLORS
 Color Variables
 ------------------------------------------- */
 
-$darkColor: #333842;
+$darkColor: lighten(#1a1f28, 15%);
 $headlineColor: #5a6475;
-$bodyColor: #525868;
-$linkColor: #f33b00;
+$bodyColor: #777;
+$linkColor: #508fab;
 $jazzColor: #839496;
 $borderColor: #eaecef;
 // $alertColor: ;
@@ -46,3 +46,6 @@ $spacing-s: 20px;
 $spacing-m: 30px;
 $spacing-l: 40px;
 $spacing-xl: 50px;
+
+
+$postSides: 200px;

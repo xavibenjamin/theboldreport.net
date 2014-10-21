@@ -4,24 +4,13 @@ MAIN CONTENT
 --------------------------------------------------------- */
 
 .content__main-content {
-  background: white;
-  float: left;
-  padding: 4em 3em;
-  width: percentage(620/940);
-  @include breakpoint(screen-xl) {
-    width: percentage(650/940);
-  }
-  @include breakpoint(screen-l) {
-    padding: 3em 2em;
-  }
-  @include breakpoint(screen-m) {
-    width: 100%;
-    padding: 7em 3em 3em;
-  }
-  @include breakpoint(screen-s) {
-    padding: 7em 1em 3em;
+  margin: 3em 0 0;
+  @include transition(500ms ease);
+  .BarShow & {
+    @include filter(blur(5px) grayscale(70%));
   }
 }
+
 
 .type-post {
   &.format-link {
@@ -50,27 +39,79 @@ MAIN CONTENT
   }
 }
 
-p.pubdate {
-  color: lighten($darkColor, 50%);
-  font-size: .8em;
-  font-weight: normal;
-  @extend %sans;
+.post__header {
+  margin: 0 0 $spacing-m;
+  p {
+    font-size: .9em;
+    color: lighten($darkColor, 50%);
+    @extend %sans;
+  }
 }
 
-small.pubdate {
-  color: lighten($darkColor, 50%);
-  font-size: .8em;
-  font-weight: normal;
-  margin-left: 8px;
-  @extend %sans;
+/* Format Post */
+
+.format-post {
+  .post__entry {
+    p:first-child {
+      color: $darkColor;
+      font-size: 1.3em;
+    }
+  }
+  h1 {
+    font-size: 2.3em;
+    font-weight: 900;
+    margin: 0;
+    a {
+      border-bottom: none;
+      color: $darkColor;
+      font-weight: 800;
+      text-decoration: none !important;
+      &:hover {
+        color: $linkColor;
+        border-bottom: none;
+      }
+    }
+  }
 }
+
+
+// Format Link
+.format-link {
+  h1 {
+    font-size: 1.3em;
+    font-weight: 700;
+    line-height: 155%;
+    margin: 0;
+    a {
+      text-decoration: underline !important;
+    }
+  }
+  .link__icon {
+    vertical-align: middle;
+  }
+  .arrow {
+    color: lighten($darkColor, 50%);
+    font-size: .8em;
+    line-height: 100%;
+    margin-left: 10px;
+    vertical-align: middle;
+  }
+}
+
+.link__icon {
+  margin: 0 0 0 10px;
+  font-weight: normal !important;
+}
+
+
+/* Footnotes */
 
 .footnotes {
-  margin: 40px 0 0;
+  margin: 40px 0;
   ol {
-    margin-left: 6%;
+    margin: 0 0 0 6%;
     li {
-      font-size: .85em;
+      font-size: .95em;
       padding: 0;
       margin: 0;
       @media screen and (max-width: 320px ) {
@@ -88,56 +129,11 @@ small.pubdate {
   }
 }
 
-// Format Post
 
-.format-post {
-  h1 {
-    font-size: 1.8em;
-    font-weight: 900;
-    margin: 0 0 .3em;
-    a {
-      border-bottom: none;
-      color: $headlineColor;
-      font-weight: 800;
-      text-decoration: none !important;
-      &:hover {
-        color: $linkColor;
-        border-bottom: none;
-      }
-    }
-  }
-  p:nth-child(4) {
-    font-size: 1.35em;
-  }
-}
+/* Media Queries on Post Type */
 
-// Format Link
-.format-link {
-  h1 {
-    font-size: 1.3em;
-    font-weight: 700;
-    line-height: 155%;
-    margin: 0 0 .2em;
-    a {
-      color: $headlineColor;
-      &:hover {
-        color: lighten($headlineColor, 10%);
-      }
-    }
-  }
-  span {
-    vertical-align: middle;
-  }
-}
-
-.link__icon {
-  border-bottom: none !important;
-  margin: 0 0 0 10px;
-  font-size: .75em;
-  font-weight: normal !important;
-  color: lighten($darkColor, 45%) !important;
-  text-decoration: none !important;
-  &:hover {
-    color: $linkColor !important;
+@include breakpoint(container) {
+  h1,h2, h3, h4, h5, p, ul, ol, figcaption, .alignleft figcaption, .alignright figcaption, .footnotes {
+    padding: 0 10px;
   }
 }
