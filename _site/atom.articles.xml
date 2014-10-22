@@ -5,13 +5,40 @@
   <title>The Bold Report - Articles Only</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/feed.article.xml"/>
-  <updated>2014-10-21T17:12:27-05:00</updated>
+  <updated>2014-10-22T11:42:57-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2014/10/the-bold-report-version-3-0-0</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/10/the-bold-report-version-3-0-0"/>
+    <title> The Bold Report Version 3.0.0</title>
+    <published>2014-10-22T11:39:03-05:00</published>
+    <updated>2014-10-22T11:39:03-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Hi Reader,&lt;/p&gt;
+
+&lt;p&gt;I’m taking a quick moment to write you about the new design on &lt;em&gt;The Bold Report&lt;/em&gt;. This is the second redesign of this site, and its third major incarnation. If you normally read links and articles via your RSS reader, please take a moment to take a look.&lt;/p&gt;
+
+&lt;p&gt;I’ve been up to a lot lately. &lt;a href=&quot;http://instagram.com/p/saorGTycIO/&quot;&gt;Exciting things are happening in my personal life&lt;/a&gt;, &lt;a href=&quot;http://theboldreport.net/2014/10/the-east-wing-is-back/&quot;&gt;The East Wing is back&lt;/a&gt;, &lt;a href=&quot;http://goodstuff.fm/dailycolumn&quot;&gt;I started a daily show&lt;/a&gt;, and &lt;a href=&quot;http://ttimsmith.com/membership&quot;&gt;a membership I launched&lt;/a&gt; about a month ago already has seven members that are supporting my online work.&lt;/p&gt;
+
+&lt;p&gt;With all of that, I’ve decided it was time to get back into this site. With all my different commitments and my client work, I can’t commit to the daily posting of times past, but I would like to start writing useful articles and links again. I have a Sonos Play:1 review that I’ve been writing for almost a year, that I just need to buckle down and actually finish. Over the next few weeks, links and articles will begin to ramp up again which I’m really excited about.&lt;/p&gt;
+
+&lt;p&gt;All in all, if you’ve been a fan of this site, I hope your patience and support will soon pay off.&lt;/p&gt;
+
+&lt;p&gt;Thank you from the bottom of my heart.&lt;/p&gt;
+
+&lt;p&gt;Best, &lt;br /&gt;
+Timmy Tim Tim&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2014/04/goodstuff</id>

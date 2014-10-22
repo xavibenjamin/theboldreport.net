@@ -152,7 +152,8 @@ end
 
 # rake deploy
 desc "Build the site for deployment"
-task :deploy do
+task :d do
+  puts "Building site with production environment settings…"
   execute("jekyll build --config _config_production.yml")
 end
 
