@@ -5,13 +5,37 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-10-22T11:42:57-05:00</updated>
+  <updated>2014-10-22T12:07:59-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/10/macstories-reviews-fantastical-2-2</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/10/macstories-reviews-fantastical-2-2"/>
+      <title>MacStories Reviews Fantastical 2.2</title>
+      <published>2014-10-22T12:06:17-05:00</published>
+      <updated>2014-10-22T12:06:17-05:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Federico Viticci writing on &lt;em&gt;MacStories&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;With version 2.2, Flexibits has built a powerful share extension that brings the full Fantastical interface to any app that can share text and links. From Safari, Drafts, Digg, and other iOS 8 apps that properly support share extensions, you’ll be able to tap the Fantastical icon to get the app’s complete UI for event and reminder creation.&lt;/p&gt;
+
+  &lt;p&gt;…&lt;/p&gt;
+
+  &lt;p&gt;What I like about Fantastical’s share extension is that it’s not a compromise – unlike other iOS 8 app updates, it’s not a bare-bones share sheet where you can type text with no other controls or menus. Flexibits has brought the full-blown Fantastical UI to a share sheet that has all the controls you’re used to.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Federico, as usual, writes an excellent review on Fantastical 2.2. When I say excellent, I not only mean that he loves the update, but his attention to what makes a calendar great is on point. This looks like a great update.&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/10/the-bold-report-version-3-0-0</id>
