@@ -5,13 +5,33 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-10-27T15:38:39-05:00</updated>
+  <updated>2014-10-27T15:47:47-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/10/khoi-vinhs-thoughts-on-yosemite</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/10/khoi-vinhs-thoughts-on-yosemite"/>
+      <title>Khoi Vinh’s Thoughts on Yosemite</title>
+      <published>2014-10-27T15:46:53-05:00</published>
+      <updated>2014-10-27T15:46:53-05:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Spend just a bit of time with [Yosemite], and you can almost picture the iterations to come, when future releases will have fully worked out the visual language and the gestalt of the interface will have cohered to a more advanced state. OS X Balboa and OS X Palisades are going to look great.&lt;/p&gt;
+
+  &lt;p&gt;In the meantime, though, I find Yosemite lacking in polish, full of awkward decisions and unresolved tensions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Khoi’s opinions are spot on.&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/10/retailers-are-disabling-nfc-to-block-apple-pay</id>
