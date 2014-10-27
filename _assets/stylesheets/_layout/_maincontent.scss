@@ -9,6 +9,9 @@ MAIN CONTENT
   .BarShow & {
     @include filter(blur(5px) grayscale(70%));
   }
+  @include breakpoint(s) {
+    margin: 1.5em 0 0;
+  }
 }
 
 
