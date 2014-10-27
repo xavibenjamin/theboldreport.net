@@ -229,5 +229,25 @@ end
 
 # rake notify
 desc "Notify various services about new content"
-task :ping => [:pingomatic, :sitemapgoogle, :sitemapbing] do
+task :ping => [:notify, :pingomatic, :sitemapgoogle, :sitemapbing] do
+end
+
+# rake ping
+desc "Notify FeedPress about new content"
+task :notify do
+  require 'httparty'
+  puts 'Pinging FeedPress with your new content.'
+
+  mykey = ENV['FEEDPRESS_KEY']
+  mytoken = ENV['FEEDPRESS_TOKEN']
+  feedpress_name = "3069"
+
+  ping = HTTParty.get( 'http://api.feedpress.it/feeds/ping.json', {:query => {:key => mykey, :token => mytoken, :feed => feedpress_name}} )
+
+  if ping.code == 200
+    puts "==> Pinged FeedPress successfully. #{ping['message']}"
+  else
+    puts "Error: Ping rejected (#{ping.code} - #{ping.message})"
+  end
+
 end
