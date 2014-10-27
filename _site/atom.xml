@@ -5,13 +5,35 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-10-22T12:07:59-05:00</updated>
+  <updated>2014-10-27T14:21:36-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/10/retailers-are-disabling-nfc-to-block-apple-pay</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/10/retailers-are-disabling-nfc-to-block-apple-pay"/>
+      <title>‘Retailers Are Disabling NFC to Block Apple Pay’</title>
+      <published>2014-10-27T14:18:49-05:00</published>
+      <updated>2014-10-27T14:18:49-05:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;John Gruber on &lt;em&gt;Daring Fireball&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Think about what they’re doing. They’re turning off NFC payment systems — the whole thing — only because people were actually using them with Apple Pay. Apple Pay works so well that it even works with non-partner systems. These things have been installed for years and so few people used them, apparently, that these retailers would rather block everyone than allow Apple Pay to continue working. I can’t imagine a better validation of Apple Pay’s appeal.&lt;/p&gt;
+
+  &lt;p&gt;And the reason they don’t want to allow Apple Pay is because Apple Pay doesn’t give them any personal information about the customer. It’s not about security — Apple Pay is far more secure than any credit/debit card system in the U.S. It’s not about money — Apple’s tiny slice of the transaction comes from the banks, not the merchants. It’s about data.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This whole thing is very interesting. I wouldn’t go as far to conclude that Apple is the white knight in this situation—the one looking out for our best interest. The situation just happens to be in Apple’s favor. They seem to be getting everything they need to make payments easier, whereas retailers are not. And what is it that they want? Coming as no surprise: customer data.&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/10/macstories-reviews-fantastical-2-2</id>
