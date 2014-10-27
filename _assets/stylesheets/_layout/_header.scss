@@ -13,6 +13,9 @@ HEADER
   padding: 1.5em;
   position: relative;
   z-index: 2;
+  @include breakpoint(container) {
+    padding: 1.5em 10px;
+  }
 }
 
 .logo {
@@ -34,6 +37,9 @@ HEADER
   right: 1.5em;
   z-index: 3;
   @include transition(.2s ease);
+  @include breakpoint(container) {
+    right: 10px;
+  }
   span {
     background: lighten($darkColor, 50%);
     display: block;
