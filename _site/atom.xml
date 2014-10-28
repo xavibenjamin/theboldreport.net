@@ -5,13 +5,33 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-10-27T16:09:45-05:00</updated>
+  <updated>2014-10-28T14:34:47-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/10/third-avengers-split-into-two-films</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/10/third-avengers-split-into-two-films"/>
+      <title>Third ‘Avengers’ Split Into Two Films</title>
+      <published>2014-10-28T00:00:00-05:00</published>
+      <updated>2014-10-28T00:00:00-05:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Some awesome news on &lt;em&gt;The Verge&lt;/em&gt; today:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Everyone expected a third Avengers film a few years from now, but Marvel has a surprise for you: you’ll be getting two of them. The third Avengers film is called Avengers: Infinity War, and it’s being broken into two parts: its first part is being released on May 4th, 2018, and its second part is being released on May 3rd, 2019.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Marvel has done such an amazing job with all these different films. I hope that DC gets their act together because they have great characters to work with too. Who knows? Maybe the Batman vs. Superman film will be a great start.&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/10/pinging-feedpress-with-rake</id>
