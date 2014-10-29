@@ -12,7 +12,7 @@ Yesterday, I went out and got myself an iPhone 6.[^1] I've had an iPhone since t
 
 It wasn't that bad. The phone did pretty well on some minor drops. I made it a point to treat the phone as if it had a case, but still take care of it as much as possible. In my opinion, the phone still looks pretty great, but I've included some pictures[^3] for you to judge yourself.
 
-{% image alignright /uploads/2014/10/iphone5s-back.jpg "The back side of my iPhone 5s. Again no scratches! I've had this phone for a year, and that it's in such great condition without a case, is pretty surprising." %}
+{% image alignright /uploads/2014/10/iPhone5s-back.jpg "The back side of my iPhone 5s. Again no scratches! I've had this phone for a year, and that it's in such great condition without a case, is pretty surprising." %}
 
 With that said, when I got the new iPhone, I decided to look into cases just for kicks. *The Wirecutter* did an amazing review of cases, and in fact they recommend one as "the best (so far)". I've linked the full article and review above. If you're also looking for a case, I think you'll find their opinions interesting. I ordered one, and will write something on it once I've used it for a month or two.[^4]
 
