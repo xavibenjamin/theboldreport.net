@@ -33,11 +33,11 @@ body {
 	line-height: 140%;
 	color: $bodyColor;
 	@extend %serif;
-  @include breakpoint(l) {
-    font-size: 103%;
-  }
+  // @include breakpoint(l) {
+  //   font-size: 103%;
+  // }
   @include breakpoint(m) {
-    font-size: 95%;
+    font-size: 105%;
   }
 }
 
@@ -253,7 +253,7 @@ BLOCKQUOTE
 blockquote {
   border-left: 3px solid $linkColor;
   color: lighten($bodyColor, 15%);
-  padding-left: 15px;
+  padding-left: .85em;
   margin: 0 0 03.125% 3%;
   width: 90%;
   @media screen and (max-width: 480px ) {
