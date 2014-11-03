@@ -29,13 +29,13 @@ BASE TYPE
 ------------------------------------------- */
 
 body {
-	font-size: 115%;
+	font-size: 130%;
 	line-height: 140%;
 	color: $bodyColor;
 	@extend %serif;
-  // @include breakpoint(l) {
-  //   font-size: 103%;
-  // }
+  @include breakpoint(l) {
+    font-size: 115%;
+  }
   @include breakpoint(m) {
     font-size: 105%;
   }
