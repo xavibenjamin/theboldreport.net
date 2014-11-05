@@ -5,13 +5,41 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-11-05T12:26:44-06:00</updated>
+  <updated>2014-11-05T13:08:20-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/11/making-fussy-coffee</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/11/making-fussy-coffee"/>
+      <title>‘Making Fussy Coffee’</title>
+      <published>2014-11-05T13:07:35-06:00</published>
+      <updated>2014-11-05T13:07:35-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Peter Binkowski:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There are a lot of people on the internet that enjoy making fussy coffee. I’m definitely one of them. However, getting into coffee doesn’t have to a pursuit in snobby-ness and complexity. I’ve found a fairly simple setup, that’s inexpensive, and produces better coffee than 80% of the coffee shops out there.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Peter is one of my favorite people. His approach is snobby-ness free,&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and gives excellent recommendations if you’re interested in making a better cup of joe. As he explains, making great coffee doesn’t have to be expensive, and can be made from the comfort of your home.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Which sometimes can be difficult to find with coffee lovers. We can be a bunch of hipsters sometimes. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/11/gina-trapani-on-short-form-blogging</id>
