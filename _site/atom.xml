@@ -5,13 +5,31 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-11-05T11:59:08-06:00</updated>
+  <updated>2014-11-05T12:15:12-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/11/sam-soffes-releases-whiskey-beta</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/11/sam-soffes-releases-whiskey-beta"/>
+      <title>Sam Soffes Releases Whiskey Beta</title>
+      <published>2014-11-05T12:12:38-06:00</published>
+      <updated>2014-11-05T12:12:38-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;&lt;a href=&quot;http://usewhiskey.com/&quot;&gt;Whiskey&lt;/a&gt; is a new Markdown editor that Sam has been working on. I got in on the beta quite early because I love his work. Whiskey is looking to be an awesome app, and Sam has been updating almost daily recently.&lt;/p&gt;
+
+&lt;p&gt;The app is great for many reasons, but the most important is this: you can tell it’s been designed and built by someone who writes a lot of Markdown. It makes a difference.&lt;/p&gt;
+
+&lt;p&gt;However, his post reminds me that I have to get better at sending him feedback. I don’t want to be one of those douchebags that just brags about being invited to betas without actually helping out.&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/11/third-party-keyboards</id>
