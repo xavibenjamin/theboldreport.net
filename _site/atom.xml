@@ -5,13 +5,31 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-11-05T12:15:12-06:00</updated>
+  <updated>2014-11-05T12:26:44-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/11/gina-trapani-on-short-form-blogging</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/11/gina-trapani-on-short-form-blogging"/>
+      <title>Gina Trapani on Short-Form Blogging</title>
+      <published>2014-11-05T12:25:21-06:00</published>
+      <updated>2014-11-05T12:25:21-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;I find tweets too reductionist and Medium pieces too bloviating, so I came to the same conclusion &lt;a href=&quot;http://waxy.org/2014/10/middling/&quot;&gt;Andy did on mid-length writing&lt;/a&gt;. His post reminded me of a working draft I started awhile back called “New rules for blogging.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Rules I plan to follow too.&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/11/sam-soffes-releases-whiskey-beta</id>
