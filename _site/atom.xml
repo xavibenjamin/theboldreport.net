@@ -5,13 +5,35 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-11-04T14:34:22-06:00</updated>
+  <updated>2014-11-05T11:59:08-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/11/third-party-keyboards</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/11/third-party-keyboards"/>
+      <title>‘iOS 8, Accessibility, and Third-Party Keyboards’</title>
+      <published>2014-11-05T11:57:27-06:00</published>
+      <updated>2014-11-05T11:57:27-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Steven Aquino for &lt;em&gt;MacStories&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The second problem with Apple’s implementation of third-party keyboards is they don’t have all the bells and whistles that the system keyboard does. To wit: no access to dictation or autocorrect; neither do they have access to the tap-and-hold-the-globe-button gesture to switch between keyboards. As well, switching from a light to dark keyboard for day/night, and using the &lt;code&gt;UIKit&lt;/code&gt; blur effect is also disallowed by Apple.&lt;/p&gt;
+
+  &lt;p&gt;All in all, the limitations that Apple imposes on developers rolling their own keyboards make them less attractive to customers.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Fascinating article. I hope Apple loosens its grip on the keyboards. Till then, developers can’t make the experience users truly want.&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/11/the-ipad-is-in-trouble</id>
