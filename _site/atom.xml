@@ -5,13 +5,35 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-11-05T13:08:20-06:00</updated>
+  <updated>2014-11-07T00:57:47-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/11/pocket-casts-gets-an-update</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/11/pocket-casts-gets-an-update"/>
+      <title>Pocket Casts Gets an Update</title>
+      <published>2014-11-07T00:56:57-06:00</published>
+      <updated>2014-11-07T00:56:57-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Shifty Jelly updated Pocket Casts to version 5 today, and with that, two of our awesome shows on Goodstuff were featured in the post.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.chrisenns.com/2014/11/my-favourite-ios-podcast-app-gets-an-update/&quot;&gt;Here’s what Chris had to say&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Maybe some­day I’ll become blasé about see­ing my pod­cast show art pop up around the web, but that day is not today.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Thanks Shifty Jelly. Awesome update.&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/11/making-fussy-coffee</id>

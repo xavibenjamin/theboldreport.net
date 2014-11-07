@@ -12,7 +12,7 @@ Sonos is widely regarded as a premier speaker system for your home. Recently, th
 ## First Impressions
 - The speaker may be small, but it is loud. I was very surprised by the power of the small speaker.
 
-- The speaker weighs [insert weight here] which is very nice. I don't know about you, but their is something about weight that makes me feel the product is made well, and to last.
+- The speaker weighs 4.08 lbs[^1] which is very nice. I don't know about you, but their is something about weight that makes me feel the product is made well, and to last.
 
 - The design of the speaker is quite beautiful, and really blends in with any type of decor.
 
@@ -31,7 +31,7 @@ Many people complain about connection issues with Bluetooth speakers, and I've h
 ## Sound Quality
 I'm no audiophile, but I know what sounds good. This speaker is spectacular. The bass is surprisingly impressive, with my rap/hip-hop songs playing beautifully.
 
-The Play:1 could easily fill my previous studio apartment, and now still covers an impressive amount of space in the 2 bedroom basement apartment I'm currently in. Still, I'd love to have two just so that I have one specifically for my horrendous shower singing.
+The Play:1 could easily fill my previous studio apartment, and now still covers an impressive amount of space in the 2 bedroom apartment I'm currently in. Still, I'd love to have another just so that I have one specifically for my horrendous shower singing.
 
 {% image alignleft /uploads/2014/01/sonos-side_view.jpg "The Sonos Play:1 from the side" %}
 
@@ -45,9 +45,10 @@ The controller apps have support for music on the iPad, music on your Mac, and a
 I have a pretty varied music library, and a lot of songs aren't mixed at the same level. When I'm at my Mac, it's a bit easier to just reduce the volume, but I'm not usually near volume controls when using the Play:1, so the absence of powerful EQ and volume controls is a disappointment. 
 
 
-## Price
+## Is it worth the price?
 For the quality of the speaker, I think $199 is a very reasonable price. You can't go any cheaper without sacrificing in quality. However, you could pay more, and still not get the quality of the Play:1.
 
-## Wrapping Up
-This still needs to be done.
+With all things considered, I would definitely this speaker my recommendation. The sound quality is impressive, and the apps allow you to play audio from almost anywhere. For the price, you can’t get a better speaker.
+
+[^1]: 1.85 kg
 
