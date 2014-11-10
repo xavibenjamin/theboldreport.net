@@ -5,13 +5,33 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-11-10T12:32:13-06:00</updated>
+  <updated>2014-11-10T12:48:53-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/11/weekly-pricing-for-web-development</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/11/weekly-pricing-for-web-development"/>
+      <title>‘Weekly Pricing for Web Development’</title>
+      <published>2014-11-10T12:43:57-06:00</published>
+      <updated>2014-11-10T12:43:57-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Curtis McHale:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When I’m paid weekly I’m not hoping that you’ll pay me in a timely manner. I was already paid for the week I’m working. So I’m not sweating cash-flow. I’m not trying to dig deep to get other clients and get them to pay deposits (while working for you) to keep that 40% I’m out flowing. I’m simply focused on providing you with value this week.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This model makes so much sense in client services.&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/11/emmets-hidden-features</id>
