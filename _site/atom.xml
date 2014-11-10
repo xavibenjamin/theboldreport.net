@@ -5,13 +5,31 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-11-10T12:17:25-06:00</updated>
+  <updated>2014-11-10T12:32:13-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/11/emmets-hidden-features</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/11/emmets-hidden-features"/>
+      <title>Emmet’s Hidden Features</title>
+      <published>2014-11-10T12:31:15-06:00</published>
+      <updated>2014-11-10T12:31:15-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Jordan Moore:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There are heaps of really useful features alongside Emmet’s primary text-expanding function. Here are a few of the hidden gems that I frequently use when coding.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/11/insanity</id>
