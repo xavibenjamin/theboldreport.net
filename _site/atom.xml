@@ -5,13 +5,33 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-11-10T12:48:53-06:00</updated>
+  <updated>2014-11-11T13:48:05-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/11/chris-bowler-on-ulysses</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/11/chris-bowler-on-ulysses"/>
+      <title>Chris Bowler on Ulysses</title>
+      <published>2014-11-11T13:38:55-06:00</published>
+      <updated>2014-11-11T13:38:55-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Look and feel are important to me when writing. Ulysses and iA Writer both do this well. But I must admit I like that Ulysses allows me to organize my writing, as well as write. Where iA Writer has to be used in tandem with Finder, Ulysses works on its own.&lt;/p&gt;
+
+  &lt;p&gt;Scrivener has long been the tool that people recommend for writing long content on the Mac. We’re talking novel length work. But seeing as Scrivener is a bit odd in terms of UI and seems to be updated infrequently, I can see Ulysses challenging in this arena. Ulysses nails the Markdown experience and gives a very solid document management toolset as well.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Interesting non-review—according to Chris—of Ulysses. Seems there’s a healthy amount of apps in this space for everyone’s taste.&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/11/weekly-pricing-for-web-development</id>
