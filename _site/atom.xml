@@ -5,13 +5,46 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-11-11T13:48:05-06:00</updated>
+  <updated>2014-11-12T13:05:28-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/11/why-people-write-on-medium</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/11/why-people-write-on-medium"/>
+      <title>♨ Why People Write on Medium</title>
+      <published>2014-11-12T13:05:11-06:00</published>
+      <updated>2014-11-12T13:05:11-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;I just saw &lt;a href=&quot;https://upthemes.com/blog/2014/11/medium-to-wordpress/&quot;&gt;this post on UpThemes&lt;/a&gt; about migrating your content from Medium to WordPress. Now, I know that they’re just trying to sell their themes, but their comprehension of why people write on Medium is completely wrong.&lt;/p&gt;
+
+&lt;p&gt;Before I get into why they’re fundamentally wrong,&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; I’ll go ahead and say that their reasons why you might not want to be publishing on Medium, are sound. I’m all for owning your content. However, they’re also telling you that you can have everything you have on Medium with WordPress, which is a lie.&lt;/p&gt;
+
+&lt;p&gt;People don’t write on Medium just because the reading experience is beautiful; the writing experience is too. WordPress continues to descend into more and more clutter, making writing with it cumbersome and a burden. Sites like Medium give the writer the ability to focus on writing and publishing, whereas WordPress does not.&lt;/p&gt;
+
+&lt;p&gt;Personally, it’s the biggest reason I moved over to &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. Yet the average person doesn’t know how to create a Jekyll site, much less get it on to a server. You could go with something like &lt;a href=&quot;https://ghost.org/&quot;&gt;Ghost&lt;/a&gt;, but then you need to know Node.js.&lt;/p&gt;
+
+&lt;p&gt;If your goal is to write, have a great reading and writing experience, own your content, and get your site setup quickly, you solution is definitely not WordPress. In fact, you’re attached to another object by an inclined plane, wrapped helically around an axis,&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; because it doesn’t exist.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;And I promise that’s not even the point of this post. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://youtu.be/DpnvS7kM4Fs&quot;&gt;The Big Bang Theory way of saying screwed.&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/11/chris-bowler-on-ulysses</id>
