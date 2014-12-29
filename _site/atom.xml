@@ -5,13 +5,31 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2014-11-18T15:51:51-06:00</updated>
+  <updated>2014-12-29T14:20:16-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2014/12/quick-thought-on-empathy</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/12/quick-thought-on-empathy"/>
+      <title>‘Quick Thought on Empathy’</title>
+      <published>2014-12-29T14:17:09-06:00</published>
+      <updated>2014-12-29T14:17:09-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Yaron Schoen:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Empathy is a muscle you must build, and the only way I know to build that muscle is through life experience. I would even go further and say that, unfortunately, experiencing hardship in life is the steroids to the empathetic muscle. Empathy is not something you learn at an expensive Manhattan design school, or at a hot Silicon Valley startup. &lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2014/11/eastwing-2</id>

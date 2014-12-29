@@ -39,5 +39,6 @@ We talk about Campaign Monitor a lot on Goodstuff FM. But why is it that we pref
 http://campaignmonitor.com/canvas.
 
 - [Campaign Monitor](http://www.campaignmonitor.com/) - Tell them you heard about it on Goodstuff
+- [Patreon](http://patreon.com/ttimsmith) - Please consider supporting Tim in podcasting full-time.
 
 
