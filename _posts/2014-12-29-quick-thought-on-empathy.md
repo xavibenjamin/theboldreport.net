@@ -3,7 +3,7 @@ layout: post
 title: ‘Quick Thought on Empathy’
 categories: links
 custom_type: link
-custom_url: http://yaronschoen.com/writing/quick-thought-on-empathy/
+link_url: http://yaronschoen.com/writing/quick-thought-on-empathy/
 date: '2014-12-29 14:17:09'
 ---
 Yaron Schoen:
