@@ -5,13 +5,83 @@
   <title>The Bold Report - Articles Only</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/feed.article.xml"/>
-  <updated>2015-02-05T11:59:58-06:00</updated>
+  <updated>2015-02-05T13:05:15-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://theboldreport.net/2015/02/review-sonos-play-1</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/2015/02/review-sonos-play-1"/>
+    <title>Review: Sonos Play:1</title>
+    <published>2015-02-05T13:03:15-06:00</published>
+    <updated>2015-02-05T13:03:15-06:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Sonos is widely regarded as a premier speaker system for your home. Their newest product, the Play:1, is their most affordable one, and could potentially get more people into the Sonos ecosystem.&lt;/p&gt;
+
+&lt;h2 id=&quot;first-impressions&quot;&gt;First Impressions&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The speaker may be small, but it’s loud. I was very surprised by the power of the small speaker.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The speaker weighs 4.08 lbs.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Their is something about weight that makes me feel the product is made well, and will last.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The design of the speaker is quite beautiful, and really blends in with any type of decor.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;extendout&quot;&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2014/01/sonos-top_view.jpg&quot; /&gt;&lt;figcaption&gt;The Sonos Play:1 from the top&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;setting-up-the-sonos&quot;&gt;Setting Up the Sonos&lt;/h2&gt;
+&lt;p&gt;Sonos is very simple to setup, and you can do it one of two ways. The first is to connect your speaker via ethernet cable. I didn’t personally try this, but it seems simple enough. This limits where you can put the speaker, as it will need to be close to your router.&lt;/p&gt;
+
+&lt;p&gt;The second, is to purchase a &lt;a href=&quot;http://www.sonos.com/shop/products/bridge&quot;&gt;Bridge&lt;/a&gt; with your speaker. The Bridge creates an independent wireless signal that is &lt;em&gt;only&lt;/em&gt; for Sonos speakers. It allows you to easily expand your system with more speakers, and only limits the placement of the speaker by location of a power outlet. Recently, Sonos started allowing you to connect the speakers via WiFi, instead of needing a Bridge, which I think will only make it easier for the average consumer to get started.&lt;/p&gt;
+
+&lt;p&gt;I was very impressed by how easy this setup is. The instructions to set up the Bridge and speaker through the controller apps are simple, and in my experience, took less than 5 minutes.&lt;/p&gt;
+
+&lt;p&gt;Many people complain about connection issues with Bluetooth speakers; a problem I can identify with. Not with Sonos. I’ve had this speaker for over a year, with not one connection issue, and the delay between controller app and speaker is minimal, if almost non-existent.&lt;/p&gt;
+
+&lt;h2 id=&quot;sound-quality&quot;&gt;Sound Quality&lt;/h2&gt;
+&lt;p&gt;I’m no audiophile, but I know what sounds good. This speaker is spectacular. The bass is surprisingly impressive, with my rap/hip-hop songs playing beautifully.&lt;/p&gt;
+
+&lt;p&gt;The Play:1 could easily fill my previous studio apartment, and now still covers an impressive amount of space in the 2 bedroom house I’m currently in. Still, I’d love to have another just so I have one specifically for my horrendous shower singing.&lt;/p&gt;
+
+&lt;figure class=&quot;alignleft&quot;&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2014/01/sonos-side_view.jpg&quot; /&gt;&lt;figcaption&gt;The Sonos Play:1 from the side&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;controller-apps&quot;&gt;Controller Apps&lt;/h2&gt;
+&lt;p&gt;This is my biggest gripe against Sonos. As impressive as their hardware is, the software powering everything is less than ideal.&lt;/p&gt;
+
+&lt;p&gt;The iOS app was recently updated and looks beautiful. A huge upgrade from their previous app which looked like it hadn’t been updated in years. Finding and adding music services is a lot easier with the new app. The Mac app is pretty terrible. It does have support for the play/pause keys on the keyboard, which is nice, but has an outdated aesthetic, and could use drastic UX improvements.&lt;/p&gt;
+
+&lt;p&gt;The controller apps have support for music on the device, music on your Mac, and a variety of music services. But, the things I want to play aren’t always music. Sometimes I’m watching a video, or listening to a podcast, and so far, I haven’t found an easy way to do these things.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; It’d be nice to play whatever sound is coming from the device you’re on, but I don’t see support for that at the moment. From a technical stand point, I could see how this would be difficult, but honestly needs to be figured out.&lt;/p&gt;
+
+&lt;p&gt;I have a pretty varied music library, and a lot of songs aren’t mixed at the same level. When I’m at my Mac, it’s a bit easier to just reduce the volume, but I’m not usually near volume controls when using the Play:1, so the absence of powerful EQ and volume controls is a disappointment.&lt;/p&gt;
+
+&lt;h2 id=&quot;is-it-worth-the-price&quot;&gt;Is it worth the price?&lt;/h2&gt;
+&lt;p&gt;For the quality of the speaker, I think $199 is a very reasonable price. You can’t go any cheaper without sacrificing in quality. Interestingly, you could pay more, and still not get the quality of the Play:1.&lt;/p&gt;
+
+&lt;p&gt;With all things considered, I would definitely give this speaker my recommendation. The sound quality is impressive, and the apps allow you to play audio from almost anywhere. For the price, you can’t get a better speaker.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;1.85 kg &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;The app does allow you to hook up to Sticher, so if you use Sticher (which I do not) to listen to podcasts, I guess you’d be set. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://theboldreport.net/2014/11/why-people-write-on-medium</id>
