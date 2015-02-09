@@ -19,7 +19,7 @@ If you're a listener, sometime-guest, or any other sort of fan of the Goodstuff.
 
 Where: Dripp Coffee Bar
 
-When: Wednesday, February 11 7:30PM
+When: Tuesday, February 17 7:30PM
 
 [Make sure to RSVP!](https://www.eventbrite.com/e/goodstuff-fm-la-meetup-2015-tickets-15669956261)
 
