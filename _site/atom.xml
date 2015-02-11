@@ -5,13 +5,39 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2015-02-11T12:18:26-06:00</updated>
+  <updated>2015-02-11T12:56:07-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2015/02/the-new-web-ahead-website</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2015/02/the-new-web-ahead-website"/>
+      <title>The New Web Ahead Website</title>
+      <published>2015-02-11T10:53:17-06:00</published>
+      <updated>2015-02-11T10:53:17-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Have you listened to The Web Ahead? If you work on the web, and you haven’t, you’re monumentally missing out. The Web Ahead is a great show where Jen Simmons talks to some of the smartest people in our industry, and sparks conversations about web technologies like no one else can.&lt;/p&gt;
+
+&lt;p&gt;The new website for the show is absolutely beautiful. She’s done such an amazing job. Designing websites for podcasts has become a bit stagnant, with most&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; resorting to a cookie-cutter episode title, description, audio player, and show notes. Jen breaks the mold with a beautiful audio player, a more in-depth description of topics, and a transcript that actually looks good.&lt;/p&gt;
+
+&lt;p&gt;Take a look at the website, &lt;a href=&quot;http://thewebahead.net/95&quot;&gt;listen to the show&lt;/a&gt;, and &lt;a href=&quot;http://thewebahead.net/subscribe&quot;&gt;subscribe&lt;/a&gt;. You’ll do your ears a favor.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Including me, unfortunately. I’m working on this though. I’ll have something new to show you very soon. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2015/02/goals-for-2015</id>
