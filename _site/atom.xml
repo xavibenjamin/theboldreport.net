@@ -5,13 +5,83 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2015-02-09T13:29:05-06:00</updated>
+  <updated>2015-02-11T12:18:26-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2015/02/goals-for-2015</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2015/02/goals-for-2015"/>
+      <title>♨ Goals for 2015</title>
+      <published>2015-02-11T10:16:47-06:00</published>
+      <updated>2015-02-11T10:16:47-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Another year has come and gone. In an effort to keep up a good habit, it’s time to do a little reflection on last year, and set new goals for 2015.&lt;/p&gt;
+
+&lt;p&gt;I can’t believe how quickly 2014 went by. I feel as if every year seems to go by quicker than the last. Still, I was able to accomplish three out of five goals this past year, which I’m quite proud of. &lt;/p&gt;
+
+&lt;p&gt;Here were my goals for 2014:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Lose Weight&lt;/li&gt;
+  &lt;li&gt;Learn Rails&lt;/li&gt;
+  &lt;li&gt;Collaborate with Friends&lt;/li&gt;
+  &lt;li&gt;Mentor a Student&lt;/li&gt;
+  &lt;li&gt;Take Work-cations&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I did really well! I lost 10 lbs in 2014 and managed to keep them off. This is still an area I need to work on and will be putting more effort into this year.&lt;/p&gt;
+
+&lt;p&gt;2014 was the year I built the CMS powering &lt;a href=&quot;http://goodstuff.fm/&quot;&gt;Goodstuff&lt;/a&gt;. Together with &lt;a href=&quot;https://twitter.com/willmanduffy&quot;&gt;Will Duffy&lt;/a&gt;, we built this awesome system that makes creating new shows and posting episodes a breeze. With Will’s help, I’ve become more competent with Rails. I can handle my own when it comes to generating new migrations, creating new controllers, and I even learned how to integrate Stripe payments into a Rails app!&lt;/p&gt;
+
+&lt;p&gt;Last year, I complained that if I could work from anywhere, why wasn’t I? This was fixed by flying to Guatemala and staying a total of six weeks! It was an absolute blast, I rode the bus everywhere, got to see old friends and make new ones, went 5 days without water&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, and even spent 3 days on the beach. I did all of it, quite cheaply. I’d definitely recommend it.&lt;/p&gt;
+
+&lt;p&gt;What do I want to accomplish in 2015? Here are my goals for this year:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Lose Weight&lt;/strong&gt;   &lt;br /&gt;
+This stupid goal is on the list every year. But slowly, I’m making progress, and it needs to continue. I signed up for the gym in January,&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; and thanks to my lovely fianceé, we’ve been going regularly.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Learn a Javascript Framework&lt;/strong&gt;   &lt;br /&gt;
+I’d like to eventually become a designer who’s also a full-stack developer, and this is what I see as the next step in my development knowlege. There’s a lot of talk about Angular, Backbone, Ember, etc., and I’d like to know what’s going on here. I’ve heard you can create some really awesome applications with these, which is where I see my career heading as a whole.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Sell More CMS Licenses&lt;/strong&gt;   &lt;br /&gt;
+Last year, I built a podcasting CMS. I also licensed it to three networks: the one I co-founded, Goodstuff FM, &lt;a href=&quot;http://www.relay.fm/&quot;&gt;Relay FM&lt;/a&gt;, and &lt;a href=&quot;http://www.brokenbuggy.com/&quot;&gt;Broken Buggy&lt;/a&gt;. I’d like to license this CMS to more networks who are in need of a powerful, yet simple system to manage their shows. This might involve creating some type of marketing site, but also might mean that I develop this into a SaaS.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Better Sleeping Habits&lt;/strong&gt;   &lt;br /&gt;
+Sleep is so important. They say that when you miss out on sleep, you don’t ever recuperate it. That’s depressing. Either way, I’ve got to get better about getting to sleep earlier and waking up earlier. It’s not so difficult, and interestingly, I always feel refreshed when I do. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Design and Build a Piece of Furniture&lt;/strong&gt;   &lt;br /&gt;
+When I was little, I’d work with my Dad building furniture for our house. My Dad has always interested in carpentry. We built my desk together, my bed, their bed, and many others. This year, I’d like to design and build something for my home. Admittingly, I’ll most likely need his help, but for once, maybe I can retain some of the knowlege he imparts.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Those are my goals for this year. What are yours?&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;I know, I know. You must be thinking, “that’s horrible.” But it was actually quite interesting. We ended up buying water (the kind you get in those five gallon jugs) and using that to cook and shower. Although a slight incovenince, it was a fun part of the experience. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Just like everyone does. And the gyms totally take advantage of this. They run this special for all of us “New Years Resolutioners”. They figure they’ll make tons of money of these chumps who’ll sign up and never go. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2015/02/review-sonos-play-1</id>
