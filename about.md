@@ -2,6 +2,7 @@
 layout: page
 title: About
 exclude_from_search: true
+permalink: /about/
 ---
 
 ![Tim Smith](/uploads/2013/09/tim_680x510.jpg)
@@ -16,7 +17,7 @@ I endeavor to be well-balanced when reporting any type of news, however I am ver
 
 ## Tools
 
-Most writing is done on my Macbook Pro in [Byword](http://bywordapp.com/). The site is designed and developed in [Sublime Text](http://www.sublimetext.com/), with the exception of the logo. Hosted by [Media Temple](http://mediatemple.net/), and powered by [Jekyll](http://jekyllrb.com).
+Most writing is done on my Macbook Pro in [Byword](http://bywordapp.com/). The site is designed and developed in [Sublime Text](http://www.sublimetext.com/), with the exception of the logo. Hosted by [Media Temple](https://mediatemple.7eer.net/c/136705/168246/2795), and powered by [Jekyll](http://jekyllrb.com).
 
 
 ## Contact
