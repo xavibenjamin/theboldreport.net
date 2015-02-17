@@ -5,13 +5,39 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2015-02-17T14:01:43-06:00</updated>
+  <updated>2015-02-17T17:00:05-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2015/02/another-week-another-debate-about-podcasts</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2015/02/another-week-another-debate-about-podcasts"/>
+      <title>‘Another Week; Another Debate About Podcasts’</title>
+      <published>2015-02-17T14:58:07-06:00</published>
+      <updated>2015-02-17T14:58:07-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Stephen Hackett:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’d rather people listen a little faster and consume more of our content than hear every single beat, as it comes out of Logic.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Personally, I don’t care how people listen to my shows as long as they’re listening. This sentence from &lt;a href=&quot;http://www.marco.org/2015/02/17/listen-to-podcasts-at-whatever-speed-you-want&quot;&gt;Marco’s article&lt;/a&gt;, explains it perfectly:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I don’t want sugar in my coffee, but it won’t impact my enjoyment of my coffee if you put sugar in yours.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I don’t personally listen to podcasts at a faster speed, but who the hell am I to tell you how you should listen?&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2015/02/new-episodes-of-the-east-wing</id>
