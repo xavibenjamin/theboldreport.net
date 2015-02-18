@@ -5,13 +5,31 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2015-02-18T13:23:16-06:00</updated>
+  <updated>2015-02-18T13:36:11-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2015/02/a-great-reminder</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2015/02/a-great-reminder"/>
+      <title>A Great Reminder</title>
+      <published>2015-02-18T11:35:04-06:00</published>
+      <updated>2015-02-18T11:35:04-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Kennedy:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I took this as a friendly reminder that &lt;em&gt;my job is not that bad, and I get paid a shit ton more than I should for doing something that won’t kill anyone.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2015/02/the-new-inquisitive</id>
