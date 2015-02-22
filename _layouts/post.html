@@ -8,9 +8,9 @@ custom_css_class: single
 
       <header class="post__header">
         <h1>{{ page.title }}</h1>
-        <p><span class="pubdate"><time datetime="{{ page.date | date_to_xmlschema }}">{% assign d = page.date | date: "%-d"  %}{{ page.date | date: "%B" }}
+        <small class="post__meta">By Tim Smith &middot; <span class="pubdate"><time datetime="{{ page.date | date_to_xmlschema }}">{% assign d = page.date | date: "%-d"  %}{{ page.date | date: "%B" }}
       {% case d %}{% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
-      {{ page.date | date: "%Y" }}</time></span></p>
+      {{ page.date | date: "%Y" }}</time></span></small>
       </header><!-- /.post__header -->
 
       <div class="post__entry">
@@ -21,9 +21,9 @@ custom_css_class: single
 
       <header class="post__header">
           <h1><a href="{{ page.link_url }}">{{ page.title }}</a><span class="arrow">&rarr;</span></h1>
-          <p><span class="pubdate"><time datetime="{{ page.date | date_to_xmlschema }}">{% assign d = page.date | date: "%-d"  %}{{ page.date | date: "%B" }}
+          <small class="post__meta"><span class="pubdate"><time datetime="{{ page.date | date_to_xmlschema }}">{% assign d = page.date | date: "%-d"  %}{{ page.date | date: "%B" }}
         {% case d %}{% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
-        {{ page.date | date: "%Y" }}</time></span> <a href="{{ page.url }}" class="link__icon" title="Link to {{ page.title }}">&infin;</a></p>
+        {{ page.date | date: "%Y" }}</time></span> <a href="{{ page.url }}" class="link__icon" title="Link to {{ page.title }}">&infin;</a></small>
 
         </header><!-- /.post__header -->
 

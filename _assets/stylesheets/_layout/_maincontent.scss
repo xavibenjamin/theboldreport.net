@@ -44,7 +44,7 @@ MAIN CONTENT
 
 .post__header {
   margin: 0 0 $spacing-m;
-  p {
+  .post__meta {
     font-size: .9em;
     color: lighten($darkColor, 50%);
     @extend %sans;

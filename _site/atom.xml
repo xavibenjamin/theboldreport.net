@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <link rel="hub" href="https://pubsubhubbub.appspot.com"/>
 
-  <title>The Bold Report</title>
+  <title>The Bold Report - Development</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2015-02-21T02:13:10-06:00</updated>
+  <updated>2015-02-22T17:13:37-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
@@ -300,7 +300,7 @@ When I was little, I’d work with my Dad building furniture for our house. My D
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;figure class=&quot;extendout&quot;&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2014/01/sonos-top_view.jpg&quot; /&gt;&lt;figcaption&gt;The Sonos Play:1 from the top&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;extendout&quot;&gt;&lt;img src=&quot;http://localhost:4000/uploads/2014/01/sonos-top_view.jpg&quot; /&gt;&lt;figcaption&gt;The Sonos Play:1 from the top&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;setting-up-the-sonos&quot;&gt;Setting Up the Sonos&lt;/h2&gt;
 &lt;p&gt;Sonos is very simple to setup, and you can do it one of two ways. The first is to connect your speaker via ethernet cable. I didn’t personally try this, but it seems simple enough. This limits where you can put the speaker, as it will need to be close to your router.&lt;/p&gt;
@@ -316,7 +316,7 @@ When I was little, I’d work with my Dad building furniture for our house. My D
 
 &lt;p&gt;The Play:1 could easily fill my previous studio apartment, and now still covers an impressive amount of space in the 2 bedroom house I’m currently in. Still, I’d love to have another just so I have one specifically for my horrendous shower singing.&lt;/p&gt;
 
-&lt;figure class=&quot;alignleft&quot;&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2014/01/sonos-side_view.jpg&quot; /&gt;&lt;figcaption&gt;The Sonos Play:1 from the side&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;alignleft&quot;&gt;&lt;img src=&quot;http://localhost:4000/uploads/2014/01/sonos-side_view.jpg&quot; /&gt;&lt;figcaption&gt;The Sonos Play:1 from the side&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;controller-apps&quot;&gt;Controller Apps&lt;/h2&gt;
 &lt;p&gt;This is my biggest gripe against Sonos. As impressive as their hardware is, the software powering everything is less than ideal.&lt;/p&gt;
@@ -792,11 +792,11 @@ When I was little, I’d work with my Dad building furniture for our house. My D
       </author>
       <content type="html">&lt;p&gt;Yesterday, I went out and got myself an iPhone 6.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; I’ve had an iPhone since the iPhone 4, and at first I had a screen protector on it, and a bulky case.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; When I upgraded to an 5s last year, I decided that I wasn’t going to use a case anymore. I wanted it naked so as to not devalue the beauty and design of the phone.&lt;/p&gt;
 
-&lt;figure class=&quot;extendout&quot;&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2014/10/iPhone5s-front.jpg&quot; /&gt;&lt;figcaption&gt;My iPhone 5s on the front side. You&#39;ll notice no huge scratches or dings.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;extendout&quot;&gt;&lt;img src=&quot;http://localhost:4000/uploads/2014/10/iPhone5s-front.jpg&quot; /&gt;&lt;figcaption&gt;My iPhone 5s on the front side. You&#39;ll notice no huge scratches or dings.&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;It wasn’t that bad. The phone did pretty well on some minor drops. I made it a point to treat the phone as if it had a case, but still take care of it as much as possible. In my opinion, the phone still looks pretty great, but I’ve included some pictures&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; for you to judge yourself.&lt;/p&gt;
 
-&lt;figure class=&quot;alignright&quot;&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2014/10/iPhone5s-back.jpg&quot; /&gt;&lt;figcaption&gt;The back side of my iPhone 5s. Again no scratches! I&#39;ve had this phone for a year, and that it&#39;s in such great condition without a case, is pretty surprising.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;alignright&quot;&gt;&lt;img src=&quot;http://localhost:4000/uploads/2014/10/iPhone5s-back.jpg&quot; /&gt;&lt;figcaption&gt;The back side of my iPhone 5s. Again no scratches! I&#39;ve had this phone for a year, and that it&#39;s in such great condition without a case, is pretty surprising.&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;With that said, when I got the new iPhone, I decided to look into cases just for kicks. &lt;em&gt;The Wirecutter&lt;/em&gt; did an amazing review of cases, and in fact they recommend one as “the best (so far)”. I’ve linked the full article and review above. If you’re also looking for a case, I think you’ll find their opinions interesting. I ordered one, and will write something on it once I’ve used it for a month or two.&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
@@ -937,7 +937,7 @@ When I was little, I’d work with my Dad building furniture for our house. My D
 
 &lt;p&gt;I’m taking a quick moment to write you about the new design on &lt;em&gt;The Bold Report&lt;/em&gt;. This is the second redesign of this site, and its third major incarnation. If you normally read links and articles via your RSS reader, please take a moment to take a look.&lt;/p&gt;
 
-&lt;p&gt;I’ve been up to a lot lately. &lt;a href=&quot;http://instagram.com/p/saorGTycIO/&quot;&gt;Exciting things are happening in my personal life&lt;/a&gt;, &lt;a href=&quot;http://theboldreport.net/2014/10/the-east-wing-is-back/&quot;&gt;The East Wing is back&lt;/a&gt;, &lt;a href=&quot;http://goodstuff.fm/dailycolumn&quot;&gt;I started a daily show&lt;/a&gt;, and &lt;a href=&quot;http://ttimsmith.com/membership&quot;&gt;a membership I launched&lt;/a&gt; about a month ago already has seven members that are supporting my online work.&lt;/p&gt;
+&lt;p&gt;I’ve been up to a lot lately. &lt;a href=&quot;http://instagram.com/p/saorGTycIO/&quot;&gt;Exciting things are happening in my personal life&lt;/a&gt;, &lt;a href=&quot;http://localhost:4000/2014/10/the-east-wing-is-back/&quot;&gt;The East Wing is back&lt;/a&gt;, &lt;a href=&quot;http://goodstuff.fm/dailycolumn&quot;&gt;I started a daily show&lt;/a&gt;, and &lt;a href=&quot;http://ttimsmith.com/membership&quot;&gt;a membership I launched&lt;/a&gt; about a month ago already has seven members that are supporting my online work.&lt;/p&gt;
 
 &lt;p&gt;With all of that, I’ve decided it was time to get back into this site. With all my different commitments and my client work, I can’t commit to the daily posting of times past, but I would like to start writing useful articles and links again. I have a Sonos Play:1 review that I’ve been writing for almost a year, that I just need to buckle down and actually finish. Over the next few weeks, links and articles will begin to ramp up again which I’m really excited about.&lt;/p&gt;
 
@@ -3082,7 +3082,7 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;The first thing you’ll notice when you open the new 1Password is the beautiful interface. If you’ve already purchased &lt;a href=&quot;https://agilebits.com/onepassword/ios&quot;&gt;the latest iOS app&lt;/a&gt;, you’ll notice that the new design is very similar, which delights me greatly. This redesign is years overdue, and the AgileBits team has delivered.&lt;/p&gt;
 
-&lt;figure class=&quot;extendout&quot;&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2013/10/1p4-mac-main.png&quot; /&gt;&lt;figcaption&gt;1Password 4 for Mac Main View&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;extendout&quot;&gt;&lt;img src=&quot;http://localhost:4000/uploads/2013/10/1p4-mac-main.png&quot; /&gt;&lt;figcaption&gt;1Password 4 for Mac Main View&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;I love that this redesign in a lot of ways is a re-align. The interface remains in the three column layout, yet with an easy-on-the-eyes, light background. The type has greatly improved, and the middle column no longer has the “shelf” look. The new layout, allows you to see more logins in the window without having to scroll and sports better looking icons. &lt;/p&gt;
 
@@ -3096,12 +3096,12 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;This is especially true when I worked for a company. Having a separate vault exclusively for company logins, would’ve been a great way to get organized. This makes managing items easier, and makes cleaning out items you no longer need, a breeze.&lt;/p&gt;
 
-&lt;figure class=&quot;alignright&quot;&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2013/10/1p4-mac-create-new-vault.png&quot; /&gt;&lt;figcaption&gt;With 1Password 4 you can now create new vaults. Organizing your passwords based on their use is simple.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;alignright&quot;&gt;&lt;img src=&quot;http://localhost:4000/uploads/2013/10/1p4-mac-create-new-vault.png&quot; /&gt;&lt;figcaption&gt;With 1Password 4 you can now create new vaults. Organizing your passwords based on their use is simple.&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h3 id=&quot;password-mini&quot;&gt;1Password Mini&lt;/h3&gt;
 &lt;p&gt;I love that they made a menubar app. I’m definitely one of those people that has &lt;em&gt;way too many&lt;/em&gt; of them.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Interestingly, the menubar app is what comes up now when you press &lt;code&gt;⌘CMD + \&lt;/code&gt;. It seems that the 1Password browser extension is now only needed to run the code necessary for the autofill. You’ll never actually need to press the button anymore, which is nice, because it’s one less button in the extensions.&lt;/p&gt;
 
-&lt;figure class=&quot;alignleft&quot;&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2013/10/1p4-mac-1p-mini-item-details.png&quot; /&gt;&lt;figcaption&gt;1Password Mini makes using 1Password easier and faster than ever.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;alignleft&quot;&gt;&lt;img src=&quot;http://localhost:4000/uploads/2013/10/1p4-mac-1p-mini-item-details.png&quot; /&gt;&lt;figcaption&gt;1Password Mini makes using 1Password easier and faster than ever.&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;It’s too early for me to say, but I think 1Password Mini could completely replace the main app for me. So far, I haven’t needed to open the main app for day-to-day responsibilities. To be honest, I only looked at the main app the day I downloaded it, and today when writing this review.&lt;/p&gt;
 
