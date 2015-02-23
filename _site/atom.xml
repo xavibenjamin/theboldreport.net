@@ -5,13 +5,35 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2015-02-23T13:29:03-06:00</updated>
+  <updated>2015-02-23T13:36:46-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2015/02/jekyll-heroku-dropbox</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2015/02/jekyll-heroku-dropbox"/>
+      <title>‘Deploy a Password Protected Jekyll Site on Heroku with Dropbox’</title>
+      <published>2015-02-23T13:36:32-06:00</published>
+      <updated>2015-02-23T13:36:32-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Dave Rupert:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;At Paravel, we frequently run into issues where we need to share password protected sites with clients. We could setup some complicated post-commit hook/Capistrano system, or pin ourselves to a certain SaaS provider, but none of those have sat well with us and seem overly complicated.&lt;/p&gt;
+
+  &lt;p&gt;We need a workflow that is flexible, almost disposable, and could even show a different “experimental” branch at a whim. We’ve come across something relatively simple that uses Dropbox to sync a &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; site to &lt;a href=&quot;http://heroku.com/&quot;&gt;Heroku&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Such a good idea! Thanks Uncle Dave!&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2015/02/post-status-reviews-layers-by-obox</id>
