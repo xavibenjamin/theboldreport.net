@@ -5,13 +5,35 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2015-02-23T13:00:44-06:00</updated>
+  <updated>2015-02-23T13:29:03-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/2015/02/post-status-reviews-layers-by-obox</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/2015/02/post-status-reviews-layers-by-obox"/>
+      <title>Post Status Reviews Layers by Obox</title>
+      <published>2015-02-23T13:28:09-06:00</published>
+      <updated>2015-02-23T13:28:09-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Brian Krogsgard:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I am definitely not on the bandwagon for page builders, though it seems the WordPress product world is. Where traditional options heavy theme sales have died away, page builders have risen from their ashes.[…]&lt;/p&gt;
+
+  &lt;p&gt;I’m afraid, however, that end user “demand” may make it so whether I like it or not; but it won’t be for their own good. I think there is a better way. I think “page building”, as it seems we’ve standardized the term, is broken when too many granular design elements are allowed. Instead, I’d like to see content building, where structured content can be created with a tool, but theming and styles are still left to, well, themes.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lots of things I wanted to quote here, but just go read this. Brian, as per usual, gives excellent insights.&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/2015/02/sponsor-dot-and-dash</id>
