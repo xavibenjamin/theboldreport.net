@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 
 gem 'kramdown'
-gem "jekyll"
+gem 'jekyll', '~> 2.5.3'
 gem 'fileutils'
 gem 'jekyll-assets'
 gem 'uglifier'
