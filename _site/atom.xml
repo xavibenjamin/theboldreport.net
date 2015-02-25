@@ -5,13 +5,29 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2015-02-25T16:19:35-06:00</updated>
+  <updated>2015-02-25T16:27:41-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/theeastwing-11</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/theeastwing-11"/>
+      <title>The East Wing: Dave Rupert</title>
+      <published>2015-02-25T16:26:15-06:00</published>
+      <updated>2015-02-25T16:26:15-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;This week, I talk with Dave Rupert about ShopTalk, the ever changing web industry, and what adjustments he’s had to make personally. Change isn’t as bad as we make it out to be.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Sponsored by &lt;a href=&quot;http://www.campaignmonitor.com/&quot;&gt;Campaign Monitor&lt;/a&gt; and &lt;a href=&quot;http://patreon.com/ttimsmith&quot;&gt;listeners like you&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/new-permalinks</id>
