@@ -12,6 +12,10 @@ RewriteCond %{HTTP_USER_AGENT} !FeedPress [NC]
 RewriteRule ^atom.articles.xml http://feedpress.me/theboldreport-articles [R=302,NC,L]
 # END FEEDPRESS
 
+# Redirect Old URLs
+RewriteEngine on
+RewriteRule ^\d{4,}/\d{2,}/\d{2,}(/.*)$ $1 [R=301,L]
+
 
 # Error Document
 ErrorDocument 404 /404/index.html

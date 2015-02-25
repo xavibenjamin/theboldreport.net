@@ -3,7 +3,7 @@ url: http://theboldreport.net
 description: 'An exploration of design, development, tech, Geek culture, Apple, and more.'
 markdown: kramdown
 highlighter: pygments
-permalink: /:categories/:title
+permalink: /:title
 paginate: 20
 exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock']
 include: ['.htaccess']
