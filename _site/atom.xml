@@ -5,13 +5,27 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2015-02-25T16:07:52-06:00</updated>
+  <updated>2015-02-25T16:19:35-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/new-permalinks</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/new-permalinks"/>
+      <title>New Permalinks</title>
+      <published>2015-02-25T16:18:53-06:00</published>
+      <updated>2015-02-25T16:18:53-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Matt Gemmell writes a compelling piece on why we should ditch date permalinks. &lt;a href=&quot;http://www.joedarnell.com/post/permalinks&quot;&gt;Joe Darnell did it&lt;/a&gt;, and now me too. Good riddance ridiculously long URLs!&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/the-verge-reviews-big-sean-latest-album</id>
