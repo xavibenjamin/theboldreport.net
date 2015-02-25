@@ -5,7 +5,7 @@
   <title>The Bold Report - Articles Only</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/feed.article.xml"/>
-  <updated>2015-02-25T15:48:22-06:00</updated>
+  <updated>2015-02-25T15:57:19-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
@@ -14,8 +14,8 @@
 
   
   <entry>
-    <id>http://theboldreport.net/2015/02/goals-for-2015</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2015/02/goals-for-2015"/>
+    <id>http://theboldreport.net/articles/goals-for-2015</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/articles/goals-for-2015"/>
     <title>Goals for 2015</title>
     <published>2015-02-11T10:16:47-06:00</published>
     <updated>2015-02-11T10:16:47-06:00</updated>
@@ -84,8 +84,8 @@ When I was little, I’d work with my Dad building furniture for our house. My D
   </entry>
   
   <entry>
-    <id>http://theboldreport.net/2015/02/review-sonos-play-1</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2015/02/review-sonos-play-1"/>
+    <id>http://theboldreport.net/articles/review-sonos-play-1</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/articles/review-sonos-play-1"/>
     <title>Review: Sonos Play:1</title>
     <published>2015-02-05T13:03:15-06:00</published>
     <updated>2015-02-05T13:03:15-06:00</updated>
@@ -154,8 +154,8 @@ When I was little, I’d work with my Dad building furniture for our house. My D
   </entry>
   
   <entry>
-    <id>http://theboldreport.net/2014/11/why-people-write-on-medium</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/11/why-people-write-on-medium"/>
+    <id>http://theboldreport.net/articles/why-people-write-on-medium</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/articles/why-people-write-on-medium"/>
     <title>Why People Write on Medium</title>
     <published>2014-11-12T13:05:11-06:00</published>
     <updated>2014-11-12T13:05:11-06:00</updated>
@@ -187,8 +187,8 @@ When I was little, I’d work with my Dad building furniture for our house. My D
   </entry>
   
   <entry>
-    <id>http://theboldreport.net/2014/11/first-thoughts-on-incipio-ngp</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/11/first-thoughts-on-incipio-ngp"/>
+    <id>http://theboldreport.net/articles/first-thoughts-on-incipio-ngp</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/articles/first-thoughts-on-incipio-ngp"/>
     <title>First Thoughts on Incipio NGP</title>
     <published>2014-11-03T16:07:45-06:00</published>
     <updated>2014-11-03T16:07:45-06:00</updated>
@@ -205,8 +205,8 @@ When I was little, I’d work with my Dad building furniture for our house. My D
   </entry>
   
   <entry>
-    <id>http://theboldreport.net/2014/10/the-bold-report-version-3-0-0</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/10/the-bold-report-version-3-0-0"/>
+    <id>http://theboldreport.net/articles/the-bold-report-version-3-0-0</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/articles/the-bold-report-version-3-0-0"/>
     <title> The Bold Report Version 3.0.0</title>
     <published>2014-10-22T11:39:03-05:00</published>
     <updated>2014-10-22T11:39:03-05:00</updated>
@@ -232,8 +232,8 @@ Timmy Tim Tim&lt;/p&gt;
   </entry>
   
   <entry>
-    <id>http://theboldreport.net/2014/04/goodstuff</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/04/goodstuff"/>
+    <id>http://theboldreport.net/articles/goodstuff</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/articles/goodstuff"/>
     <title>Presenting Goodstuff Broadcasting</title>
     <published>2014-04-22T17:01:40-05:00</published>
     <updated>2014-04-22T17:01:40-05:00</updated>
@@ -271,8 +271,8 @@ Timmy Tim Tim&lt;/p&gt;
   </entry>
   
   <entry>
-    <id>http://theboldreport.net/2014/01/the-east-wing-on-5by5</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/01/the-east-wing-on-5by5"/>
+    <id>http://theboldreport.net/articles/the-east-wing-on-5by5</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/articles/the-east-wing-on-5by5"/>
     <title>The East Wing on 5by5</title>
     <published>2014-01-07T13:33:29-06:00</published>
     <updated>2014-01-07T13:33:29-06:00</updated>
@@ -298,8 +298,8 @@ Timmy Tim Tim&lt;/p&gt;
   </entry>
   
   <entry>
-    <id>http://theboldreport.net/2014/01/updating-my-rss-setup</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/01/updating-my-rss-setup"/>
+    <id>http://theboldreport.net/articles/updating-my-rss-setup</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/articles/updating-my-rss-setup"/>
     <title>Updating My RSS Setup</title>
     <published>2014-01-06T12:49:32-06:00</published>
     <updated>2014-01-06T12:49:32-06:00</updated>
@@ -339,8 +339,8 @@ Timmy Tim Tim&lt;/p&gt;
   </entry>
   
   <entry>
-    <id>http://theboldreport.net/2014/01/looking-forward</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/01/looking-forward"/>
+    <id>http://theboldreport.net/articles/looking-forward</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/articles/looking-forward"/>
     <title>Looking Forward</title>
     <published>2014-01-01T14:27:15-06:00</published>
     <updated>2014-01-01T14:27:15-06:00</updated>
@@ -409,8 +409,8 @@ Running my own business allows me to work from anywhere. There is no need for me
   </entry>
   
   <entry>
-    <id>http://theboldreport.net/2014/01/version-two</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2014/01/version-two"/>
+    <id>http://theboldreport.net/articles/version-two</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/articles/version-two"/>
     <title>Version 2.0</title>
     <published>2014-01-01T13:29:19-06:00</published>
     <updated>2014-01-01T13:29:19-06:00</updated>
@@ -425,8 +425,8 @@ Running my own business allows me to work from anywhere. There is no need for me
   </entry>
   
   <entry>
-    <id>http://theboldreport.net/2013/10/our-first-month</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/our-first-month"/>
+    <id>http://theboldreport.net/articles/our-first-month</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/articles/our-first-month"/>
     <title>A Look Back on Our First Month</title>
     <published>2013-10-23T12:48:50-05:00</published>
     <updated>2013-10-23T12:48:50-05:00</updated>
@@ -485,8 +485,8 @@ Running my own business allows me to work from anywhere. There is no need for me
   </entry>
   
   <entry>
-    <id>http://theboldreport.net/2013/10/apple-event-day</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/apple-event-day"/>
+    <id>http://theboldreport.net/articles/apple-event-day</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/articles/apple-event-day"/>
     <title>Apple Event Day</title>
     <published>2013-10-22T10:40:36-05:00</published>
     <updated>2013-10-22T10:40:36-05:00</updated>
@@ -513,8 +513,8 @@ Running my own business allows me to work from anywhere. There is no need for me
   </entry>
   
   <entry>
-    <id>http://theboldreport.net/2013/10/freelancing-and-saying-no</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/freelancing-and-saying-no"/>
+    <id>http://theboldreport.net/articles/freelancing-and-saying-no</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/articles/freelancing-and-saying-no"/>
     <title>Freelancing and Saying “No”</title>
     <published>2013-10-18T12:06:47-05:00</published>
     <updated>2013-10-18T12:06:47-05:00</updated>
@@ -583,8 +583,8 @@ Running my own business allows me to work from anywhere. There is no need for me
   </entry>
   
   <entry>
-    <id>http://theboldreport.net/2013/10/review-1password-4-for-mac</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/review-1password-4-for-mac"/>
+    <id>http://theboldreport.net/articles/review-1password-4-for-mac</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/articles/review-1password-4-for-mac"/>
     <title>Review: 1Password 4 for Mac</title>
     <published>2013-10-03T00:00:00-05:00</published>
     <updated>2013-10-03T00:00:00-05:00</updated>
@@ -685,8 +685,8 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
   </entry>
   
   <entry>
-    <id>http://theboldreport.net/2013/10/contentment-and-feeling-grateful</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/contentment-and-feeling-grateful"/>
+    <id>http://theboldreport.net/articles/contentment-and-feeling-grateful</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/articles/contentment-and-feeling-grateful"/>
     <title>Contentment and Being Grateful</title>
     <published>2013-10-02T14:56:56-05:00</published>
     <updated>2013-10-02T14:56:56-05:00</updated>
@@ -715,8 +715,8 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
   </entry>
   
   <entry>
-    <id>http://theboldreport.net/2013/10/using-portly-for-local-development</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/10/using-portly-for-local-development"/>
+    <id>http://theboldreport.net/articles/using-portly-for-local-development</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/articles/using-portly-for-local-development"/>
     <title>Using Portly for Local Development</title>
     <published>2013-10-02T09:52:41-05:00</published>
     <updated>2013-10-02T09:52:41-05:00</updated>
@@ -753,8 +753,8 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
   </entry>
   
   <entry>
-    <id>http://theboldreport.net/2013/09/document-everything</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/document-everything"/>
+    <id>http://theboldreport.net/articles/document-everything</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/articles/document-everything"/>
     <title>Document Everything</title>
     <published>2013-09-27T14:35:13-05:00</published>
     <updated>2013-09-27T14:35:13-05:00</updated>
@@ -800,8 +800,8 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
   </entry>
   
   <entry>
-    <id>http://theboldreport.net/2013/09/welcome</id>
-    <link type="text/html" rel="alternate" href="http://theboldreport.net/2013/09/welcome"/>
+    <id>http://theboldreport.net/articles/welcome</id>
+    <link type="text/html" rel="alternate" href="http://theboldreport.net/articles/welcome"/>
     <title>Dear Reader,</title>
     <published>2013-09-23T00:00:00-05:00</published>
     <updated>2013-09-23T00:00:00-05:00</updated>

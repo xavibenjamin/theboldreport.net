@@ -3,7 +3,7 @@ url: http://localhost:4000
 description: 'An exploration of design, development, tech, Geek culture, Apple, and more.'
 markdown: kramdown
 highlighter: pygments
-permalink: /:year/:month/:title
+permalink: /:categories/:title
 paginate: 20
 exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock']
 lunr_excludes: ['atom.xml', 'atom.articles.xml', 'sitemap.xml']
