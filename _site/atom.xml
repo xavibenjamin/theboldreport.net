@@ -5,13 +5,27 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2015-02-25T16:27:41-06:00</updated>
+  <updated>2015-02-26T12:19:32-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/pebble-pre-sells-its-new-watch-on-kickstarter</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/pebble-pre-sells-its-new-watch-on-kickstarter"/>
+      <title>Pebble Pre-Sells its New Watch on Kickstarter</title>
+      <published>2015-02-26T12:17:39-06:00</published>
+      <updated>2015-02-26T12:17:39-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;There are twenty-nine days to go, and Pebble has already made over $10 million in pre-sales of it’s newest watch: Pebble Time. Who says there isn’t a smartwatch market?&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/theeastwing-11</id>
