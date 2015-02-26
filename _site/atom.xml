@@ -5,13 +5,31 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2015-02-26T15:50:31-06:00</updated>
+  <updated>2015-02-26T16:10:21-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/unicorns-vs-horses</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/unicorns-vs-horses"/>
+      <title>Andrew Wilkinson on Building a Lifestyle Business</title>
+      <published>2015-02-26T16:04:54-06:00</published>
+      <updated>2015-02-26T16:04:54-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Andrew Wilkinson talks about being In-N-Out Burger instead of becoming McDonalds. It’s quite encouraging to read something like this from someone who’s had so much success in our industry. Here’s my favorite part of the article:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Meanwhile, there are thousands of internet businesses out there, quietly making tens, and even hundreds of millions of dollars, who have taken the same path as In-N-Out. They don’t need to be first, second, or even tenth, in their space, and have instead chosen to focus on a small percent of a massive market. They answer to customers, not investors, and focus on making their employees, customers, and themselves happy.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/on-productivity</id>
