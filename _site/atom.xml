@@ -5,13 +5,35 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2015-02-26T12:19:32-06:00</updated>
+  <updated>2015-02-26T15:50:31-06:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/on-productivity</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/on-productivity"/>
+      <title>‘On Productivity’</title>
+      <published>2015-02-26T15:49:28-06:00</published>
+      <updated>2015-02-26T15:49:28-06:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;Brian Krogsgard:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I should admit something: I have almost no such hacks and I do not focus heavily on my processes and how to streamline them.&lt;/p&gt;
+
+  &lt;p&gt;Now, I do think I’m a fairly productive person. I get a lot done during the day. Since I started my own business, I tend to balance the day with research, writing (which is what pays bills, if you will), customer support, site maintenance, and development.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I love this post by Brian. We can get caught up in all of these things that you “should be doing to be productive” instead of doing what works for you.&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/pebble-pre-sells-its-new-watch-on-kickstarter</id>
