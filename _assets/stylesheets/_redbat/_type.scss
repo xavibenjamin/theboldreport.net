@@ -155,6 +155,12 @@ ul {
     line-height: 160%;
     padding: 01.15% 0 0;
     font-size: 1.1em;
+    ul {
+      list-style-type: circle;
+      li {
+        font-size: inherit !important;
+      }
+    }
     p {
       font-size: inherit !important;
       margin: 0 0 3.125% 0 !important;
