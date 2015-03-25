@@ -5,13 +5,39 @@
   <title>The Bold Report</title>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
-  <updated>2015-03-23T17:41:57-05:00</updated>
+  <updated>2015-03-25T12:38:30-05:00</updated>
   <id>http://theboldreport.net</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+    <entry>
+      <id>http://theboldreport.net/new-beginnings</id>
+      <link type="text/html" rel="alternate" href="http://theboldreport.net/new-beginnings"/>
+      <title>♨ New Beginnings</title>
+      <published>2015-03-25T12:37:24-05:00</published>
+      <updated>2015-03-25T12:37:24-05:00</updated>
+      <author>
+        <name>Tim Smith</name>
+        <uri>http://ttimsmith.com/</uri>
+      </author>
+      <content type="html">&lt;p&gt;For the past two years, I’ve run my own business, &lt;a href=&quot;http://anythingo.es/&quot;&gt;Anythin’ Goes&lt;/a&gt;. I’ve been so incredibly happy to work on some awesome projects with great people. On Monday, I begin a new chapter.&lt;/p&gt;
+
+&lt;p&gt;As some of you know, &lt;a href=&quot;http://timandkelbel.com/&quot;&gt;I’m getting married to my best friend in May&lt;/a&gt;. Since December, I’d been looking for a great company to join. Looking for a job is a difficult process. You end up reading a lot of job descriptions; some are written well, others are really not.&lt;/p&gt;
+
+&lt;p&gt;Two weeks ago, I interviewed with &lt;a href=&quot;http://mattcrest.com/&quot;&gt;Matt Crest&lt;/a&gt;. The first interview went really well. On the second interview, I was convinced. I really wanted this job. I was excited about the work, and I felt I fit with the team.&lt;/p&gt;
+
+&lt;p&gt;Monday, March 30th, is my first day at &lt;a href=&quot;http://artletic.com/&quot;&gt;Artletic&lt;/a&gt;. I’m so excited about this opportunity. I’ll be able to use my skills to help the team, but I know there will be much for me to learn from this great group of people.&lt;/p&gt;
+
+&lt;p&gt;I’ve interviewed with a lot of companies in the past four months, and I thank them all for chatting with me. I also want to thank all of you who made intros for me, hired me in the last two years, and who sent me job listings you thought I’d be great for. That type of generosity can never be fully repaid, but I promise to try my best.&lt;/p&gt;
+
+&lt;p&gt;I want to give a special shoutout to Matthew Kammerer, Jory Raphael, Nicole Dominguez, Chris Kennedy, Jonathan Cutrell, John Locke, Myke Hurley, and Bermon Painter. If it weren’t for you, there would’ve been months that I wouldn’t have been able to pay my rent. You didn’t know it, but your help was monumental, and I thank you.&lt;/p&gt;
+
+&lt;p&gt;Now, on to new beginnings.&lt;/p&gt;
+</content>
+    </entry>
   
     <entry>
       <id>http://theboldreport.net/unicorns-vs-horses</id>
@@ -169,16 +195,16 @@
         <name>Tim Smith</name>
         <uri>http://ttimsmith.com/</uri>
       </author>
-      <content type="html">&lt;p&gt;Dot &amp;amp; Dash is releasing it’s first digital product called Simple Icons on March 2nd, 2015. &lt;a href=&quot;http://www.dotanddash.net/&quot;&gt;Visit the website&lt;/a&gt; to download a free version of the icon set. The full icon set will be available for purchase on March 2nd for $11. &lt;/p&gt;
+      <content type="html">&lt;p&gt;Dot &amp;amp; Dash is releasing it’s first digital product called Simple Icons on March 2nd, 2015. &lt;a href=&quot;http://www.dotanddash.net/&quot;&gt;Visit the website&lt;/a&gt; to download a free version of the icon set. The full icon set will be available for purchase on March 2nd for $11.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;What is Dot &amp;amp; Dash?&lt;/strong&gt;   &lt;br /&gt;
-Dot &amp;amp; Dash is a brand focused on designing quality digital and physical products and was created by &lt;a href=&quot;http://twitter.com/eriktheviking&quot;&gt;Erik Coon&lt;/a&gt;.  &lt;/p&gt;
+Dot &amp;amp; Dash is a brand focused on designing quality digital and physical products and was created by &lt;a href=&quot;http://twitter.com/eriktheviking&quot;&gt;Erik Coon&lt;/a&gt;.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;What file formats will I recieve when I purchase?&lt;/strong&gt;   &lt;br /&gt;
-The Simple Icons set provides these file types:  Adobe Illustrator, EPS, PDF (for preview), and Photoshop. These are all vector based, and are infinitely scaleable. &lt;/p&gt;
+The Simple Icons set provides these file types:  Adobe Illustrator, EPS, PDF (for preview), and Photoshop. These are all vector based, and are infinitely scaleable.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;1-on-1 Support&lt;/strong&gt;   &lt;br /&gt;
@@ -398,7 +424,7 @@ If you have a problem purchasing or have a question about the product, you will 
       </author>
       <content type="html">&lt;p&gt;Another year has come and gone. In an effort to keep up a good habit, it’s time to do a little reflection on last year, and set new goals for 2015.&lt;/p&gt;
 
-&lt;p&gt;I can’t believe how quickly 2014 went by. I feel as if every year seems to go by quicker than the last. Still, I was able to accomplish three out of five goals this past year, which I’m quite proud of. &lt;/p&gt;
+&lt;p&gt;I can’t believe how quickly 2014 went by. I feel as if every year seems to go by quicker than the last. Still, I was able to accomplish three out of five goals this past year, which I’m quite proud of.&lt;/p&gt;
 
 &lt;p&gt;Here were my goals for 2014:&lt;/p&gt;
 
@@ -433,7 +459,7 @@ Last year, I built a podcasting CMS. I also licensed it to three networks: the o
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Better Sleeping Habits&lt;/strong&gt;   &lt;br /&gt;
-Sleep is so important. They say that when you miss out on sleep, you don’t ever recuperate it. That’s depressing. Either way, I’ve got to get better about getting to sleep earlier and waking up earlier. It’s not so difficult, and interestingly, I always feel refreshed when I do. &lt;/p&gt;
+Sleep is so important. They say that when you miss out on sleep, you don’t ever recuperate it. That’s depressing. Either way, I’ve got to get better about getting to sleep earlier and waking up earlier. It’s not so difficult, and interestingly, I always feel refreshed when I do.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Design and Build a Piece of Furniture&lt;/strong&gt;   &lt;br /&gt;
@@ -615,7 +641,7 @@ When I was little, I’d work with my Dad building furniture for our house. My D
       <content type="html">&lt;p&gt;Yaron Schoen:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Empathy is a muscle you must build, and the only way I know to build that muscle is through life experience. I would even go further and say that, unfortunately, experiencing hardship in life is the steroids to the empathetic muscle. Empathy is not something you learn at an expensive Manhattan design school, or at a hot Silicon Valley startup. &lt;/p&gt;
+  &lt;p&gt;Empathy is a muscle you must build, and the only way I know to build that muscle is through life experience. I would even go further and say that, unfortunately, experiencing hardship in life is the steroids to the empathetic muscle. Empathy is not something you learn at an expensive Manhattan design school, or at a hot Silicon Valley startup.&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
     </entry>
@@ -897,7 +923,7 @@ When I was little, I’d work with my Dad building furniture for our house. My D
   &lt;p&gt;What will it take to get there? The short answer is a new commitment from Apple to this product line, and a willingness to reexamine the company’s entire approach to date.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I hope Apple does the right thing. &lt;/p&gt;
+&lt;p&gt;I hope Apple does the right thing.&lt;/p&gt;
 </content>
     </entry>
   
@@ -911,7 +937,7 @@ When I was little, I’d work with my Dad building furniture for our house. My D
         <name>Tim Smith</name>
         <uri>http://ttimsmith.com/</uri>
       </author>
-      <content type="html">&lt;p&gt;Jon Stewart: &lt;/p&gt;
+      <content type="html">&lt;p&gt;Jon Stewart:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;It’s very difficult to say we want the legacy to be “It was the funniest show in television history,” but you want it to be appreciated for what I think it was: consistently funny, consistently smart over a long period of time. I felt like we never took the opportunity for granted.&lt;/p&gt;
@@ -933,7 +959,7 @@ When I was little, I’d work with my Dad building furniture for our house. My D
       </author>
       <content type="html">&lt;p&gt;&lt;a href=&quot;/2014/10/the-wirecutter-on-the-best-iphone-6-case&quot;&gt;As I said last week&lt;/a&gt;, I was going to order a &lt;a href=&quot;http://www.incipio.com/cases/iphone-cases/iphone-6-cases/ngp-flexible-impact-resistant-case-iphone-6.html&quot;&gt;Incipio NGP Case&lt;/a&gt; for my new iPhone 6. I’ve only had it three days, which isn’t enough time to write a thorough review, but just enough time for me to tell you that I love it.&lt;/p&gt;
 
-&lt;p&gt;I received the case on Friday. I put it on and almost immediately fell in love with it. It’s light, and is thin enough to look great on the phone, but not to the point where you feel like nothing is being protected. The material is a perfect balance of soft yet firm. The case gives you more grip on the phone without being a nuisance to put in or take out of pockets. &lt;/p&gt;
+&lt;p&gt;I received the case on Friday. I put it on and almost immediately fell in love with it. It’s light, and is thin enough to look great on the phone, but not to the point where you feel like nothing is being protected. The material is a perfect balance of soft yet firm. The case gives you more grip on the phone without being a nuisance to put in or take out of pockets.&lt;/p&gt;
 
 &lt;p&gt;Again, I’ve said before that I hate cases, but this case came to change everything. My first impressions are very good, and I see myself using this case in the long term. If you have hesitated at all to buy this case and had some of the same issues I did, hesitate no more. Keep on the lookout for a more in-depth review in the coming months.&lt;/p&gt;
 </content>
@@ -984,7 +1010,7 @@ When I was little, I’d work with my Dad building furniture for our house. My D
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;This is the first impulse buy that I’ve made in a really long time. My girlfriend had to get a new phone, and she went with the iPhone 6. After seeing it, I just had to have it.  &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;This is the first impulse buy that I’ve made in a really long time. My girlfriend had to get a new phone, and she went with the iPhone 6. After seeing it, I just had to have it. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
       &lt;p&gt;If you remember that phone, you’ll remember that the actual phone was bulky, so you’re basically carrying around a brick with a case on it. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
@@ -1030,7 +1056,7 @@ When I was little, I’d work with my Dad building furniture for our house. My D
         <name>Tim Smith</name>
         <uri>http://ttimsmith.com/</uri>
       </author>
-      <content type="html">&lt;p&gt;Using Jekyll instead of a CMS like WordPress, means that some things aren’t automated like before. With WordPress, when you publish a new post, the system automatically pings services around the web letting them know you’ve published new content. &lt;/p&gt;
+      <content type="html">&lt;p&gt;Using Jekyll instead of a CMS like WordPress, means that some things aren’t automated like before. With WordPress, when you publish a new post, the system automatically pings services around the web letting them know you’ve published new content.&lt;/p&gt;
 
 &lt;p&gt;We can use Rake to do this. If you use Jekyll together with FeedPress for your RSS Feed, this Gist helps you write a simple Rake task that interacts with the FeedPress API.&lt;/p&gt;
 
@@ -1337,13 +1363,13 @@ Timmy Tim Tim&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://twitter.com/goodstuff_fm&quot;&gt;Follow us on Twitter.&lt;/a&gt;&lt;/strong&gt; Twitter is what we use to notify everyone of shows recording live, recently published episodes, and shows we’ve added to our network.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Sign up for our newsletter.&lt;/strong&gt; Chris does some really fun things with &lt;a href=&quot;http://goodstuff.fm/newsletter&quot;&gt;the newsletter&lt;/a&gt;. He updates you on the latest episodes, Goodstuff news, and more. In fact, I owe him some behind-the-scenes content about &lt;a href=&quot;http://goodstuff.fm/fullscreen&quot;&gt;Fullscreen&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Share your favorite episodes.&lt;/strong&gt; If you really enjoyed an episode of a show, or like the whole show in general, share it with people. Word of mouth recommendations are the best and are usually trusted a lot more. &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Share your favorite episodes.&lt;/strong&gt; If you really enjoyed an episode of a show, or like the whole show in general, share it with people. Word of mouth recommendations are the best and are usually trusted a lot more.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Rate and Review in iTunes.&lt;/strong&gt; This we really appreciate. We don’t really understand the black magic that is the iTunes podcast directory, but we hear that ratings and reviews don’t hurt. Plus, hosts love to see reviews of their shows. The review doesn’t have to be positive, but it &lt;em&gt;should be&lt;/em&gt; useful and constructive. You can find the iTunes page for our different shows &lt;a href=&quot;http://goodstuff.fm/broadcasts&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Check out our sponsors.&lt;/strong&gt; We really appreciate our sponsors. They give us money to do something we all love doing. But, they also give us money in the hope to reach you. That’s the reality of advertising. However, because we care about both sides, we only advertise things we like and use. This way, instead of it being &lt;em&gt;advertising&lt;/em&gt;, it’s more of a friend-to-friend recommendation.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Bonus: Buy a T-shirt.&lt;/strong&gt; You’ve got about five hours left to &lt;a href=&quot;http://teespring.com/goodstuff_fm&quot;&gt;get a Goodstuff t-shirt&lt;/a&gt;. A huge shoutout to &lt;a href=&quot;http://stevaker.com&quot;&gt;Steve&lt;/a&gt; for making us such a rocking logo.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;In closing, thank you so much for supporting my projects. I can’t tell you how excited I am, to finally be doing this with people I love to work with. It’s the first time I’m part of a founding team, and actually enjoy it. In a short time, we’ve built a company and network that I feel fortunate and proud to be part of. &lt;/p&gt;
+&lt;p&gt;In closing, thank you so much for supporting my projects. I can’t tell you how excited I am, to finally be doing this with people I love to work with. It’s the first time I’m part of a founding team, and actually enjoy it. In a short time, we’ve built a company and network that I feel fortunate and proud to be part of.&lt;/p&gt;
 </content>
     </entry>
   
@@ -1475,7 +1501,7 @@ Timmy Tim Tim&lt;/p&gt;
         <name>Tim Smith</name>
         <uri>http://ttimsmith.com/</uri>
       </author>
-      <content type="html">&lt;p&gt;Paul Armstrong: &lt;/p&gt;
+      <content type="html">&lt;p&gt;Paul Armstrong:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;…there’s no sense in just listing the things that have transpired in a year without taking full account of why they were and are important. If you can’t determine what you’ve learned, whether good and bad, then you’re missing the chance to improve your life — and believe me, there isn’t much life to go around.&lt;/p&gt;
@@ -1495,7 +1521,7 @@ Timmy Tim Tim&lt;/p&gt;
         <name>Tim Smith</name>
         <uri>http://ttimsmith.com/</uri>
       </author>
-      <content type="html">&lt;p&gt;Daniel Mall: &lt;/p&gt;
+      <content type="html">&lt;p&gt;Daniel Mall:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;One of the most common questions I’m asked about design is how to get the work you really want to do. Students often bring up the fact that they feel so far away from their dream projects. Even experienced agencies make excuses like “gotta make payroll” and “we’re too busy right now.”&lt;/p&gt;
@@ -1539,7 +1565,7 @@ Timmy Tim Tim&lt;/p&gt;
         <name>Tim Smith</name>
         <uri>http://ttimsmith.com/</uri>
       </author>
-      <content type="html">&lt;p&gt;Henry Monteiro: &lt;/p&gt;
+      <content type="html">&lt;p&gt;Henry Monteiro:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;As I’ve said before, 2013 was one of the best years in music I’ve seen personally.But still, even with such great music being released, there had to be some crap. Here are the 10 worst I’ve heard.&lt;/p&gt;
@@ -1573,7 +1599,7 @@ Timmy Tim Tim&lt;/p&gt;
   &lt;li&gt;Travel More&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;This is quite an accomplishment! I spoke at two events last year: &lt;a href=&quot;http://minnestar.org/minnebar/&quot;&gt;MinneBar&lt;/a&gt;, and &lt;a href=&quot;http://www.blendconf.com/&quot;&gt;Blend Conf&lt;/a&gt;. I talked about the benefit of side projects, and people seemed to enjoy the talk. &lt;/p&gt;
+&lt;p&gt;This is quite an accomplishment! I spoke at two events last year: &lt;a href=&quot;http://minnestar.org/minnebar/&quot;&gt;MinneBar&lt;/a&gt;, and &lt;a href=&quot;http://www.blendconf.com/&quot;&gt;Blend Conf&lt;/a&gt;. I talked about the benefit of side projects, and people seemed to enjoy the talk.&lt;/p&gt;
 
 &lt;p&gt;In May, I quit my job at Rocket Lift, and decided to do Anythin’ Goes full-time. This has been really good for me. I’ve had the opportunity of working with some great clients, and the flexibility of managing my own schedule. I’ve also tried spending less time in front of my desk, and more time with family, friends, or other activities.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
@@ -1588,7 +1614,7 @@ I know this is a repeat, but I seriously want to tackle this. I know things that
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Learn Rails&lt;/strong&gt;   &lt;br /&gt;
-I know I can’t possibly learn Rails in one year, but I want to get very comfortable with it. At the moment, I can build a simple application with Rails, but I’d love to get into more complex things, and start implementing best practices like tests. &lt;/p&gt;
+I know I can’t possibly learn Rails in one year, but I want to get very comfortable with it. At the moment, I can build a simple application with Rails, but I’d love to get into more complex things, and start implementing best practices like tests.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Collaborate with Friends&lt;/strong&gt;   &lt;br /&gt;
@@ -1705,7 +1731,7 @@ Running my own business allows me to work from anywhere. There is no need for me
         <name>Tim Smith</name>
         <uri>http://ttimsmith.com/</uri>
       </author>
-      <content type="html">&lt;p&gt;&lt;a href=&quot;http://webydo.com&quot;&gt;Webydo&lt;/a&gt; enables professional web and graphic designers to create, publish, and manage pixel-perfect websites without having to write a single line of code, and provides them with the freedom of creativity to focus on what’s important—the &lt;em&gt;design&lt;/em&gt;. &lt;/p&gt;
+      <content type="html">&lt;p&gt;&lt;a href=&quot;http://webydo.com&quot;&gt;Webydo&lt;/a&gt; enables professional web and graphic designers to create, publish, and manage pixel-perfect websites without having to write a single line of code, and provides them with the freedom of creativity to focus on what’s important—the &lt;em&gt;design&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Webydo is made by designers, for designers and is the only solution for &lt;a href=&quot;http://webydo.com&quot;&gt;website creation&lt;/a&gt; with a built in CMS (content management system) and DMS (design management system). Webydo also gives you the option to directly bill your clients, brand Webydo as your own, and provide full cross-browser capabilities. What’s more, with Webydo, you can efficiently &lt;a href=&quot;http://webydo.com&quot;&gt;create a responsive website&lt;/a&gt; with complete cross-browser capabilities as well.&lt;/p&gt;
 
@@ -1742,7 +1768,7 @@ Running my own business allows me to work from anywhere. There is no need for me
         <name>Tim Smith</name>
         <uri>http://ttimsmith.com/</uri>
       </author>
-      <content type="html">&lt;p&gt;Stephen Hackett writes a concise review of Bartender, and why it’s &lt;em&gt;The Sweet Setup’s&lt;/em&gt; best app for keeping the menu bar organized. &lt;/p&gt;
+      <content type="html">&lt;p&gt;Stephen Hackett writes a concise review of Bartender, and why it’s &lt;em&gt;The Sweet Setup’s&lt;/em&gt; best app for keeping the menu bar organized.&lt;/p&gt;
 
 &lt;p&gt;I’m a huge fan of &lt;a href=&quot;http://www.macbartender.com/&quot;&gt;Bartender&lt;/a&gt;. Because I normally prefer menu bar apps, things can get cluttered pretty easily, and as Stephen points out, there are some that you don’t need to monitor 24/7.&lt;/p&gt;
 </content>
@@ -1758,11 +1784,11 @@ Running my own business allows me to work from anywhere. There is no need for me
         <name>Tim Smith</name>
         <uri>http://ttimsmith.com/</uri>
       </author>
-      <content type="html">&lt;p&gt;What’s the point of an agile standup meeting? &lt;/p&gt;
+      <content type="html">&lt;p&gt;What’s the point of an agile standup meeting?&lt;/p&gt;
 
 &lt;p&gt;Gone are the days of 30-minute status meetings where most people are half-asleep or pecking away on their laptops, oblivious to what’s being said. Agile standups are the leaner, more efficient cousin of status meetings where attendees actually stand up. On our feet, we’re more focused, attentive, and concise. It’s science!&lt;/p&gt;
 
-&lt;p&gt;Whether you need &lt;a href=&quot;https://www.atlassian.com/agile/project-management?utm_source=bsa-syndicate&amp;amp;utm_medium=display&amp;amp;utm_content=standup-meetings&amp;amp;utm_campaign=agile-microsite#!standup-meeting&quot;&gt;robust tools&lt;/a&gt; for planning and tracking projects, communicating with coworkers, deploying products, or just some &lt;a href=&quot;http://syndicateads.net/s/w3&quot;&gt;general tips&lt;/a&gt; on how to run an agile shop (and how to run them Rong?), Atlassian is here to offer you the tools and advice you need to get the most out of your agile practice. &lt;/p&gt;
+&lt;p&gt;Whether you need &lt;a href=&quot;https://www.atlassian.com/agile/project-management?utm_source=bsa-syndicate&amp;amp;utm_medium=display&amp;amp;utm_content=standup-meetings&amp;amp;utm_campaign=agile-microsite#!standup-meeting&quot;&gt;robust tools&lt;/a&gt; for planning and tracking projects, communicating with coworkers, deploying products, or just some &lt;a href=&quot;http://syndicateads.net/s/w3&quot;&gt;general tips&lt;/a&gt; on how to run an agile shop (and how to run them Rong?), Atlassian is here to offer you the tools and advice you need to get the most out of your agile practice.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -1826,7 +1852,7 @@ Running my own business allows me to work from anywhere. There is no need for me
   &lt;p&gt;Netflix is deviating from the all-at-once release strategy it’s followed for House of Cards, Orange is the New Black, and the fourth season of Arrested Development. Instead of releasing an entire season on day one, just five episodes of Turbo Fast will be available for streaming on Christmas Eve. Additional new episodes will follow “throughout the year” according to Netflix.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;An interesting move by Netflix, but one that makes a lot of sense. The article goes on to say: &lt;/p&gt;
+&lt;p&gt;An interesting move by Netflix, but one that makes a lot of sense. The article goes on to say:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;In its Q3 2013 &lt;a href=&quot;http://files.shareholder.com/downloads/NFLX/2822396166x0x698481/ecfe1ab4-66f5-4e23-a64a-1ca025216e5e/Q313%20Earnings%20Letter%2010.21.13%2010.30am.pdf&quot;&gt;letter to shareholders&lt;/a&gt;, Netflix noted that original shows see “more viewing in the early months” after they first premiere.&lt;/p&gt;
@@ -1896,7 +1922,7 @@ Running my own business allows me to work from anywhere. There is no need for me
   &lt;p&gt;Are there any shockers in the top searches of 2013? What may come as no surprise to some people is that Miley Cyrus takes the top spot, followed by Kim Kardashian, and American model Kate Upton. Minecraft and Apple’s iPhone 5 are the only two technology-related queries to make it into the top 10.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;em&gt;Shocking&lt;/em&gt;. It should be cause of concern that in the top ten searches on Yahoo, only &lt;strong&gt;&lt;em&gt;one&lt;/em&gt;&lt;/strong&gt; of them is a current news item that people should be well informed on. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Shocking&lt;/em&gt;. It should be cause of concern that in the top ten searches on Yahoo, only &lt;strong&gt;&lt;em&gt;one&lt;/em&gt;&lt;/strong&gt; of them is a current news item that people should be well informed on.&lt;/p&gt;
 </content>
     </entry>
   
@@ -1910,11 +1936,11 @@ Running my own business allows me to work from anywhere. There is no need for me
         <name>Tim Smith</name>
         <uri>http://ttimsmith.com/</uri>
       </author>
-      <content type="html">&lt;p&gt;At &lt;a href=&quot;http://syndicateads.net/s/vp&quot;&gt;Pencils.com&lt;/a&gt;, we believe that creativity is the greatest of all virtues. And, with our selection of unique, high-quality pencils, notebooks, and creative tools, we’ve got everything you need to unleash yours. &lt;/p&gt;
+      <content type="html">&lt;p&gt;At &lt;a href=&quot;http://syndicateads.net/s/vp&quot;&gt;Pencils.com&lt;/a&gt;, we believe that creativity is the greatest of all virtues. And, with our selection of unique, high-quality pencils, notebooks, and creative tools, we’ve got everything you need to unleash yours.&lt;/p&gt;
 
 &lt;p&gt;Whether you’re a pencil nut who knows all the brands (&lt;a href=&quot;http://www.pencils.com/all-brands/caran-d-ache?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=caran&amp;amp;utm_campaign=dec&quot;&gt;Caran d’Ache&lt;/a&gt;, &lt;a href=&quot;http://www.pencils.com/all-brands/blackwing?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=blackwing&amp;amp;utm_campaign=dec&quot;&gt;Blackwing&lt;/a&gt;, &lt;a href=&quot;http://www.pencils.com/all-brands/faber-castell?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=faber&amp;amp;utm_campaign=dec&quot;&gt;Faber-Castell&lt;/a&gt;, we stock them all), or a casual doodler looking for something to inspire you, there’s something for you on Pencils.com. Combine that with our legendary customer service and fast, reliable shipping, and you’ve got some serious creative potential.&lt;/p&gt;
 
-&lt;p&gt;So, go ahead and &lt;a href=&quot;http://www.pencils.com/brands/blackwing?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=blackwing&amp;amp;utm_campaign=dec&quot;&gt;read the story of the $40 pencil&lt;/a&gt;, learn about &lt;a href=&quot;http://www.pencils.com/brands/faber-castell?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=faber&amp;amp;utm_campaign=dec&quot;&gt;the pencil company that has been around since the French Revolution&lt;/a&gt;, and &lt;a href=&quot;http://www.pencils.com/journals-sketchbooks/luxury-journals?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=journals&amp;amp;utm_campaign=dec&quot;&gt;find the perfect notebook to capture your ideas&lt;/a&gt;. If you’re in the giving mood, we also have gifts for &lt;a href=&quot;http://www.pencils.com/gift-ideas/gifts-for-artists?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=gifts-for-artists&amp;amp;utm_campaign=dec&quot;&gt;artists&lt;/a&gt;, &lt;a href=&quot;http://www.pencils.com/gift-ideas/gifts-for-writers?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=gifts-for-writers&amp;amp;utm_campaign=dec&quot;&gt;writers&lt;/a&gt;, &lt;a href=&quot;http://www.pencils.com/gift-ideas/gifts-for-musicians?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=gifts-for-musicians&amp;amp;utm_campaign=dec&quot;&gt;musicians&lt;/a&gt;, and &lt;a href=&quot;http://www.pencils.com/gift-guide?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=gift-guide&amp;amp;utm_campaign=dec&quot;&gt;anyone else&lt;/a&gt; on your shopping list. &lt;/p&gt;
+&lt;p&gt;So, go ahead and &lt;a href=&quot;http://www.pencils.com/brands/blackwing?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=blackwing&amp;amp;utm_campaign=dec&quot;&gt;read the story of the $40 pencil&lt;/a&gt;, learn about &lt;a href=&quot;http://www.pencils.com/brands/faber-castell?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=faber&amp;amp;utm_campaign=dec&quot;&gt;the pencil company that has been around since the French Revolution&lt;/a&gt;, and &lt;a href=&quot;http://www.pencils.com/journals-sketchbooks/luxury-journals?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=journals&amp;amp;utm_campaign=dec&quot;&gt;find the perfect notebook to capture your ideas&lt;/a&gt;. If you’re in the giving mood, we also have gifts for &lt;a href=&quot;http://www.pencils.com/gift-ideas/gifts-for-artists?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=gifts-for-artists&amp;amp;utm_campaign=dec&quot;&gt;artists&lt;/a&gt;, &lt;a href=&quot;http://www.pencils.com/gift-ideas/gifts-for-writers?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=gifts-for-writers&amp;amp;utm_campaign=dec&quot;&gt;writers&lt;/a&gt;, &lt;a href=&quot;http://www.pencils.com/gift-ideas/gifts-for-musicians?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=gifts-for-musicians&amp;amp;utm_campaign=dec&quot;&gt;musicians&lt;/a&gt;, and &lt;a href=&quot;http://www.pencils.com/gift-guide?utm_source=syndicate&amp;amp;utm_medium=post&amp;amp;utm_content=gift-guide&amp;amp;utm_campaign=dec&quot;&gt;anyone else&lt;/a&gt; on your shopping list.&lt;/p&gt;
 
 &lt;p&gt;Above all else, stay creative.&lt;/p&gt;
 
@@ -2036,7 +2062,7 @@ Running my own business allows me to work from anywhere. There is no need for me
   &lt;p&gt;The Lakers did not announce financial terms, but a source told ESPNLosAngeles.com’s Ramona Shelburne that the deal is worth $48.5 million.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Even as a huge Laker fan, I don’t see the logic behind this decision. Kobe Bryant has been one of the best players of the current era, but I certainly thought this would be his last year. As great as he is, age eventually catches up with you. &lt;/p&gt;
+&lt;p&gt;Even as a huge Laker fan, I don’t see the logic behind this decision. Kobe Bryant has been one of the best players of the current era, but I certainly thought this would be his last year. As great as he is, age eventually catches up with you.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;But&lt;/em&gt;&lt;/strong&gt; I could be terribly wrong. They don’t call him the Black Mamba for nothing.&lt;/p&gt;
 </content>
@@ -2173,9 +2199,9 @@ Running my own business allows me to work from anywhere. There is no need for me
       </author>
       <content type="html">&lt;p&gt;&lt;img src=&quot;/uploads/2013/11/Lootback.png&quot; alt=&quot;Lootback ad&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.executionists.com/blog/website-design/cost-to-build-websites-2013/&quot;&gt;According to recent research&lt;/a&gt;, the average small business owner can expect to pay somewhere between $100 and $200 for stock images for their website. Of course, for the owner going through a professional designer, this is just part of a larger number. If you’re a designer, you should always be looking for ways to bring down the final cost of a website. Outbidding the competition isn’t the only factor when it comes to success, but cutting costs where possible certainly won’t hurt. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.executionists.com/blog/website-design/cost-to-build-websites-2013/&quot;&gt;According to recent research&lt;/a&gt;, the average small business owner can expect to pay somewhere between $100 and $200 for stock images for their website. Of course, for the owner going through a professional designer, this is just part of a larger number. If you’re a designer, you should always be looking for ways to bring down the final cost of a website. Outbidding the competition isn’t the only factor when it comes to success, but cutting costs where possible certainly won’t hurt.&lt;/p&gt;
 
-&lt;p&gt;If you’ve been looking for a way to bring down your stock image costs and increase your bottom line, a new website may be able to help. It’s called Lootback.com, and it functions as a stock image search engine. The site partners with some of the biggest names in the stock photo industry, including iStock, ShutterStock, Graphicriver, Themeforest, and more. The premise is simple: they get a commission on every photo you buy through their site and then split that commission with you. &lt;/p&gt;
+&lt;p&gt;If you’ve been looking for a way to bring down your stock image costs and increase your bottom line, a new website may be able to help. It’s called Lootback.com, and it functions as a stock image search engine. The site partners with some of the biggest names in the stock photo industry, including iStock, ShutterStock, Graphicriver, Themeforest, and more. The premise is simple: they get a commission on every photo you buy through their site and then split that commission with you.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://syndicateads.net/s/uj&quot;&gt;Lootback&lt;/a&gt; provides users with a compilation image search engine. You type in whichever keywords fit your needs and it will come back with results from their industry partners. Helpfully, once you’ve created an account, Lootback will tell you right away how much you will save on a particular image once you’ve clicked on it. Rebates are paid into your account within 12 hours. That said, Lootback only pays out 4 times a year, so don’t expect cash back right away. Still, if you’re a designer who buys hundreds of images a year, the savings could prove substantial.&lt;/p&gt;
 
@@ -2203,7 +2229,7 @@ Running my own business allows me to work from anywhere. There is no need for me
   &lt;p&gt;Marvel is creating four live-action superhero series and an Avengers-style special event that will all air exclusively on Netflix, beginning in 2015. The first of the TV series will focus on Daredevil, while the following series will star Jessica Jones, Iron Fist, and Luke Cage.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Netflix does it again. Can’t wait to see this. &lt;/p&gt;
+&lt;p&gt;Netflix does it again. Can’t wait to see this.&lt;/p&gt;
 </content>
     </entry>
   
@@ -2219,13 +2245,13 @@ Running my own business allows me to work from anywhere. There is no need for me
       </author>
       <content type="html">&lt;p&gt;&lt;img src=&quot;/uploads/2013/11/techi.jpg&quot; alt=&quot;Techi.com ad&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://syndicateads.net/s/u5&quot;&gt;Techi.com&lt;/a&gt; is a site dedicated to all things tech. From updates on Sony’s PS4 to reports on Google’s latest acquisition; whether you’re looking for the latest Apple product or looking for views on mobile web, Techi is the site to visit. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://syndicateads.net/s/u5&quot;&gt;Techi.com&lt;/a&gt; is a site dedicated to all things tech. From updates on Sony’s PS4 to reports on Google’s latest acquisition; whether you’re looking for the latest Apple product or looking for views on mobile web, Techi is the site to visit.&lt;/p&gt;
 
-&lt;p&gt;Techi.com’s news is sourced from thousands of sites from across the Internet, then curated by an editorial team with their finger constantly on the pulse of the industry’s most vital developments. You also get a quick summary of the news so you save time and read only what interests you most. &lt;/p&gt;
+&lt;p&gt;Techi.com’s news is sourced from thousands of sites from across the Internet, then curated by an editorial team with their finger constantly on the pulse of the industry’s most vital developments. You also get a quick summary of the news so you save time and read only what interests you most.&lt;/p&gt;
 
-&lt;p&gt;In addition to the best news curated from across the Web, &lt;a href=&quot;http://syndicateads.net/s/u5&quot;&gt;Techi.com&lt;/a&gt; also offers exclusive original articles and stories featured in the Drudge Report, Reddit, NYTimes, Google news, and many more. &lt;/p&gt;
+&lt;p&gt;In addition to the best news curated from across the Web, &lt;a href=&quot;http://syndicateads.net/s/u5&quot;&gt;Techi.com&lt;/a&gt; also offers exclusive original articles and stories featured in the Drudge Report, Reddit, NYTimes, Google news, and many more.&lt;/p&gt;
 
-&lt;p&gt;You don’t even have to visit daily. Just sign up for the daily newsletter and get the latest tech news direct to your inbox — with no fuss whatsoever — in time for that commute or mid-day coffee. &lt;/p&gt;
+&lt;p&gt;You don’t even have to visit daily. Just sign up for the daily newsletter and get the latest tech news direct to your inbox — with no fuss whatsoever — in time for that commute or mid-day coffee.&lt;/p&gt;
 
 &lt;p&gt;Don’t spend your morning sifting through RSS feeds looking for the hot news. Go for the instant solution: get it all from Techi.com in less time than it takes to make your coffee.&lt;/p&gt;
 
@@ -2381,7 +2407,7 @@ Running my own business allows me to work from anywhere. There is no need for me
         <name>Tim Smith</name>
         <uri>http://ttimsmith.com/</uri>
       </author>
-      <content type="html">&lt;p&gt;Hilarious, and true. This is Tumblr at its best. &lt;/p&gt;
+      <content type="html">&lt;p&gt;Hilarious, and true. This is Tumblr at its best.&lt;/p&gt;
 </content>
     </entry>
   
@@ -2415,7 +2441,7 @@ Running my own business allows me to work from anywhere. There is no need for me
         <name>Tim Smith</name>
         <uri>http://ttimsmith.com/</uri>
       </author>
-      <content type="html">&lt;p&gt;While I admire all the hard work that went in creating this new version of Tweetbot, I can’t help be a little disappointed. The app has lost much of its personality; both visually and sonically. The new app has some very well done animations, but unfortunately looks too “default iOS 7” for my taste. &lt;/p&gt;
+      <content type="html">&lt;p&gt;While I admire all the hard work that went in creating this new version of Tweetbot, I can’t help be a little disappointed. The app has lost much of its personality; both visually and sonically. The new app has some very well done animations, but unfortunately looks too “default iOS 7” for my taste.&lt;/p&gt;
 
 &lt;p&gt;However, I did purchase because I respect the work of Tapbots very much and I want to support them. They have the reputation of making incredible things, and I look forward to seeing the betterment of Tweetbot.&lt;/p&gt;
 </content>
@@ -2535,7 +2561,7 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;The site has been viewed 5,013 times, and people stay an average of two minutes. The site had 3,006 visitors, 1,313 of which were returning. 1,902 visitors are from the United States, the United Kingdom came in second place with 399.&lt;/p&gt;
 
-&lt;p&gt;Not surprisingly, the two most common mobile devices the site is viewed on, are iOS devices. Coming in first place: iPhone with sixty-two percent. &lt;/p&gt;
+&lt;p&gt;Not surprisingly, the two most common mobile devices the site is viewed on, are iOS devices. Coming in first place: iPhone with sixty-two percent.&lt;/p&gt;
 
 &lt;p&gt;Chrome was the popular browser, responsible for fifty-six percent of traffic. Nine people visited from Internet Explorer.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Most visitors are using a Mac, but twelve percent is on Windows.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
@@ -2595,7 +2621,7 @@ Running my own business allows me to work from anywhere. There is no need for me
   &lt;p&gt;…I firmly believe that OS X is the best consumer desktop operating system on the planet. It has undergone some major changes over the years, but it’s the same OS under the hood. OS X is still as stable, powerful and resilient to viruses and other malware as it has always been.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Stephen is one of my favorite writers, and he’s published an amazing, in-depth review of the latest OS X. &lt;/p&gt;
+&lt;p&gt;Stephen is one of my favorite writers, and he’s published an amazing, in-depth review of the latest OS X.&lt;/p&gt;
 </content>
     </entry>
   
@@ -2627,7 +2653,7 @@ Running my own business allows me to work from anywhere. There is no need for me
       </author>
       <content type="html">&lt;p&gt;Apple Event Days are always exciting for me, and this one will be no different.&lt;/p&gt;
 
-&lt;p&gt;You’ll be able to &lt;a href=&quot;http://www.apple.com/apple-events/october-2013/&quot;&gt;watch the event live&lt;/a&gt; on your iOS device, Mac, or Apple TV. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; During the event, I’ll be in the &lt;em&gt;#ssktn&lt;/em&gt; iRC chatroom, as a kind of virtual-viewing party. &lt;/p&gt;
+&lt;p&gt;You’ll be able to &lt;a href=&quot;http://www.apple.com/apple-events/october-2013/&quot;&gt;watch the event live&lt;/a&gt; on your iOS device, Mac, or Apple TV. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; During the event, I’ll be in the &lt;em&gt;#ssktn&lt;/em&gt; iRC chatroom, as a kind of virtual-viewing party.&lt;/p&gt;
 
 &lt;p&gt;After the event, Chris Enns, Kyle Roderick, and myself will be talking about the event and new gadgets on the &lt;a href=&quot;http://www.ssktn.com/live/&quot;&gt;SSKTN live stream&lt;/a&gt;.&lt;/p&gt;
 
@@ -2705,7 +2731,7 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;Netflix is one of those companies that I love to root for. However, as &lt;a href=&quot;http://www.theverge.com/2013/10/21/4861624/netflix-has-likely-overtaken-hbo-in-paid-us-subscribers-analysts-say#192210067&quot;&gt;someone in the comments for this article pointed out&lt;/a&gt;, the fact that Netflix has more subscribers than HBO, doesn’t mean they’re making more money. Still, these numbers might just give HBO the scare they need, to consider an online subscription that isn’t tied to any cable company. With Time Warner Cable being the parent company of HBO, I see this as a small probability, but there’s no way they don’t see the potential business they’re missing out on.&lt;/p&gt;
 
-&lt;p&gt;One thing is for sure, the competition between these two channels will be interesting to watch. &lt;/p&gt;
+&lt;p&gt;One thing is for sure, the competition between these two channels will be interesting to watch.&lt;/p&gt;
 </content>
     </entry>
   
@@ -2719,7 +2745,7 @@ Running my own business allows me to work from anywhere. There is no need for me
         <name>Tim Smith</name>
         <uri>http://ttimsmith.com/</uri>
       </author>
-      <content type="html">&lt;p&gt;No. That word has been given lots of importance in our industry and rightly so. &lt;a href=&quot;http://vimeo.com/53155584&quot;&gt;Jason Santa Maria spoke about it&lt;/a&gt;, &lt;a href=&quot;https://medium.com/the-year-of-the-looking-glass/23ad80bdfbc&quot;&gt;Julie Zhuo wrote about it&lt;/a&gt;, and I’m sure you’ve read your fair share of articles on the topic. &lt;/p&gt;
+      <content type="html">&lt;p&gt;No. That word has been given lots of importance in our industry and rightly so. &lt;a href=&quot;http://vimeo.com/53155584&quot;&gt;Jason Santa Maria spoke about it&lt;/a&gt;, &lt;a href=&quot;https://medium.com/the-year-of-the-looking-glass/23ad80bdfbc&quot;&gt;Julie Zhuo wrote about it&lt;/a&gt;, and I’m sure you’ve read your fair share of articles on the topic.&lt;/p&gt;
 
 &lt;p&gt;It’s a powerful word, and I’m glad that we’re a community that looks out for each other and is willing to share with newcomers how to avoid bad projects. There are some relationships that will rob you of your joy, and in the end cost you more money than you’re being paid.&lt;/p&gt;
 
@@ -2749,7 +2775,7 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;p&gt;All projects aren’t going to be fun, and they won’t all be big brands or names. Learn to appreciate projects that allow you to work with people who care, make an impact on peoples lives, and teach you new things.&lt;/p&gt;
 
-&lt;p&gt;Not all clients are bad. Most are well-meaning people who are trying to do their best by their business or company. Saying no, should never satisfy an emotional need to rebel. Instead, it should be educated by the goals of your business, and that of the client. &lt;/p&gt;
+&lt;p&gt;Not all clients are bad. Most are well-meaning people who are trying to do their best by their business or company. Saying no, should never satisfy an emotional need to rebel. Instead, it should be educated by the goals of your business, and that of the client.&lt;/p&gt;
 
 &lt;p&gt;In closing, remember that the objective of saying no, will give you the opportunity to say yes.&lt;/p&gt;
 
@@ -2839,7 +2865,7 @@ Running my own business allows me to work from anywhere. There is no need for me
         <name>Tim Smith</name>
         <uri>http://ttimsmith.com/</uri>
       </author>
-      <content type="html">&lt;p&gt;Stuff like this is just so cool. I need to find ways to hide things on the sites I design. &lt;/p&gt;
+      <content type="html">&lt;p&gt;Stuff like this is just so cool. I need to find ways to hide things on the sites I design.&lt;/p&gt;
 </content>
     </entry>
   
@@ -2950,7 +2976,7 @@ Running my own business allows me to work from anywhere. There is no need for me
   &lt;p&gt;Compared to the similarly priced Jambox, the Play:1 is considerably louder, crisper, and more present. The more expensive Big Jambox offers a wider range and better separation than a single Play:1 thanks to its larger speakers and configuration. But the Play:1 is still louder and sounds bigger, if slightly more muddled because of the lack of speaker separation.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Really excited about this news. Since receiving my new iPhone, I now need to replace by bathroom speaker because it uses the old 30-pin connector. I started thinking that it would be better to buy things that are connector-independent, this way, it’ll last me longer. &lt;/p&gt;
+&lt;p&gt;Really excited about this news. Since receiving my new iPhone, I now need to replace by bathroom speaker because it uses the old 30-pin connector. I started thinking that it would be better to buy things that are connector-independent, this way, it’ll last me longer.&lt;/p&gt;
 
 &lt;p&gt;I’d looked at several speakers, and had heard very good things of all the Sonos speakers and &lt;a href=&quot;https://jawbone.com/speakers/bigjambox&quot;&gt;Big Jambox&lt;/a&gt;, but was worried to go Sonos because of the high price point. This new speaker is more wallet friendly, and could be the start of a great relationship with the Sonos ecosystem. I’ll write some thoughts on the speaker once I receive and use it for a while.&lt;/p&gt;
 </content>
@@ -2972,13 +2998,13 @@ Running my own business allows me to work from anywhere. There is no need for me
   &lt;p&gt;Instagram announced earlier this month that it will begin serving in-feed advertising before the end of the year, and the Facebook-owned photo and video app has made a subtle, but important, change after it removed the option to switch off autoplay for videos on iOS.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I don’t know what to say. Do I like that Instagram is about to be Facebook-ized? No. But, the fact of the matter is, that they weren’t profitable, and now they have to be. Is there a better way? Maybe. But what is it? I have no idea. &lt;/p&gt;
+&lt;p&gt;I don’t know what to say. Do I like that Instagram is about to be Facebook-ized? No. But, the fact of the matter is, that they weren’t profitable, and now they have to be. Is there a better way? Maybe. But what is it? I have no idea.&lt;/p&gt;
 
 &lt;p&gt;Here’s what I do know: I hate quotes like this, where Instagram says they want “these ads to be enjoyable and creative in much the same way you see engaging, high-quality ads when you flip through your favorite magazine.” Guess what? Everyone, &lt;em&gt;everyone&lt;/em&gt;, flips right past them.&lt;/p&gt;
 
 &lt;p&gt;But, what are they supposed to do? If they offered some type of subscription, it wouldn’t make enough to sustain the business. If they &lt;em&gt;only&lt;/em&gt; allowed paying customers, they’d loose their core user base of adolescents and young adults. They could offer filters as an in-app purchase, &lt;a href=&quot;http://favd.net/&quot;&gt;like Favd does&lt;/a&gt;, but I have no idea whether that would make enough.&lt;/p&gt;
 
-&lt;p&gt;So, as much as it bothers me that they’ve gone the advertising route, I can’t help but empathize. I myself put ads on this site, and on my podcast. It’s easy, it often pays the bills, and sometimes more. &lt;/p&gt;
+&lt;p&gt;So, as much as it bothers me that they’ve gone the advertising route, I can’t help but empathize. I myself put ads on this site, and on my podcast. It’s easy, it often pays the bills, and sometimes more.&lt;/p&gt;
 
 &lt;h5 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h5&gt;
 &lt;p&gt;&lt;a href=&quot;http://powazek.com/posts/3024&quot;&gt;What If Social Networks Just Aren’t Profitable?&lt;/a&gt; — A really great read, on the cycle that social networks go through.&lt;/p&gt;
@@ -3019,7 +3045,7 @@ Running my own business allows me to work from anywhere. There is no need for me
         <name>Tim Smith</name>
         <uri>http://ttimsmith.com/</uri>
       </author>
-      <content type="html">&lt;p&gt;I wrote a small article on how GitHub has really helped us on the Open Source Design project. With the use of GitHub issues, we’ve been able to talk and collaborate as a group. &lt;/p&gt;
+      <content type="html">&lt;p&gt;I wrote a small article on how GitHub has really helped us on the Open Source Design project. With the use of GitHub issues, we’ve been able to talk and collaborate as a group.&lt;/p&gt;
 </content>
     </entry>
   
@@ -3220,7 +3246,7 @@ Running my own business allows me to work from anywhere. There is no need for me
   &lt;p&gt;And &lt;a href=&quot;http://islandia.law.yale.edu/ayres/BingItOn_Draft%209.pdf&quot;&gt;Ayres’ results differed sharply&lt;/a&gt; from Microsoft’s: “We found that, to the contrary of Microsoft’s claim, 53 percent of subjects preferred Google and 41 percent Bing (6 percent of results were “ties”). This is not even close to the advertised claim that people prefer Bing ‘nearly two-to-one.’”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;This is fascinating. Microsoft responded to this professor, but in my opinion, gave a statement that were just words and didn’t explain why this test was so different from the one Microsoft conducted. &lt;/p&gt;
+&lt;p&gt;This is fascinating. Microsoft responded to this professor, but in my opinion, gave a statement that were just words and didn’t explain why this test was so different from the one Microsoft conducted.&lt;/p&gt;
 
 &lt;p&gt;This is what happens when you make commercials that call out other brands. Making fun of other people is the low thing to do, and quite honestly, the easy thing to do. Tell us how Bing is &lt;em&gt;actually&lt;/em&gt; better Microsoft, or shut up.&lt;/p&gt;
 
@@ -3265,7 +3291,7 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;figure class=&quot;extendout&quot;&gt;&lt;img src=&quot;http://theboldreport.net/uploads/2013/10/1p4-mac-main.png&quot; /&gt;&lt;figcaption&gt;1Password 4 for Mac Main View&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;I love that this redesign in a lot of ways is a re-align. The interface remains in the three column layout, yet with an easy-on-the-eyes, light background. The type has greatly improved, and the middle column no longer has the “shelf” look. The new layout, allows you to see more logins in the window without having to scroll and sports better looking icons. &lt;/p&gt;
+&lt;p&gt;I love that this redesign in a lot of ways is a re-align. The interface remains in the three column layout, yet with an easy-on-the-eyes, light background. The type has greatly improved, and the middle column no longer has the “shelf” look. The new layout, allows you to see more logins in the window without having to scroll and sports better looking icons.&lt;/p&gt;
 
 &lt;p&gt;Thankfully, the last column has been redone too. It used to be confusing to look at, and honestly, I didn’t know what was going on. It’s now a lot more simplified and only displays necessary information.&lt;/p&gt;
 
@@ -3273,7 +3299,7 @@ Running my own business allows me to work from anywhere. There is no need for me
 
 &lt;h3 id=&quot;multiple-vaults&quot;&gt;Multiple Vaults&lt;/h3&gt;
 
-&lt;p&gt;One feature that I can see becoming very popular is the new feature of multiple vaults. I haven’t actually been using this feature, but it’s one of those things that I think could help me organize the different sets of passwords. &lt;/p&gt;
+&lt;p&gt;One feature that I can see becoming very popular is the new feature of multiple vaults. I haven’t actually been using this feature, but it’s one of those things that I think could help me organize the different sets of passwords.&lt;/p&gt;
 
 &lt;p&gt;This is especially true when I worked for a company. Having a separate vault exclusively for company logins, would’ve been a great way to get organized. This makes managing items easier, and makes cleaning out items you no longer need, a breeze.&lt;/p&gt;
 
@@ -3321,7 +3347,7 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
       &lt;p&gt;This might seem like a small thing, but it’s one of my favorite additions to 1Password. I used to copy the password then press the fill button, and now those two actions are done with one press. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;By the way, you can use &lt;a href=&quot;http://www.macbartender.com/&quot;&gt;Bartender&lt;/a&gt; to clean that menubar up.  &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;By the way, you can use &lt;a href=&quot;http://www.macbartender.com/&quot;&gt;Bartender&lt;/a&gt; to clean that menubar up. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:3&quot;&gt;
       &lt;p&gt;This is only speculation, but I wonder if they’re required to give the App Store preference for a set amount of time. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
@@ -3385,7 +3411,7 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
         <name>Tim Smith</name>
         <uri>http://ttimsmith.com/</uri>
       </author>
-      <content type="html">&lt;p&gt;My friend, &lt;a href=&quot;http://adamstacoviak.com/&quot;&gt;Adam Stacoviak&lt;/a&gt;, pointed me to a tool called &lt;a href=&quot;https://getportly.com/&quot;&gt;Portly&lt;/a&gt;. Portly allows you to display your local web server, publicly. &lt;/p&gt;
+      <content type="html">&lt;p&gt;My friend, &lt;a href=&quot;http://adamstacoviak.com/&quot;&gt;Adam Stacoviak&lt;/a&gt;, pointed me to a tool called &lt;a href=&quot;https://getportly.com/&quot;&gt;Portly&lt;/a&gt;. Portly allows you to display your local web server, publicly.&lt;/p&gt;
 
 &lt;p&gt;If you look at the Portly site, you can tell that the applications of this menubar app, are many. I’ve been using it to do local device testing without the need for a staging server. This a very basic usage of this powerful app, but it’s been a huge timesaver for me.&lt;/p&gt;
 
@@ -3641,7 +3667,7 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
   &lt;p&gt;The bottom line is this: developers should be able to work on their product in a sustainable way. Realmac are some of the good guys, and to have to backtrack on a business decision is a damn shame, especially in a world where people pour money into IAP-based games day and night.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;This is a real problem. We can obviously see a huge hole in the App Store ecosystem. Honestly, I have no idea if Apple will ever implement upgrade pricing. &lt;a href=&quot;http://www.imore.com/apple-puts-its-price-tag-where-its-policy-charges-full-price-logic-pro-x-mac-app-store&quot;&gt;Signs point to no&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;This is a real problem. We can obviously see a huge hole in the App Store ecosystem. Honestly, I have no idea if Apple will ever implement upgrade pricing. &lt;a href=&quot;http://www.imore.com/apple-puts-its-price-tag-where-its-policy-charges-full-price-logic-pro-x-mac-app-store&quot;&gt;Signs point to no&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Apple desperately needs to examine this problem, and understand that the beautiful ecosystem it’s created, could crumble because of issues like this. And as the person purchasing software, I need to understand that developers &lt;strong&gt;are in their right&lt;/strong&gt; to charge money for new software. I love what &lt;a href=&quot;https://twitter.com/marcoarment/status/382899550341853184&quot;&gt;Marco Arment said&lt;/a&gt;:&lt;/p&gt;
 
@@ -3701,7 +3727,7 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
   &lt;p&gt;I’m adding some new stuff that I haven’t seen before in podcast players, and implementing what I think is the best set of core features from the existing apps. It’s my ideal podcast app.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;This is why I love Marco Arment. It happens to be the reason he’s also very successful. He trusts his gut, which I think is one of the most difficult things to learn how to do. &lt;/p&gt;
+&lt;p&gt;This is why I love Marco Arment. It happens to be the reason he’s also very successful. He trusts his gut, which I think is one of the most difficult things to learn how to do.&lt;/p&gt;
 
 &lt;p&gt;Marco isn’t given enough credit as a designer. He may not create the visuals for all of his products, but he is very deliberate with his design decisions. Can’t wait for this app.&lt;/p&gt;
 </content>
@@ -3768,7 +3794,7 @@ This feature is back from previous versions. Personally, I use Dropbox to sync m
         <uri>http://ttimsmith.com/</uri>
       </author>
       <content type="html">&lt;blockquote&gt;
-  &lt;p&gt;Netflix made history tonight, winning three Emmy awards for House of Cards, becoming the first company to win the awards for online-only shows. Original shows produced by Netflix had received 14 nominations — 9 of those for House of Cards alone. &lt;/p&gt;
+  &lt;p&gt;Netflix made history tonight, winning three Emmy awards for House of Cards, becoming the first company to win the awards for online-only shows. Original shows produced by Netflix had received 14 nominations — 9 of those for House of Cards alone.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;This is huge. I’ve said it before, and I’ll say it again: Netflix gets it. They’re making entertaining shows, and minimizing piracy. Traditional television hasn’t been able to nail both.&lt;/p&gt;
