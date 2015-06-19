@@ -5,3 +5,5 @@
 /_drafts/sponsor*
 
 .sass-cache
+
+_site
