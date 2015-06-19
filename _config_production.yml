@@ -5,6 +5,7 @@ markdown: kramdown
 highlighter: pygments
 permalink: /:title
 paginate: 20
+exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock', 'Procfile', 'vendor']
 include: ['.htaccess']
 lunr_excludes: ['atom.xml', 'atom.articles.xml', 'sitemap.xml']
 timezone: America/Chicago
