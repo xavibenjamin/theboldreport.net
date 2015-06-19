@@ -1,1 +1,1 @@
-web:  jekyll serve --config _config_production.yml -P $PORT
+web:  jekyll serve -P $PORT
