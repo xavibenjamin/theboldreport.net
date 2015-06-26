@@ -1,5 +1,5 @@
-# A sample Gemfile
-source "https://rubygems.org"
+# Place Gems in Alphabetical order please
+source :rubygems
 
 gem 'compass'
 gem 'fileutils'
