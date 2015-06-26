@@ -1,6 +1,15 @@
 {
   "name":"theboldreport.net",
   "scripts":{},
-  "env":{},
-  "addons":[]
+  "env":{
+    "CONFIG_ENVIRONMENT": {
+      "description": "What config file Jekyll is supposed to use",
+      "value": "_config_production.yml"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/ttimsmith/heroku-buildpack-ruby-jekyll.git"
+    }
+  ]
 }
