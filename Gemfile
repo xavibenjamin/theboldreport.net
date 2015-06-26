@@ -1,5 +1,6 @@
-# Place Gems in Alphabetical order please
-source :rubygems
+# Please place Gems in alpha order.
+
+source "https://rubygems.org"
 
 gem 'compass'
 gem 'fileutils'
