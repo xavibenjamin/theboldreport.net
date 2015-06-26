@@ -1,9 +1,5 @@
 .bundle/
-
 /_assets/images/theboldreport-logo.svg
-
 /_drafts/sponsor*
-
-Gemfile.lock
-
 .sass-cache
+_site

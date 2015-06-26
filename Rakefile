@@ -251,3 +251,10 @@ task :notify do
   end
 
 end
+
+## Build the freaking site
+namespace :assets do
+  task :precompile do
+    puts `bundle exec jekyll build --config _config_production.yml`
+  end
+end
