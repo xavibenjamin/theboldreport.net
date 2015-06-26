@@ -4,6 +4,6 @@
 
 /_drafts/sponsor*
 
-Gemfile.lock
-
 .sass-cache
+
+_site
