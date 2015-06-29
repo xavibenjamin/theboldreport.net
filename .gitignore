@@ -3,3 +3,4 @@
 /_drafts/sponsor*
 .sass-cache
 _site
+.DS_Store
