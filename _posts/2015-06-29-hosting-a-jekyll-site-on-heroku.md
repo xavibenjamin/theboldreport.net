@@ -49,7 +49,7 @@ Once you’ve got these gems in your `Gemfile`, run `bundle install` and make su
 ## Add Procfile
 Next, add a `Procfile`. We’ll be using thin to serve up our site. You do that with the following lines:
 
-{% highlight bash %}
+{% highlight apacheconf %}
 # Procfile
 web: bundle exec thin start -p $PORT -V
 console: echo console
