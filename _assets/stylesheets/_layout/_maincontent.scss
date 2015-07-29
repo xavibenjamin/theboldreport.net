@@ -136,7 +136,7 @@ MAIN CONTENT
 /* Media Queries on Post Type */
 
 @include breakpoint(container) {
-  h1,h2, h3, h4, h5, p, ul, ol, figcaption, .alignleft figcaption, .alignright figcaption, .footnotes {
+  h1,h2, h3, h4, h5, p, ul, ol, figcaption, .alignleft figcaption, .alignright figcaption, .footnotes, .post__meta {
     padding: 0 10px;
   }
 }
