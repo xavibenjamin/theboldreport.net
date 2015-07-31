@@ -95,6 +95,7 @@ GEM
     rack (1.6.4)
     rack-contrib (1.2.0)
       rack (>= 0.9.1)
+    rack-rewrite (1.5.1)
     rake (10.4.2)
     rb-fsevent (0.9.5)
     rb-inotify (0.9.5)
@@ -142,6 +143,7 @@ DEPENDENCIES
   kramdown
   nokogiri
   rack-contrib (~> 1.2.0)
+  rack-rewrite (~> 1.5.1)
   rake (~> 10.4.2)
   sass
   thin (~> 1.6.3)
