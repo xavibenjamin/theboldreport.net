@@ -1,10 +1,19 @@
 require 'rack/contrib/try_static'
+require 'rack/contrib/not_found'
+require 'rack/rewrite'
+
+use Rack::Rewrite do
+  r302 '/atom.xml', 'http://feedpress.me/theboldreport', :if => Proc.new { |rack_env|
+    rack_env['HTTP_USER_AGENT'] != 'FeedPress'
+  }
+  r302 '/atom.articles.xml', 'http://feedpress.me/theboldreport-articles', :if => Proc.new { |rack_env|
+    rack_env['HTTP_USER_AGENT'] != 'FeedPress'
+  }
+end
 
 use Rack::TryStatic,
-    :root => "_site",
-    :urls => %w[/],
-    :try => ['.html', 'index.html', '/index.html']
+  :root => "_site",
+  :urls => %w[/],
+  :try => ['.html', 'index.html', '/index.html']
 
-run lambda { |env|
-  return [404, {'Content-Type' => 'text/html'}, ['Not Found']]
-}
+run Rack::NotFound.new('_site/404/index.html')
