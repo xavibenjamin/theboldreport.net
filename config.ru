@@ -4,10 +4,10 @@ require 'rack/rewrite'
 
 use Rack::Rewrite do
   r302 '/atom.xml', 'http://feedpress.me/theboldreport', :if => Proc.new { |rack_env|
-    rack_env['HTTP_USER_AGENT'] != 'FeedPress' || 'FeedValidator'
+    rack_env['HTTP_USER_AGENT'] != 'FeedPress'
   }
   r302 '/atom.articles.xml', 'http://feedpress.me/theboldreport-articles', :if => Proc.new { |rack_env|
-    rack_env['HTTP_USER_AGENT'] != 'FeedPress' || 'FeedValidator'
+    rack_env['HTTP_USER_AGENT'] != 'FeedPress'
   }
 end
 
