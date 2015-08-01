@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Redirects on Heroku with rack-rewrite
+title: Heroku Redirects with rack-rewrite
 categories: articles
 custom_type: post
 ---
