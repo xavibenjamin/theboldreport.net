@@ -61,8 +61,7 @@
 
       {% if page.custom_css %}{{ page.custom_css | stylesheet }}{% endif %}
 
-      <!-- Typekit Code  -->
-      <script type="text/javascript" src="//use.typekit.net/dto7tfw.js"></script>
-      <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+      <!-- Typekit FOUT -->
+      <script>document.documentElement.className += ' wf-loading';</script>
 
     </head>
