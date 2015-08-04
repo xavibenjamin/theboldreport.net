@@ -27,6 +27,10 @@ Table of Contents
 
 BASE TYPE
 ------------------------------------------- */
+html {
+  transition: opacity 200ms ease;
+  opacity: 0;
+}
 
 body {
 	font-size: 130%;
@@ -96,6 +100,17 @@ h1,h2,h3,h5 {
 
 TEXT
 ------------------------------------------- */
+
+.wf-loading {
+  // transition: visibility 300ms ease;
+  visibility: hidden;
+}
+
+.wf-active, .wf-inactive {
+  // transition: visibility 300ms ease;
+  visibility: visible;
+  opacity: 1;
+}
 
 .content__main-content {
 	p {
