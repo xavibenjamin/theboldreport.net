@@ -18,8 +18,6 @@ layout: null
   {% for post in site.posts %}
     <entry>
       <id>http://theboldreport.net{{ post.id }}</id>
-      <link type="text/html" rel="alternate" href="http://theboldreport.net{{ post.url }}"/>
-      <title>{% if post.custom_type == 'post' %}♨ {% endif %}{{ post.title | xml_escape }}</title>
       {% if post.custom_type == 'link' %}
         <link type="text/html" rel="alternate" href="{{ post.link_url }}"/>
       {% else %}
