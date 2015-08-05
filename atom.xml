@@ -20,6 +20,12 @@ layout: null
       <id>http://theboldreport.net{{ post.id }}</id>
       <link type="text/html" rel="alternate" href="http://theboldreport.net{{ post.url }}"/>
       <title>{% if post.custom_type == 'post' %}♨ {% endif %}{{ post.title | xml_escape }}</title>
+      {% if post.custom_type == 'link' %}
+        <link type="text/html" rel="alternate" href="{{ post.link_url }}"/>
+      {% else %}
+        <link type="text/html" rel="alternate" href="http://theboldreport.net{{ post.url }}"/>
+      {% endif %}
+      <title>{% if post.custom_type == 'post' %}♨ {{ post.title | xml_escape }} {% else %} {{ post.title | xml_escape }} →{% endif %}</title>
       <published>{{ post.date | date_to_xmlschema }}</published>
       <updated>{{ post.date | date_to_xmlschema }}</updated>
       <author>
