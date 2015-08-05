@@ -5,7 +5,7 @@ categories: link
 custom_type: link
 link_url: http://www.mondaynote.com/2015/08/03/what-the-ad-blocker-debate-reveals/
 date: '2015-08-05 10:10:23'
-excerpt: We feel cheated and rightly so. As users, we understand that we’re not really entitled to free browsing; we pay our bills with our selves: When The Product Is Free, We Are the Product.
+excerpt: We feel cheated and rightly so. As users, we understand that we’re not really entitled to free browsing
 ---
 Jean-Louis Gassée on the *Monday Note*:
 
