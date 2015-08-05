@@ -30,7 +30,15 @@ layout: null
         <name>Tim Smith</name>
         <uri>http://ttimsmith.com/</uri>
       </author>
-      <content type="html">{{ post.content | xml_escape }}</content>
+      <content type="html">
+        <![CDATA[
+          {{ post.content }}
+
+          {% if post.custom_type == 'link' %}
+            <div><a title="Permalink" href="{{ site.url | xml_escape }}{{ post.url | xml_escape }}">♨</a></div>
+          {% endif %}
+        ]]>
+      </content>
     </entry>
   {% endfor %}
 
