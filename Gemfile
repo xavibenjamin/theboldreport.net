@@ -1,6 +1,8 @@
 # Please place Gems in alpha order.
 source "https://rubygems.org"
 
+ruby '2.1.2'
+
 gem 'compass'
 gem 'fileutils'
 gem 'foreman', '~> 0.78.0'
