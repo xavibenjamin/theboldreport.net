@@ -140,7 +140,6 @@ DEPENDENCIES
   jekyll (~> 2.5.3)
   jekyll-assets
   json
-  kramdown
   nokogiri
   rack-contrib (~> 1.2.0)
   rack-rewrite (~> 1.5.1)
@@ -148,3 +147,6 @@ DEPENDENCIES
   sass
   thin (~> 1.6.3)
   uglifier
+
+BUNDLED WITH
+   1.10.6
