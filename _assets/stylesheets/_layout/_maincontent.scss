@@ -5,7 +5,7 @@ MAIN CONTENT
 
 .content__main-content {
   margin: 3em 0 0;
-  @include transition(500ms ease);
+  @include transition(300ms ease);
   .BarShow & {
     @include filter(blur(5px) grayscale(70%));
   }

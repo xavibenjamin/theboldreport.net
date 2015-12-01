@@ -36,7 +36,7 @@ HEADER
   top: 40%;
   right: 1.5em;
   z-index: 3;
-  @include transition(.2s ease);
+  @include transition(300ms ease);
   @include breakpoint(container) {
     right: 10px;
   }
@@ -46,7 +46,7 @@ HEADER
     margin-bottom: 5px;
     height: 3px;
     width: 25px;
-    @include transition(.2s ease);
+    @include transition(300ms ease);
     &:last-child {
       margin-bottom: 0;
     }
@@ -64,7 +64,7 @@ HEADER
 /* Desktop Navigation */
 
 .nav-search__wrapper {
-  background: lighten($darkColor, 65%);
+  background: rgba($linkColor, .95);
   padding: 25% 0;
   position: fixed;
   right: 0;
@@ -73,19 +73,23 @@ HEADER
   bottom: 0;
   z-index: 1;
   @extend %clearfix;
-  @include opacity(.9);
+  // @include opacity(.9);
   @include breakpoint(s) {
     padding: 35% 0;
   }
   a {
+    color: rgba(white, .6);
     text-decoration: none !important;
+    &:hover {
+      color: rgba(white, .5);
+    }
   }
 }
 
 .site__navigation {
   h3 {
-    color: lighten($darkColor, 40%);
-    margin: $spacing-m 0 $spacing-xxs;
+    color: white;
+    margin: $spacing-l 0 0;
     font-size: .95em;
     font-weight: 700;
     text-transform: uppercase;
@@ -98,9 +102,7 @@ HEADER
   li {
     display: inline;
     list-style-type: none;
-    // text-transform: uppercase;
     font-size: 1.1em;
-    // font-weight: 700;
     margin-right: 8px;
     @extend %sans;
     &:last-child {
@@ -121,7 +123,7 @@ HEADER
 
 .top-push-bar {
   @include transform(translateY(-100%));
-  @include transition(500ms ease);
+  @include transition(300ms ease);
   .BarShow & {
     @include transform(translateY(0));
   }
