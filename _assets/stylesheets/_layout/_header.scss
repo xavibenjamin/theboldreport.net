@@ -8,6 +8,9 @@ HEADER
   border-bottom: 1px solid $borderColor;
   padding: $spacing-s $spacing-m;
   position: relative;
+  .BarShow & {
+    border: 0;
+  }
 }
 
 .site__branding {

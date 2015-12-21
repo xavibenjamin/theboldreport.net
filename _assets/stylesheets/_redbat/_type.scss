@@ -115,7 +115,7 @@ TEXT
 .content__main-content {
 	p {
     font-size: 1.1em;
-    line-height: 160%;
+    line-height: 150%;
     margin: 0 0 3.125%;
     &:last-child {
       margin-bottom: 0;
@@ -128,18 +128,18 @@ TEXT
     line-height: 110%;
   }
   h2 {
-    margin: 1.8em 0 .2em;
+    margin: 1.8em 0 0;
     font-size: 1.45em;
     font-weight: 700;
   }
   h3 {
-    margin: 1.3em 0 .2em;
+    margin: 1.3em 0 0;
     font-size: 1.3em;
     font-weight: bold;
   }
   h4 {
     color: lighten($darkColor, 20%);
-    margin: 2em 0 .2em;
+    margin: 2em 0 0;
     font-size: 1.1em;
     font-weight: bold;
     text-transform: uppercase;

@@ -13,9 +13,6 @@ custom_css_class: home
       {% if post.custom_type == 'post' %}
         <header class="post__header">
           <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-          <small class="post__meta">By Tim Smith &middot; <span class="pubdate"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign d = post.date | date: "%-d"  %}{{ post.date | date: "%B" }}
-        {% case d %}{% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
-        {{ post.date | date: "%Y" }}</time></span></small>
         </header><!-- /.post__header -->
 
         <div class="post__entry">
