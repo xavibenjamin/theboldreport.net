@@ -21,15 +21,13 @@ COLORS
 Color Variables
 ------------------------------------------- */
 
-$darkColor: lighten(#1a1f28, 15%);
-$headlineColor: #5a6475;
-$bodyColor: #777;
-$linkColor: #508fab;
+$darkColor: #555555;
+$headlineColor: #555555;
+$bodyColor: #555;
+$linkColor: #429cd4;
 $jazzColor: #839496;
 $borderColor: #eaecef;
-// $alertColor: ;
-
-
+$brand-color: #508fab;
 
 /*
 
@@ -40,12 +38,12 @@ SPACING
 Spacing Variables
 ------------------------------------------- */
 
-$spacing-xxs: 5px ;
-$spacing-xs: 10px;
-$spacing-s: 20px;
-$spacing-m: 30px;
-$spacing-l: 40px;
-$spacing-xl: 50px;
+$spacing-xxs: rem-calc(5px);
+$spacing-xs: rem-calc(10px);
+$spacing-s: rem-calc(20px);
+$spacing-m: rem-calc(30px);
+$spacing-l: rem-calc(40px);
+$spacing-xl: rem-calc(50px);
 
 
 $postSides: 200px;

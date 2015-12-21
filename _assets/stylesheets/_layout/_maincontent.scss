@@ -4,7 +4,6 @@ MAIN CONTENT
 --------------------------------------------------------- */
 
 .content__main-content {
-  margin: 3em 0 0;
   @include transition(300ms ease);
   .BarShow & {
     @include filter(blur(5px) grayscale(70%));
@@ -43,10 +42,13 @@ MAIN CONTENT
 }
 
 .post__header {
-  margin: 0 0 $spacing-m;
+  margin: 0 0 $spacing-xxs;
   .post__meta {
-    font-size: .9em;
-    color: lighten($darkColor, 50%);
+    color: lighten($darkColor, 30%);
+    display: block;
+    font-size: 1rem;
+    font-weight: 300;
+    margin: 0 0 $spacing-s;
     @extend %sans;
   }
 }
@@ -55,13 +57,16 @@ MAIN CONTENT
 
 .format-post {
   .post__entry {
-    p:first-child {
-      color: $darkColor;
-      font-size: 1.3em;
+    >p:first-child {
+      color: lighten($darkColor, 30%);
+      line-height: 130%;
+      font-size: 1.7rem;
+      font-weight: 300;
+      @extend %sans;
     }
   }
   h1 {
-    font-size: 2.5em;
+    font-size: 2.6rem;
     font-weight: 900;
     margin: 0;
     a {

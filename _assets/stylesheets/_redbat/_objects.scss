@@ -5,10 +5,13 @@ OBJECTS
 
 body {
   // background: $darkColor;
+  &.BarShow {
+    overflow: hidden;
+  }
 }
 .container {
   margin: 0 auto;
-  max-width: 600px;
+  max-width: 640px;
   width: 100%;
   @extend %clearfix;
   position: relative;
