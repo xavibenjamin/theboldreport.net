@@ -1,27 +1,25 @@
-
-
-        <footer class="site__footer" role="contentinfo">
+      <footer class="site__footer" role="contentinfo">
+        <div class="container">
           <small><a href="/subscribe/">Subscribe</a> &middot; <a href="/archives/">Archives</a> &middot; <a href="https://github.com/ttimsmith/theboldreport.net">View Source on GitHub</a></small>
           <small><em>The Bold Report</em> &copy; 2013&ndash;{{ site.time | date: "%Y" }} Anythin’ Goes LLC. &amp; Timothy B. Smith.</small>
-        </footer>
+        </div><!-- /.container -->
+      </footer>
 
-        </div><!-- .container -->
+    <!-- Other JS libraries -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    {% javascript app %}
 
-      <!-- Other JS libraries -->
-      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-      {% javascript app %}
+    <!-- Typekit Code  -->
+    <script>
+      (function(d) {
+        var config = {
+          kitId: 'dto7tfw',
+          scriptTimeout: 3000,
+          async: true
+        },
+        h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+      })(document);
+    </script>
 
-      <!-- Typekit Code  -->
-      <script>
-        (function(d) {
-          var config = {
-            kitId: 'dto7tfw',
-            scriptTimeout: 3000,
-            async: true
-          },
-          h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-        })(document);
-      </script>
-
-    </body>
+  </body>
 </html>

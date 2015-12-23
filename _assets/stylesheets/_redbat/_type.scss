@@ -114,7 +114,7 @@ TEXT
 
 .content__main-content {
 	p {
-    font-size: 1.1em;
+    font-size: 1.35rem;
     line-height: 150%;
     margin: 0 0 3.125%;
     &:last-child {
@@ -128,8 +128,8 @@ TEXT
     line-height: 110%;
   }
   h2 {
-    margin: 1.8em 0 0;
-    font-size: 1.45em;
+    margin: 2.3rem 0 0;
+    font-size: 1.6rem;
     font-weight: 700;
   }
   h3 {
@@ -218,7 +218,6 @@ INLINE TYPE
 ------------------------------------------- */
 
 strong {
-  color: #555;
 	font-weight: 700;
   em {
    font-weight: 700;
@@ -240,7 +239,8 @@ sup {
 }
 
 pre {
-  background: lighten($borderColor, 5%);
+  background: #f7f7f7;
+  border-radius: 3px;
   padding: 3% 3% 3%;
   white-space: pre;
   overflow-x: auto;
@@ -254,15 +254,15 @@ pre {
 }
 
 .highlight {
-  margin: 0 0 3.125%;
+  margin: 0 0 $spacing-s;
 }
 
 code {
-  background: lighten($borderColor, 5%);
-  border-radius: 2px;
+  background: #f5f5f5;
+  border-radius: 3px;
   color: $darkColor;
-  font-family: Inconsolata, monospace;
-  font-size: .9em;
+  font-family: Inconsolata, "Inconsolata-g for Powerline", monospace;
+  font-size: rem-calc(16px);
   padding: 2px 5px;
 }
 

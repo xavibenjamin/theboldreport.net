@@ -24,11 +24,11 @@ $popover-width:                         22em !default;                          
 $popover-max-width:                     90% !default;                            // Best as a % to accommodate smaller viewports
 $popover-max-height:                    15em !default;                           // Maximum size of the content area
 $popover-color-background:              rgb(250, 250, 250) !default;             // Color of the popover background
-$popover-border-radius:                 0.5em !default;                          // Radius of the corners of the popover
-$popover-border:                        1px solid rgb(195, 195, 195) !default;   // Border of the popover/ tooltip
+$popover-border-radius:                 3px !default;                          // Radius of the corners of the popover
+$popover-border:                        1px solid rgba(black, .2) !default;   // Border of the popover/ tooltip
 $popover-inactive-opacity:              0 !default;                              // Opacity of the popover when instantiated/ deactivating
-$popover-active-opacity:                0.97 !default;                           // Opacity of the popover when active
-$popover-box-shadow:                    0px 0px 6px rgba(0, 0, 0, 0.2) !default; // Sets the box shadow under the popover/ tooltip
+$popover-active-opacity:                0.98 !default;                           // Opacity of the popover when active
+$popover-box-shadow:                    0px 0px 3px rgba(0, 0, 0, 0.2) !default; // Sets the box shadow under the popover/ tooltip
 $popover-bottom-position:               auto !default;                           // Sets the bottom position of the popover. Use only when setting positionPopover to false in the script
 $popover-left-position:                 auto !default;                           // Sets the left position of the popover. Use only when setting positionPopover to false in the script
 $popover-tooltip-size:                  1.3em !default;                          // Sets the side lengths of the tooltip
@@ -50,9 +50,9 @@ $popover-scroll-indicator-icon:         url("data:image/svg+xml;base64,PHN2ZyB3a
 
 // POPOVER
 $popover-margin-top:                             0.1em !default;
-$popover-padding-content-horizontal:             1.2em !default;
-$popover-padding-content-top:                    1em !default;
-$popover-padding-content-bottom:                 1em !default;
+$popover-padding-content-horizontal:             .9em !default;
+$popover-padding-content-top:                    .9em !default;
+$popover-padding-content-bottom:                 .9em !default;
 $popover-z-index:                                10 !default;                         // Set the base so that it's above the other body children
 $popover-initial-transform-origin:               50% 0 !default;
 
@@ -582,7 +582,7 @@ $button-transition-properties:      background-color;
   p {
     font-size: inherit;
     &:first-child {
-      color: #777 !important;
+      color: #555 !important;
       font-size: inherit !important;
     }
   }

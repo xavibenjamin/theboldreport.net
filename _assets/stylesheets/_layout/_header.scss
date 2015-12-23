@@ -4,18 +4,22 @@ HEADER
 --------------------------------------------------------- */
 
 .site__header {
+  display: flex;
+  flex-direction: column;
   margin: 0 0 $spacing-l;
   border-bottom: 1px solid $borderColor;
-  padding: $spacing-s $spacing-m;
-  position: relative;
-  .BarShow & {
-    border: 0;
+  padding: $spacing-s;
+  @media #{$medium-up} {
+    flex-direction: row;
+    padding: $spacing-s $spacing-m;
   }
 }
 
 .site__branding {
-  position: relative;
-  z-index: 2;
+  margin: auto;
+  @media #{$medium-up} {
+    margin-right: $spacing-l;
+  }
   svg {
     width: 100%;
   }
@@ -23,7 +27,7 @@ HEADER
 
 .logo {
   display: block;
-  max-width: 200px;
+  width: 200px;
   max-height: 28px;
   .bold__first, .bold__third {
     fill: $darkColor;
@@ -41,74 +45,12 @@ HEADER
   }
 }
 
-.toggleTopBar {
-  background: none;
-  border: 0;
-  outline: 0;
-  padding: 0;
-  position: absolute;
-  top: rem-calc(24px);
-  right: $spacing-m;
-  z-index: 3;
-  @include transition(300ms ease);
-  span {
-    background: lighten($darkColor, 50%);
-    display: block;
-    margin-bottom: 5px;
-    height: 3px;
-    width: 25px;
-    @include transition(300ms ease);
-    &:last-child {
-      margin-bottom: 0;
-    }
-    .BarShow & {
-      background: rgba(white, .6);
-    }
-  }
-  &:hover {
-    span {
-      background: $linkColor;
-      .BarShow & {
-        background: white;
-      }
-    }
-  }
-  &:active {
-    @include transform(scale3d(.9, .9, .9));
-  }
-}
-
-/* Desktop Navigation */
-
-.nav-search__wrapper {
-  background: rgba($linkColor, .9);
-  padding: 15% 0;
-  position: fixed;
-  right: 0;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  z-index: 1;
-  @extend %clearfix;
-  @include breakpoint(s) {
-    padding: 35% 0;
-  }
-  a {
-    color: rgba(white, .6);
-    text-decoration: none !important;
-    &:hover {
-      color: rgba(white, .5);
-    }
-  }
-}
-
 .site__navigation {
-  h3 {
-    color: white;
-    margin: $spacing-l 0 0;
-    font-size: .95em;
-    font-weight: 700;
-    text-transform: uppercase;
+  flex: 2;
+  margin: auto auto rem-calc(25px);
+  @media #{$medium-up} {
+    margin-right: $spacing-m;
+    margin-bottom: auto;
   }
 }
 
@@ -118,8 +60,9 @@ HEADER
   li {
     display: inline;
     list-style-type: none;
-    font-size: 1.1em;
-    margin-right: 8px;
+    font-size: 1.2rem;
+    margin-right: rem-calc(10px);
+    padding: 0;
     @extend %sans;
     &:last-child {
       margin-right: 0;
@@ -130,13 +73,11 @@ HEADER
 /* Search */
 
 .site__search-form {
-  margin: 0 0 $spacing-s;
+  flex: 1;
   @extend %sans;
 }
 
-
 /* Top Push Bar */
-
 .top-push-bar {
   @include transform(translateY(-100%));
   @include transition(300ms ease);
