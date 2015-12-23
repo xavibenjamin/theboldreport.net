@@ -26,6 +26,9 @@ HEADER
   display: block;
   width: 200px;
   max-height: 28px;
+  @media #{$large-up} {
+    width: 220px;
+  }
   .bold__first, .bold__third {
     fill: $darkColor;
     transition: fill 310ms ease;
@@ -48,11 +51,13 @@ HEADER
 .primary-navigation {
   margin: 0;
   text-align: left;
+  width: 100%;
   li {
     display: inline;
     list-style-type: none;
     font-size: 1.1rem;
     margin-right: rem-calc(15px);
+    margin-left: 0;
     padding: 0;
     @extend %sans;
     &:last-child {

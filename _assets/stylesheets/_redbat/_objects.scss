@@ -5,10 +5,15 @@ OBJECTS
 
 .container {
   margin: 0 auto;
-  max-width: 640px;
   width: 100%;
   @extend %clearfix;
   position: relative;
+  @media #{$medium-up} {
+    max-width: 760px;
+  }
+  @media #{$large-up} {
+    max-width: 1000px;
+  }
 }
 
 svg {

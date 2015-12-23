@@ -1,4 +1,4 @@
-/*
+ /*
 
 IMAGES
 ------------------------------------------- */
@@ -24,24 +24,8 @@ figcaption {
 }
 
 .extendout {
-  width: 170%;
-  margin-left: -35%;
-  @include breakpoint(xxl) {
-    width: 150%;
-    margin-left: -25%;
-  }
-  @include breakpoint(xl) {
-    width: 130%;
-    margin-left: -15%;
-  }
-  @include breakpoint(l) {
-    width: 118%;
-    margin-left: -9%;
-  }
-  @include breakpoint(m) {
-    width: 100%;
-    margin-left: 0;
-  }
+  width: 100%;
+  margin-left: 0;
   figcaption {
     margin: $spacing-xs auto;
     max-width: 640px;

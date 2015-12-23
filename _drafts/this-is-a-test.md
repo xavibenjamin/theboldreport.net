@@ -68,18 +68,6 @@ Empty line between table and this text
       puts "some #{4-space-indent} code"
     end
 
-<code>
-def this_is
-  puts "some #{code tag} code"
-end
-</code>
-
-<pre>
-def this_is
-  puts "some #{pre tag} code"
-end
-</pre>
-
 ```
 def this_is
   puts "some #{fenced} code"

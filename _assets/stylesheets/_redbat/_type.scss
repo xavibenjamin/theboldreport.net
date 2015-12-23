@@ -28,12 +28,15 @@ Table of Contents
 BASE TYPE
 ------------------------------------------- */
 html {
-  transition: opacity 200ms ease;
+  transition: opacity 100ms ease-in;
   opacity: 0;
   font-size: 13px;
   -webkit-font-smoothing: antialiased;
   @media #{$medium-up} {
     font-size: 16px;
+  }
+  @media #{$large-up} {
+    font-size: 18px;
   }
 }
 
@@ -167,10 +170,12 @@ ul {
   list-style-type: square;
   margin: 0 0 0 rem-calc(25px);
   @media #{$medium-up} {
-    margin: 0 0 rem-calc(25px) rem-calc(40px);
+    margin-bottom: rem-calc(25px);
+    margin-left: rem-calc(40px);
   }
   li {
     line-height: 160%;
+    margin-left: rem-calc(40px);
     padding: rem-calc(2px) 0 0;
     font-size: 1.3rem;
     ul {
@@ -191,12 +196,13 @@ ul {
 
 ol {
   list-style-type: decimal;
-  margin: 0 0 rem-calc(25px) rem-calc(40px);
+  margin-bottom: rem-calc(25px);
   text-align: left;
   li {
     font-size: 1.3rem;
     line-height: 160%;
-    margin: 0 0 rem-calc(2px);
+    margin-bottom: rem-calc(2px);
+    margin-left: rem-calc(40px);
     p {
       font-size: inherit !important;
       margin: 0 0 rem-calc(25px) 0 !important;
@@ -241,6 +247,7 @@ sup {
 pre {
   background: #f7f7f7;
   border-radius: 3px;
+  font-family: Inconsolata, "Inconsolata-g for Powerline", monospace;
   padding: 3% 3% 3%;
   white-space: pre;
   overflow-x: auto;
@@ -262,8 +269,11 @@ code {
   border-radius: 3px;
   color: $darkColor;
   font-family: Inconsolata, "Inconsolata-g for Powerline", monospace;
-  font-size: rem-calc(16px);
+  font-size: 1.1rem;
   padding: 2px 5px;
+  @media #{$medium-up} {
+    font-size: 1rem;
+  }
 }
 
 /*
@@ -275,8 +285,14 @@ blockquote {
   border-left: 3px solid $linkColor;
   color: lighten($bodyColor, 10%);
   padding-left: rem-calc(15px);
-  margin: 0 0 rem-calc(25px) rem-calc(25px);
+  margin: 0 auto rem-calc(25px);
   width: 90%;
+  @media #{$medium-up} {
+    width: 75%;
+  }
+  @media #{$large-up} {
+    width: 60%;
+  }
   small {
     display: block;
     font-size: .80rem;

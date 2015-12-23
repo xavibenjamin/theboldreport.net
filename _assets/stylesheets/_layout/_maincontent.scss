@@ -126,8 +126,14 @@ MAIN CONTENT
 
 /* Media Queries on Post Type */
 
-@include breakpoint(container) {
-  h1,h2, h3, h4, h5, p, ul, ol, figcaption, .alignleft figcaption, .alignright figcaption, .footnotes, .post__meta {
-    padding: 0 10px;
+h2, h3, h4, h5, h6, .post__entry>p, ul, ol, figcaption, .alignleft figcaption, .alignright figcaption, .footnotes, .post__meta, .highlight, .post__header, .pagination, iframe, .site__footer small {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  @media #{$medium-up} {
+    width: 80%;
+  }
+  @media #{$large-up} {
+    width: 65%;
   }
 }
