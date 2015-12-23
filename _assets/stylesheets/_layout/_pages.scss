@@ -4,14 +4,14 @@ PAGES
 --------------------------------------------------------- */
 .archive-list, .search-results-list, .tag-list {
   h3 {
-    font-size: .95em;
-    margin: 1.5em 0 0;
+    font-size: 1.2rem;
+    margin: rem-calc(15px) 0 0;
     .pubdate {
-      color: lighten($darkColor, 50%);
+      color: lighten($darkColor, 40%);
       display: inline-block;
-      font-size: .85em;
+      font-size: 1rem;
       font-weight: normal;
-      margin-left: 10px;
+      margin-left: rem-calc(10px);
     }
   }
 }

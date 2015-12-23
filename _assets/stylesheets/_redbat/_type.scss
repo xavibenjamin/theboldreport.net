@@ -30,19 +30,17 @@ BASE TYPE
 html {
   transition: opacity 200ms ease;
   opacity: 0;
+  font-size: 13px;
+  -webkit-font-smoothing: antialiased;
+  @media #{$medium-up} {
+    font-size: 16px;
+  }
 }
 
 body {
-	font-size: 130%;
 	line-height: 140%;
 	color: $bodyColor;
 	@extend %serif;
-  @include breakpoint(l) {
-    font-size: 115%;
-  }
-  @include breakpoint(m) {
-    font-size: 105%;
-  }
 }
 
 // TYPE SIZE VARIABLES
@@ -113,63 +111,68 @@ TEXT
 }
 
 .content__main-content {
-	p {
-    font-size: 1.35rem;
-    line-height: 150%;
-    margin: 0 0 3.125%;
-    &:last-child {
-      margin-bottom: 0;
-    }
-    @media screen and (max-width: 480px ) {
-      margin-bottom: 7%;
-    }
+
+}
+
+p {
+  font-size: 1.3rem;
+  line-height: 150%;
+  margin: 0 0 rem-calc(25px);
+  &:last-child {
+    margin-bottom: 0;
   }
-  h1 {
-    line-height: 110%;
-  }
-  h2 {
-    margin: 2.3rem 0 0;
-    font-size: 1.6rem;
-    font-weight: 700;
-  }
-  h3 {
-    margin: 1.3em 0 0;
-    font-size: 1.3em;
-    font-weight: bold;
-  }
-  h4 {
-    color: lighten($darkColor, 20%);
-    margin: 2em 0 0;
-    font-size: 1.1em;
-    font-weight: bold;
-    text-transform: uppercase;
-  }
-  h5 {
-    margin: 2em 0 .2em;
-    font-size: 1em;
-    font-weight: bold;
-    text-transform: uppercase;
-    &:before {
-      background: $borderColor;
-      content: " ";
-      display: block;
-      height: 1px;
-      width: 80px;
-      margin-bottom: 10px;
-    }
+}
+
+h1 {
+  line-height: 110%;
+}
+
+h2 {
+  margin: 2.3rem 0 rem-calc(3px);
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+h3 {
+  color: lighten($darkColor, 30%);
+  font-size: 1.4rem;
+  margin: 2.5em 0 rem-calc(3px);
+  // font-weight: bold;
+}
+
+h4 {
+  color: lighten($darkColor, 30%);
+  margin: 2.5rem 0 rem-calc(3px);
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+h5 {
+  margin: 3rem 0 rem-calc(3px);
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  &:before {
+    background: $borderColor;
+    content: " ";
+    display: block;
+    height: 1px;
+    width: 80px;
+    margin-bottom: 10px;
   }
 }
 
 ul {
-  margin: 0 0 03.125% 6%;
   list-style-type: square;
-  @media screen and (max-width: 700px ) {
-    margin: 0 0 0 25px;
+  margin: 0 0 0 rem-calc(25px);
+  @media #{$medium-up} {
+    margin: 0 0 rem-calc(25px) rem-calc(40px);
   }
   li {
     line-height: 160%;
-    padding: 01.15% 0 0;
-    font-size: 1.1em;
+    padding: rem-calc(2px) 0 0;
+    font-size: 1.3rem;
     ul {
       list-style-type: circle;
       li {
@@ -178,7 +181,7 @@ ul {
     }
     p {
       font-size: inherit !important;
-      margin: 0 0 3.125% 0 !important;
+      margin: 0 0 rem-calc(10px) 0 !important;
     }
     &:last-child {
       padding: 01.25% 0 0;
@@ -188,29 +191,26 @@ ul {
 
 ol {
   list-style-type: decimal;
-  margin: 0 0 3.125% 6%;
+  margin: 0 0 rem-calc(25px) rem-calc(40px);
   text-align: left;
   li {
-    font-size: 1.1em;
+    font-size: 1.3rem;
     line-height: 160%;
-    margin: 0 0 2.5%;
+    margin: 0 0 rem-calc(2px);
     p {
       font-size: inherit !important;
-      margin: 0 0 3.125% 0 !important;
+      margin: 0 0 rem-calc(25px) 0 !important;
     }
   }
 }
 
 .page__title {
   color: $darkColor;
-  font-size: 2.5em;
+  font-size: 2.6rem;
   font-weight: 800;
-  margin: 0 0 1em;
+  margin: 0 0 2rem;
 }
 
-ul li p:first-child, ol li p:first-child {
-  color: $bodyColor !important;
-}
 
 /*
 
@@ -232,7 +232,7 @@ em, cite {
 sup {
   a {
     border-bottom: none;
-    font-size: .65em;
+    font-size: .65rem;
     font-weight: bold;
     text-decoration: none !important;
   }
@@ -273,17 +273,14 @@ BLOCKQUOTE
 
 blockquote {
   border-left: 3px solid $linkColor;
-  color: lighten($bodyColor, 15%);
-  padding-left: .85em;
-  margin: 0 0 03.125% 3%;
+  color: lighten($bodyColor, 10%);
+  padding-left: rem-calc(15px);
+  margin: 0 0 rem-calc(25px) rem-calc(25px);
   width: 90%;
-  @media screen and (max-width: 480px ) {
-    margin-bottom: 7%;
-  }
   small {
     display: block;
-    font-size: .80em;
-    margin: 02.34375% 0 0;
+    font-size: .80rem;
+    margin: rem-calc(10px) 0 0;
     &:before {
       content: "—";
       color: $borderColor;
@@ -299,10 +296,10 @@ HR
 hr {
 	border: solid $borderColor;
 	border-width: 2px 0 0;
-	margin: 2.5em auto;
+	margin: 3rem auto;
 	height: 0;
 	width: auto;
-	max-width: 200px;
+	max-width: 300px;
 	display: block;
 	padding: 0;
   @extend %clearfix;
@@ -317,7 +314,7 @@ LINKS
 a {
 	color: $linkColor;
 	text-decoration: underline;
-	@include transition(.2s ease-in-out);
+	transition: .2s ease;
 	&:hover {
 		color: lighten($linkColor, 10%);
 	}
@@ -329,20 +326,4 @@ a {
 a.reversefootnote {
   text-decoration: none !important;
   margin-left: 5px;
-}
-
-/*
-
-ICON FONT
-------------------------------------------- */
-@include embed-font("Icomoon", "icon-font/icomoon");
-
-%icon-font {
-	font-family: "Icomoon";
-}
-
-[data-icon]:before {
-  content: attr(data-icon);
-  @extend %icon-font;
-  speak: none;
 }

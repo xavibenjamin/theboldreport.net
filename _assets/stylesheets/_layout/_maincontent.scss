@@ -3,40 +3,17 @@
 MAIN CONTENT
 --------------------------------------------------------- */
 
-.content__main-content {
-  @include transition(300ms ease);
-  .BarShow & {
-    @include filter(blur(5px) grayscale(70%));
-  }
-  @include breakpoint(s) {
-    margin: 1.5em 0 0;
-  }
-}
-
-
 .type-post {
   &.format-link {
-    margin-bottom: 6em;
+    margin-bottom: 6rem;
   }
   &.format-post {
-    margin: 3em 0 8em 0;
+    margin: 0 0 8rem 0;
     &:first-child {
       margin-top: 0;
     }
-    &:after {
-      content: "♨";
-      text-align: center;
-      font-size: 75px;
-      color: lighten($borderColor, 3%);
-      position: relative;
-      left: 42%;
-      top: 70px;
-      @include breakpoint(screen-xs) {
-        left: 33%;
-      }
-    }
     .single & {
-      margin: 0 0 5em 0;
+      margin: 0 0 5rem 0;
     }
   }
 }
@@ -86,7 +63,7 @@ MAIN CONTENT
 // Format Link
 .format-link {
   h1 {
-    font-size: 1.3em;
+    font-size: 1.6rem;
     font-weight: 700;
     line-height: 155%;
     margin: 0;
@@ -99,18 +76,27 @@ MAIN CONTENT
   }
   .arrow {
     color: lighten($darkColor, 50%);
-    font-size: .8em;
+    font-size: 1.3rem;
     line-height: 100%;
-    margin-left: 10px;
+    margin-left: $spacing-xs;
     vertical-align: middle;
   }
 }
 
 .link__icon {
-  margin: 0 0 0 10px;
+  margin: 0 0 0 $spacing-xs;
   font-weight: normal !important;
 }
 
+.post__closer {
+  width: 64px;
+  margin: 6rem auto 0;
+  .svg-icon {
+    path {
+      fill: lighten($borderColor, 1%);
+    }
+  }
+}
 
 /* Footnotes */
 

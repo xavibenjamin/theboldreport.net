@@ -5,7 +5,7 @@ exclude_from_search: true
 permalink: /about/
 ---
 
-![Tim Smith](/uploads/2013/09/tim_680x510.jpg)
+{% image small__left /uploads/2013/09/tim_680x510.jpg "I was born with my eyebrows like that… kidding." %}
 
 *The Bold Report* is designed, developed, and written by [Tim Smith](http://ttimsmith.com) in beautiful, and sometimes cold, St. Paul, Minnesota. I *don't* currently write this site full-time.
 

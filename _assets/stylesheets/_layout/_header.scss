@@ -20,9 +20,6 @@ HEADER
   @media #{$medium-up} {
     margin-right: $spacing-l;
   }
-  svg {
-    width: 100%;
-  }
 }
 
 .logo {
@@ -32,16 +29,10 @@ HEADER
   .bold__first, .bold__third {
     fill: $darkColor;
     transition: fill 310ms ease;
-    .BarShow & {
-      fill: rgba(white, .6);
-    }
   }
   .bold__second {
     fill: $linkColor;
     transition: fill 310ms ease;
-    .BarShow & {
-      fill: white;
-    }
   }
 }
 
@@ -60,8 +51,8 @@ HEADER
   li {
     display: inline;
     list-style-type: none;
-    font-size: 1.2rem;
-    margin-right: rem-calc(10px);
+    font-size: 1.1rem;
+    margin-right: rem-calc(15px);
     padding: 0;
     @extend %sans;
     &:last-child {
