@@ -49,7 +49,10 @@ Reseting and bringing in the foundations of our CSS.
 
 @import "_redbat/reset";
 
+@import "_redbat/functions";
+
 @import "_redbat/mixins";
+
 
 
 /*
@@ -137,8 +140,6 @@ Layout Styles.
 ------------------------------------------- */
 
 @import "_layout/header";
-
-@import "_layout/sidebar";
 
 @import "_layout/maincontent";
 

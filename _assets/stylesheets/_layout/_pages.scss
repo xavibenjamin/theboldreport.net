@@ -2,39 +2,16 @@
 
 PAGES
 --------------------------------------------------------- */
-.archive-list, .search-results-list, .tag-list {
+.archive-list, .search-results-list {
   h3 {
-    font-size: .95em;
-    margin: 1.5em 0 0;
+    font-size: 1.2rem;
+    margin-top: rem-calc(15px);
     .pubdate {
-      color: lighten($darkColor, 50%);
+      color: lighten($darkColor, 40%);
       display: inline-block;
-      font-size: .85em;
+      font-size: 1rem;
       font-weight: normal;
-      margin-left: 10px;
-    }
-  }
-}
-
-.archive__tag-list {
-  margin: 1.3em 0 0 0;
-  li {
-    display: inline-block;
-    list-style-type: none;
-    font-size: 1.15em;
-    line-height: 1.8em;
-    padding: 0;
-    &:after {
-      color: lighten($darkColor, 70%);
-      content: "//";
-      padding: 0 3px 0 6px;
-      font-size: .7em;
-    }
-    &:last-child {
-      padding: 0;
-      &:after {
-        content: "";
-      }
+      margin-left: rem-calc(10px);
     }
   }
 }

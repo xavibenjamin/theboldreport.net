@@ -1,4 +1,4 @@
-/*
+ /*
 
 IMAGES
 ------------------------------------------- */
@@ -14,111 +14,92 @@ img {
 }
 
 figure {
-  margin: 1.8em 0;
+  margin: 2rem 0;
 }
 
 figcaption {
   @extend %sans;
-  color: lighten($darkColor, 35%);
-  font-size: .85em;
+  color: lighten($darkColor, 30%);
+  font-size: 1.1rem;
 }
 
 .extendout {
-  width: 170%;
-  margin-left: -35%;
-  @include breakpoint(xxl) {
-    width: 150%;
-    margin-left: -25%;
-  }
-  @include breakpoint(xl) {
-    width: 130%;
-    margin-left: -15%;
-  }
-  @include breakpoint(l) {
-    width: 118%;
-    margin-left: -9%;
-  }
-  @include breakpoint(m) {
-    width: 100%;
-    margin-left: 0;
-  }
+  width: 100%;
+  margin-left: 0;
   figcaption {
     margin: $spacing-xs auto;
-    max-width: 600px;
+    max-width: 640px;
     width: 100%;
   }
 }
 
 .fullwidth {
-  margin: 1.8em 0;
+  margin: 2rem 0;
   figcaption {
     margin: $spacing-xs 0;
   }
 }
 
-%aligned-email-widths {
-  width: 170%;
-  margin-left: -35%;
-  @include breakpoint(xxl) {
-    width: 150%;
-    margin-left: -25%;
-  }
-  @include breakpoint(xl) {
-    width: 130%;
-    margin-left: -15%;
-  }
-  @include breakpoint(l) {
-    width: 118%;
-    margin-left: -9%;
-  }
-  @include breakpoint(m) {
-    width: 100%;
-    margin-left: 0;
-  }
-}
-
 .alignleft {
   @extend %clearfix;
-  @extend %aligned-email-widths;
   img {
-    float: left;
-    width: 70%;
-    @include breakpoint(m) {
-      float: none;
-      width: 100%;
+    @media #{$medium-up} {
+      float: left;
+      width: 70%;
     }
   }
   figcaption {
-    float: left;
-    width: 30%;
-    padding: 0 0 0 $spacing-s;
-    @include breakpoint(m) {
-      float: none;
-      padding: 0;
-      width: 100%;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    @media #{$medium-up} {
+      float: left;
+      padding-left: $spacing-s;
+      width: 25%;
+    }
+    @media #{$large-up} {
+      width: 30%;
     }
   }
 }
 
 .alignright {
   @extend %clearfix;
-  @extend %aligned-email-widths;
   img {
-    float: right;
-    width: 70%;
-    @include breakpoint(m) {
-      float: none;
-      width: 100%;
+    @media #{$medium-up} {
+      float: right;
+      width: 70%;
     }
   }
   figcaption {
-    float: right;
-    width: 30%;
-    padding: 0 $spacing-s 0 0;
-    @include breakpoint(m) {
-      float: none;
-      padding: 0;
-      width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    @media #{$medium-up} {
+      float: right;
+      padding-right: $spacing-s;
+      width: 25%;
     }
+    @media #{$large-up} {
+      width: 30%;
+    }
+  }
+}
+
+.small__right {
+  float: right;
+  margin-left: rem-calc(30px);
+  width: 40%;
+  @media #{$large-up} {
+    width: 50%;
+  }
+}
+
+.small__left {
+  float: left;
+  margin-right: rem-calc(30px);
+  width: 40%;
+  @media #{$large-up} {
+    width: 50%;
   }
 }

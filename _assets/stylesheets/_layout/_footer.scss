@@ -4,15 +4,15 @@ FOOTER
 --------------------------------------------------------- */
 
 .site__footer {
-  padding: 3em 0;
+  padding: 3rem 0;
   @extend %clearfix;
   small {
-    color: lighten($darkColor, 35%);
+    color: lighten($darkColor, 30%);
     display: block;
-    font-size: .85em;
+    font-size: 1.1rem;
     @extend %sans;
   }
   @include breakpoint(container) {
-    padding: 2em 10px;
+    padding: 2rem 10px;
   }
 }

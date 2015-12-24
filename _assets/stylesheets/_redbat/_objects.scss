@@ -3,13 +3,24 @@
 OBJECTS
 ------------------------------------------- */
 
-body {
-  // background: $darkColor;
-}
 .container {
   margin: 0 auto;
-  max-width: 600px;
   width: 100%;
   @extend %clearfix;
   position: relative;
+  @media #{$medium-up} {
+    max-width: 760px;
+  }
+  @media #{$large-up} {
+    max-width: 1000px;
+  }
+}
+
+svg {
+  width: 100%;
+}
+
+iframe {
+  width: 100%;
+  margin: 1rem 0;
 }
