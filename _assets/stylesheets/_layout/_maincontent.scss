@@ -20,6 +20,9 @@ MAIN CONTENT
 
 .post__header {
   margin: 0 0 $spacing-xxs;
+  h1 {
+    width: 100%;
+  }
   .post__meta {
     color: lighten($darkColor, 30%);
     display: block;
@@ -126,7 +129,7 @@ MAIN CONTENT
 
 /* Media Queries on Post Type */
 
-h2, h3, h4, h5, h6, .post__entry>p, ul, ol, figcaption, .alignleft figcaption, .alignright figcaption, .footnotes, .post__meta, .highlight, .post__header, .pagination, iframe, .site__footer small {
+h1, h2, h3, h4, h5, h6, .post__entry>p, .page__entry>p, ul, ol, .extendout figcaption, .footnotes, .post__meta, .highlight, .post__header, .pagination, .site__footer small {
   margin-left: auto;
   margin-right: auto;
   width: 90%;

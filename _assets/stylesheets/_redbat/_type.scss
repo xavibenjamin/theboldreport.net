@@ -108,13 +108,8 @@ TEXT
 }
 
 .wf-active, .wf-inactive {
-  // transition: visibility 300ms ease;
   visibility: visible;
   opacity: 1;
-}
-
-.content__main-content {
-
 }
 
 p {
@@ -180,6 +175,7 @@ ul {
     font-size: 1.3rem;
     ul {
       list-style-type: circle;
+      width: 100%;
       li {
         font-size: inherit !important;
       }
@@ -203,6 +199,10 @@ ol {
     line-height: 160%;
     margin-bottom: rem-calc(2px);
     margin-left: rem-calc(40px);
+    ol {
+      list-style-type: lower-roman;
+      width: 100%;
+    }
     p {
       font-size: inherit !important;
       margin: 0 0 rem-calc(25px) 0 !important;
@@ -214,7 +214,7 @@ ol {
   color: $darkColor;
   font-size: 2.6rem;
   font-weight: 800;
-  margin: 0 0 2rem;
+  margin-bottom: 2rem;
 }
 
 
