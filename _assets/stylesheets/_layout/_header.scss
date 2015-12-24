@@ -11,14 +11,14 @@ HEADER
   padding: $spacing-s;
   @media #{$medium-up} {
     flex-direction: row;
-    padding: $spacing-s $spacing-m;
+    padding: rem-calc(15px);
   }
 }
 
 .site__branding {
   margin: auto;
   @media #{$medium-up} {
-    margin-right: $spacing-l;
+    margin-right: $spacing-m;
   }
 }
 
@@ -26,9 +26,6 @@ HEADER
   display: block;
   width: 200px;
   max-height: 28px;
-  @media #{$large-up} {
-    width: 220px;
-  }
   .bold__first, .bold__third {
     fill: $darkColor;
     transition: fill 310ms ease;
