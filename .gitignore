@@ -4,3 +4,4 @@
 .sass-cache
 _site
 .DS_Store
+.asset-cache

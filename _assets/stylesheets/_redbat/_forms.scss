@@ -41,25 +41,10 @@ input:focus::-moz-placeholder {
     font-size: 1.1rem;
     padding: rem-calc(10px) rem-calc(10px);
     width: 100%;
-    @include transition(.2s ease-in-out);
+    transition: .2s ease-in-out;
     &:focus {
       border-color: $linkColor;
     }
   }
 }
 
-// .search-page__search-form {
-//   input {
-//     background: lighten($darkColor, 70%);
-//     border-radius: 3px;
-//     color: $darkColor;
-//     font-size: .85em;
-//     padding: 12px;
-//     width: 100%;
-//     @include transition(.2s ease);
-//     @extend %sans;
-//     &:focus {
-//       box-shadow: inset 1px 1px 1px rgba(black, .1);
-//     }
-//   }
-// }

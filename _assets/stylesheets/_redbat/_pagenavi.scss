@@ -31,7 +31,7 @@ PAGE NAVIGATION
   font-weight: bold;
   color: white;
   text-decoration: none !important;
-  @include border-radius (4px);
+  border-radius: 3px;
   &:hover {
     background: $linkColor;
     color: white;
@@ -46,7 +46,7 @@ PAGE NAVIGATION
   color: lighten($darkColor, 40%);
   padding: 5px 14px !important;
   margin: 0 5px;
-  @include border-radius (4px);
+  border-radius: 3px;
   border: none !important;
   display: inline-block;
   font-weight: bold;
