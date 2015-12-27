@@ -1,14 +1,13 @@
 /*
-
 HEADER
---------------------------------------------------------- */
+-------------------------------------------- */
 
 .site__header {
   display: flex;
   flex-direction: column;
   margin: 0 0 $spacing-l;
   border-bottom: 1px solid $borderColor;
-  padding: $spacing-s;
+  padding: $spacing-m $spacing-s;
   @media #{$medium-up} {
     flex-direction: row;
     padding: rem-calc(15px);
@@ -16,16 +15,20 @@ HEADER
 }
 
 .site__branding {
-  margin: auto;
+  margin: auto auto $spacing-xxs;
   @media #{$medium-up} {
-    margin-right: $spacing-m;
+    margin: auto $spacing-m auto auto;
   }
 }
 
 .logo {
   display: block;
-  width: 200px;
-  max-height: 28px;
+  width: 230px;
+  max-height: 33px;
+  @media #{$medium-up} {
+    width: 200px;
+    max-height: 28px;
+  }
   .bold__first, .bold__third {
     fill: $darkColor;
     transition: fill 310ms ease;
@@ -69,16 +72,6 @@ HEADER
   flex: 1;
   @extend %sans;
 }
-
-/* Top Push Bar */
-.top-push-bar {
-  @include transform(translateY(-100%));
-  @include transition(300ms ease);
-  .BarShow & {
-    @include transform(translateY(0));
-  }
-}
-
 
 
 

@@ -5,7 +5,7 @@ MAIN CONTENT
 
 .type-post {
   &.format-link {
-    margin-bottom: 6rem;
+    margin-bottom: 8rem;
   }
   &.format-post {
     margin: 0 0 8rem 0;
@@ -19,7 +19,6 @@ MAIN CONTENT
 }
 
 .post__header {
-  margin: 0 0 $spacing-xxs;
   h1 {
     width: 100%;
   }
@@ -28,7 +27,7 @@ MAIN CONTENT
     display: block;
     font-size: 1rem;
     font-weight: 300;
-    margin: 0 0 $spacing-s;
+    margin-bottom: $spacing-s;
     @extend %sans;
   }
 }
@@ -129,7 +128,7 @@ MAIN CONTENT
 
 /* Media Queries on Post Type */
 
-h1, h2, h3, h4, h5, h6, .post__entry>p, .page__entry>p, ul, ol, .extendout figcaption, .footnotes, .post__meta, .highlight, .post__header, .pagination, .site__footer small {
+h1, h2, h3, h4, h5, h6, .post__entry>p, .page__entry>p, ul, ol, .extendout figcaption, .footnotes, .highlight, .post__header, .pagination, .site__footer small {
   margin-left: auto;
   margin-right: auto;
   width: 90%;
