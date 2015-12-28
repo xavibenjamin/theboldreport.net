@@ -6,9 +6,9 @@ permalink: /:title
 paginate: 20
 plugins_dir:  ./_plugins
 gems:
+  - jekyll-lunr-js-search
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-lunr-js-search
 exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock']
 lunr_excludes: ['atom.xml', 'atom.articles.xml', 'sitemap.xml']
 timezone: America/Chicago
