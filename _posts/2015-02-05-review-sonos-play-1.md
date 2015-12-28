@@ -17,7 +17,7 @@ Sonos is widely regarded as a premier speaker system for your home. Their newest
 
 - The design of the speaker is quite beautiful, and really blends in with any type of decor.
 
-{% image extendout /uploads/2014/01/sonos-top_view.jpg "The Sonos Play:1 from the top" %}
+{% figure extendout /uploads/2014/01/sonos-top_view.jpg "The Sonos Play:1 from the top" %}
 
 
 ## Setting Up the Sonos
@@ -34,7 +34,7 @@ I'm no audiophile, but I know what sounds good. This speaker is spectacular. The
 
 The Play:1 could easily fill my previous studio apartment, and now still covers an impressive amount of space in the 2 bedroom house I'm currently in. Still, I'd love to have another just so I have one specifically for my horrendous shower singing.
 
-{% image alignleft /uploads/2014/01/sonos-side_view.jpg "The Sonos Play:1 from the side" %}
+{% figure alignleft /uploads/2014/01/sonos-side_view.jpg "The Sonos Play:1 from the side" %}
 
 ## Controller Apps
 This is my biggest gripe against Sonos. As impressive as their hardware is, the software powering everything is less than ideal.

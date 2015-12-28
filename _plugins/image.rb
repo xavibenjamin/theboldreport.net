@@ -1,5 +1,5 @@
 module Jekyll
-  class ImageTag < Liquid::Tag
+  class FigureTag < Liquid::Tag
     @url = nil
     @caption = nil
     @class = nil
@@ -62,4 +62,4 @@ module Jekyll
   end
 end
 
-Liquid::Template.register_tag('image', Jekyll::ImageTag)
+Liquid::Template.register_tag('figure', Jekyll::FigureTag)
