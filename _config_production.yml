@@ -1,36 +1,39 @@
+# General Info
 name: The Bold Report
 url: http://theboldreport.net
 description: 'An exploration of design, development, tech, Geek culture, Apple, and more.'
-highlighter: rouge
+timezone: America/Chicago
 permalink: /:title
 paginate: 20
+exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock', 'vendor', '.asset-cache']
+lunr_excludes: ['atom.xml', 'atom.articles.xml', 'sitemap.xml']
+
+# Where Things Are
 plugins_dir:  ./_plugins
+
+# Syntax Highlighting
+highlighter: rouge
+
+# Plugins
 gems:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-lunr-js-search
-exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock', 'vendor']
-lunr_excludes: ['atom.xml', 'atom.articles.xml', 'sitemap.xml']
-timezone: America/Chicago
+
+# Server
 port: 4000
-post:
-  extension: md
-page:
-  template: _page.txt
-  extension: md
+
+# Assets
 assets:
   compress:
     css: true
     js: true
-  js_compressor: uglifier
-  css_compressor: sass
+  digest: true
   sources:
-      - _assets/fonts
-      - _assets/javascripts
-      - _assets/stylesheets
-  gzip: false
-  cachebust: hard
+    - _assets/fonts
+    - _assets/javascripts
+    - _assets/stylesheets
 
 # Markdown Rendering
 markdown: redcarpet
