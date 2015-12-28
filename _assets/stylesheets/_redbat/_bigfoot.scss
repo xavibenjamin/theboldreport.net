@@ -608,7 +608,7 @@ $button-transition-properties:      background-color;
   // Smaller by one border-width's worth
   width: $popover-tooltip-size;
   height: $popover-tooltip-size;
-  @include transform(rotate(45deg));
+  transform: rotate(45deg);
 
   // BACKDROP
   background: $popover-tooltip-background;

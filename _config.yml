@@ -1,9 +1,14 @@
 name: The Bold Report - Development
 url: http://localhost:4000
 description: 'An exploration of design, development, tech, Geek culture, Apple, and more.'
-highlighter: pygments
+highlighter: rouge
 permalink: /:title
 paginate: 20
+plugins_dir:  ./_plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-lunr-js-search
 exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock']
 lunr_excludes: ['atom.xml', 'atom.articles.xml', 'sitemap.xml']
 timezone: America/Chicago

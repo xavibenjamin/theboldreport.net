@@ -1,9 +1,14 @@
 name: The Bold Report
 url: http://theboldreport.net
 description: 'An exploration of design, development, tech, Geek culture, Apple, and more.'
-highlighter: pygments
+highlighter: rouge
 permalink: /:title
 paginate: 20
+plugins_dir:  ./_plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-lunr-js-search
 exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock', 'vendor']
 include: ['.htaccess']
 lunr_excludes: ['atom.xml', 'atom.articles.xml', 'sitemap.xml']
