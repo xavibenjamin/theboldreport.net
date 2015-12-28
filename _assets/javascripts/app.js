@@ -2,4 +2,4 @@
 //= require search
 //= require vendor/bigfoot.min
 
-$.bigfoot();
+// $.bigfoot();

@@ -105,23 +105,25 @@ MAIN CONTENT
 .footnotes {
   margin: 40px 0;
   ol {
-    margin: 0 0 0 6%;
+    margin: 0 0 0 rem-calc(40px);
+    width: 83%;
     li {
-      font-size: .95em;
+      font-size: 1rem;
       padding: 0;
       margin: 0;
-      @media screen and (max-width: 320px ) {
-        font-size: 1em;
+      @media #{$medium-up} {
+        font-size: .95rem;
+      }
+      code {
+        font-size: .8rem;
       }
     }
   }
-  &:before {
+  hr {
     background: $borderColor;
-    content: " ";
     display: block;
-    height: 2px;
     width: 150px;
-    margin-bottom: 20px;
+    margin: 20px 0;
   }
 }
 
