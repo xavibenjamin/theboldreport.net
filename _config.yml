@@ -6,9 +6,10 @@ permalink: /:title
 paginate: 20
 plugins_dir:  ./_plugins
 gems:
-  - jekyll-lunr-js-search
+  - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-lunr-js-search
 exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock']
 lunr_excludes: ['atom.xml', 'atom.articles.xml', 'sitemap.xml']
 timezone: America/Chicago
@@ -16,16 +17,17 @@ port: 4000
 post:
   extension: md
 assets:
-  js_compressor: uglifier
-  css_compressor: sass
+  compress:
+    css: false
+    js: false
+  assets: []
   sources:
       - _assets/fonts
       - _assets/javascripts
       - _assets/stylesheets
-  gzip: false
-  cachebust: none
+
+# Markdown Rendering
 markdown: redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
-
 redcarpet:
   extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks", "no_intra_emphasis", "footnotes", "smart"]
