@@ -24,7 +24,7 @@ gems:
 # Server
 port: 4000
 
-# Assets
+# Build Info
 assets:
   js_compressor: uglifier
   css_compressor: sass
@@ -32,6 +32,8 @@ assets:
     - _assets/fonts
     - _assets/javascripts
     - _assets/stylesheets
+post:
+  extension: md
 
 # Markdown Rendering
 markdown: redcarpet
