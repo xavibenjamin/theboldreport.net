@@ -131,4 +131,4 @@ And that's it! Create a new post with the first workflow, and publish it with th
 Happy blogging!
 
 ----
-*Btdubs… this post was written completely on my iPad, and i loved every minute of it.*
+*Btdubs… this post was written completely on my iPad, and I loved every minute of it.*
