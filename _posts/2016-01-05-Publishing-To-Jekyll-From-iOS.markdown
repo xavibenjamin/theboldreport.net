@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publishing To Jekyll From iOS
-categories articles
+categories: articles
 custom_type: post
 date: 2016-01-05 01:25
 ---
