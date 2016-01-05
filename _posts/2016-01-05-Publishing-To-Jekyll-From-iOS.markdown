@@ -129,3 +129,6 @@ else:
 And that's it! Create a new post with the first workflow, and publish it with the second one. If you have any issues or have questions, I'm [@ttimsmith](https://twitter.com/ttimsmith) on Twitter. 
 
 Happy blogging!
+
+----
+*Btdubs… this post was written completely on my iPad, and i loved every minute of it.*
