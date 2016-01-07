@@ -26,16 +26,10 @@ figcaption {
 .extendout {
   width: 100%;
   margin-left: 0;
-  figcaption {
-    margin: $spacing-xs auto;
-  }
 }
 
 .fullwidth {
   margin: 2rem 0;
-  figcaption {
-    margin: $spacing-xs 0;
-  }
 }
 
 .alignleft {
@@ -99,5 +93,58 @@ figcaption {
   width: 40%;
   @media #{$large-up} {
     width: 50%;
+  }
+}
+
+.photo-grid {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  width: 90%;
+  figcaption {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    @media #{$medium-up} {
+      width: 80%;
+    }
+    @media #{$large-up} {
+      width: 65%;
+    }
+  }
+  @media #{$medium-up} {
+    margin-left: rem-calc(-3px);
+    margin-right: rem-calc(-3px);
+    width: 100%;
+  }
+  img {
+    margin-bottom: rem-calc(6px);
+    @media #{$medium-up} {
+      margin-left: rem-calc(3px);
+      margin-right: rem-calc(3px);
+    }
+  }
+  .grid-tall {
+    @media #{$medium-up} {
+      width: calc(35.25% - 0.375rem);
+    }
+  }
+  .grid-wide {
+    @media #{$medium-up} {
+      width: calc(62.7% - 0.375rem);
+    }
+  }
+  .grid-thirds {
+    @media #{$medium-up} {
+      width: calc(33.3% - 0.375rem);
+    }
+  }
+  .grid-half {
+    @media #{$medium-up} {
+      width: calc(50% - 0.375rem);
+    }
   }
 }
