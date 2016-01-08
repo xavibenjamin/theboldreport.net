@@ -19,7 +19,6 @@ Sonos is widely regarded as a premier speaker system for your home. Their newest
 
 {% figure extendout /uploads/2014/01/sonos-top_view.jpg "The Sonos Play:1 from the top" %}
 
-
 ## Setting Up the Sonos
 Sonos is very simple to setup, and you can do it one of two ways. The first is to connect your speaker via ethernet cable. I didn't personally try this, but it seems simple enough. This limits where you can put the speaker, as it will need to be close to your router.
 
