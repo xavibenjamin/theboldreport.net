@@ -43,7 +43,7 @@ Kelly and I went to Europe for the first time this summer. It was the first time
   <figcaption>Some of my favorite Europe moments.</figcaption>
 </figure>
 
-We saw the Eiffel Tower at night with all the lights on, walked many unknown streets, took the subway, had espresso and pastries in French cafe, missed our train, felt frustrated because we couldn’t speak French, ate amazing food, made great new friends, and saw people nude on the beach like it was no big deal. I hope we get the chance to go back.
+We saw the Eiffel Tower at night with all the lights on, walked many unknown streets, took the subway, had espresso and pastries in a French cafe, missed our train, felt frustrated because we couldn’t speak French, ate amazing food, made great new friends, and saw people nude on the beach like it was no big deal. I hope we get the chance to go back.
 
 ---
 
