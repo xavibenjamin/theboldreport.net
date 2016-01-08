@@ -14,13 +14,13 @@ img {
 }
 
 figure {
-  margin: 2rem 0;
+  margin: 0 0 rem-calc(30px);
 }
 
 figcaption {
   @extend %sans;
-  color: lighten($darkColor, 30%);
-  font-size: 1.1rem;
+  color: lighten($darkColor, 25%);
+  font-size: 1rem;
 }
 
 .extendout {
@@ -85,6 +85,10 @@ figcaption {
   @media #{$large-up} {
     width: 50%;
   }
+  figcaption {
+    width: 90%;
+    margin: 0 auto;
+  }
 }
 
 .small__left {
@@ -94,6 +98,10 @@ figcaption {
   @media #{$large-up} {
     width: 50%;
   }
+  figcaption {
+    width: 90%;
+    margin: 0 auto;
+  }
 }
 
 .photo-grid {
@@ -102,7 +110,6 @@ figcaption {
   flex-wrap: wrap;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 2rem;
   width: 90%;
   figcaption {
     margin-left: auto;

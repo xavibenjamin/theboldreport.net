@@ -196,8 +196,11 @@ ol {
       width: 100%;
     }
     p {
-      font-size: inherit !important;
-      margin: 0 0 rem-calc(25px) 0 !important;
+      font-size: inherit;
+      margin: 0 0 rem-calc(25px) 0;
+      &:last-child {
+        margin-bottom: rem-calc(15px);
+      }
     }
   }
 }

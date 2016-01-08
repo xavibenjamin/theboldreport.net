@@ -23,7 +23,7 @@ MAIN CONTENT
     width: 100%;
   }
   .post__meta {
-    color: lighten($darkColor, 30%);
+    color: lighten($darkColor, 20%);
     display: block;
     font-size: 1rem;
     font-weight: 300;
@@ -37,10 +37,11 @@ MAIN CONTENT
 .format-post {
   .post__entry {
     >p:first-child {
-      color: lighten($darkColor, 30%);
+      color: lighten($darkColor, 20%);
       line-height: 130%;
       font-size: 1.7rem;
       font-weight: 300;
+      margin-bottom: rem-calc(30px);
       @extend %sans;
     }
   }
