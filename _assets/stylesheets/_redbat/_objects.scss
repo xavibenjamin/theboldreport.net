@@ -9,7 +9,7 @@ OBJECTS
   @extend %clearfix;
   position: relative;
   @media #{$medium-up} {
-    max-width: 760px;
+    max-width: 768px;
   }
   @media #{$large-up} {
     max-width: 1000px;
