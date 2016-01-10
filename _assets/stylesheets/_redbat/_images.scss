@@ -14,13 +14,23 @@ img {
 }
 
 figure {
-  margin: 0 0 rem-calc(30px);
+  margin-bottom: rem-calc(30px);
 }
 
 figcaption {
   @extend %sans;
-  color: lighten($darkColor, 25%);
-  font-size: 1rem;
+  color: lighten($darkColor, 20%);
+  font-size: 1.1rem;
+  line-height: 130%;
+  code {
+    font-size: .9rem;
+    @media #{$medium-up} {
+      font-size: .7rem;
+    }
+  }
+  @media #{$medium-up} {
+    font-size: .9rem;
+  }
 }
 
 .extendout {
@@ -83,7 +93,7 @@ figcaption {
   margin-left: rem-calc(30px);
   width: 40%;
   @media #{$large-up} {
-    width: 50%;
+    width: 45%;
   }
   figcaption {
     width: 90%;
@@ -96,7 +106,7 @@ figcaption {
   margin-right: rem-calc(30px);
   width: 40%;
   @media #{$large-up} {
-    width: 50%;
+    width: 45%;
   }
   figcaption {
     width: 90%;

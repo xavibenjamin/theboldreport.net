@@ -85,7 +85,7 @@ h6 {
   line-height: 130%;
 }
 
-h1,h2,h3,h5 {
+h1,h5 {
   color: $darkColor;
 }
 
@@ -118,16 +118,15 @@ h1 {
 }
 
 h2 {
+  color: lighten($darkColor, 30%);
   margin: 2.3rem 0 rem-calc(3px);
   font-size: 1.6rem;
-  font-weight: 700;
 }
 
 h3 {
-  color: lighten($darkColor, 30%);
+  color: lighten($darkColor, 25%);
   font-size: 1.4rem;
   margin: 2.5em 0 rem-calc(3px);
-  // font-weight: bold;
 }
 
 h4 {
@@ -154,8 +153,8 @@ h5 {
 }
 
 ul {
-  list-style-type: square;
-  margin: 0 0 0 rem-calc(25px);
+  list-style-type: disc;
+  margin-bottom: rem-calc(25px);
   @media #{$medium-up} {
     margin-bottom: rem-calc(25px);
     margin-left: rem-calc(40px);
@@ -167,6 +166,7 @@ ul {
     font-size: 1.3rem;
     ul {
       list-style-type: circle;
+      margin-bottom: 0;
       width: 100%;
       li {
         font-size: inherit !important;
@@ -193,6 +193,7 @@ ol {
     margin-left: rem-calc(40px);
     ol {
       list-style-type: lower-roman;
+      margin-bottom: 0;
       width: 100%;
     }
     p {
@@ -270,6 +271,8 @@ code {
     font-size: 1rem;
   }
 }
+
+
 
 /*
 
