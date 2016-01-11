@@ -13,8 +13,8 @@ Dave Itzkoff reporting for *The New York Times*:
 > 
 > Ms. Miller went a further step by creating an application packet for prospective writers to show them what their submissions should look like — what formatting, margins, abbreviations and lingo to use — so that no one would be penalized for inexperience.
 
-The work that the “Full Frontal” producers have put into hiring a diverse staff is worthy of praise. From what I gather, it seems this show is one-of-a-kind in that effort. 
+The work that the *Full Frontal* producers have put into hiring a diverse staff is worthy of praise. From what I gather, it seems this show is one-of-a-kind in that effort. 
 
-When the "The Daily Show" didn't even consider Samantha, I was shocked. Don't get me wrong, Trevor Noah has done a pretty great job, but with the tenure and track record Samantha had, the oversight is completely ridiculous.
+When the *The Daily Show* didn't even consider Samantha, I was shocked. Don't get me wrong, Trevor Noah has done a pretty great job, but with the tenure and track record Samantha had, the oversight is completely ridiculous.
 
 Fortunately, she's found a new home where she can do her thing. Come February 8th, I'll definitely be rooting for this show.
