@@ -23,10 +23,9 @@ MAIN CONTENT
     width: 100%;
   }
   .post__meta {
-    color: lighten($darkColor, 20%);
+    color: lighten($darkColor, 30%);
     display: block;
     font-size: 1rem;
-    font-weight: 300;
     margin-bottom: $spacing-s;
     @extend %sans;
   }
