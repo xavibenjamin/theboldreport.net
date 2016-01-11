@@ -35,7 +35,7 @@ layout: null
           {{ post.content }}
 
           {% if post.custom_type == 'link' %}
-            <div><a title="Permalink" href="{{ site.url | xml_escape }}{{ post.url | xml_escape }}">♨</a></div>
+            <div><a title="Permalink" href="{{ site.url | xml_escape }}{{ post.url | xml_escape }}">∞</a></div>
           {% endif %}
         ]]>
       </content>
