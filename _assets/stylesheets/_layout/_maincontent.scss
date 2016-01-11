@@ -46,13 +46,12 @@ MAIN CONTENT
     }
   }
   h1 {
-    font-size: 2.6rem;
-    font-weight: 900;
+    font-size: 2.5rem;
+    font-weight: 600;
     margin: 0;
     a {
       border-bottom: none;
       color: $darkColor;
-      font-weight: 800;
       text-decoration: none !important;
       &:hover {
         color: $linkColor;
@@ -67,8 +66,8 @@ MAIN CONTENT
 .format-link {
   h1 {
     font-size: 1.6rem;
-    font-weight: 700;
-    line-height: 155%;
+    font-weight: normal;
+    line-height: 130%;
     margin: 0;
     a {
       text-decoration: underline !important;
@@ -128,7 +127,7 @@ MAIN CONTENT
 
 /* Media Queries on Post Type */
 
-h1, h2, h3, h4, h5, h6, .post__entry>p, .page__entry>p, ul, ol, .extendout figcaption, .footnotes, .highlight, .post__header, .pagination, .site__footer small {
+h1, h2, h3, h4, h5, h6, .post__entry>p, .search-results-list>p, .page__entry>p, ul, ol, .extendout figcaption, .footnotes, .highlight, .post__header, .pagination, .site__footer small {
   margin-left: auto;
   margin-right: auto;
   width: 90%;
