@@ -5,9 +5,10 @@ PAGES
 .archive-list, .search-results-list {
   h3 {
     font-size: 1.2rem;
-    margin-top: rem-calc(15px);
+    margin-bottom: rem-calc(14px);
+    margin-top: 0;
     .pubdate {
-      color: lighten($darkColor, 40%);
+      color: lighten($darkColor, 25%);
       display: inline-block;
       font-size: 1rem;
       font-weight: normal;
