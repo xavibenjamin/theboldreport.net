@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jeremy Keith on The Force Awakens
+title: "Jeremy Keith on ‘The Force Awakens’"
 categories: link
 custom_type: link
 link_url: https://adactio.com/journal/10067
