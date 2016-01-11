@@ -40,7 +40,7 @@ HEADER
 }
 
 .site__navigation {
-  flex: 2;
+  flex: 1;
   margin: auto auto rem-calc(25px);
   @media #{$medium-up} {
     margin-right: $spacing-m;
@@ -55,7 +55,7 @@ HEADER
   li {
     display: inline;
     list-style-type: none;
-    font-size: 1.1rem;
+    font-size: 1rem;
     margin-right: rem-calc(15px);
     margin-left: 0;
     padding: 0;
@@ -69,7 +69,7 @@ HEADER
 /* Search */
 
 .site__search-form {
-  flex: 1;
+  flex: 0 1 30%;
   @extend %sans;
 }
 
