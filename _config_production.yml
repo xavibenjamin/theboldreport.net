@@ -17,9 +17,10 @@ highlighter: rouge
 # Plugins
 gems:
   - jekyll-assets
-  - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-lunr-js-search
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-sitemap
 
 # Server
 port: 4000
