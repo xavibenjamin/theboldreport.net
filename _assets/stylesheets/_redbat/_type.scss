@@ -281,7 +281,7 @@ BLOCKQUOTE
 
 blockquote {
   border-left: 3px solid $linkColor;
-  color: lighten($bodyColor, 20%);
+  color: lighten($bodyColor, 15%);
   padding-left: rem-calc(15px);
   margin: 0 auto rem-calc(25px);
   width: 90%;
