@@ -19,7 +19,6 @@ gems:
   - jekyll-assets
   - jekyll-lunr-js-search
   - jekyll-paginate
-  - jekyll-redirect-from
   - jekyll-sitemap
 
 # Server

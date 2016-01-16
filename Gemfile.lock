@@ -37,8 +37,6 @@ GEM
       nokogiri (~> 1.6)
       therubyracer (~> 0.12)
     jekyll-paginate (1.1.0)
-    jekyll-redirect-from (0.9.1)
-      jekyll (>= 2.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
     jekyll-sitemap (0.9.0)
@@ -99,7 +97,6 @@ DEPENDENCIES
   jekyll-assets
   jekyll-lunr-js-search
   jekyll-paginate (~> 1.1)
-  jekyll-redirect-from
   jekyll-sitemap
   json
   nokogiri
