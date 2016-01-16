@@ -39,7 +39,7 @@ input:focus::-moz-placeholder {
     border-radius: 3px;
     color: $darkColor;
     font-size: 1.1rem;
-    padding: rem-calc(10px) rem-calc(10px);
+    padding: rem-calc(10px);
     width: 100%;
     transition: .2s ease-in-out;
     &:focus {
@@ -48,3 +48,60 @@ input:focus::-moz-placeholder {
   }
 }
 
+.newsletter {
+  form {
+    display: flex;
+    flex-direction: column;
+    @media #{$medium-up} {
+      flex-direction: row;
+    }
+  }
+  label {
+    display: block;
+    font-weight: 600;
+    @extend %sans;
+  }
+  input {
+    border: 1px solid $borderColor;
+    border-radius: 3px;
+    color: $darkColor;
+    font-size: .95rem;
+    padding: rem-calc(5px);
+    width: 100%;
+    transition: .2s ease-in-out;
+    @extend %sans;
+    &:focus {
+      border-color: $linkColor;
+    }
+  }
+  .button-group {
+    display: flex;
+    align-items: flex-end;
+  }
+
+  .form-group {
+    @media #{$medium-up} {
+      flex: 1 1 30%;
+    }
+  }
+}
+
+.form-group {
+  margin: 0 0 rem-calc(15px);
+  @media #{$medium-up} {
+    margin: 0 rem-calc(20px) 0 0;
+  }
+}
+
+.newsletter__thankyou {
+  &.js-submitted {
+    background: lighten($linkColor, 40%);
+    border: 1px solid lighten($linkColor, 20%);
+    border-radius: 3px;
+    padding: 15px 8px;
+    @extend %sans;
+    p {
+      font-size: 1rem;
+    }
+  }
+}
