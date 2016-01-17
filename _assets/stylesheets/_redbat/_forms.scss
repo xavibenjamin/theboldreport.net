@@ -5,7 +5,7 @@ FORMS
 
 // Webkit Placeholder
 ::-webkit-input-placeholder {
-  color: lighten($darkColor, 30%);
+  color: lighten($darkColor, 20%);
   transition: all .2s ease;
 }
 
@@ -15,7 +15,7 @@ input:focus::-webkit-input-placeholder {
 
 // Firefox 18
 :-moz-placeholder { /* Firefox 18- */
-  color: lighten($darkColor, 30%);
+  color: lighten($darkColor, 20%);
   transition: all .2s ease;
 }
 
@@ -25,7 +25,7 @@ input:focus:-moz-placeholder {
 
 // Firefox 19
 ::-moz-placeholder {  /* Firefox 19+ */
-  color: lighten($darkColor, 30%);
+  color: lighten($darkColor, 20%);
   transition: all .2s ease;
 }
 
@@ -38,7 +38,7 @@ input:focus::-moz-placeholder {
     border: 1px solid $borderColor;
     border-radius: 3px;
     color: $darkColor;
-    font-size: 1.1rem;
+    font-size: .9rem;
     padding: rem-calc(10px);
     width: 100%;
     transition: .2s ease-in-out;
