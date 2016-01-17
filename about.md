@@ -15,7 +15,7 @@ I write about design, development, technology, Geek culture, Apple, and more. My
 I endeavor to be well-balanced when reporting any type of news, however I am very passionate and opinionated on these topics, and that will always have an influence on what I write.
 
 ## Tools
-Most writing is done on my Macbook Pro in [Byword](http://bywordapp.com/). The site is designed and developed in [Sublime Text](http://www.sublimetext.com/), with the exception of the logo. Hosted by [Media Temple](https://mediatemple.7eer.net/c/136705/168246/2795), and powered by [Jekyll](http://jekyllrb.com).
+Most writing is done on my Macbook Pro in [Byword](http://bywordapp.com/). The site is designed and developed in [Sublime Text](http://www.sublimetext.com/), with the exception of the logo. Hosted by [Heroku](https://www.heroku.com), and powered by [Jekyll](http://jekyllrb.com).
 
 ## Contact
 If you have questions, concerns, feedback, or compliments about *The Bold Report*, please feel free to contact me. You can reach me on [Twitter](https://twitter.com/ttimsmith) or email [tim@theboldreport.net](mailto:tim@theboldreport.net).
