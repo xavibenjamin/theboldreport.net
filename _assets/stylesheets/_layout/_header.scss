@@ -15,19 +15,21 @@ HEADER
 }
 
 .site__branding {
-  margin: auto auto $spacing-xxs;
+  margin: auto auto $spacing-s;
+  text-align: center;
   @media #{$medium-up} {
     margin: auto $spacing-m auto auto;
+    text-align: left;
   }
 }
 
 .logo {
   display: block;
-  width: 230px;
-  max-height: 33px;
+  width: 200px;
+  max-height: 29px;
   @media #{$medium-up} {
-    width: 200px;
-    max-height: 28px;
+    width: 180px;
+    max-height: 24px;
   }
   .bold__first, .bold__third {
     fill: $darkColor;
@@ -36,6 +38,20 @@ HEADER
   .bold__second {
     fill: $linkColor;
     transition: fill 310ms ease;
+  }
+}
+
+.site__author {
+  color: lighten($darkColor, 15%);
+  font-size: 1.15rem;
+  line-height: 100%;
+  @extend %sans;
+  @media #{$medium-up} {
+    font-size: .85rem;
+    position: absolute;
+  }
+  @media #{$large-up} {
+    font-size: .8rem;
   }
 }
 
@@ -55,11 +71,14 @@ HEADER
   li {
     display: inline;
     list-style-type: none;
-    font-size: 1rem;
+    font-size: 1.3rem;
     margin-right: rem-calc(15px);
     margin-left: 0;
     padding: 0;
     @extend %sans;
+    @media #{$medium-up} {
+      font-size: .9rem;
+    }
     &:last-child {
       margin-right: 0;
     }
