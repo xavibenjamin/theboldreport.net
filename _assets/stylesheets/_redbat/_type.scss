@@ -85,7 +85,7 @@ h6 {
   line-height: 130%;
 }
 
-h1,h5 {
+h1, h2, h5 {
   color: $darkColor;
 }
 
@@ -118,9 +118,9 @@ h1 {
 }
 
 h2 {
-  color: lighten($darkColor, 30%);
-  margin: 2.3rem 0 rem-calc(3px);
   font-size: 1.6rem;
+  font-weight: 600;
+  margin: 2.3rem 0 rem-calc(3px);
 }
 
 h3 {
