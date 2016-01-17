@@ -22,8 +22,6 @@ If you have questions, concerns, feedback, or compliments about *The Bold Report
 
 ## About me
 
-Tim Smith is a user interface and web designer based in St. Paul, Minnesota. A natural host, Tim inspires people all over the world with his podcast, [The East Wing](http://theeastwing.net), where he interviews some of the best from the web and creative industries.
+I'm a user interface and web designer based in beautiful, but sometimes freezing, St. Paul, Minnesota. I host [*For The Record*](http://towermedia.org/ftr), a podcast about people, life, and the experiences that make us who we are.
 
-When Tim isn't chatting on Twitter, organizing his next project or generally just geeking out, he's just as happy to be watching the Lakers or sipping some coffee, like a dude.
-
-&mdash;[Rachel Shillcock](http://www.rachil.li/)
+I self-identify as a nerd who loves Star Wars and comic books, and a recovering coffee addict. When I'm not at my computer, I'm binge-watching shows, going to the movies, having brunch, or doing other old-married-couple things with my amazing wife, Kelly.
