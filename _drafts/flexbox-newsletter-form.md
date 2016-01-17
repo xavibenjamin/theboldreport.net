@@ -9,7 +9,7 @@ After creating a form to subscribe to *The Bold Report* newsletter, I wanted to 
 
 It's easy to take the little things you do everyday for granted. I do a lot of small dev tasks every week, that I feel like everyone knows how to do. In fact, they probably do it better.
 
-But when I started to think about something I could write about this week, working on this form came to mind. It turned out to be a great place to use Flexbox together with some other neat things. If you’ve been wanting to dabble, this is for you.
+But when I started to think about something I could write about this week, working on this form came to mind. It turned out to be a great mix of things that someone might want to learn. We'll modify some markup, style it with SCSS and flexbox, and submit the form with javascript.
 
 ## Marking Up the Form
 I use Campaign Monitor for all my newsletter needs. They have a great product, and have always been incredibly nice to me. So let’s start with the markup they give you for your list.
@@ -60,7 +60,7 @@ Lastly, I’ve added an empty `div` with a class of `.newsletter__thankyou` wher
 
 
 ## Styling the Inputs
-With the markup done, we want the form to look good. For this particular form, I wanted the inputs to be inline. Flexbox makes doing this easy.[^1]
+With the markup done, we want the form to look good. For this particular form, I wanted the inputs to be inline. Flexbox makes doing this easy.
 
 First, we’ll add flexbox to the form. We want to build mobile first, so we set the `flex-direction` to `column`. This puts our items on top of each other. As the browser gets bigger, we change it to `row` which will put the items inline. 
 
@@ -86,7 +86,7 @@ $globalRadius: 3px;
 $linkColor: #429cd4;
 ```
 
-Next, we’ll style the `label` and `input`. Since we’re styling under the `.newsletter` class, we’re styling both inputs at the same time.[^2]
+Next, we’ll style the `label` and `input`. Since we’re styling under the `.newsletter` class, we’re styling both inputs at the same time.[^1]
 
 ```scss
 /* site.scss ---------------------- */
@@ -208,6 +208,4 @@ That’s it! In just a few steps we modified the form markup, styled the form an
 
 If you have any questions, feel free to [find me on Twitter](http://twitter.com/ttimsmith).
 
-[^1]:	I use SCSS, so I’ll be using that in this tutorial. If you use another preprocesser, some of the same principles will apply.
-
-[^2]:	You might notice that I use `rem-calc`. This is a function that I borrow from the [Foundation Framework](http://foundation.zurb.com/). I use this everywhere.
+[^1]:	You might notice that I use `rem-calc`. This is a function that I borrow from the [Foundation Framework](http://foundation.zurb.com/). I use this everywhere.
