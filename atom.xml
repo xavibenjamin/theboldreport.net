@@ -6,12 +6,14 @@ layout: null
   <link rel="hub" href="https://pubsubhubbub.appspot.com"/>
 
   <title>{{ site.name }}</title>
+  <subtitle>By Timothy B. Smith</subtitle>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <rights>Copyright © {{ site.time | date: "%Y" }} Timothy B. Smith</rights>
   <id>http://theboldreport.net</id>
   <author>
-    <name>Tim Smith</name>
+    <name>Timothy B. Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
@@ -20,6 +22,7 @@ layout: null
       <id>http://theboldreport.net{{ post.id }}</id>
       {% if post.custom_type == 'link' %}
         <link type="text/html" rel="alternate" href="{{ post.link_url }}"/>
+        <link type="text/html" rel="related" href="http://theboldreport.net{{ post.url }}"/>
       {% else %}
         <link type="text/html" rel="alternate" href="http://theboldreport.net{{ post.url }}"/>
       {% endif %}
@@ -27,7 +30,7 @@ layout: null
       <published>{{ post.date | date_to_xmlschema }}</published>
       <updated>{{ post.date | date_to_xmlschema }}</updated>
       <author>
-        <name>Tim Smith</name>
+        <name>Timothy B. Smith</name>
         <uri>http://ttimsmith.com/</uri>
       </author>
       <content type="html">
