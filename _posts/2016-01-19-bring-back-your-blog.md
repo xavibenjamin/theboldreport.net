@@ -4,7 +4,7 @@ title: "‘An Invitation to Bring Back Your Personal Site’"
 categories: link
 custom_type: link
 link_url: http://www.elezea.com/2016/01/an-invitation/
-date: '2016-01-20 00:00:00'
+date: '2016-01-19 23:50:00'
 ---
 Rian van der Merwe:
 
