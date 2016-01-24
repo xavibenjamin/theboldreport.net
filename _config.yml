@@ -4,7 +4,7 @@ url: http://localhost:4000
 description: 'An exploration of design, development, tech, Geek culture, Apple, and more.'
 timezone: America/Chicago
 permalink: /:title
-paginate: 20
+paginate: 10
 exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock']
 lunr_excludes: ['atom.xml', 'atom.articles.xml', 'sitemap.xml']
 

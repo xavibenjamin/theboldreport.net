@@ -4,15 +4,114 @@ FOOTER
 --------------------------------------------------------- */
 
 .site__footer {
-  padding: 3rem 0;
+  background-color: $footer-color;
+  color: lighten($footer-color, 45%);
+  margin-top: 4rem;
+  padding: 2rem 0;
   @extend %clearfix;
   small {
-    color: lighten($darkColor, 30%);
+    color: lighten($footer-color, 30%);
     display: block;
     font-size: 1.1rem;
+    margin-top: 2rem;
+    width: 100%;
     @extend %sans;
     @media #{$medium-up} {
       font-size: .9rem;
     }
+  }
+  p {
+    font-size: 1.2rem;
+    line-height: 130%;
+    @extend %sans;
+  }
+  a {
+    text-decoration: none;
+  }
+  .container {
+    width: 90%;
+    margin: {
+      left: auto;
+      right: auto;
+    }
+    @media #{$large-up} {
+      width: 100%;
+    }
+  }
+}
+
+.footer__sections {
+  display: flex;
+  flex-direction: column;
+  @media #{$medium-up} {
+    flex-direction: row;
+  }
+  ul {
+    margin: 0;
+    width: 100%;
+    list-style-type: none;
+    li {
+      font-size: 1rem;
+      line-height: 130%;
+      margin-left: 0;
+      @extend %sans;
+    }
+  }
+  h6 {
+    font-weight: 600;
+    margin-bottom: rem-calc(5px);
+  }
+}
+
+%footer-grid {
+  border-bottom: 1px solid lighten($footer-color, 15%);
+  padding: rem-calc(10px) rem-calc(20px) rem-calc(10px) 0;
+  @media #{$medium-up} {
+    border-bottom: none;
+    border-right: 1px solid lighten($footer-color, 15%);
+  }
+}
+
+.footer__about {
+  @extend %footer-grid;
+  @media #{$medium-up} {
+    flex: 2 1 auto;
+  }
+}
+
+.footer__logo {
+  display: block;
+  margin-bottom: rem-calc(10px);
+  height: 28px;
+  width: 200px;
+  @media #{$medium-up} {
+    height: 32px;
+    width: 230px;
+  }
+  .bold__first, .bold__third {
+    fill: white;
+  }
+  .bold__second {
+    fill: $linkColor;
+  }
+}
+
+.footer__subscribe {
+  @extend %footer-grid;
+  @media #{$medium-up} {
+    padding-left: rem-calc(20px);
+  }
+}
+
+.footer__links {
+  padding: rem-calc(10px) 0;
+  @media #{$medium-up} {
+    padding: rem-calc(10px) 0 rem-calc(10px) rem-calc(20px);
+  }
+}
+
+.footer__subscribe, .footer__links {
+  @media #{$medium-up} {
+    width: 50%;
   }
 }

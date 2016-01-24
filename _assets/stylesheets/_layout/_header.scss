@@ -15,8 +15,7 @@ HEADER
 }
 
 .site__branding {
-  margin: auto auto $spacing-s;
-  text-align: center;
+  margin: 0 0 $spacing-s;
   @media #{$medium-up} {
     margin: auto $spacing-m auto auto;
     text-align: left;
@@ -57,10 +56,11 @@ HEADER
 
 .site__navigation {
   flex: 1;
-  margin: auto auto rem-calc(25px);
+  margin: 0 0 rem-calc(25px);
   @media #{$medium-up} {
-    margin-right: $spacing-m;
     margin-bottom: auto;
+    margin-right: $spacing-m;
+    margin-top: auto;
   }
 }
 
