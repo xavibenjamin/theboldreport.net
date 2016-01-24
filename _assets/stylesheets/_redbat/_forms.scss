@@ -49,24 +49,23 @@ input:focus::-moz-placeholder {
 }
 
 .newsletter {
+  border-bottom: 1px solid lighten($footer-color, 15%);
+  margin-bottom: rem-calc(20px);
+  padding-bottom: rem-calc(20px);
+  h4 {
+    margin: 0;
+    text-transform: none;
+    width: 100%;
+  }
   form {
     display: flex;
-    flex-direction: column;
-    @media #{$medium-up} {
-      flex-direction: row;
-    }
-  }
-  label {
-    display: block;
-    font-weight: 600;
-    @extend %sans;
   }
   input {
-    border: 1px solid $borderColor;
-    border-radius: 3px;
+    background: none;
+    border-bottom: 3px solid transparent;
     color: $darkColor;
     font-size: .95rem;
-    padding: rem-calc(5px);
+    padding: rem-calc(10px);
     width: 100%;
     transition: .2s ease-in-out;
     @extend %sans;
@@ -76,22 +75,25 @@ input:focus::-moz-placeholder {
   }
   .button-group {
     display: flex;
-    align-items: flex-end;
+    width: 20%;
+    .button.button--primary {
+      border-radius: 0 3px 3px 0;
+      flex: 1 1 auto;
+    }
+  }
+
+  .newsletter__inputs {
+    background: white;
+    border-radius: 3px 0 0 3px;
+    display: flex;
+    flex: 1 1 auto;
   }
 
   .form-group {
-    @media #{$medium-up} {
-      flex: 1 1 30%;
-    }
+    flex: 1 1 auto;
   }
 }
 
-.form-group {
-  margin: 0 0 rem-calc(15px);
-  @media #{$medium-up} {
-    margin: 0 rem-calc(20px) 0 0;
-  }
-}
 
 .newsletter__thankyou {
   &.js-submitted {
