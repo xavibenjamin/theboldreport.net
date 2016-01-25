@@ -53,13 +53,15 @@ FOOTER
     li {
       font-size: 1rem;
       line-height: 130%;
+      margin-bottom: rem-calc(5px);
       margin-left: 0;
+      padding: 0;
       @extend %sans;
     }
   }
   h6 {
     font-weight: 600;
-    margin-bottom: rem-calc(5px);
+    margin-bottom: rem-calc(10px);
   }
 }
 
@@ -75,7 +77,7 @@ FOOTER
 .footer__about {
   @extend %footer-grid;
   @media #{$medium-up} {
-    flex: 2 1 auto;
+    flex: 0 1 50%;
   }
 }
 
@@ -112,6 +114,6 @@ FOOTER
 
 .footer__subscribe, .footer__links {
   @media #{$medium-up} {
-    width: 50%;
+    flex: 1 1 auto;
   }
 }
