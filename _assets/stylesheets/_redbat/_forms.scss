@@ -62,16 +62,14 @@ input:focus::-moz-placeholder {
   }
   input {
     background: none;
-    border-bottom: 3px solid transparent;
+    border-radius: 0;
     color: $darkColor;
     font-size: .95rem;
+    line-height: 100%;
     padding: rem-calc(10px);
     width: 100%;
     transition: .2s ease-in-out;
     @extend %sans;
-    &:focus {
-      border-color: $linkColor;
-    }
   }
   .button-group {
     display: flex;
