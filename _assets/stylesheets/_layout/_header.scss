@@ -88,8 +88,10 @@ HEADER
 /* Search */
 
 .site__search-form {
-  flex: 0 1 30%;
   @extend %sans;
+  @media #{$medium-up} {
+    flex: 0 1 30%;
+  }
 }
 
 
