@@ -1,4 +1,3 @@
-
 $(function() {
     $('#search-query').lunrSearch({
       indexUrl: '../js/index.json',             // URL of the `search.json` index data for your site
