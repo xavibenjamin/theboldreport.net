@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Standing
+title: "‘On Standing’"
 categories: link
 custom_type: link
 link_url: http://chrisbowler.com/journal/on-standing
