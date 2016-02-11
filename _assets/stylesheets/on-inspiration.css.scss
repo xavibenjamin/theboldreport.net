@@ -14,9 +14,12 @@ body {
     background: $primary-color;
     content: "";
     display: block;
-    height: 85vh;
+    height: 60vh;
     width: 100%;
     position: absolute;
+    @media #{$large-up} {
+      height: 85vh;
+    }
   }
 }
 
@@ -26,14 +29,73 @@ body {
   margin-bottom: 0;
   position: relative;
   z-index: 1;
+  a {
+    color: $secondary-color;
+    &:hover {
+      color: lighten($secondary-color, 10%);
+    }
+  }
+}
+
+.logo {
+  .bold__first, .bold__third {
+    fill: white;
+  }
+  .bold__second {
+    fill: $secondary-color;
+  }
+}
+
+.site__author {
+  color: rgba(white, .45);
+}
+
+.site__search-form {
+  input {
+    background: rgba(white, .1);
+    border: 0;
+    color: white;
+  }
+  // Webkit Placeholder
+  ::-webkit-input-placeholder {
+    color: rgba(white, .6);
+    transition: all .2s ease;
+  }
+
+  input:focus::-webkit-input-placeholder {
+    color: white;
+  }
+
+  // Firefox 18
+  :-moz-placeholder { /* Firefox 18- */
+    color: rgba(white, .6);
+    transition: all .2s ease;
+  }
+
+  input:focus:-moz-placeholder {
+    color: white;
+  }
+
+  // Firefox 19
+  ::-moz-placeholder {  /* Firefox 19+ */
+    color: rgba(white, .6);
+    transition: all .2s ease;
+  }
+
+  input:focus::-moz-placeholder {
+    color: white;
+  }
 }
 
 .post__header {
   margin-bottom: 5rem;
-  padding: 2.5rem;
+  padding: 1.2rem;
   width: 100%;
   position: relative;
   z-index: 1;
+  @media #{$large-up} {
+    padding: 2.5rem;
+  }
 
   .post__meta {
     color: rgba(white, .4);
@@ -74,5 +136,11 @@ body {
         top: rem-calc(30px);
       }
     }
+  }
+}
+
+.post__closer {
+  @media #{$medium-up} {
+    margin: 6rem 0 0 35%;
   }
 }
