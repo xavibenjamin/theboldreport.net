@@ -14,11 +14,14 @@ body {
     background: $primary-color;
     content: "";
     display: block;
-    height: 60vh;
+    height: 400px;
     width: 100%;
     position: absolute;
-    @media #{$large-up} {
-      height: 85vh;
+    @media #{$xlarge-up} {
+      height: 600px;
+    }
+    @media #{$xxlarge-up} {
+      height: 816px;
     }
   }
 }
@@ -108,14 +111,23 @@ body {
   color: $secondary-color;
   line-height: 60%;
   text-indent: 7vw;
+  @media #{$large-up} {
+    // font-size: 15rem;
+  }
 }
 
 .post__entry {
+  position: relative;
+  z-index: 1;
   @media #{$medium-up} {
     max-width: 768px;
   }
   @media #{$large-up} {
     max-width: 1000px;
+  }
+  @media #{$xxlarge-up} {
+    max-width: none;
+    -webkit-column-width: 34rem;
   }
 }
 
@@ -142,5 +154,8 @@ body {
 .post__closer {
   @media #{$medium-up} {
     margin: 6rem 0 0 35%;
+  }
+  @media #{$xxlarge-up} {
+    margin: 6rem auto 0;
   }
 }
