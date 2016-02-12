@@ -4,6 +4,7 @@ title: "‘The Sliding Scale of Giving a [Damn]’"
 categories: link
 custom_type: link
 link_url: http://blog.capwatkins.com/the-sliding-scale-of-giving-a-fuck
+date: 2016-02-12 00:47
 ---
 Cap Watkins:
 
