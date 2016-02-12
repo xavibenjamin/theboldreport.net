@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "‘Bulls’ Gasol replaces injured Butler on All-Star team’"
+title: "‘Bulls’ Gasol Replaces Injured Butler on All-Star Team’"
 categories: link
 custom_type: link
 link_url: http://www.nba.com/2016/news/as.game/02/09/bulls-pau-gasol-replaces-jimmy-butler-on-all-star-team/index.html
