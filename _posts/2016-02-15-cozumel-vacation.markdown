@@ -3,7 +3,7 @@ layout: post
 title: Cozumel Vacation
 categories: articles
 custom_type: post
-date: 2016-02-15 23:39
+date: 2016-02-15 22:39
 ---
 
 Dear Reader,
