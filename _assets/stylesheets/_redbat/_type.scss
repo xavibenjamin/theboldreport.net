@@ -22,12 +22,9 @@ BASE TYPE
 html {
   transition: opacity 100ms ease-in;
   opacity: 0;
-  font-size: 13px;
+  font-size: 14px;
   -webkit-font-smoothing: antialiased;
   @media #{$medium-up} {
-    font-size: 16px;
-  }
-  @media #{$large-up} {
     font-size: 18px;
   }
 }
@@ -287,7 +284,7 @@ blockquote {
   margin: 0 auto rem-calc(25px);
   width: 90%;
   @media #{$medium-up} {
-    width: 75%;
+    width: 85%;
   }
   @media #{$large-up} {
     width: 60%;
