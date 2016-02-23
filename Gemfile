@@ -1,8 +1,6 @@
 # Please place Gems in alpha order.
 source "https://rubygems.org"
 
-ruby '2.1.2'
-
 # gem 'compass'
 gem 'fileutils'
 gem 'foreman', '~> 0.78.0'
@@ -14,6 +12,7 @@ gem 'jekyll-paginate', '~> 1.1'
 gem 'jekyll-sitemap'
 gem 'json'
 gem 'nokogiri'
+gem 'octopress-minify-html'
 gem 'rack-contrib', '~> 1.2.0'
 gem 'rack-rewrite', '~> 1.5.1'
 gem 'rake', '~> 10.4.2'
