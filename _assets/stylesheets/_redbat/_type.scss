@@ -240,7 +240,7 @@ sup {
 }
 
 pre {
-  background: #f7f7f7;
+  background: #fcfcfc;
   border-radius: 3px;
   font-family: Inconsolata, "Inconsolata-g for Powerline", monospace;
   padding: 3% 3% 3%;
@@ -266,6 +266,9 @@ code {
   font-family: Inconsolata, "Inconsolata-g for Powerline", monospace;
   font-size: 1.1rem;
   padding: 2px 5px;
+  pre & {
+    color: inherit;
+  }
   @media #{$medium-up} {
     font-size: 1rem;
   }
