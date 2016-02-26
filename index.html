@@ -7,7 +7,7 @@ custom_css_class: home
 <!-- This loops through the paginated posts -->
 <div class="content__posts">
 {% for post in paginator.posts %}
-  <div class="type-post format-{% if post.custom_type %}{{ post.custom_type }}{% endif %}">
+  <div class="home-posts type-post format-{% if post.custom_type %}{{ post.custom_type }}{% endif %}">
     <article class="post">
 
       {% if post.custom_type == 'post' %}

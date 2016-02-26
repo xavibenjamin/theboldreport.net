@@ -3,18 +3,9 @@
 MAIN CONTENT
 --------------------------------------------------------- */
 
-.type-post {
-  &.format-link {
+.home-posts {
+  &.type-post {
     margin-bottom: 8rem;
-  }
-  &.format-post {
-    margin: 0 0 5rem 0;
-    &:first-child {
-      margin-top: 0;
-    }
-    .single & {
-      margin: 0 0 5rem 0;
-    }
   }
 }
 
@@ -90,8 +81,8 @@ MAIN CONTENT
 }
 
 .post__closer {
-  width: 64px;
-  margin: 6rem auto 0;
+  width: 50px;
+  margin: 5rem auto 0;
   .svg-icon {
     path {
       fill: lighten($borderColor, 1%);
