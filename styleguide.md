@@ -81,6 +81,9 @@ strong {
 }
 ```
 
+## Let's Test That Fluid Type
+Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
+
 And that's it. Oh wait… I forgot something.[^1]
 
 [^1]: Yep. These are footnotes, and this is what they look like. Not a huge deal, but sometimes very necessary.
