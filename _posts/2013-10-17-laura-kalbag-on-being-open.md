@@ -6,7 +6,7 @@ custom_type: link
 link_url: http://alistapart.com/column/open-for-business
 tags: 
   - A List Apart
-  - business
+  - Business
 date: '2013-10-17 11:49:07'
 ---
 > The most conscious decision I made about openness was to not put up a front and not always try to make myself look better. We all do things that make us look stupid from time to time (I do it a lot!). But what’s really wrong with looking stupid? Why would I want to pretend to be superhuman? That would just set unrealistic expectations for my clients and everybody else around me.

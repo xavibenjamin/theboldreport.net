@@ -6,7 +6,7 @@ custom_type: link
 link_url: http://alistapart.com/column/does-our-industry-have-a-drinking-problem
 tags:
   - A List Apart
-  - industry issues
+  - Industry Issues
 date: '2013-10-24 11:49:34'
 ---
 Rachel Andrew writing on *A List Apart*:

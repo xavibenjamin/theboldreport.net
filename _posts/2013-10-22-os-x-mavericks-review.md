@@ -7,7 +7,7 @@ link_url: http://512pixels.net/2013/10/mavericks-review/
 tags:
   - Apple
   - 512 Pixels
-  - review
+  - Review
 date: '2013-10-22 17:34:20'
 ---
 Stephen Hackett on *512 Pixels*:

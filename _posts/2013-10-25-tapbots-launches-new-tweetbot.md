@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: http://tapbots.com/software/tweetbot
 tags:
-  - apps
+  - Apps
   - Tapbots
 date: '2013-10-25 12:02:12'
 ---

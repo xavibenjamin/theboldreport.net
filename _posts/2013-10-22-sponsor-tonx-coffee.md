@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: http://syndicateads.net/s/tr
 tags: 
-  - sponsor
+  - Sponsor
 date: '2013-10-22 09:56:29'
 ---
 ![Tonx Coffee Ad](http://syndicateads.net/cms/images/ad_2.jpg)

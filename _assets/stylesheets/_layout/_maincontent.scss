@@ -13,13 +13,29 @@ MAIN CONTENT
   h1 {
     width: 100%;
   }
-  .post__meta {
+}
+
+.post__meta {
+  list-style-type: none;
+  margin-bottom: 1.5rem;
+  width: 100%;
+  @extend %sans;
+  li {
     color: lighten($darkColor, 20%);
-    display: block;
+    display: inline;
     font-size: 0.9rem;
-    margin-bottom: .55rem;
-    @extend %sans;
+    margin: 0;
+    &:last-child {
+      padding: 0;
+    }
   }
+}
+
+small.post__meta {
+  color: lighten($darkColor, 20%);
+  display: block;
+  font-size: 0.9rem;
+  margin-bottom: .55rem;
 }
 
 /* Format Post */
@@ -62,9 +78,6 @@ MAIN CONTENT
     a {
       text-decoration: underline !important;
     }
-  }
-  .link__icon {
-    vertical-align: middle;
   }
   .arrow {
     color: lighten($darkColor, 50%);
@@ -113,7 +126,6 @@ MAIN CONTENT
     margin: 20px 0;
   }
 }
-
 
 /* Media Queries on Post Type */
 

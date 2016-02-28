@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: http://syndicateads.net/s/w3
 tags:
-  - sponsor
+  - Sponsor
 date: '2013-12-10 10:25:43'
 ---
 What's the point of an agile standup meeting? 

@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: http://syndicateads.net/s/uj
 tags:
-  - sponsor
+  - Sponsor
 date: '2013-11-14 12:50:24'
 ---
 ![Lootback ad](/uploads/2013/11/Lootback.png)

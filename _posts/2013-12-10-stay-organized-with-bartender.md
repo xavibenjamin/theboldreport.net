@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: http://thesweetsetup.com/apps/great-app-keeping-macs-menu-bar-organized/
 tags:
-  - apps
+  - Apps
   - The Sweet Setup
 date: '2013-12-10 10:45:04'
 ---

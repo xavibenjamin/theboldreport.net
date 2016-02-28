@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: http://syndicateads.net/s/wh
 tags:
-  - sponsor
+  - Sponsor
 ---
 [Webydo](http://webydo.com) enables professional web and graphic designers to create, publish, and manage pixel-perfect websites without having to write a single line of code, and provides them with the freedom of creativity to focus on what's important—the *design*. 
 

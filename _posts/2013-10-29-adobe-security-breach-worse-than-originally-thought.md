@@ -6,7 +6,7 @@ custom_type: link
 link_url: http://www.macworld.com/article/2059002/adobe-security-breach-worse-than-originally-thought.html
 tags: 
   - Adobe
-  - security
+  - Security
 date: '2013-10-29 15:10:09'
 ---
 Jared Newman reporting for *Macworld*:
