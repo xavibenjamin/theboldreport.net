@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: http://syndicateads.net/s/u5
 tags:
-  - sponsor
+  - Sponsor
 date: '2013-11-05 11:04:04'
 ---
 ![Techi.com ad](/uploads/2013/11/techi.jpg)

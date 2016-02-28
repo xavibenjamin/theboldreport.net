@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: http://syndicateads.net/s/td
 tags:
-  - sponsor
+  - Sponsor
 date: '2013-10-15 12:37:46'
 ---
 ![Squarespace ad image](http://syndicateads.net/cms/images/600px.jpg)

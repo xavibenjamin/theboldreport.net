@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: http://chrisbowler.com/journal/sass
 excerpt: I’ve looked at several tutorials over the years, but many were written with a certain assumption for the level of knowledge on the other end. Many can be a struggle for the beginner because you may not even have the tools to be able to use Sass.
-tags: ["development", "Sass"]
+tags: ["Development", "Sass"]
 date: '2013-10-07 13:50:16'
 ---
 Chris Bowler:

@@ -5,8 +5,8 @@ categories: links
 custom_type: link
 link_url: http://curiousrat.com/the-new-rules-of-tech-journalism
 tags:
-  - journalism
-  - writing
+  - Journalism
+  - Writing
 date: '2013-11-01 11:08:56'
 ---
 Harry Marks:

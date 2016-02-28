@@ -7,7 +7,7 @@ link_url: http://www.theverge.com/2013/10/21/4861624/netflix-has-likely-overtake
 tags: 
   - Netflix
   - HBO
-  - television
+  - Television
 date: '2013-10-21 12:19:57'
 ---
 Amar Toor reporting for *The Verge*:

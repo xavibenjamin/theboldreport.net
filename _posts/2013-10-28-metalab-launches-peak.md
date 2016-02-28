@@ -6,7 +6,7 @@ custom_type: link
 link_url: http://www.usepeak.com
 tags:
   - MetaLab
-  - apps
+  - Apps
 date: '2013-10-28 20:13:39'
 ---
 [Matt Pearson](https://twitter.com/matro/status/394982616132517889):

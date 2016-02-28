@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: https://www.google.com/webdesigner/
 date: '2013-09-30 11:41:11'
-tags: ["Google", "design"]
+tags: ["Google", "Design"]
 ---
 Interestingly, I see a tool like this from Google, and my whole opinion changes. I had some pretty harsh things to say about Macaw.[^1]
 
