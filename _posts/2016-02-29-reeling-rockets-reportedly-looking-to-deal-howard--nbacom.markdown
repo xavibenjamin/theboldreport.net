@@ -18,4 +18,4 @@ Fran Blinebury reporting for NBA.com:
 
 Here's a story I saw back in Mexico, and couldn't write about it. The trade deadline came and went; no deal. And I mean, c'mon, who would take it? Howard had made it clear that he was going to opt out of the final year of his contract. No team was going to send some quality players and maybe some picks for a few months with him.
 
-Come June, Dwight will leave yet another team, only solidifying the fact that *he is* the problem. With age, injuries, and a skill set that leaves a lot to be desired, we'll what city will get to complain about him next.
+Come June, Dwight will leave yet another team, only solidifying the fact that *he is* the problem. With age, injuries, and a skill set that leaves a lot to be desired, we'll see what city will get to complain about him next.
