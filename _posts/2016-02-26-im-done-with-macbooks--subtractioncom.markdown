@@ -5,6 +5,9 @@ categories: link
 custom_type: link
 link_url: http://www.subtraction.com/2016/02/05/im-done-with-macbooks/
 date: 2016-02-26 00:48
+tags:
+  - Tech
+  - iPad
 ---
 Khoi Vinh:
 

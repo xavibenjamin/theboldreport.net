@@ -5,6 +5,8 @@ categories: link
 custom_type: link
 link_url: https://medium.com/@erinleecarr/lessons-
 date: 2016-02-24 09:25
+tags:
+  - Life
 ---
 Erin Lee Carr on the death of her father:
 
