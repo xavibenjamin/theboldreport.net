@@ -4,7 +4,7 @@ title: 'Review: Sonos Play:1'
 categories: articles
 custom_type: post
 tags:
-  - review
+  - Review
   - Sonos
 date: '2015-02-05 13:03:15'
 ---

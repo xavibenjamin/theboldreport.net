@@ -4,7 +4,7 @@ title: 'Sponsor: MailChimp'
 categories: links
 custom_type: link
 link_url: http://syndicateads.net/s/sz
-tags: sponsor
+tags: Sponsor
 date: '2013-10-08 10:59:27'
 ---
 ![MailChimp Sponsor](http://syndicateads.net/cms/images/MC_GoesWithYou_600wide.jpg)

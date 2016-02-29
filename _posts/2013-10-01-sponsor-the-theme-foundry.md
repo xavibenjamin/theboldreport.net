@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: http://syndicateads.net/s/sl
 date: '2013-10-01 11:32:29'
-tags: sponsor
+tags: Sponsor
 ---
 ![The Theme Foundry](http://syndicateads.net/cms/images/collections-theme-by-the-theme-foundry.jpg)
 

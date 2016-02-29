@@ -8,7 +8,7 @@ permalink: /styleguide/
 
 This page exists to show the different components and pieces of *The Bold Report*. More than anything, I maintain it because I think style guides are interesting.
 
-This website is currently set in Chaparral Pro for most main text, and Freight Sans Pro for headings and secondary text.
+This website is currently set in Freight Text Pro for most main text, and Freight Sans Pro for headings and secondary text.
 
 ## Heading Two
 Secondary headings are used to separate portions of text. I don't ever use links in headings unless it's a link post. Primary headings are only used once in the page title or post title. Links in regular text look like [this](/styleguide).
@@ -80,6 +80,9 @@ strong {
   }
 }
 ```
+
+## Let's Test That Fluid Type
+Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
 And that's it. Oh wait… I forgot something.[^1]
 

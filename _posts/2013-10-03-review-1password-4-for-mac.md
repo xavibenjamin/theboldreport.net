@@ -3,7 +3,7 @@ layout: post
 title: 'Review: 1Password 4 for Mac'
 categories: articles
 custom_type: post
-tags: ["1Password", "review"]
+tags: ["1Password", "Review"]
 ---
 [1Password](https://agilebits.com/onepassword) is one of my favorite apps. The amount of time it has saved me is unmeasurable, and it's made my password strategy secure and delightful.
 

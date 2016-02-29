@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: http://syndicateads.net/s/ux
 tags:
-  - sponsor
+  - Sponsor
 date: '2013-11-21 08:34:24'
 ---
 [Voila](http://syndicateads.net/s/ux) is the most powerful screen capturing software available for your Mac. Voila lets you capture and record content and then easily share it with friends and co-workers or upload it to the web.

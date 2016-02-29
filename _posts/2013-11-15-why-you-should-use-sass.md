@@ -7,7 +7,7 @@ link_url: http://alistapart.com/article/why-sass
 tags:
   - A List Apart
   - Sass
-  - development
+  - Development
 date: '2013-11-15 14:31:59'
 ---
 Dan Cederholm on *A List Apart*:

@@ -22,12 +22,9 @@ BASE TYPE
 html {
   transition: opacity 100ms ease-in;
   opacity: 0;
-  font-size: 13px;
+  font-size: 14px;
   -webkit-font-smoothing: antialiased;
   @media #{$medium-up} {
-    font-size: 16px;
-  }
-  @media #{$large-up} {
     font-size: 18px;
   }
 }
@@ -58,12 +55,13 @@ FONTS
 ------------------------------------------- */
 
 %serif {
-  font-family: "chaparral-pro",sans-serif;
+  // font-family: "chaparral-pro",sans-serif;
+  font-family: "freight-text-pro", Adobe Garamond Pro, Georgia, system, -apple-system, BlinkMacSystemFont, serif;
 }
 
 
 %sans {
-  font-family: "freight-sans-pro",sans-serif;
+  font-family: "freight-sans-pro", system, -apple-system, BlinkMacSystemFont, Avenir, sans-serif;
 }
 
 /*
@@ -120,7 +118,8 @@ h1 {
 h2 {
   font-size: 1.6rem;
   font-weight: 600;
-  margin: 2.3rem 0 rem-calc(3px);
+  line-height: 120%;
+  margin: 2.3rem 0 0;
 }
 
 h3 {
@@ -150,6 +149,13 @@ h5 {
     width: 80px;
     margin-bottom: 10px;
   }
+}
+
+h6 {
+  color: lighten($bodyColor, 20%);
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-transform: uppercase;
 }
 
 ul {
@@ -209,8 +215,13 @@ ol {
 .page__title {
   color: $darkColor;
   font-size: 2.6rem;
-  font-weight: 600;
+  font-weight: 300;
   margin-bottom: 2rem;
+}
+
+.subheader {
+  color: lighten($bodyColor, 30%);
+  font-weight: normal;
 }
 
 
@@ -241,7 +252,7 @@ sup {
 }
 
 pre {
-  background: #f7f7f7;
+  background: #fcfcfc;
   border-radius: 3px;
   font-family: Inconsolata, "Inconsolata-g for Powerline", monospace;
   padding: 3% 3% 3%;
@@ -267,6 +278,9 @@ code {
   font-family: Inconsolata, "Inconsolata-g for Powerline", monospace;
   font-size: 1.1rem;
   padding: 2px 5px;
+  pre & {
+    color: inherit;
+  }
   @media #{$medium-up} {
     font-size: 1rem;
   }
@@ -286,7 +300,7 @@ blockquote {
   margin: 0 auto rem-calc(25px);
   width: 90%;
   @media #{$medium-up} {
-    width: 75%;
+    width: 85%;
   }
   @media #{$large-up} {
     width: 60%;

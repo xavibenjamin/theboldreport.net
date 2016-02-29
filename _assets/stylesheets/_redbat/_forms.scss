@@ -61,8 +61,7 @@ input:focus::-moz-placeholder {
     display: flex;
   }
   input {
-    background: none;
-    border-radius: 0;
+    border-radius: 3px;
     color: $darkColor;
     font-size: .95rem;
     line-height: 100%;
@@ -70,25 +69,27 @@ input:focus::-moz-placeholder {
     width: 100%;
     transition: .2s ease-in-out;
     @extend %sans;
+    &:focus {
+      background: lighten(#feffda, 3%);
+    }
   }
   .button-group {
     display: flex;
     width: 20%;
     .button.button--primary {
-      border-radius: 0 3px 3px 0;
+      border-radius: 3px;
       flex: 1 1 auto;
     }
   }
 
   .newsletter__inputs {
-    background: white;
-    border-radius: 3px 0 0 3px;
     display: flex;
     flex: 1 1 auto;
   }
 
   .form-group {
     flex: 1 1 auto;
+    margin-right: .5rem;
   }
 }
 

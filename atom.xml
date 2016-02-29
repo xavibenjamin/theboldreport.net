@@ -10,8 +10,8 @@ layout: null
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <rights>Copyright © {{ site.time | date: "%Y" }} Timothy B. Smith</rights>
-  <id>http://theboldreport.net</id>
+  <rights>Copyright © 2013–{{ site.time | date: "%Y" }} Timothy B. Smith</rights>
+  <id>http://theboldreport.net/</id>
   <author>
     <name>Timothy B. Smith</name>
     <email>smith@ttimsmith.com</email>
@@ -22,7 +22,6 @@ layout: null
       <id>http://theboldreport.net{{ post.id }}</id>
       {% if post.custom_type == 'link' %}
         <link type="text/html" rel="alternate" href="{{ post.link_url }}"/>
-        <link type="text/html" rel="related" href="http://theboldreport.net{{ post.url }}"/>
       {% else %}
         <link type="text/html" rel="alternate" href="http://theboldreport.net{{ post.url }}"/>
       {% endif %}
@@ -38,7 +37,7 @@ layout: null
           {{ post.content }}
 
           {% if post.custom_type == 'link' %}
-            <div><a title="Permalink" href="{{ site.url | xml_escape }}{{ post.url | xml_escape }}">∞</a></div>
+            <p><a title="Permalink to ‘{{ post.title }}’" href="{{ site.url | xml_escape }}{{ post.url | xml_escape }}">∞</a></p>
           {% endif %}
         ]]>
       </content>

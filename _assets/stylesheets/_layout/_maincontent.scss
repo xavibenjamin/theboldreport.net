@@ -3,18 +3,9 @@
 MAIN CONTENT
 --------------------------------------------------------- */
 
-.type-post {
-  &.format-link {
+.home-posts {
+  &.type-post {
     margin-bottom: 8rem;
-  }
-  &.format-post {
-    margin: 0 0 5rem 0;
-    &:first-child {
-      margin-top: 0;
-    }
-    .single & {
-      margin: 0 0 5rem 0;
-    }
   }
 }
 
@@ -22,13 +13,29 @@ MAIN CONTENT
   h1 {
     width: 100%;
   }
-  .post__meta {
-    color: lighten($darkColor, 30%);
-    display: block;
-    font-size: 1rem;
-    margin-bottom: $spacing-s;
-    @extend %sans;
+}
+
+.post__meta {
+  list-style-type: none;
+  margin-bottom: 1.5rem;
+  width: 100%;
+  @extend %sans;
+  li {
+    color: lighten($darkColor, 20%);
+    display: inline;
+    font-size: 0.9rem;
+    margin: 0;
+    &:last-child {
+      padding: 0;
+    }
   }
+}
+
+small.post__meta {
+  color: lighten($darkColor, 20%);
+  display: block;
+  font-size: 0.9rem;
+  margin-bottom: .55rem;
 }
 
 /* Format Post */
@@ -72,9 +79,6 @@ MAIN CONTENT
       text-decoration: underline !important;
     }
   }
-  .link__icon {
-    vertical-align: middle;
-  }
   .arrow {
     color: lighten($darkColor, 50%);
     font-size: 1.3rem;
@@ -90,8 +94,8 @@ MAIN CONTENT
 }
 
 .post__closer {
-  width: 64px;
-  margin: 6rem auto 0;
+  width: 50px;
+  margin: 5rem auto 0;
   .svg-icon {
     path {
       fill: lighten($borderColor, 1%);
@@ -123,16 +127,12 @@ MAIN CONTENT
   }
 }
 
-
 /* Media Queries on Post Type */
 
 h1, h2, h3, h4, h5, .post__entry>p, .search-results-list>p, .page__entry>p, ul, ol, .extendout figcaption, .footnotes, .highlight, .post__header, .pagination, .site__footer small {
   margin-left: auto;
   margin-right: auto;
   width: 90%;
-  @media #{$medium-up} {
-    width: 78%;
-  }
   @media #{$large-up} {
     width: 65%;
   }

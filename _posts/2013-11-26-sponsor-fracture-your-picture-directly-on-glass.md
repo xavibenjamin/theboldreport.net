@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: http://syndicateads.net/s/vb
 tags:
-  - sponsor
+  - Sponsor
 date: '2013-11-26 12:22:09'
 ---
 [Fracture](http://fractureme.com/?utm_source=syndicate&utm_medium=post&utm_content=fracture&utm_campaign=syn2) prints your photo in vivid color directly on glass. It's a picture, frame, & mount all in one.

@@ -3,7 +3,7 @@ layout: post
 title: 'Using Portly for Local Development'
 categories: articles
 custom_type: post
-tags: development
+tags: Development
 date: '2013-10-02 09:52:41'
 ---
 My friend, [Adam Stacoviak](http://adamstacoviak.com/), pointed me to a tool called [Portly](https://getportly.com/). Portly allows you to display your local web server, publicly. 

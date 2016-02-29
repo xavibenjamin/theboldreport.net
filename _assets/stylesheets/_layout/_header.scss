@@ -6,9 +6,8 @@ HEADER
   display: flex;
   flex-direction: column;
   margin: 0 0 $spacing-l;
-  border-bottom: 1px solid $borderColor;
-  padding: $spacing-m $spacing-s;
   @media #{$medium-up} {
+    border-bottom: 1px solid $borderColor;
     flex-direction: row;
     padding: rem-calc(15px);
   }
@@ -16,6 +15,10 @@ HEADER
 
 .site__branding {
   margin: 0 0 $spacing-s;
+  @media #{$small-only} {
+    margin: rem-calc(25px) auto;
+    width: 90%;
+  }
   @media #{$medium-up} {
     margin: auto $spacing-m auto auto;
     text-align: left;
@@ -24,8 +27,8 @@ HEADER
 
 .logo {
   display: block;
-  width: 200px;
-  max-height: 29px;
+  width: 180px;
+  max-height: 21px;
   @media #{$medium-up} {
     width: 180px;
     max-height: 24px;
@@ -42,7 +45,7 @@ HEADER
 
 .site__author {
   color: lighten($darkColor, 15%);
-  font-size: 1.15rem;
+  font-size: 1rem;
   line-height: 100%;
   @extend %sans;
   @media #{$medium-up} {
@@ -56,7 +59,10 @@ HEADER
 
 .site__navigation {
   flex: 1;
-  margin: 0 0 rem-calc(25px);
+  @media #{$small-only} {
+    background: $jazzColor;
+    padding: .8rem 0;
+  }
   @media #{$medium-up} {
     margin-bottom: auto;
     margin-right: $spacing-m;
@@ -68,6 +74,17 @@ HEADER
   margin: 0;
   text-align: left;
   width: 100%;
+  @media #{$small-only} {
+    margin: 0 auto;
+    width: 90%;
+    a {
+      color: white;
+      font-weight: 600;
+      &:hover {
+        color: rgba(white, .8);
+      }
+    }
+  }
   li {
     display: inline;
     list-style-type: none;
@@ -76,6 +93,9 @@ HEADER
     margin-left: 0;
     padding: 0;
     @extend %sans;
+    @media #{$small-only} {
+      font-size: 1.1rem;
+    }
     @media #{$medium-up} {
       font-size: .9rem;
     }
@@ -89,6 +109,9 @@ HEADER
 
 .site__search-form {
   @extend %sans;
+  @media #{$small-only} {
+    display: none;
+  }
   @media #{$medium-up} {
     flex: 0 1 30%;
   }

@@ -60,6 +60,7 @@ FOOTER
     }
   }
   h6 {
+    color: lighten($footer-color, 45%);
     font-weight: 600;
     margin-bottom: rem-calc(10px);
   }
@@ -94,7 +95,7 @@ FOOTER
     fill: white;
   }
   .bold__second {
-    fill: $linkColor;
+    fill: $jazzColor;
   }
 }
 

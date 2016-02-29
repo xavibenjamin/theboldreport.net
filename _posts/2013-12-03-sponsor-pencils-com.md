@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: http://syndicateads.net/s/vp
 tags:
-  - sponsor
+  - Sponsor
 date: '2013-12-03 11:37:56'
 ---
 At [Pencils.com](http://syndicateads.net/s/vp), we believe that creativity is the greatest of all virtues. And, with our selection of unique, high-quality pencils, notebooks, and creative tools, we've got everything you need to unleash yours. 
