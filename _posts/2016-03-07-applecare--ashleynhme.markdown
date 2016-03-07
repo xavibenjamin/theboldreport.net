@@ -8,4 +8,4 @@ tags:
   - Apple
 date: 2016-03-07 09:01
 ---
-This is exactly why I don't buy AppleCare+.
+This is why I don't buy AppleCare+.
