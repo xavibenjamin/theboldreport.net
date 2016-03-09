@@ -29,4 +29,4 @@ That feels like a winning recipe to me. When you’re defining your own measure 
 
 ***
 
-***Disclosure:** I currently own Netflix stock.*
+***Disclosure:*** *I currently own Netflix stock.*
