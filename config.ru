@@ -16,7 +16,7 @@ use Rack::TryStatic,
   :urls => %w[/],
   :try => ['.html', 'index.html', '/index.html'],
   header_rules: [
-    [['html'],  { 'Content-Type'  => 'text/html; charset=utf-8' }],
+    [['html'],  { 'Content-Type'  => 'text/html; charset=utf-8', 'Cache-Control' => 'public, max-age=31536000' }],
     [['css'],   { 'Content-Type'  => 'text/css' }],
     [['js'],    { 'Content-Type'  => 'text/javascript' }],
     [['png'],   { 'Content-Type'  => 'image/png' }],
