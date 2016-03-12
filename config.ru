@@ -21,6 +21,7 @@ use Rack::TryStatic,
     [['js'],    { 'Content-Type'  => 'text/javascript' }],
     [['png'],   { 'Content-Type'  => 'image/png' }],
     ['/assets', { 'Cache-Control' => 'public, max-age=31536000' }],
+    ['/js', { 'Cache-Control' => 'public, max-age=86400' }],
   ]
 
 run Rack::NotFound.new('_site/404/index.html')
