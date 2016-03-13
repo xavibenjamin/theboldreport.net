@@ -16,12 +16,12 @@ use Rack::TryStatic,
   :urls => %w[/],
   :try => ['.html', 'index.html', '/index.html'],
   header_rules: [
-    [['html'],  { 'Content-Type'  => 'text/html; charset=utf-8', 'Cache-Control' => 'public, max-age=31536000' }],
+    [['html'],  { 'Content-Type'  => 'text/html; charset=utf-8', 'Cache-Control' => 'public, max-age=31536000', 'Vary' => 'Accept-Encoding' }],
     [['css'],   { 'Content-Type'  => 'text/css' }],
     [['js'],    { 'Content-Type'  => 'text/javascript' }],
     [['png'],   { 'Content-Type'  => 'image/png' }],
-    ['/assets', { 'Cache-Control' => 'public, max-age=31536000' }],
-    ['/js', { 'Cache-Control' => 'public, max-age=86400' }],
+    ['/assets', { 'Cache-Control' => 'public, max-age=31536000', 'Vary' => 'Accept-Encoding' }],
+    ['/js', { 'Cache-Control' => 'public, max-age=604800', 'Vary' => 'Accept-Encoding' }],
   ]
 
 run Rack::NotFound.new('_site/404/index.html')
