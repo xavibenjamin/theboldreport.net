@@ -24,19 +24,6 @@ an effort to keep the CSS as dry as possible.
 
 /*
 
-IMPORT COMPASS
--------------------------------------------
-@compass
-
-Importing the awesome-sauce that is Compass
-
-------------------------------------------- */
-
-// @import "compass";
-
-
-/*
-
 RESET THIS MUTHA!
 -------------------------------------------
 @reset
@@ -111,8 +98,6 @@ COMPONENTS
 Setting up components & reusable objects.
 
 ------------------------------------------- */
-
-@import "_redbat/bigfoot";
 
 @import "_redbat/objects";
 
