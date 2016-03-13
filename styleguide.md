@@ -3,6 +3,7 @@ layout: page
 title: Style Guide
 exclude_from_search: true
 permalink: /styleguide/
+excerpt: Style guide for The Bold Report.
 ---
 {% figure small__right /uploads/2013/09/tim_680x510.jpg "Use the <code>.small__right</code> class for this particular styling." %}
 

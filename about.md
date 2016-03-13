@@ -3,6 +3,7 @@ layout: page
 title: About
 exclude_from_search: true
 permalink: /about/
+excerpt: Find out more about The Bold Report.
 ---
 
 *The Bold Report* is designed, developed, and written by me, [Tim Smith](http://ttimsmith.com), in beautiful, and sometimes freezing, St. Paul, Minnesota. I'm a user interface and web designer, and I host [*For The Record*](http://towermedia.org/ftr), a podcast about people, life, and the experiences that make us who we are.

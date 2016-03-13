@@ -53,10 +53,14 @@
       <link rel="alternate" type="application/rss+xml" title="RSS Feed for The Bold Report" href="/atom.xml" />
       <link rel="alternate" type="application/rss+xml" title="Articles-Only Feed for The Bold Report" href="/atom.articles.xml" />
 
-      <!-- Custom CSS -->
-      {% stylesheet global %}
+      <style>
+        {% asset 'global' %}
+        {% if page.custom_css %}
+          {% asset '{{ page.custom_css}}' %}
+        {% endif %}
+      </style>
 
-      {% if page.custom_css %}{{ page.custom_css | stylesheet }}{% endif %}
+
 
       <!-- Typekit FOUT -->
       <script>document.documentElement.className += ' wf-loading';</script>
