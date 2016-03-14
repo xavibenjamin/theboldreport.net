@@ -9,7 +9,7 @@ tags:
   - Writing
 date: 2016-03-10 01:48
 lead: Ulysses and I have parted and gone our separate ways, but we’re still friends.
-custom_css: opinion
+custom_css: ulysses-give-up
 ---
 Ulysses and I have parted and gone our separate ways, but we’re still friends.
 
