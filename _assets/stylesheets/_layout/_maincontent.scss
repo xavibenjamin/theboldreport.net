@@ -10,8 +10,11 @@ MAIN CONTENT
 }
 
 .post__header {
-  h1 {
+  h1, h2 {
     width: 100%;
+  }
+  h1 + h2 {
+    margin-top: 0;
   }
 }
 
