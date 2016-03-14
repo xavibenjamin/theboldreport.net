@@ -49,7 +49,7 @@ input:focus::-moz-placeholder {
 }
 
 .newsletter {
-  border-bottom: 1px solid lighten($footer-color, 15%);
+  border-bottom: 1px solid rgba(white, .2);
   margin-bottom: rem-calc(20px);
   padding-bottom: rem-calc(20px);
   h4 {
