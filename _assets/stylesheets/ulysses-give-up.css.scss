@@ -128,7 +128,12 @@ a {
   p {
     color: $text-color;
     margin-bottom: 0;
-    text-indent: 1rem;
+    + p {
+      text-indent: 1.5rem;
+    }
+  }
+  > p:nth-child(2) {
+    text-indent: 0;
   }
 }
 
