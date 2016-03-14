@@ -1,0 +1,146 @@
+@import "_redbat/functions";
+@import "_redbat/mixins";
+
+$primary-color: #392c3e;
+$secondary-color: #dd2f4a;
+$jazz-color: #2d4b67;
+
+$text-color: rgba(white, .8);
+$secondary-text-color: lighten($primary-color, 40%);
+
+.site__header{
+  background: white;
+  border-bottom: none;
+  position: relative;
+  margin-bottom: 0;
+  z-index: 1;
+}
+
+.logo {
+  .bold__first, .bold__third {
+    fill: $primary-color;
+  }
+  .bold__second {
+    fill: $secondary-color;
+  }
+}
+
+.site__author {
+  color: $secondary-text-color;
+}
+
+.site__navigation {
+  @media #{$small-only} {
+    background: darken($primary-color, 10%);
+  }
+}
+
+.site__search-form {
+  input {
+    &:focus {
+      border-color: $primary-color;
+    }
+  }
+}
+
+.content__main-content {
+  background: $primary-color;
+}
+
+.post {
+  border-left: 20px solid $secondary-color;
+  padding: 2rem 0;
+  @media #{$medium-up} {
+    width: 98%;
+    margin: 0 auto;
+    &:before {
+      background: $secondary-color;
+      border-radius: 300px;
+      color: white;
+      content: "Opinion";
+      display: inline-block;
+      font-size: 2rem;
+      font-style: italic;
+      padding: 98px 54px;
+      position: absolute;
+      right: 10vw;
+      top: 4vw;
+      vertical-align: middle;
+    }
+  }
+}
+
+a {
+  color: $secondary-text-color;
+  &:hover {
+    color: $secondary-color;
+  }
+}
+
+.post__meta {
+  li {
+    color: $secondary-text-color;
+  }
+}
+
+.post__header {
+  padding-left: 2rem;
+  float: left;
+  margin-bottom: 2rem;
+  @media #{$medium-up} {
+    width: 50vw;
+  }
+  h1 {
+    color: white;
+  }
+}
+
+.post__lead {
+  color: $text-color;
+  font-weight: 300;
+}
+
+.post__entry {
+  padding-left: 2rem;
+  width: 98%;
+  @media #{$medium-up} {
+    -webkit-column-count: 3;
+    -webkit-column-gap: 40px;
+    -moz-column-count: 3;
+    -moz-column-gap: 40px;
+    column-count: 3;
+    column-gap: 40px;
+  }
+  h2, h3, p {
+    width: 100%;
+  }
+  p {
+    color: $text-color;
+    margin-bottom: 0;
+    text-indent: 1rem;
+  }
+}
+
+.format-post .post__entry > p:first-child {
+  display: none;
+}
+
+.post__closer .svg-icon path {
+  fill: $secondary-text-color;
+}
+
+.site__footer {
+  background: darken($primary-color, 10%);
+  margin-top: 0;
+}
+
+.button--primary {
+  background: $secondary-color;
+  &:hover, &:focus {
+    background: darken($secondary-color, 10%);
+  }
+}
+
+.footer__logo .bold__second {
+  fill: $secondary-color;
+}
