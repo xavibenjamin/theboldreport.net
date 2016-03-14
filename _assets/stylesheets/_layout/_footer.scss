@@ -5,12 +5,12 @@ FOOTER
 
 .site__footer {
   background-color: $footer-color;
-  color: lighten($footer-color, 45%);
+  color: rgba(white, .6);
   margin-top: 4rem;
   padding: 2rem 0;
   @extend %clearfix;
   small {
-    color: lighten($footer-color, 30%);
+    color: rgba(white, .4);
     display: block;
     font-size: 1.1rem;
     margin-top: 2rem;
@@ -60,18 +60,18 @@ FOOTER
     }
   }
   h6 {
-    color: lighten($footer-color, 45%);
+    color: rgba(white, .6);
     font-weight: 600;
     margin-bottom: rem-calc(10px);
   }
 }
 
 %footer-grid {
-  border-bottom: 1px solid lighten($footer-color, 15%);
+  border-bottom: 1px solid rgba(white, .2);
   padding: rem-calc(10px) rem-calc(20px) rem-calc(10px) 0;
   @media #{$medium-up} {
     border-bottom: none;
-    border-right: 1px solid lighten($footer-color, 15%);
+    border-right: 1px solid rgba(white, .2);
   }
 }
 
