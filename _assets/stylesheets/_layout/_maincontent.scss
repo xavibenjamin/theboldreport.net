@@ -7,6 +7,9 @@ MAIN CONTENT
   &.type-post {
     margin-bottom: 8rem;
   }
+  &.format-artdirect {
+    margin-bottom: 4rem;
+  }
 }
 
 .post__header {
@@ -105,6 +108,50 @@ small.post__meta {
     }
   }
 }
+
+/* ArtDirect Post */
+.format-artdirect {
+  background: $footer-color;
+  overflow: hidden;
+  padding: 10rem 0;
+  position: relative;
+  transition: box-shadow 500ms ease;
+  @media #{$medium-up} {
+    &:before {
+      background: $jazzColor;
+      border-radius: 300px;
+      color: white;
+      content: "Feature";
+      display: inline-block;
+      font-size: 2rem;
+      font-style: italic;
+      padding: 98px 54px;
+      position: absolute;
+      right: -50px;
+      top: -40px;
+      vertical-align: middle;
+    }
+  }
+  @media #{$xlarge-up} {
+    overflow: visible;
+  }
+  h1 {
+    font-size: 2.5rem;
+    font-weight: 300;
+    a {
+      color: $jazzColor;
+      &:hover, &:focus {
+        color: darken($jazzColor, 5%);
+      }
+    }
+  }
+  .post__lead {
+    color: lighten($darkColor, 20%);
+    font-size: 1.7rem;
+    font-weight: 300;
+  }
+}
+
 
 /* Footnotes */
 

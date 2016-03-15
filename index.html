@@ -43,6 +43,18 @@ excerpt: The Bold Report is a personal blog written by Tim Smith about design, d
           {{ post.content }}
         </div><!-- /.post__entry -->
 
+      {% elsif post.custom_type == 'artdirect' %}
+        <header class="post__header">
+          <ul class="post__meta">
+            <li><small><span class="pubdate"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign d = post.date | date: "%-d"  %}{{ post.date | date: "%B" }}
+          {% case d %}{% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
+          {{ post.date | date: "%Y" }}</time></span></small></li>
+          </ul>
+          <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+          <h2 class="post__lead">{{ post.lead }}</h2>
+        </header><!-- /.post__header -->
+
+
       {% endif %}
     </article><!-- /.post -->
   </div><!-- .type-post -->

@@ -2,7 +2,7 @@
 layout: custom-post
 title: Giving Up On Ulysses
 categories: articles
-custom_type: post
+custom_type: artdirect
 tags:
   - Apps
   - Blogging
