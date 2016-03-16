@@ -120,16 +120,11 @@ small.post__meta {
 .format-artdirect {
   background: rgba($footer-color, .03);
   padding: 10rem 0;
+  position: relative;
   transition: box-shadow 500ms ease;
   h1 {
     font-size: 2.5rem;
     font-weight: 300;
-    a {
-      color: $jazzColor;
-      &:hover, &:focus {
-        color: darken($jazzColor, 5%);
-      }
-    }
   }
   .post__lead {
     color: lighten($darkColor, 20%);
