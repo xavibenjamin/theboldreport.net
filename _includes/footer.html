@@ -100,3 +100,8 @@
 <!-- Typekit Code  -->
 <script src="https://use.typekit.net/zfg4kbf.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
+{% if page.artdirect_type %}
+  <!-- Additional Typekit Only for this Page -->
+  <script src="https://use.typekit.net/{{ page.artdirect_type }}.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+{% endif %}
