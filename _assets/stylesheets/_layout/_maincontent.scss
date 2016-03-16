@@ -10,6 +10,13 @@ MAIN CONTENT
   &.format-artdirect {
     margin-bottom: 4rem;
   }
+  .post {
+    position: static;
+  }
+}
+
+.post {
+  position: relative;
 }
 
 .post__header {
@@ -111,30 +118,9 @@ small.post__meta {
 
 /* ArtDirect Post */
 .format-artdirect {
-  background: $footer-color;
-  overflow: hidden;
+  background: rgba($footer-color, .03);
   padding: 10rem 0;
-  position: relative;
   transition: box-shadow 500ms ease;
-  @media #{$medium-up} {
-    &:before {
-      background: $jazzColor;
-      border-radius: 300px;
-      color: white;
-      content: "Feature";
-      display: inline-block;
-      font-size: 2rem;
-      font-style: italic;
-      padding: 98px 54px;
-      position: absolute;
-      right: -50px;
-      top: -40px;
-      vertical-align: middle;
-    }
-  }
-  @media #{$xlarge-up} {
-    overflow: visible;
-  }
   h1 {
     font-size: 2.5rem;
     font-weight: 300;
@@ -150,6 +136,16 @@ small.post__meta {
     font-size: 1.7rem;
     font-weight: 300;
   }
+}
+
+.artdirect__type {
+  color: white;
+  font-size: 1.8rem;
+  font-style: italic;
+  padding: 30px 45px;
+  position: absolute;
+  right: 0;
+  top: 0;
 }
 
 

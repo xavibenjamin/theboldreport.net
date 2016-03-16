@@ -1,11 +1,15 @@
 ---
-custom_css_class: single
+class: single
 ---
 {% include header.html %}
 
 <main class="content__main-content" role="main">
   <div class="type-post format-post">
     <article class="post">
+      {% if page.artdirect_type %}
+        {% include artdirect-type.html %}
+      {% endif %}
+
       <header class="post__header">
         <ul class="post__meta">
           <li><small><span class="pubdate"><time datetime="{{ page.date | date_to_xmlschema }}">{% assign d = page.date | date: "%-d"  %}{{ page.date | date: "%B" }}
