@@ -1,18 +1,122 @@
 @import "_redbat/functions";
 @import "_redbat/mixins";
 
-// $primary-color: ;
+$primary-color: #b0c1c5;
 $secondary-color: #333333;
+$text-color: #e7d9c0;
 
 body {
   // background: url(uploads/2016/me-editor.png) no-repeat #fbd6dc;
   // background-blend-mode: screen;
-  background: $secondary-color;
+  background: $primary-color;
   background-position: -35px -35px;
   background-size: auto 100vh;
 }
 
+.site__header {
+  background: $secondary-color;
+  border-bottom: 1px solid rgba(white, .1);
+  margin-bottom: 0;
+}
+
+.logo {
+  .bold__first, .bold__third {
+    fill: rgba(white, .6);
+  }
+}
+
+.post {
+  // border-left: 20px solid $secondary-color;
+  // padding: 2rem 0;
+}
+
+.post__header {
+  background: $secondary-color;
+  margin: 0 auto 2rem;
+  overflow: hidden;
+  padding: 2em;
+  width: 100%;
+}
+
+.post__meta li {
+  color: rgba(white, .7);
+}
+
 .post__title {
   font-family: "blenny",sans-serif;
-  // font-family: "industry",sans-serif;
+  max-width: 1300px;
+
+  .word1 {
+    color: wheat;
+    display: block;
+    font-size: .6em;
+    padding-left: 2em;
+  }
+  .word2 {
+    color: white;
+    display: block;
+    font-size: 4.5em;
+    line-height: .6;
+  }
+  .word3 {
+    color: wheat;
+    line-height: 1.6;
+    padding-left: 5.8em;
+  }
+  .word4 {
+    color: wheat;
+  }
+}
+
+.post__lead {
+  color: white;
+  font-size: 2.6rem;
+  font-weight: 300;
+  line-height: 1.1;
+  margin: 0 auto;
+  max-width: 990px;
+}
+
+.post__entry {
+  width: 90%;
+  margin: 0 auto;
+  @media #{$medium-up} {
+    column-count: 2;
+    column-gap: 40px;
+   -moz-column-count: 2;
+   -moz-column-gap: 40px;
+   -webkit-column-count: 2;
+   -webkit-column-gap: 40px;
+    margin: 0 auto;
+    max-width: 990px;
+  }
+  h2, h3, h5, p {
+    width: 100%;
+  }
+  p {
+    color: $secondary-color;
+  }
+}
+
+.site__footer {
+  background: none;
+  color: $secondary-color;
+}
+
+.footer__logo {
+  .bold__second {
+    fill: $primary-color;
+  }
+}
+
+.button--primary {
+  background: $secondary-color;
+}
+
+.footer__sections h6 {
+  color: $secondary-color;
+}
+
+.newsletter, .footer__about, .footer__subscribe {
+  border-color: darken($primary-color, 5%);
 }
