@@ -4,7 +4,7 @@ class: single
 {% include header.html %}
 
 <main class="content__main-content" role="main">
-  <div class="type-post format-post">
+  <div class="type-post{% if page.artdirect_type %} type-artdirect{% endif %}">
     <article class="post">
       {% if page.artdirect_type %}
         {% include artdirect-type.html %}
@@ -17,7 +17,7 @@ class: single
         {{ page.date | date: "%Y" }}</time></span></small></li>
           {% for tag in page.tags %}<li> &middot; <a href="{{ site.url }}/topics/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a></li>{% endfor %}
         </ul>
-        <h1>{{ page.title }}</h1>
+        <h1 class="post__title">{{ page.title }}</h1>
         {% if page.lead %}
           <h2 class="post__lead">{{ page.lead }}</h2><!-- /.subheader -->
         {% endif %}
