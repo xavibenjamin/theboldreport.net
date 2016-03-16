@@ -1,0 +1,18 @@
+@import "_redbat/functions";
+@import "_redbat/mixins";
+
+// $primary-color: ;
+$secondary-color: #333333;
+
+body {
+  // background: url(uploads/2016/me-editor.png) no-repeat #fbd6dc;
+  // background-blend-mode: screen;
+  background: $secondary-color;
+  background-position: -35px -35px;
+  background-size: auto 100vh;
+}
+
+.post__title {
+  font-family: "blenny",sans-serif;
+  // font-family: "industry",sans-serif;
+}
