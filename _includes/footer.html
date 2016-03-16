@@ -94,14 +94,34 @@
 <!-- Other JS libraries -->
 <script>
   {% asset 'app' %}
+
+  {% if page.fittext %}
+    {% asset 'fittext' %}
+
+    jQuery(document).ready(function($) {
+      $(".post__title").fitText();
+    });
+  {% endif %}
+
+  {% if page.lettering == 'reg' %}
+    {% asset 'lettering' %}
+    jQuery(document).ready(function($) {
+      $(".post__title").lettering();
+    });
+    {% elsif page.lettering == 'words' %}
+      {% asset 'lettering' %}
+      jQuery(document).ready(function($) {
+        $(".post__title").lettering('words');
+      });
+  {% endif %}
 </script>
 <script src="/js/search.min.js" type="text/javascript" charset="utf-8"></script>
 
 <!-- Typekit Code  -->
 <script src="https://use.typekit.net/zfg4kbf.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
-{% if page.artdirect_type %}
+{% if page.artdirect_typo %}
   <!-- Additional Typekit Only for this Page -->
-  <script src="https://use.typekit.net/{{ page.artdirect_type }}.js"></script>
+  <script src="https://use.typekit.net/{{ page.artdirect_typo }}.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
 {% endif %}
