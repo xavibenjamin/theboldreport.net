@@ -6,8 +6,6 @@ $secondary-color: #333333;
 $text-color: #e7d9c0;
 
 body {
-  // background: url(uploads/2016/me-editor.png) no-repeat #fbd6dc;
-  // background-blend-mode: screen;
   background: $primary-color;
   background-position: -35px -35px;
   background-size: auto 100vh;
@@ -17,17 +15,27 @@ body {
   background: $secondary-color;
   border-bottom: 1px solid rgba(white, .1);
   margin-bottom: 0;
+  a {
+    color: $primary-color;
+    &:hover, &:focus {
+      color: lighten($primary-color, 5%);
+    }
+  }
 }
 
 .logo {
   .bold__first, .bold__third {
     fill: rgba(white, .6);
   }
+  .bold__second {
+    fill: $primary-color;
+  }
 }
 
-.post {
-  // border-left: 20px solid $secondary-color;
-  // padding: 2rem 0;
+.site__navigation {
+  @media #{$small-only} {
+    background: darken($secondary-color, 10%);
+  }
 }
 
 .post__header {
@@ -38,10 +46,6 @@ body {
   width: 100%;
 }
 
-.post__meta li {
-  color: rgba(white, .7);
-}
-
 .post__title {
   font-family: "blenny",sans-serif;
   max-width: 1300px;
@@ -49,32 +53,38 @@ body {
   .word1 {
     color: wheat;
     display: block;
-    font-size: .6em;
-    padding-left: 2em;
+    font-size: .7em;
+    padding-left: 1.5em;
   }
   .word2 {
     color: white;
     display: block;
     font-size: 4.5em;
     line-height: .6;
+    // text-transform: uppercase;
   }
   .word3 {
     color: wheat;
-    line-height: 1.6;
-    padding-left: 5.8em;
+    line-height: 1.5;
+    padding-left: 3.6em;
+    font-size: 1.3em;
   }
   .word4 {
     color: wheat;
+    font-size: 1.3em;
   }
 }
 
 .post__lead {
   color: white;
-  font-size: 2.6rem;
+  font-size: 1.9rem;
   font-weight: 300;
   line-height: 1.1;
   margin: 0 auto;
-  max-width: 990px;
+  max-width: 1000px;
+  @media #{$medium-up} {
+    font-size: 2.6rem;
+  }
 }
 
 .post__entry {
@@ -96,16 +106,44 @@ body {
   p {
     color: $secondary-color;
   }
+  h5 {
+    color: $secondary-color;
+    &:before {
+      background: darken($primary-color, 10%);
+    }
+  }
+}
+
+.post__closer .svg-icon path {
+  fill: darken($primary-color, 10%);
+}
+
+.post__footer {
+  .post__meta li {
+    color: darken($primary-color, 30%);
+  }
+}
+
+.post__entry, .post__footer, .site__footer {
+  a {
+    color: $secondary-color;
+    &:hover, &:focus {
+      color: lighten($secondary-color, 10%);
+    }
+  }
 }
 
 .site__footer {
   background: none;
   color: $secondary-color;
+  small {
+    color: darken($primary-color, 30%);
+  }
 }
 
 .footer__logo {
   .bold__second {
-    fill: $primary-color;
+    fill: darken($primary-color, 30%);
   }
 }
 

@@ -43,7 +43,7 @@ input:focus::-moz-placeholder {
     width: 100%;
     transition: .2s ease-in-out;
     &:focus {
-      border-color: $linkColor;
+      background: lighten(#feffda, 3%);
     }
   }
 }

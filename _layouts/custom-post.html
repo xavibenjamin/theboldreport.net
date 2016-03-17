@@ -6,17 +6,7 @@ class: single
 <main class="content__main-content" role="main">
   <div class="type-post{% if page.artdirect_type %} type-artdirect{% endif %}">
     <article class="post">
-      {% if page.artdirect_type %}
-        {% include artdirect-type.html %}
-      {% endif %}
-
       <header class="post__header">
-        <ul class="post__meta">
-          <li><small><span class="pubdate"><time datetime="{{ page.date | date_to_xmlschema }}">{% assign d = page.date | date: "%-d"  %}{{ page.date | date: "%B" }}
-        {% case d %}{% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
-        {{ page.date | date: "%Y" }}</time></span></small></li>
-          {% for tag in page.tags %}<li> &middot; <a href="{{ site.url }}/topics/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a></li>{% endfor %}
-        </ul>
         <h1 class="post__title">{{ page.title }}</h1>
         {% if page.lead %}
           <h2 class="post__lead">{{ page.lead }}</h2><!-- /.subheader -->
@@ -34,6 +24,17 @@ class: single
           <path fill="none" d="M12.824,10.412c-0.341-0.228-0.738-0.349-1.146-0.349c-0.694,0-1.338,0.344-1.723,0.92c-0.634,0.949-0.377,2.236,0.571,2.869c0.342,0.228,0.739,0.35,1.147,0.35c0.694,0,1.337-0.344,1.722-0.92C14.029,12.332,13.773,11.045,12.824,10.412z"></path>
         </svg>
       </div><!-- /.post__closer -->
+
+      <footer class="post__footer">
+        <div class="container">
+          <ul class="post__meta">
+            <li><small><span class="pubdate"><time datetime="{{ page.date | date_to_xmlschema }}">{% assign d = page.date | date: "%-d"  %}{{ page.date | date: "%B" }}
+          {% case d %}{% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
+          {{ page.date | date: "%Y" }}</time></span></small></li>
+            {% include tags.html %}
+          </ul>
+        </div><!-- /.container -->
+      </footer><!-- /.post__footer -->
 
     </article>
    </div>
