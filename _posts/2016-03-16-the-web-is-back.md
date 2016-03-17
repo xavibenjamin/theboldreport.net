@@ -20,7 +20,7 @@ Creativity on the web has been on a bit of a vacation. I'm not pointing fingers,
 
 Enter flexbox. Here's where things start to get interesting. We're at a point where browser support for it is pretty great, and the chances of the syntax changing are slim to none. And flexbox is only one of quite a few properties with great browser support. In other words, the days of boring run-of-the-mill layouts are over… if you want them to be. 
 
-Of course, there are those of you who haven no choice but  to support IE9 at the day job (this guy). Still, I will not let IE suck the living soul out of me past 5pm. So I'm introducing something new on *The Bold Report*: Art directed posts. 
+Of course, there are those of you who have no choice but  to support IE9 at the day job (this guy). Still, I will not let IE suck the living soul out of me past 5pm. So I'm introducing something new on *The Bold Report*: Art directed posts. 
 
 With all the CSS layout tools we have now, I needed somewhere to experiment and have some fun. These new posts will be a place to experiment with layout, type,  and color. As always, the writing will be just as important, because what's a great layout with crappy content? Crap.
 
