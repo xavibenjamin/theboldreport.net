@@ -4,19 +4,17 @@ layout: null
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <link rel="hub" href="https://pubsubhubbub.appspot.com"/>
-
-  <title>{{ site.name }} - Articles Only</title>
+  <title>{{ site.name }} - Articles</title>
   <subtitle>By Timothy B. Smith</subtitle>
   <link href="http://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="http://theboldreport.net/feed.article.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <rights>Copyright © {{ site.time | date: "%Y" }} Timothy B. Smith</rights>
+  <rights>Copyright © 2013–{{ site.time | date: "%Y" }} Timothy B. Smith</rights>
   <id>http://theboldreport.net</id>
   <author>
     <name>Timothy B. Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
-
   {% for post in site.categories.articles %}
   <entry>
     <id>http://theboldreport.net{{ post.id }}</id>
@@ -31,5 +29,4 @@ layout: null
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
   {% endfor %}
-
 </feed>
