@@ -20,6 +20,8 @@ engines:
         style: ordered
       MD032:
         enabled: false
+      MD033:
+        enabled: false
       MD034:
         enabled: false
       MD036:

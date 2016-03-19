@@ -17,25 +17,28 @@ For those of you who don't know about 1Password, it's a great utility app to sto
 
 - 1Password Mini brings most of the power of the main app to the menubar. This is great for entering passwords into apps that aren't the browser. I disliked having to open the main app to do this in previous versions.
 
-## Design 
+## Design
+
 The first thing you'll notice when you open the new 1Password is the beautiful interface. If you've already purchased [the latest iOS app](https://agilebits.com/onepassword/ios), you'll notice that the new design is very similar, which delights me greatly. This redesign is years overdue, and the AgileBits team has delivered.
 
 {% figure extendout /uploads/2013/10/1p4-mac-main.png "1Password 4 for Mac Main View" %}
 
-I love that this redesign in a lot of ways is a re-align. The interface remains in the three column layout, yet with an easy-on-the-eyes, light background. The type has greatly improved, and the middle column no longer has the "shelf" look. The new layout, allows you to see more logins in the window without having to scroll and sports better looking icons. 
+I love that this redesign in a lot of ways is a re-align. The interface remains in the three column layout, yet with an easy-on-the-eyes, light background. The type has greatly improved, and the middle column no longer has the "shelf" look. The new layout, allows you to see more logins in the window without having to scroll and sports better looking icons.
 
 Thankfully, the last column has been redone too. It used to be confusing to look at, and honestly, I didn't know what was going on. It's now a lot more simplified and only displays necessary information.
 
 That being said, my favorite part of the main view, is the new "Security Audit" that appears in the far left column. It gives you easy access to weak passwords, duplicate passwords, and passwords that are old and might need to be changed. To be clear, this type of filtering has always been present in 1Password, but the fact that it's now front and center, is very valuable to me.
 
 ## Multiple Vaults
-One feature that I can see becoming very popular is the new feature of multiple vaults. I haven't actually been using this feature, but it's one of those things that I think could help me organize the different sets of passwords. 
+
+One feature that I can see becoming very popular is the new feature of multiple vaults. I haven't actually been using this feature, but it's one of those things that I think could help me organize the different sets of passwords.
 
 This is especially true when I worked for a company. Having a separate vault exclusively for company logins, would've been a great way to get organized. This makes managing items easier, and makes cleaning out items you no longer need, a breeze.
 
 {% figure alignright /uploads/2013/10/1p4-mac-create-new-vault.png "With 1Password 4 you can now create new vaults. Organizing your passwords based on their use is simple." %}
 
 ## 1Password Mini
+
 I love that they made a menubar app. I'm definitely one of those people that has *way too many* of them.[^2] Interestingly, the menubar app is what comes up now when you press `⌘CMD + \`. It seems that the 1Password browser extension is now only needed to run the code necessary for the autofill. You'll never actually need to press the button anymore, which is nice, because it's one less button in the extensions.
 
 {% figure alignleft /uploads/2013/10/1p4-mac-1p-mini-item-details.png "1Password Mini makes using 1Password easier and faster than ever." %}
@@ -54,6 +57,7 @@ I have no idea what this means, except that 1Password is constantly being update
 This feature is back from previous versions. Personally, I use Dropbox to sync my Vault between my Mac, iPad and iPhone, but whatever floats your boat. They have iCloud sync too.
 
 ## Final Thoughts
+
 The AgileBits team have definitely outdone themselves. Not only is this update to 1Password beautiful, the new features and menubar app, make the upgrade very worth it.
 
 If you've never used 1Password, this is a perfect time to purchase. In this day and age, it's crucial to have secure passwords. This is an app you'll later wonder how you did without.
@@ -63,6 +67,7 @@ It seems you can't currently purchase the new 1Password from [the AgileBits stor
 **Update:** You can now purchase and/or upgrade on [the AgileBits store](https://agilebits.com/store). Seems my speculation was wrong.
 
 ##### Further Reading
+
 [How long should my passwords be?](http://blog.agilebits.com/2013/08/31/how-long-should-my-passwords-be/) - If you're interested in making generated passwords from 1Password very secure, I definitely recommend this article by the AgileBits team.
 
 [^1]: This might seem like a small thing, but it's one of my favorite additions to 1Password. I used to copy the password then press the fill button, and now those two actions are done with one press.
