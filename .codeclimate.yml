@@ -4,9 +4,13 @@ engines:
   markdownlint:
     enabled: true
     checks:
+      MD009:
+        br_spaces: 3
       MD013:
         enabled: false
       MD014:
+        enabled: false
+      MD036:
         enabled: false
   scss-lint:
     enabled: true
