@@ -10,14 +10,14 @@ engines:
         enabled: false
       MD009:
         enabled: true
-          br_spaces: 2
+        br_spaces: 2
       MD013:
         enabled: false
       MD014:
         enabled: false
       MD029:
         enabled: true
-          style: 'ordered'
+        style: 'ordered'
       MD032:
         enabled: false
       MD034:
