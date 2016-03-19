@@ -11,6 +11,8 @@ engines:
         enabled: false
       MD014:
         enabled: false
+      MD034:
+        enabled: false
       MD036:
         enabled: false
   scss-lint:
