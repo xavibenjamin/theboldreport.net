@@ -5,6 +5,7 @@ engines:
     enabled: true
     checks:
       MD009:
+        enabled: true
         br_spaces: 3
       MD013:
         enabled: false
