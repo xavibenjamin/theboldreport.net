@@ -1,8 +1,10 @@
 engines:
   eslint:
     enabled: true
+  markdownlint:
+    enabled: true
   scss-lint:
-      enabled: true
+    enabled: true
   duplication:
     enabled: true
     config:
@@ -13,3 +15,6 @@ ratings:
   paths:
   - _assets/javascript/**
   - _assets/stylesheets/**
+exclude_paths:
+  - "_assets/javascripts/vendor/jquery.min.js"
+  - "_assets/javascripts/vendor/search.min.js"
