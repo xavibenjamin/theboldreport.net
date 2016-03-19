@@ -3,8 +3,24 @@ engines:
     enabled: true
   markdownlint:
     enabled: true
+    checks:
+      MD013:
+        enabled: false
+      MD014:
+        enabled: false
   scss-lint:
     enabled: true
+    checks:
+      ColorKeyword:
+        enabled: false
+      Comment:
+        enabled: false
+      DeclarationOrder:
+        enabled: false
+      PropertySortOrder:
+        enabled: false
+      SelectorFormat:
+        enabled: false
   duplication:
     enabled: true
     config:
@@ -18,3 +34,5 @@ ratings:
 exclude_paths:
   - "_assets/javascripts/vendor/jquery.min.js"
   - "_assets/javascripts/vendor/search.min.js"
+  - "_assets/javascripts/lettering.js"
+  - "_assets/javascripts/fittext.js"
