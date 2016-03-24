@@ -13,11 +13,11 @@ BUTTONS
   padding: rem-calc(5px) rem-calc(10px);
   @extend %sans;
   &--primary {
-    background: $jazzColor;
+    background: $jazz-color;
     color: white;
     transition: background 300ms ease;
     &:hover, &:focus {
-      background: darken($jazzColor, 8%);
+      background: darken($jazz-color, 8%);
     }
     &:active {
       box-shadow: inset 0 0 3px rgba(black, .1);

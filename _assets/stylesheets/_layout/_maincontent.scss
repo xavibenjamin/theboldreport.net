@@ -34,7 +34,7 @@ MAIN CONTENT
   width: 100%;
   @extend %sans;
   li {
-    color: lighten($darkColor, 20%);
+    color: lighten($dark-color, 20%);
     display: inline;
     font-size: 0.9rem;
     margin: 0;
@@ -45,7 +45,7 @@ MAIN CONTENT
 }
 
 small.post__meta {
-  color: lighten($darkColor, 20%);
+  color: lighten($dark-color, 20%);
   display: block;
   font-size: 0.9rem;
   margin-bottom: .55rem;
@@ -56,7 +56,7 @@ small.post__meta {
 .format-post {
   .post__entry {
     >p:first-child {
-      color: lighten($darkColor, 20%);
+      color: lighten($dark-color, 20%);
       line-height: 130%;
       font-size: 1.7rem;
       font-weight: 300;
@@ -70,10 +70,10 @@ small.post__meta {
     margin: 0;
     a {
       border-bottom: none;
-      color: $darkColor;
+      color: $dark-color;
       text-decoration: none !important;
       &:hover {
-        color: $linkColor;
+        color: $link-color;
         border-bottom: none;
       }
     }
@@ -93,7 +93,7 @@ small.post__meta {
     }
   }
   .arrow {
-    color: lighten($darkColor, 50%);
+    color: lighten($dark-color, 50%);
     font-size: 1.3rem;
     line-height: 100%;
     margin-left: $spacing-xs;
@@ -111,7 +111,7 @@ small.post__meta {
   margin: 5rem auto 0;
   .svg-icon {
     path {
-      fill: lighten($borderColor, 1%);
+      fill: lighten($border-color, 1%);
     }
   }
 }
@@ -127,7 +127,7 @@ small.post__meta {
     font-weight: 300;
   }
   .post__lead {
-    color: lighten($darkColor, 20%);
+    color: lighten($dark-color, 20%);
     font-size: 1.7rem;
     font-weight: 300;
   }
@@ -174,7 +174,7 @@ small.post__meta {
     }
   }
   hr {
-    background: $borderColor;
+    background: $border-color;
     display: block;
     width: 150px;
     margin: 20px 0;

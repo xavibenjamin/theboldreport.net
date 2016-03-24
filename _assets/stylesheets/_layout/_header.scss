@@ -7,7 +7,7 @@ HEADER
   flex-direction: column;
   margin: 0 0 $spacing-l;
   @media #{$medium-up} {
-    border-bottom: 1px solid $borderColor;
+    border-bottom: 1px solid $border-color;
     flex-direction: row;
     padding: rem-calc(15px);
   }
@@ -34,17 +34,17 @@ HEADER
     max-height: 24px;
   }
   .bold__first, .bold__third {
-    fill: $darkColor;
+    fill: $dark-color;
     transition: fill 310ms ease;
   }
   .bold__second {
-    fill: $linkColor;
+    fill: $link-color;
     transition: fill 310ms ease;
   }
 }
 
 .site__author {
-  color: lighten($darkColor, 15%);
+  color: lighten($dark-color, 15%);
   font-size: 1rem;
   line-height: 100%;
   @extend %sans;
@@ -60,7 +60,7 @@ HEADER
 .site__navigation {
   flex: 1;
   @media #{$small-only} {
-    background: $jazzColor;
+    background: $jazz-color;
     padding: .8rem 0;
   }
   @media #{$medium-up} {
