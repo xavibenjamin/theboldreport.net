@@ -35,6 +35,8 @@ engines:
         enabled: false
       DeclarationOrder:
         enabled: false
+      EmptyLineBetweenBlocks:
+        enabled: false
       PropertySortOrder:
         enabled: false
       SelectorFormat:
