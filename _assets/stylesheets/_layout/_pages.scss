@@ -21,7 +21,7 @@ PAGES
 }
 
 .tag-box {
-  border-bottom: 1px solid $borderColor;
+  border-bottom: 1px solid $border-color;
   list-style-type: none;
   padding: 0 0 rem-calc(40px);
   width: 90%;
@@ -38,15 +38,15 @@ PAGES
       padding: 0;
     }
     a {
-      background: $borderColor;
+      background: $border-color;
       border-radius: 50px;
-      color: $bodyColor;
+      color: $body-color;
       display: inline-block;
       margin-bottom: .4rem;
       padding: 0.1rem 0.7rem;
       text-decoration: none;
       &:hover, &:focus {
-        background: $jazzColor;
+        background: $jazz-color;
         color: white;
       }
       span {

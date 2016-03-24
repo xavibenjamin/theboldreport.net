@@ -81,9 +81,9 @@ Before we go any further, we want to declare our variables. Variables allow us t
 
 ```scss
 /* site.scss ---------------------- */
-$borderColor: #eaecef;
+$border-color: #eaecef;
 $globalRadius: 3px;
-$linkColor: #429cd4;
+$link-color: #429cd4;
 ```
 
 Next, we’ll style the `label` and `input`. Since we’re styling under the `.newsletter` class, we’re styling both inputs at the same time.[^1]
@@ -96,7 +96,7 @@ Next, we’ll style the `label` and `input`. Since we’re styling under the `.n
     font-weight: 600;
   }
   input {
-    border: 1px solid $borderColor;
+    border: 1px solid $border-color;
     border-radius: $globalRadius;
     color: $dark-color;
     font-size: .95rem;
@@ -104,7 +104,7 @@ Next, we’ll style the `label` and `input`. Since we’re styling under the `.n
     width: 100%;
     transition: .2s ease-in-out;
     &:focus {
-      border-color: $linkColor;
+      border-color: $link-color;
     }
   }
 }
@@ -139,11 +139,11 @@ Everything is looking good except for that button. Let’s fix that. These are a
   font-weight: 600;
   padding: rem-calc(5px) rem-calc(10px);
   &--primary {
-    background: $linkColor;
+    background: $link-color;
     color: white;
     transition: background 300ms ease;
     &:hover, &:focus {
-      background: darken($linkColor, 8%);
+      background: darken($link-color, 8%);
     }
     &:active {
       box-shadow: inset 0 0 3px rgba(black, .1);
@@ -192,8 +192,8 @@ Everything is looking good, and our form is submitting. But that thank you messa
 /* site.scss ---------------------- */
 .newsletter__thankyou {
   &.js-submitted {
-    background: lighten($linkColor, 40%);
-    border: 1px solid lighten($linkColor, 20%);
+    background: lighten($link-color, 40%);
+    border: 1px solid lighten($link-color, 20%);
     border-radius: $globalRadius;
     padding: rem-calc(15px) rem-calc(8px);;
     @extend %sans;

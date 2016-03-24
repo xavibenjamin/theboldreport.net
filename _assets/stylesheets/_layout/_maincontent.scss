@@ -73,7 +73,7 @@ small.post__meta {
       color: $dark-color;
       text-decoration: none !important;
       &:hover {
-        color: $linkColor;
+        color: $link-color;
         border-bottom: none;
       }
     }
@@ -111,7 +111,7 @@ small.post__meta {
   margin: 5rem auto 0;
   .svg-icon {
     path {
-      fill: lighten($borderColor, 1%);
+      fill: lighten($border-color, 1%);
     }
   }
 }
@@ -174,7 +174,7 @@ small.post__meta {
     }
   }
   hr {
-    background: $borderColor;
+    background: $border-color;
     display: block;
     width: 150px;
     margin: 20px 0;
