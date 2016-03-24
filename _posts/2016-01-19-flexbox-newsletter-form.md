@@ -98,7 +98,7 @@ Next, we’ll style the `label` and `input`. Since we’re styling under the `.n
   input {
     border: 1px solid $borderColor;
     border-radius: $globalRadius;
-    color: $darkColor;
+    color: $dark-color;
     font-size: .95rem;
     padding: rem-calc(5px);
     width: 100%;

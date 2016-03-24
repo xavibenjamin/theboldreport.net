@@ -5,39 +5,39 @@ FORMS
 
 // Webkit Placeholder
 ::-webkit-input-placeholder {
-  color: lighten($darkColor, 20%);
+  color: lighten($dark-color, 20%);
   transition: all .2s ease;
 }
 
 input:focus::-webkit-input-placeholder {
-  color: lighten($darkColor, 50%);
+  color: lighten($dark-color, 50%);
 }
 
 // Firefox 18
 :-moz-placeholder { /* Firefox 18- */
-  color: lighten($darkColor, 20%);
+  color: lighten($dark-color, 20%);
   transition: all .2s ease;
 }
 
 input:focus:-moz-placeholder {
-  color: lighten($darkColor, 50%);
+  color: lighten($dark-color, 50%);
 }
 
 // Firefox 19
 ::-moz-placeholder {  /* Firefox 19+ */
-  color: lighten($darkColor, 20%);
+  color: lighten($dark-color, 20%);
   transition: all .2s ease;
 }
 
 input:focus::-moz-placeholder {
-  color: lighten($darkColor, 50%);
+  color: lighten($dark-color, 50%);
 }
 
 .site__search-form {
   input {
     border: 1px solid $borderColor;
     border-radius: 3px;
-    color: $darkColor;
+    color: $dark-color;
     font-size: .9rem;
     padding: rem-calc(10px);
     width: 100%;
@@ -62,7 +62,7 @@ input:focus::-moz-placeholder {
   }
   input {
     border-radius: 3px;
-    color: $darkColor;
+    color: $dark-color;
     font-size: .95rem;
     max-height: 45px;
     padding: rem-calc(10px);

@@ -19,7 +19,7 @@ figure {
 
 figcaption {
   @extend %sans;
-  color: lighten($darkColor, 20%);
+  color: lighten($dark-color, 20%);
   font-size: 1.1rem;
   line-height: 130%;
   code {

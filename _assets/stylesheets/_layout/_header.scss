@@ -34,7 +34,7 @@ HEADER
     max-height: 24px;
   }
   .bold__first, .bold__third {
-    fill: $darkColor;
+    fill: $dark-color;
     transition: fill 310ms ease;
   }
   .bold__second {
@@ -44,7 +44,7 @@ HEADER
 }
 
 .site__author {
-  color: lighten($darkColor, 15%);
+  color: lighten($dark-color, 15%);
   font-size: 1rem;
   line-height: 100%;
   @extend %sans;
