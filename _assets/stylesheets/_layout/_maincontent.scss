@@ -20,7 +20,8 @@ MAIN CONTENT
 }
 
 .post__header {
-  h1, h2 {
+  h1,
+  h2 {
     width: 100%;
   }
   h1 + h2 {
@@ -36,7 +37,7 @@ MAIN CONTENT
   li {
     color: lighten($dark-color, 20%);
     display: inline;
-    font-size: 0.9rem;
+    font-size: .9rem;
     margin: 0;
     &:last-child {
       padding: 0;
@@ -47,7 +48,7 @@ MAIN CONTENT
 small.post__meta {
   color: lighten($dark-color, 20%);
   display: block;
-  font-size: 0.9rem;
+  font-size: .9rem;
   margin-bottom: .55rem;
 }
 
@@ -69,12 +70,11 @@ small.post__meta {
     font-weight: 600;
     margin: 0;
     a {
-      border-bottom: none;
+      border-bottom: 0;
       color: $dark-color;
-      text-decoration: none !important;
       &:hover {
         color: $link-color;
-        border-bottom: none;
+        border-bottom: 0;
       }
     }
   }
@@ -89,7 +89,7 @@ small.post__meta {
     line-height: 130%;
     margin: 0;
     a {
-      text-decoration: underline !important;
+      text-decoration: underline;
     }
   }
   .arrow {
@@ -99,11 +99,6 @@ small.post__meta {
     margin-left: $spacing-xs;
     vertical-align: middle;
   }
-}
-
-.link__icon {
-  margin: 0 0 0 $spacing-xs;
-  font-weight: normal !important;
 }
 
 .post__closer {
@@ -183,7 +178,22 @@ small.post__meta {
 
 /* Media Queries on Post Type */
 
-h1, h2, h3, h4, h5, .post__entry>p, .search-results-list>p, .page__entry>p, ul, ol, .extendout figcaption, .footnotes, .highlight, .post__header, .pagination, .site__footer small {
+h1,
+h2,
+h3,
+h4,
+h5,
+ol,
+ul,
+.post__header,
+.post__entry>p,
+.search-results-list>p,
+.page__entry>p,
+.highlight,
+.extendout figcaption,
+.footnotes,
+.pagination,
+.site__footer small {
   margin-left: auto;
   margin-right: auto;
   width: 90%;
