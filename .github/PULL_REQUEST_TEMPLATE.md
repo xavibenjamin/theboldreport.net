@@ -1,7 +1,8 @@
 #### Purpose
 
-#### Todos:
-- [ ] 
+#### Todos
+
+- [ ]
 
 #### Background Context
 
