@@ -33,7 +33,8 @@ HEADER
     width: 180px;
     max-height: 24px;
   }
-  .bold__first, .bold__third {
+  .bold__first,
+  .bold__third {
     fill: $dark-color;
     transition: fill 310ms ease;
   }
