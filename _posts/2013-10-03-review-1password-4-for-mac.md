@@ -47,13 +47,13 @@ It's too early for me to say, but I think 1Password Mini could completely replac
 
 ## Other Features You Should Know About
 
-- **Shared Items**     
+- **Shared Items**  
 Till now, I haven't needed to ever share login items, but I can definitely see the practicality of this. You can share items with email or iMessage, and if the person makes changes, the item automatically updates when shared back.
 
-- **256-bit Authenticated Encryption**     
+- **256-bit Authenticated Encryption**  
 I have no idea what this means, except that 1Password is constantly being updated to be more and more secure. From what I'm told, this prevents attacks that don't even exist yet.
 
-- **Wifi Sync**     
+- **Wifi Sync**  
 This feature is back from previous versions. Personally, I use Dropbox to sync my Vault between my Mac, iPad and iPhone, but whatever floats your boat. They have iCloud sync too.
 
 ## Final Thoughts
@@ -71,5 +71,5 @@ It seems you can't currently purchase the new 1Password from [the AgileBits stor
 [How long should my passwords be?](http://blog.agilebits.com/2013/08/31/how-long-should-my-passwords-be/) - If you're interested in making generated passwords from 1Password very secure, I definitely recommend this article by the AgileBits team.
 
 [^1]: This might seem like a small thing, but it's one of my favorite additions to 1Password. I used to copy the password then press the fill button, and now those two actions are done with one press.
-[^2]: By the way, you can use [Bartender](http://www.macbartender.com/) to clean that menubar up. 
+[^2]: By the way, you can use [Bartender](http://www.macbartender.com/) to clean that menubar up.
 [^3]: This is only speculation, but I wonder if they're required to give the App Store preference for a set amount of time.
