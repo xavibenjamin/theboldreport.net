@@ -43,6 +43,8 @@ engines:
         enabled: false
       SelectorFormat:
         enabled: false
+      VendorPrefix:
+        enabled: false
   duplication:
     enabled: true
     config:
@@ -60,3 +62,4 @@ exclude_paths:
   - "_assets/javascripts/fittext.js"
   - "_assets/stylesheets/_redbat/_normalize.scss"
   - "_assets/stylesheets/_redbat/_reset.scss"
+  - "_assets/stylesheets/_redbat/_functions.scss"
