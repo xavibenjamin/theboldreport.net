@@ -3,14 +3,14 @@
 TYPE
 -------------------------------------------
 Table of Contents
-	- Base Type
-	- Fonts
-	- Headings
-	- Text
-	- Inline Type
-	- Blockquote
-	- hr
-	- Links
+  - Base Type
+  - Fonts
+  - Headings
+  - Text
+  - Inline Type
+  - Blockquote
+  - hr
+  - Links
 
 ------------------------------------------- */
 
@@ -30,24 +30,10 @@ html {
 }
 
 body {
-	line-height: 140%;
-	color: $body-color;
-	@extend %serif;
+  line-height: 140%;
+  color: $body-color;
+  @extend %serif;
 }
-
-// TYPE SIZE VARIABLES
-
-$text-size-xs: .8em;
-$text-size-s: .9em;
-$text-size-m: 1em;
-$text-size-l: 1.5em;
-$text-size-xl: 2em;
-
-%heading-size-s { font-size: .95em;}
-%heading-size-m { font-size: 1.25em;}
-%heading-size-l { font-size: 1.5em;}
-%heading-size-xl { font-size: 2em;}
-
 
 /*
 
@@ -67,10 +53,6 @@ FONTS
 
 HEADINGS
 ------------------------------------------- */
-%heading-size-s { font-size: .95em;}
-%heading-size-m { font-size: 1.25em;}
-%heading-size-l { font-size: 1.5em;}
-%heading-size-xl { font-size: 2em;}
 
 h1,
 h2,
@@ -78,11 +60,13 @@ h3,
 h4,
 h5,
 h6 {
-	@extend %sans;
+  @extend %sans;
   line-height: 130%;
 }
 
-h1, h2, h5 {
+h1,
+h2,
+h5 {
   color: $dark-color;
 }
 
@@ -92,11 +76,11 @@ TEXT
 ------------------------------------------- */
 
 .wf-loading {
-  // transition: visibility 300ms ease;
   visibility: hidden;
 }
 
-.wf-active, .wf-inactive {
+.wf-active,
+.wf-inactive {
   visibility: visible;
   opacity: 1;
 }
@@ -142,7 +126,7 @@ h5 {
   text-transform: uppercase;
   &:before {
     background: $border-color;
-    content: " ";
+    content: '';
     display: block;
     height: 1px;
     width: 80px;
@@ -152,7 +136,7 @@ h5 {
 
 h6 {
   color: lighten($body-color, 20%);
-  font-size: 0.9rem;
+  font-size: .9rem;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -167,6 +151,7 @@ ul {
   li {
     line-height: 160%;
     margin-left: rem-calc(40px);
+    margin-bottom: .5rem;
     padding: rem-calc(2px) 0 0;
     font-size: 1.3rem;
     ul {
@@ -174,15 +159,15 @@ ul {
       margin-bottom: 0;
       width: 100%;
       li {
-        font-size: inherit !important;
+        font-size: inherit;
       }
     }
     p {
-      font-size: inherit !important;
-      margin: 0 0 rem-calc(10px) 0 !important;
+      font-size: inherit;
+      margin: 0 0 rem-calc(10px) 0;
     }
     &:last-child {
-      padding: 01.25% 0 0;
+      padding: 1.25% 0 0;
     }
   }
 }
@@ -230,24 +215,25 @@ INLINE TYPE
 ------------------------------------------- */
 
 strong {
-	font-weight: 700;
+  font-weight: 700;
   em {
    font-weight: 700;
    font-style: italic;
   }
 }
 
-em, cite {
-	font-style: italic;
+em,
+cite {
+  font-style: italic;
   font-weight: inherit;
 }
 
 sup {
   a {
-    border-bottom: none;
-    font-size: .65rem;
+    border-bottom: 0;
+    font-size: .85rem;
     font-weight: bold;
-    text-decoration: none !important;
+    text-decoration: none;
   }
 }
 
@@ -255,12 +241,9 @@ pre {
   background: #fcfcfc;
   border-radius: 3px;
   font-family: Inconsolata, "Inconsolata-g for Powerline", monospace;
-  padding: 3% 3% 3%;
+  padding: 3%;
   white-space: pre;
   overflow-x: auto;
-  @media screen and (max-width: 700px ) {
-    padding: 3%;
-  }
   code {
     background: none;
     padding: 0;
@@ -310,7 +293,7 @@ blockquote {
     font-size: .80rem;
     margin: rem-calc(10px) 0 0;
     &:before {
-      content: "—";
+      content: '—';
       color: $border-color;
     }
   }
@@ -322,14 +305,14 @@ HR
 ------------------------------------------- */
 
 hr {
-	border: solid $border-color;
-	border-width: 2px 0 0;
-	margin: 3rem auto;
-	height: 0;
-	width: auto;
-	max-width: 300px;
-	display: block;
-	padding: 0;
+  border: solid $border-color;
+  border-width: 2px 0 0;
+  margin: 3rem auto;
+  height: 0;
+  width: auto;
+  max-width: 300px;
+  display: block;
+  padding: 0;
   @extend %clearfix;
 }
 
@@ -340,18 +323,13 @@ LINKS
 ------------------------------------------- */
 
 a {
-	color: $link-color;
-	text-decoration: underline;
-	transition: .2s ease;
-	&:hover {
-		color: lighten($link-color, 10%);
-	}
-	header & {
-		text-decoration: none;
-	}
-}
-
-a.reversefootnote {
-  text-decoration: none !important;
-  margin-left: 5px;
+  color: $link-color;
+  text-decoration: underline;
+  transition: .2s ease;
+  &:hover {
+    color: lighten($link-color, 10%);
+  }
+  header & {
+    text-decoration: none;
+  }
 }
