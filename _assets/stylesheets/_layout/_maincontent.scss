@@ -68,6 +68,7 @@ small.post__meta {
   h1 {
     font-size: 2.5rem;
     font-weight: 600;
+    line-height: 1;
     margin: 0;
     a {
       border-bottom: 0;
@@ -125,6 +126,13 @@ small.post__meta {
     color: lighten($dark-color, 20%);
     font-size: 1.7rem;
     font-weight: 300;
+  }
+}
+
+.type-artdirect {
+  h1 {
+    font-size: 2.5rem;
+    font-weight: 600;
   }
 }
 
