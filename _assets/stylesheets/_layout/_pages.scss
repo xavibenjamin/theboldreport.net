@@ -2,7 +2,9 @@
 
 PAGES
 --------------------------------------------------------- */
-.archive-list, .search-results-list, .topic-list {
+.archive-list,
+.search-results-list,
+.topic-list {
   h3 {
     font-size: 1.2rem;
     margin-bottom: .5rem;
@@ -10,13 +12,13 @@ PAGES
     &:first-child {
       margin-top: .3rem;
     }
-    .pubdate {
-      color: lighten($dark-color, 25%);
-      display: inline-block;
-      font-size: 1rem;
-      font-weight: normal;
-      margin-left: rem-calc(10px);
-    }
+  }
+  .pubdate {
+    color: lighten($dark-color, 25%);
+    display: inline-block;
+    font-size: 1rem;
+    font-weight: normal;
+    margin-left: rem-calc(10px);
   }
 }
 
@@ -30,29 +32,30 @@ PAGES
   }
   li {
     display: inline-block;
-    margin: 0 0.4rem 0 0;
+    margin: 0 .1rem 0 0;
     padding: 0;
-    font-size: .9rem;
+    font-size: .85rem;
     @extend %sans;
     &:last-child {
       padding: 0;
     }
     a {
       background: $border-color;
-      border-radius: 50px;
+      border-radius: 2px;
       color: $body-color;
       display: inline-block;
       margin-bottom: .4rem;
-      padding: 0.1rem 0.7rem;
+      padding: .1rem .3rem;
       text-decoration: none;
-      &:hover, &:focus {
+      &:hover,
+      &:focus {
         background: $jazz-color;
         color: white;
       }
-      span {
-        font-weight: 600;
-        padding: 0 .2rem;
-      }
     }
+  }
+  span {
+    font-weight: 600;
+    padding: 0 .2rem;
   }
 }
