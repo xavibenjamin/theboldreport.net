@@ -1,7 +1,6 @@
-/*
-
-FOOTER
---------------------------------------------------------- */
+// -------------------------------
+// FOOTER
+// -------------------------------
 
 .site__footer {
   background-color: $footer-color;
@@ -70,7 +69,7 @@ FOOTER
   border-bottom: 1px solid rgba(white, .2);
   padding: rem-calc(10px) rem-calc(20px) rem-calc(10px) 0;
   @media #{$medium-up} {
-    border-bottom: none;
+    border-bottom: 0;
     border-right: 1px solid rgba(white, .2);
   }
 }
@@ -91,7 +90,8 @@ FOOTER
     height: 32px;
     width: 230px;
   }
-  .bold__first, .bold__third {
+  .bold__first,
+  .bold__third {
     fill: white;
   }
   .bold__second {
@@ -113,7 +113,8 @@ FOOTER
   }
 }
 
-.footer__subscribe, .footer__links {
+.footer__subscribe,
+.footer__links {
   @media #{$medium-up} {
     flex: 1 1 auto;
   }
