@@ -1,6 +1,6 @@
-/*
-HEADER
--------------------------------------------- */
+// -------------------------------
+// HEADER
+// -------------------------------
 
 .site__header {
   display: flex;
@@ -106,15 +106,40 @@ HEADER
   }
 }
 
-/* Search */
+// -------------------------------
+// Search
+// -------------------------------
+
+.site__search-btn {
+  display: flex;
+  margin-left: rem-calc(15px);
+  path {
+    fill: $jazz-color;
+    transition: fill 300ms ease;
+  }
+  &:hover,
+  &:focus {
+    path {
+      fill: $link-color;
+    }
+  }
+}
+
+.search-icon {
+  margin: auto;
+  width: 20px;
+}
 
 .site__search-form {
+  flex: 0 1 30%;
+  transform: translateY(-150%);
+  transition: transform 200ms ease;
   @extend %sans;
   @media #{$small-only} {
     display: none;
   }
-  @media #{$medium-up} {
-    flex: 0 1 30%;
+  &.js-search-open {
+    transform: translateY(0);
   }
 }
 
