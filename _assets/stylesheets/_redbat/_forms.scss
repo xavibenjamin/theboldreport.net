@@ -42,9 +42,6 @@ input:focus::-moz-placeholder {
     padding: rem-calc(10px);
     width: 100%;
     transition: .2s ease-in-out;
-    &:focus {
-      background: lighten(#feffda, 3%);
-    }
   }
 }
 
@@ -92,7 +89,6 @@ input:focus::-moz-placeholder {
     margin-right: .5rem;
   }
 }
-
 
 .newsletter__thankyou {
   &.js-submitted {
