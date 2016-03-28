@@ -123,6 +123,9 @@
       fill: $link-color;
     }
   }
+  @media #{$small-only} {
+    display: none;
+  }
 }
 
 .search-icon {
