@@ -17,7 +17,7 @@ $(document).ready(function() {
   var searchInput = $('#search-query');
   var isOpen = false;
   searchButton.click(function() {
-    if(isOpen == false) {
+    if(isOpen === false) {
       searchWrapper.addClass('js-search-open');
       searchInput.focus();
       isOpen = true;
