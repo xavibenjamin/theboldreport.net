@@ -32,9 +32,9 @@ excerpt: The Bold Report is a personal blog written by Tim Smith about design, d
         <header class="post__header">
           <h1><a href="{{ post.link_url }}">{{ post.title }}</a><span class="arrow">&rarr;</span></h1>
 
-          <small class="post__meta"><span class="pubdate"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign d = post.date | date: "%-d"  %}{{ post.date | date: "%B" }}
-        {% case d %}{% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
-        {{ post.date | date: "%Y" }}</time></span> <a href="{{ post.url }}" class="link__icon" title="Link to {{ post.title }}">&infin;</a></small>
+          <ul class="post__meta">
+            {% include date.html %}
+          </ul><!-- /.post__meta -->
 
         </header><!-- /.post__header -->
 
