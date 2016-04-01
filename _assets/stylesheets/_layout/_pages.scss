@@ -7,18 +7,17 @@ PAGES
 .topic-list {
   h3 {
     font-size: 1.2rem;
-    margin-bottom: .5rem;
+    margin-bottom: 1rem;
     margin-top: 0;
     &:first-child {
       margin-top: .3rem;
     }
   }
   .pubdate {
-    color: lighten($dark-color, 25%);
-    display: inline-block;
-    font-size: 1rem;
+    color: lighten($dark-color, 20%);
+    display: block;
+    font-size: .9rem;
     font-weight: normal;
-    margin-left: rem-calc(10px);
   }
 }
 
