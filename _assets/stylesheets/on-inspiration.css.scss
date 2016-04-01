@@ -1,18 +1,17 @@
-@import "_redbat/functions";
-@import "_redbat/mixins";
-
-$primary-color: #022a41;
-$secondary-color: #cca874;
-$jazz-color: #e4097f;
+@import '_redbat/functions';
+@import '_redbat/mixins';
+$primary-color: #022A41;
+$secondary-color: #CCA874;
+$jazz-color: #E4097F;
 
 body {
   &:before {
     background: $primary-color;
-    content: "";
+    content: '';
     display: block;
     height: 400px;
-    width: 100%;
     position: absolute;
+    width: 100%;
     @media #{$xlarge-up} {
       height: 600px;
     }
@@ -37,7 +36,8 @@ body {
 }
 
 .logo {
-  .bold__first, .bold__third {
+  .bold__first,
+  .bold__third {
     fill: white;
   }
   .bold__second {
@@ -60,27 +60,24 @@ body {
     color: rgba(white, .6);
     transition: all .2s ease;
   }
-
   input:focus::-webkit-input-placeholder {
     color: white;
   }
-
   // Firefox 18
-  :-moz-placeholder { /* Firefox 18- */
+  :-moz-placeholder {
+    /* Firefox 18- */
     color: rgba(white, .6);
     transition: all .2s ease;
   }
-
   input:focus:-moz-placeholder {
     color: white;
   }
-
   // Firefox 19
-  ::-moz-placeholder {  /* Firefox 19+ */
+  ::-moz-placeholder {
+    /* Firefox 19+ */
     color: rgba(white, .6);
     transition: all .2s ease;
   }
-
   input:focus::-moz-placeholder {
     color: white;
   }
@@ -89,13 +86,12 @@ body {
 .post__header {
   margin-bottom: 5rem;
   padding: 1.2rem;
-  width: 100%;
   position: relative;
+  width: 100%;
   z-index: 1;
   @media #{$large-up} {
     padding: 2.5rem;
   }
-
   .post__meta {
     color: rgba(white, .4);
     text-align: right;
@@ -103,8 +99,8 @@ body {
 }
 
 .format-post h1 {
-  font-size: 20vw;
   color: $secondary-color;
+  font-size: 20vw;
   line-height: 60%;
   text-indent: 7vw;
 }
@@ -119,10 +115,10 @@ body {
     max-width: 1000px;
   }
   @media #{$xxlarge-up} {
-    max-width: none;
     -webkit-column-width: 34rem;
     -moz-column-width: 34rem;
     column-width: 34rem;
+    max-width: none;
   }
 }
 
@@ -130,18 +126,14 @@ body {
   margin-bottom: 0;
   text-indent: 1.5rem;
   &:first-child {
-    text-indent: 0;
     margin-bottom: 0;
+    text-indent: 0;
     &:first-letter {
-      color: #e4097f;
+      color: #E4097F;
+      float: left;
       font-size: 8rem;
       font-weight: 600;
-      float: left;
-      margin: {
-        bottom: rem-calc(10px);
-        right: rem-calc(10px);
-        top: rem-calc(30px);
-      }
+      margin: rem-calc(30px) rem-calc(10px) rem-calc(10px) 0;
     }
   }
 }
