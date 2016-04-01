@@ -27,11 +27,11 @@
 
 .logo {
   display: block;
-  width: 180px;
   max-height: 21px;
+  width: 180px;
   @media #{$medium-up} {
-    width: 180px;
     max-height: 24px;
+    width: 180px;
   }
   .bold__first,
   .bold__third {
@@ -45,10 +45,11 @@
 }
 
 .site__author {
+  @extend %sans;
+
   color: lighten($dark-color, 15%);
   font-size: 1rem;
   line-height: 100%;
-  @extend %sans;
   @media #{$medium-up} {
     font-size: .85rem;
     position: absolute;
@@ -87,13 +88,14 @@
     }
   }
   li {
-    display: inline;
-    list-style-type: none;
-    font-size: 1.3rem;
-    margin-right: rem-calc(15px);
-    margin-left: 0;
-    padding: 0;
     @extend %sans;
+
+    display: inline;
+    font-size: 1.3rem;
+    list-style-type: none;
+    margin-left: 0;
+    margin-right: rem-calc(15px);
+    padding: 0;
     @media #{$small-only} {
       font-size: 1.1rem;
     }
@@ -134,10 +136,11 @@
 }
 
 .site__search-form {
+  @extend %sans;
+
   flex: 0 1 30%;
   transform: translateY(-150%);
   transition: transform 200ms ease;
-  @extend %sans;
   @media #{$small-only} {
     display: none;
   }
@@ -145,34 +148,3 @@
     transform: translateY(0);
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,9 +1,5 @@
-
 @import "_redbat/functions";
 @import "_redbat/mixins";
-
-/*
-BITS --------------------------------------- */
 
 $primary-color: #022a41;
 $secondary-color: #cca874;
@@ -111,9 +107,6 @@ body {
   color: $secondary-color;
   line-height: 60%;
   text-indent: 7vw;
-  @media #{$large-up} {
-    // font-size: 15rem;
-  }
 }
 
 .post__entry {
