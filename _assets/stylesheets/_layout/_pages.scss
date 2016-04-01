@@ -1,7 +1,7 @@
-/*
+// -------------------------------
+// PAGES
+// -------------------------------
 
-PAGES
---------------------------------------------------------- */
 .archive-list,
 .search-results-list,
 .topic-list {
@@ -30,11 +30,12 @@ PAGES
     width: 100%;
   }
   li {
+    @extend %sans;
+
     display: inline-block;
+    font-size: .85rem;
     margin: 0 .1rem 0 0;
     padding: 0;
-    font-size: .85rem;
-    @extend %sans;
     &:last-child {
       padding: 0;
     }
