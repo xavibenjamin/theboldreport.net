@@ -1,21 +1,21 @@
-/*
-
-PAGE NAVIGATION
-------------------------------------------- */
+// -------------------------------
+// PAGE NAVIGATION
+// -------------------------------
 
 .pagination {
   @extend %clearfix;
   @extend %sans;
+
   text-align: center;
   ul {
-    margin: 0 auto;
     list-style-type: none;
+    margin: 0 auto;
     li {
       display: inline-block;
-      margin: 0;
-      line-height: inherit;
-      padding: 0;
       font-size: 1.15em;
+      line-height: inherit;
+      margin: 0;
+      padding: 0;
     }
   }
 }
@@ -23,14 +23,14 @@ PAGE NAVIGATION
 .pagination a {
   background: $dark-color;
   border: none !important;
+  border-radius: 3px;
+  color: white;
   display: inline-block;
-  padding: 5px 14px;
-  margin: 0 5px;
   font-size: .75em;
   font-weight: bold;
-  color: white;
+  margin: 0 5px;
+  padding: 5px 14px;
   text-decoration: none !important;
-  border-radius: 3px;
   &:hover {
     background: $jazz-color;
     color: white;
@@ -41,12 +41,12 @@ PAGE NAVIGATION
 }
 
 .disabled {
-  color: lighten($dark-color, 40%);
-  padding: 5px 14px !important;
-  margin: 0 5px;
-  border-radius: 3px;
   border: none !important;
+  border-radius: 3px;
+  color: lighten($dark-color, 40%);
   display: inline-block;
-  font-weight: bold;
   font-size: .85em !important;
+  font-weight: bold;
+  margin: 0 5px;
+  padding: 5px 14px !important;
 }

@@ -39,6 +39,8 @@ engines:
         enabled: false
       EmptyLineBetweenBlocks:
         enabled: false
+      HexNotation:
+        enabled: false
       PropertySortOrder:
         enabled: false
       SelectorFormat:

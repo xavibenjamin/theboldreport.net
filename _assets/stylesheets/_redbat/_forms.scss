@@ -1,9 +1,8 @@
-/*
+// -------------------------------
+// FORMS
+// -------------------------------
 
-FORMS
-------------------------------------------- */
-
-// Webkit Placeholder
+// WEBKIT PLACEHOLDER ------------
 ::-webkit-input-placeholder {
   color: lighten($dark-color, 20%);
   transition: all .2s ease;
@@ -13,8 +12,8 @@ input:focus::-webkit-input-placeholder {
   color: lighten($dark-color, 50%);
 }
 
-// Firefox 18
-:-moz-placeholder { /* Firefox 18- */
+// FIREFOX 18 --------------------
+:-moz-placeholder {
   color: lighten($dark-color, 20%);
   transition: all .2s ease;
 }
@@ -23,8 +22,8 @@ input:focus:-moz-placeholder {
   color: lighten($dark-color, 50%);
 }
 
-// Firefox 19
-::-moz-placeholder {  /* Firefox 19+ */
+// FIREFOX 19 --------------------
+::-moz-placeholder {
   color: lighten($dark-color, 20%);
   transition: all .2s ease;
 }
@@ -40,8 +39,8 @@ input:focus::-moz-placeholder {
     color: $dark-color;
     font-size: .9rem;
     padding: rem-calc(10px);
-    width: 100%;
     transition: .2s ease-in-out;
+    width: 100%;
   }
 }
 
@@ -58,6 +57,8 @@ input:focus::-moz-placeholder {
     display: flex;
   }
   input {
+    @extend %sans;
+
     border-radius: 3px;
     color: $dark-color;
     font-size: .95rem;
@@ -65,9 +66,8 @@ input:focus::-moz-placeholder {
     padding: rem-calc(10px);
     transition: .2s ease-in-out;
     width: 100%;
-    @extend %sans;
     &:focus {
-      background: lighten(#feffda, 3%);
+      background: lighten(#FEFFDA, 3%);
     }
   }
   .button-group {
@@ -78,12 +78,10 @@ input:focus::-moz-placeholder {
       flex: 1 1 auto;
     }
   }
-
   .newsletter__inputs {
     display: flex;
     flex: 1 1 auto;
   }
-
   .form-group {
     flex: 1 1 auto;
     margin-right: .5rem;
@@ -92,10 +90,11 @@ input:focus::-moz-placeholder {
 
 .newsletter__thankyou {
   &.js-submitted {
+    @extend %sans;
+
     background: darken($footer-color, 5%);
     border-radius: 3px;
     padding: rem-calc(15px) rem-calc(8px);
-    @extend %sans;
     p {
       font-size: 1rem;
     }

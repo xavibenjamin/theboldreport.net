@@ -1,13 +1,13 @@
-/*
-
-OBJECTS
-------------------------------------------- */
+// -------------------------------
+// OBJECTS
+// -------------------------------
 
 .container {
-  margin: 0 auto;
-  width: 100%;
   @extend %clearfix;
+
+  margin: 0 auto;
   position: relative;
+  width: 100%;
   @media #{$medium-up} {
     max-width: 768px;
   }
@@ -21,6 +21,6 @@ svg {
 }
 
 iframe {
-  width: 100%;
   margin: 1rem 0;
+  width: 100%;
 }

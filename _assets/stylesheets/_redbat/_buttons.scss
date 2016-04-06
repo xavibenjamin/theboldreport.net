@@ -1,17 +1,15 @@
-/*
-
-BUTTONS
----------------------------------------------------------
-
-*/
+// -------------------------------
+// BUTTONS
+// -------------------------------
 
 .button {
-  background: #ddd;
+  @extend %sans;
+
+  background: #DDD;
   border: 0;
   border-radius: 3px;
   font-weight: 600;
   padding: rem-calc(5px) rem-calc(10px);
-  @extend %sans;
   &--primary {
     background: $jazz-color;
     color: white;
@@ -27,9 +25,9 @@ BUTTONS
 }
 
 .no-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
   appearance: none;
   background: none;
   border: 0;
-  -moz-appearance: none;
-  -webkit-appearance: none;
 }

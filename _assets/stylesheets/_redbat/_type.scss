@@ -1,58 +1,39 @@
-/*
-
-TYPE
--------------------------------------------
-Table of Contents
-  - Base Type
-  - Fonts
-  - Headings
-  - Text
-  - Inline Type
-  - Blockquote
-  - hr
-  - Links
-
-------------------------------------------- */
+// -------------------------------
+// TYPE
+// -------------------------------
 
 
-/*
+// BASE TYPE ---------------------
 
-BASE TYPE
-------------------------------------------- */
 html {
-  transition: opacity 100ms ease-in;
-  opacity: 0;
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
+  opacity: 0;
+  transition: opacity 100ms ease-in;
   @media #{$medium-up} {
     font-size: 18px;
   }
 }
 
 body {
-  line-height: 140%;
-  color: $body-color;
   @extend %serif;
+
+  color: $body-color;
+  line-height: 140%;
 }
 
-/*
-
-FONTS
-------------------------------------------- */
+// FONTS -------------------------
 
 %serif {
-  font-family: "freight-text-pro", Adobe Garamond Pro, Georgia, system, -apple-system, BlinkMacSystemFont, serif;
+  font-family: 'freight-text-pro', Adobe Garamond Pro, Georgia, system, -apple-system, BlinkMacSystemFont, serif;
 }
 
 
 %sans {
-  font-family: "freight-sans-pro", system, -apple-system, BlinkMacSystemFont, Avenir, sans-serif;
+  font-family: 'freight-sans-pro', system, -apple-system, BlinkMacSystemFont, Avenir, sans-serif;
 }
 
-/*
-
-HEADINGS
-------------------------------------------- */
+// HEADINGS ----------------------
 
 h1,
 h2,
@@ -61,6 +42,7 @@ h4,
 h5,
 h6 {
   @extend %sans;
+
   line-height: 130%;
 }
 
@@ -70,10 +52,7 @@ h5 {
   color: $dark-color;
 }
 
-/*
-
-TEXT
-------------------------------------------- */
+// TEXT --------------------------
 
 .wf-loading {
   visibility: hidden;
@@ -81,8 +60,8 @@ TEXT
 
 .wf-active,
 .wf-inactive {
-  visibility: visible;
   opacity: 1;
+  visibility: visible;
 }
 
 p {
@@ -113,24 +92,24 @@ h3 {
 
 h4 {
   color: lighten($dark-color, 30%);
-  margin: 2.5rem 0 rem-calc(3px);
   font-size: 1.3rem;
   font-weight: bold;
+  margin: 2.5rem 0 rem-calc(3px);
   text-transform: uppercase;
 }
 
 h5 {
-  margin: 3rem 0 rem-calc(3px);
   font-size: 1rem;
   font-weight: bold;
+  margin: 3rem 0 rem-calc(3px);
   text-transform: uppercase;
   &:before {
     background: $border-color;
     content: '';
     display: block;
     height: 1px;
-    width: 80px;
     margin-bottom: 10px;
+    width: 80px;
   }
 }
 
@@ -149,11 +128,11 @@ ul {
     margin-left: rem-calc(40px);
   }
   li {
-    line-height: 160%;
-    margin-left: rem-calc(40px);
-    margin-bottom: .5rem;
-    padding: rem-calc(2px) 0 0;
     font-size: 1.3rem;
+    line-height: 160%;
+    margin-bottom: .5rem;
+    margin-left: rem-calc(40px);
+    padding: rem-calc(2px) 0 0;
     ul {
       list-style-type: circle;
       margin-bottom: 0;
@@ -209,16 +188,13 @@ ol {
 }
 
 
-/*
-
-INLINE TYPE
-------------------------------------------- */
+// INLINE TYPE -------------------
 
 strong {
   font-weight: 700;
   em {
-   font-weight: 700;
-   font-style: italic;
+    font-style: italic;
+    font-weight: 700;
   }
 }
 
@@ -238,12 +214,12 @@ sup {
 }
 
 pre {
-  background: #fcfcfc;
+  background: #FCFCFC;
   border-radius: 3px;
-  font-family: Inconsolata, "Inconsolata-g for Powerline", monospace;
+  font-family: Inconsolata, 'Inconsolata-g for Powerline', monospace;
+  overflow-x: auto;
   padding: 3%;
   white-space: pre;
-  overflow-x: auto;
   code {
     background: none;
     padding: 0;
@@ -255,10 +231,10 @@ pre {
 }
 
 code {
-  background: #f5f5f5;
+  background: #F5F5F5;
   border-radius: 3px;
   color: $dark-color;
-  font-family: Inconsolata, "Inconsolata-g for Powerline", monospace;
+  font-family: Inconsolata, 'Inconsolata-g for Powerline', monospace;
   font-size: 1.1rem;
   padding: 2px 5px;
   pre & {
@@ -271,16 +247,13 @@ code {
 
 
 
-/*
-
-BLOCKQUOTE
-------------------------------------------- */
+// BLOCKQUOTE --------------------
 
 blockquote {
   border-left: 3px solid $link-color;
   color: lighten($body-color, 15%);
-  padding-left: rem-calc(15px);
   margin: 0 auto rem-calc(25px);
+  padding-left: rem-calc(15px);
   width: 90%;
   @media #{$medium-up} {
     width: 85%;
@@ -293,34 +266,29 @@ blockquote {
     font-size: .80rem;
     margin: rem-calc(10px) 0 0;
     &:before {
-      content: '—';
       color: $border-color;
+      content: '—';
     }
   }
 }
 
-/*
-
-HR
-------------------------------------------- */
+// HR ----------------------------
 
 hr {
+  @extend %clearfix;
+
   border: solid $border-color;
   border-width: 2px 0 0;
-  margin: 3rem auto;
-  height: 0;
-  width: auto;
-  max-width: 300px;
   display: block;
+  height: 0;
+  margin: 3rem auto;
+  max-width: 300px;
   padding: 0;
-  @extend %clearfix;
+  width: auto;
 }
 
 
-/*
-
-LINKS
-------------------------------------------- */
+// LINKS -------------------------
 
 a {
   color: $link-color;

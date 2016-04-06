@@ -1,7 +1,6 @@
-/*
-
-MAIN CONTENT
---------------------------------------------------------- */
+// -------------------------------
+// MAIN CONTENT
+// -------------------------------
 
 .home-posts {
   &.type-post {
@@ -30,10 +29,11 @@ MAIN CONTENT
 }
 
 .post__meta {
+  @extend %sans;
+
   list-style-type: none;
   margin-bottom: .5rem;
   width: 100%;
-  @extend %sans;
   li {
     color: lighten($dark-color, 20%);
     display: inline;
@@ -52,17 +52,18 @@ small.post__meta {
   margin-bottom: .55rem;
 }
 
-/* Format Post */
+// Format Post -------------------
 
 .format-post {
   .post__entry {
-    >p:first-child {
+    > p:first-child {
+      @extend %sans;
+
       color: lighten($dark-color, 20%);
-      line-height: 130%;
       font-size: 1.7rem;
       font-weight: 300;
+      line-height: 130%;
       margin-bottom: rem-calc(30px);
-      @extend %sans;
     }
   }
   h1 {
@@ -74,15 +75,15 @@ small.post__meta {
       border-bottom: 0;
       color: $dark-color;
       &:hover {
-        color: $link-color;
         border-bottom: 0;
+        color: $link-color;
       }
     }
   }
 }
 
 
-// Format Link
+// Format Link -------------------
 .format-link {
   h1 {
     font-size: 1.6rem;
@@ -103,8 +104,8 @@ small.post__meta {
 }
 
 .post__closer {
-  width: 50px;
   margin: 5rem auto 0;
+  width: 50px;
   .svg-icon {
     path {
       fill: lighten($border-color, 1%);
@@ -112,7 +113,7 @@ small.post__meta {
   }
 }
 
-/* ArtDirect Post */
+// ArtDirect Post ----------------
 .format-artdirect {
   background: rgba($footer-color, .03);
   padding: 10rem 0;
@@ -160,7 +161,7 @@ small.post__meta {
 }
 
 
-/* Footnotes */
+// Footnotes ---------------------
 
 .footnotes {
   margin: 40px 0;
@@ -169,8 +170,8 @@ small.post__meta {
     width: 83%;
     li {
       font-size: 1rem;
-      padding: 0;
       margin: 0;
+      padding: 0;
       code {
         font-size: .8rem;
       }
@@ -179,12 +180,12 @@ small.post__meta {
   hr {
     background: $border-color;
     display: block;
-    width: 150px;
     margin: 20px 0;
+    width: 150px;
   }
 }
 
-/* Media Queries on Post Type */
+// Media Queries on Post Type ----
 
 h1,
 h2,
@@ -194,9 +195,9 @@ h5,
 ol,
 ul,
 .post__header,
-.post__entry>p,
-.search-results-list>p,
-.page__entry>p,
+.post__entry > p,
+.search-results-list > p,
+.page__entry > p,
 .highlight,
 .extendout figcaption,
 .footnotes,

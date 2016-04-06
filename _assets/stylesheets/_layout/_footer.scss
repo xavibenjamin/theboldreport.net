@@ -3,36 +3,37 @@
 // -------------------------------
 
 .site__footer {
+  @extend %clearfix;
+
   background-color: $footer-color;
   color: rgba(white, .6);
   margin-top: 4rem;
   padding: 2rem 0;
-  @extend %clearfix;
   small {
+    @extend %sans;
+
     color: rgba(white, .4);
     display: block;
     font-size: 1.1rem;
     margin-top: 2rem;
     width: 100%;
-    @extend %sans;
     @media #{$medium-up} {
       font-size: .9rem;
     }
   }
   p {
+    @extend %sans;
+
     font-size: 1.2rem;
     line-height: 130%;
-    @extend %sans;
   }
   a {
     text-decoration: none;
   }
   .container {
+    margin-left: auto;
+    margin-right: auto;
     width: 90%;
-    margin: {
-      left: auto;
-      right: auto;
-    }
     @media #{$large-up} {
       width: 100%;
     }
@@ -46,16 +47,17 @@
     flex-direction: row;
   }
   ul {
+    list-style-type: none;
     margin: 0;
     width: 100%;
-    list-style-type: none;
     li {
+      @extend %sans;
+
       font-size: 1rem;
       line-height: 130%;
       margin-bottom: rem-calc(5px);
       margin-left: 0;
       padding: 0;
-      @extend %sans;
     }
   }
   h6 {
@@ -83,8 +85,8 @@
 
 .footer__logo {
   display: block;
-  margin-bottom: rem-calc(10px);
   height: 28px;
+  margin-bottom: rem-calc(10px);
   width: 200px;
   @media #{$medium-up} {
     height: 32px;
