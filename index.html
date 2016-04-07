@@ -65,9 +65,9 @@ excerpt: The Bold Report is a personal blog written by Tim Smith about design, d
 </div><!-- .content__posts -->
 
 <div class="pagination">
-  <ul>
+  <ul class="page-nav">
   {% if paginator.previous_page %}
-    <li class="previous">
+    <li class="page-nav__previous">
       {% if paginator.previous_page == 1 %}
         <a href="/">Prev</a>
       {% else %}
@@ -75,18 +75,18 @@ excerpt: The Bold Report is a personal blog written by Tim Smith about design, d
       {% endif %}
     </li>
   {% else %}
-    <li class="previous disabled">
+    <li class="page-nav__previous page-nav__disabled">
       Prev
     </li>
   {% endif %}
 
 
   {% if paginator.next_page %}
-    <li class="next">
+    <li class="page-nav__next">
       <a href="{{ paginator.next_page_path }}">Next</a>
     </li>
   {% else %}
-    <li class="next disabled">
+    <li class="page-nav__next page-nav__disabled">
       Next
     </li>
   {% endif %}

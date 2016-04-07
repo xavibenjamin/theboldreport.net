@@ -1,144 +1,83 @@
-/*
+// -----------------------------------------
+// GLOBAL STYLESHEET
+// -----------------------------------------
+// Created and Authored by Tim Smith.
+// -----------------------------------------
+// This stylesheet should only be a table of contents of styles.
+// The meat of the styles will be in the individual partials in
+// an effort to keep the CSS as dry as possible.
+// -----------------------------------------
 
-GLOBAL STYLESHEET
--------------------------------------------
 
-Created and Authored by Tim Smith.
+// RESET THIS MUTHA!
+// -----------------------------------------
+// @reset
+// Reseting and bringing in the foundations of our CSS.
+// -----------------------------------------
 
-Table of Contents
+@import '_redbat/normalize';
+@import '_redbat/reset';
+@import '_redbat/functions';
+@import '_redbat/mixins';
 
-- Import Compass
 
-- Import Ground Work
+// VARIABLES
+// -----------------------------------------
+// @variables
+// Setting up variables. Bringing in Colors and Spacing.
+// -----------------------------------------
 
-- Import Variables
+@import '_redbat/bits';
 
--------------------------------------------
 
-This stylesheet should only be a table of contents of styles.
-The meat of the styles will be in the individual partials in
-an effort to keep the CSS as dry as possible.
+// TOOLS
+// -----------------------------------------
+// @tools
+// Setting up tools. Bringing in Clearfix.
+// -----------------------------------------
 
-------------------------------------------- */
+@import '_redbat/clearfix';
+@import '_redbat/hide';
 
 
-/*
+// BASE STYLES
+// -----------------------------------------
+// @base
+// Setting up base. Bringing in Type, Images, Forms, and Icons.
+// -----------------------------------------
 
-RESET THIS MUTHA!
--------------------------------------------
-@reset
+@import '_redbat/type';
+@import '_redbat/images';
+@import '_redbat/forms';
+@import '_redbat/icons';
 
-Reseting and bringing in the foundations of our CSS.
 
-------------------------------------------- */
+// COMPONENTS
+// -----------------------------------------
+// @components
+// Setting up components & reusable objects.
+// -----------------------------------------
 
-@import "_redbat/normalize";
+@import '_redbat/objects';
+@import '_redbat/buttons';
+@import '_redbat/pagenavi';
 
-@import "_redbat/reset";
 
-@import "_redbat/functions";
+// LAYOUT
+// -----------------------------------------
+// @layout
+// -----------------------------------------
 
-@import "_redbat/mixins";
+@import '_layout/header';
+@import '_layout/maincontent';
+@import '_layout/pages';
+@import '_layout/footer';
 
 
+// CODE HIGHLIGHTING
+// -----------------------------------------
+// @syntax
+// Code highlighting styles.
+// -----------------------------------------
 
-/*
-
-VARIABLES
--------------------------------------------
-@variables
-
-Setting up variables. Bringing in Colors and Spacing.
-
-------------------------------------------- */
-
-@import "_redbat/bits";
-
-
-/*
-
-TOOLS
--------------------------------------------
-@tools
-
-Setting up tools. Bringing in Clearfix.
-
-------------------------------------------- */
-
-@import "_redbat/clearfix";
-
-@import "_redbat/hide";
-
-
-/*
-
-BASE STYLES
--------------------------------------------
-@base
-
-Setting up base. Bringing in Type, Images, Forms, and Icons.
-
-------------------------------------------- */
-
-@import "_redbat/type";
-
-@import "_redbat/images";
-
-@import "_redbat/forms";
-
-@import "_redbat/icons";
-
-
-/*
-
-COMPONENTS
--------------------------------------------
-@components
-
-Setting up components & reusable objects.
-
-------------------------------------------- */
-
-@import "_redbat/objects";
-
-@import "_redbat/buttons";
-
-@import "_redbat/pagenavi";
-
-
-/*
-
-LAYOUT
--------------------------------------------
-@layout
-
-Layout Styles.
-
-- Header
-
-- Footer
-
-- Main Content
-
-- Pages
-
-------------------------------------------- */
-
-@import "_layout/header";
-
-@import "_layout/maincontent";
-
-@import "_layout/pages";
-
-@import "_layout/footer";
-
-/*
-
-CODE HIGHLIGHTING
--------------------------------------------
-@syntax
-
-Code highlighting styles.
-------------------------------------------- */
-
-@import "_redbat/syntax";
+@import '_redbat/syntax';
