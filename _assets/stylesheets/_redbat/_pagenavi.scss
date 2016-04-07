@@ -2,51 +2,43 @@
 // PAGE NAVIGATION
 // -------------------------------
 
-.pagination {
-  @extend %clearfix;
-  @extend %sans;
+%nav-button {
+  font-size: .85rem;
+  font-weight: 600;
+  margin: 0;
+  padding: 6px 12px;
+}
 
+.page-nav {
+  margin-bottom: 0;
+  list-style-type: none;
   text-align: center;
-  ul {
-    list-style-type: none;
-    margin: 0 auto;
-    li {
-      display: inline-block;
-      font-size: 1.15em;
-      line-height: inherit;
-      margin: 0;
-      padding: 0;
+  @extend %sans;
+  li {
+    display: inline-block;
+  }
+  .previous:not(.disabled),
+  .next:not(.disabled) {
+    padding: 0;
+    margin: 0;
+    a {
+      @extend %nav-button;
+      background-color: $dark-color;
+      border-radius: 3px;
+      color: white;
+      text-decoration: none;
+      &:hover,
+      &:focus {
+        background-color: $jazz-color;
+      }
+      &:focus {
+        outline: 1px dotted $link-color;
+      }
     }
   }
-}
+  .disabled {
+    @extend %nav-button;
 
-.pagination a {
-  background: $dark-color;
-  border: none !important;
-  border-radius: 3px;
-  color: white;
-  display: inline-block;
-  font-size: .75em;
-  font-weight: bold;
-  margin: 0 5px;
-  padding: 5px 14px;
-  text-decoration: none !important;
-  &:hover {
-    background: $jazz-color;
-    color: white;
+    color: lighten($dark-color, 30%);
   }
-  &:active {
-    box-shadow: inset 2px 2px 0 rgba(black, .2);
-  }
-}
-
-.disabled {
-  border: none !important;
-  border-radius: 3px;
-  color: lighten($dark-color, 40%);
-  display: inline-block;
-  font-size: .85em !important;
-  font-weight: bold;
-  margin: 0 5px;
-  padding: 5px 14px !important;
 }
