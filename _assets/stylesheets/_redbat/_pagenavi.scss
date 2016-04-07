@@ -10,35 +10,39 @@
 }
 
 .page-nav {
-  margin-bottom: 0;
-  list-style-type: none;
-  text-align: center;
   @extend %sans;
+
+  list-style-type: none;
+  margin-bottom: 0;
+  text-align: center;
   li {
     display: inline-block;
   }
-  .previous:not(.disabled),
-  .next:not(.disabled) {
-    padding: 0;
-    margin: 0;
-    a {
-      @extend %nav-button;
-      background-color: $dark-color;
-      border-radius: 3px;
-      color: white;
-      text-decoration: none;
-      &:hover,
-      &:focus {
-        background-color: $jazz-color;
-      }
-      &:focus {
-        outline: 1px dotted $link-color;
-      }
-    }
-  }
-  .disabled {
+}
+
+.page-nav__previous:not(.page-nav__disabled),
+.page-nav__next:not(.page-nav__disabled) {
+  margin: 0;
+  padding: 0;
+  a {
     @extend %nav-button;
 
-    color: lighten($dark-color, 30%);
+    background-color: $dark-color;
+    border-radius: 3px;
+    color: white;
+    text-decoration: none;
+    &:hover,
+    &:focus {
+      background-color: $jazz-color;
+    }
+    &:focus {
+      outline: 1px dotted $link-color;
+    }
   }
+}
+
+.page-nav__disabled {
+  @extend %nav-button;
+
+  color: lighten($dark-color, 30%);
 }
