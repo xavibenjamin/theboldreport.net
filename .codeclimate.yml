@@ -41,6 +41,9 @@ engines:
         enabled: false
       HexNotation:
         enabled: false
+      NestingDepth:
+        enabled: true
+        max_depth: 4
       PropertySortOrder:
         enabled: false
       SelectorFormat:
