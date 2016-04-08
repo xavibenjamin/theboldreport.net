@@ -16,7 +16,7 @@ html {
 }
 
 body {
-  @extend %serif;
+  @extend %sans;
 
   color: $body-color;
   line-height: 140%;
@@ -25,12 +25,16 @@ body {
 // FONTS -------------------------
 
 %serif {
-  font-family: 'freight-text-pro', Adobe Garamond Pro, Georgia, system, -apple-system, BlinkMacSystemFont, serif;
+  font-family: "Whitney SSm A", "Whitney SSm B", Adobe Garamond Pro, Georgia, system, -apple-system, BlinkMacSystemFont, serif;
 }
 
 
 %sans {
-  font-family: 'freight-sans-pro', system, -apple-system, BlinkMacSystemFont, Avenir, sans-serif;
+  font-family: "Whitney SSm A", "Whitney SSm B", system, -apple-system, BlinkMacSystemFont, Avenir, sans-serif;
+}
+
+%sans-con {
+  font-family: "Whitney Cond A", "Whitney Cond B", system, -apple-system, BlinkMacSystemFont, Avenir, sans-serif;
 }
 
 // HEADINGS ----------------------
@@ -41,7 +45,7 @@ h3,
 h4,
 h5,
 h6 {
-  @extend %sans;
+  @extend %sans-con;
 
   line-height: 130%;
 }
@@ -65,8 +69,8 @@ h5 {
 }
 
 p {
-  font-size: 1.3rem;
-  line-height: 150%;
+  font-size: 1.1rem;
+  line-height: 1.7;
   margin-bottom: rem-calc(15px);
   &:last-child {
     margin-bottom: 0;
@@ -128,8 +132,8 @@ ul {
     margin-left: rem-calc(40px);
   }
   li {
-    font-size: 1.3rem;
-    line-height: 160%;
+    font-size: 1.1rem;
+    line-height: 1.7;
     margin-bottom: .5rem;
     margin-left: rem-calc(40px);
     padding: rem-calc(2px) 0 0;
@@ -156,8 +160,8 @@ ol {
   margin-bottom: rem-calc(25px);
   text-align: left;
   li {
-    font-size: 1.3rem;
-    line-height: 160%;
+    font-size: 1.1rem;
+    line-height: 1.7;
     margin-bottom: rem-calc(2px);
     margin-left: rem-calc(40px);
     ol {

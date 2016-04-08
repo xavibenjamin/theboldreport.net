@@ -37,7 +37,7 @@
   li {
     color: lighten($dark-color, 20%);
     display: inline;
-    font-size: .9rem;
+    font-size: .8rem;
     margin: 0;
     &:last-child {
       padding: 0;
@@ -60,14 +60,14 @@ small.post__meta {
       @extend %sans;
 
       color: lighten($dark-color, 20%);
-      font-size: 1.7rem;
+      font-size: 1.5rem;
       font-weight: 300;
       line-height: 130%;
       margin-bottom: rem-calc(30px);
     }
   }
   h1 {
-    font-size: 2.5rem;
+    font-size: 2.7rem;
     font-weight: 600;
     line-height: 1;
     margin: 0;
@@ -86,7 +86,7 @@ small.post__meta {
 // Format Link -------------------
 .format-link {
   h1 {
-    font-size: 1.6rem;
+    font-size: 1.8rem;
     font-weight: normal;
     line-height: 130%;
     margin: 0;
@@ -169,7 +169,7 @@ small.post__meta {
     margin: 0 0 0 rem-calc(40px);
     width: 83%;
     li {
-      font-size: 1rem;
+      font-size: .8rem;
       margin: 0;
       padding: 0;
       code {

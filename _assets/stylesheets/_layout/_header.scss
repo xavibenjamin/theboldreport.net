@@ -48,14 +48,11 @@
   @extend %sans;
 
   color: lighten($dark-color, 15%);
-  font-size: 1rem;
+  font-size: .9rem;
   line-height: 100%;
   @media #{$medium-up} {
-    font-size: .85rem;
+    font-size: .75rem;
     position: absolute;
-  }
-  @media #{$large-up} {
-    font-size: .8rem;
   }
 }
 
@@ -91,16 +88,13 @@
     @extend %sans;
 
     display: inline;
-    font-size: 1.3rem;
+    font-size: .9rem;
     list-style-type: none;
     margin-left: 0;
     margin-right: rem-calc(15px);
     padding: 0;
-    @media #{$small-only} {
-      font-size: 1.1rem;
-    }
     @media #{$medium-up} {
-      font-size: .9rem;
+      font-size: .8rem;
     }
     &:last-child {
       margin-right: 0;
