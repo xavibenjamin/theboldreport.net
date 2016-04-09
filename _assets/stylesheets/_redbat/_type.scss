@@ -8,8 +8,6 @@
 html {
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
-  opacity: 0;
-  transition: opacity 100ms ease-in;
   @media #{$medium-up} {
     font-size: 18px;
   }
@@ -57,16 +55,6 @@ h5 {
 }
 
 // TEXT --------------------------
-
-.wf-loading {
-  visibility: hidden;
-}
-
-.wf-active,
-.wf-inactive {
-  opacity: 1;
-  visibility: visible;
-}
 
 p {
   font-size: 1.1rem;
