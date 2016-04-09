@@ -65,3 +65,4 @@ exclude_paths:
   - "_assets/stylesheets/_redbat/_normalize.scss"
   - "_assets/stylesheets/_redbat/_reset.scss"
   - "_assets/stylesheets/_redbat/_functions.scss"
+  - "fonts/**"
