@@ -20,8 +20,8 @@ figcaption {
   @extend %sans;
 
   color: lighten($dark-color, 20%);
-  font-size: 1.1rem;
-  line-height: 130%;
+  font-size: .9rem;
+  line-height: 1.5;
   code {
     font-size: .9rem;
     @media #{$medium-up} {
@@ -29,7 +29,7 @@ figcaption {
     }
   }
   @media #{$medium-up} {
-    font-size: .9rem;
+    font-size: .8rem;
   }
 }
 

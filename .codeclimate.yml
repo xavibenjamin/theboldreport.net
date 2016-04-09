@@ -55,8 +55,8 @@ engines:
       - javascript
 ratings:
   paths:
-  - _assets/javascript/**
-  - _assets/stylesheets/**
+    - _assets/javascript/**
+    - _assets/stylesheets/**
 exclude_paths:
   - "_assets/javascripts/vendor/jquery.min.js"
   - "_assets/javascripts/vendor/search.min.js"
@@ -65,3 +65,4 @@ exclude_paths:
   - "_assets/stylesheets/_redbat/_normalize.scss"
   - "_assets/stylesheets/_redbat/_reset.scss"
   - "_assets/stylesheets/_redbat/_functions.scss"
+  - "fonts/**"
