@@ -25,16 +25,16 @@ body {
 // FONTS -------------------------
 
 %serif {
-  font-family: "Whitney SSm A", "Whitney SSm B", Adobe Garamond Pro, Georgia, system, -apple-system, BlinkMacSystemFont, serif;
+  font-family: 'Whitney SSm A', 'Whitney SSm B', Adobe Garamond Pro, Georgia, system, -apple-system, BlinkMacSystemFont, serif;
 }
 
 
 %sans {
-  font-family: "Whitney SSm A", "Whitney SSm B", system, -apple-system, BlinkMacSystemFont, Avenir, sans-serif;
+  font-family: 'Whitney SSm A', 'Whitney SSm B', system, -apple-system, BlinkMacSystemFont, Avenir, sans-serif;
 }
 
 %sans-con {
-  font-family: "Whitney Cond A", "Whitney Cond B", system, -apple-system, BlinkMacSystemFont, Avenir, sans-serif;
+  font-family: 'Whitney Cond A', 'Whitney Cond B', system, -apple-system, BlinkMacSystemFont, Avenir, sans-serif;
 }
 
 // HEADINGS ----------------------
@@ -75,6 +75,9 @@ p {
   &:last-child {
     margin-bottom: 0;
   }
+  @media #{$medium-up} {
+    font-size: 1rem;
+  }
 }
 
 h1 {
@@ -82,28 +85,28 @@ h1 {
 }
 
 h2 {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   font-weight: 600;
-  line-height: 120%;
+  line-height: 1.2;
   margin: 2.3rem 0 0;
 }
 
 h3 {
   color: lighten($dark-color, 25%);
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   margin: 2.5em 0 rem-calc(3px);
 }
 
 h4 {
   color: lighten($dark-color, 30%);
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   font-weight: bold;
   margin: 2.5rem 0 rem-calc(3px);
   text-transform: uppercase;
 }
 
 h5 {
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: bold;
   margin: 3rem 0 rem-calc(3px);
   text-transform: uppercase;
@@ -112,8 +115,8 @@ h5 {
     content: '';
     display: block;
     height: 1px;
-    margin-bottom: 10px;
-    width: 80px;
+    margin-bottom: 5px;
+    width: 90px;
   }
 }
 
@@ -135,8 +138,11 @@ ul {
     font-size: 1.1rem;
     line-height: 1.7;
     margin-bottom: .5rem;
-    margin-left: rem-calc(40px);
+    margin-left: 2.3rem;
     padding: rem-calc(2px) 0 0;
+    @media #{$medium-up} {
+      font-size: 1rem;
+    }
     ul {
       list-style-type: circle;
       margin-bottom: 0;
@@ -163,7 +169,10 @@ ol {
     font-size: 1.1rem;
     line-height: 1.7;
     margin-bottom: rem-calc(2px);
-    margin-left: rem-calc(40px);
+    margin-left: 2.3rem;
+    @media #{$medium-up} {
+      font-size: 1rem;
+    }
     ol {
       list-style-type: lower-roman;
       margin-bottom: 0;
@@ -210,8 +219,7 @@ cite {
 
 sup {
   a {
-    border-bottom: 0;
-    font-size: .85rem;
+    font-size: .7rem;
     font-weight: bold;
     text-decoration: none;
   }
@@ -254,7 +262,7 @@ code {
 // BLOCKQUOTE --------------------
 
 blockquote {
-  border-left: 3px solid $link-color;
+  border-left: 2px solid $link-color;
   color: lighten($body-color, 15%);
   margin: 0 auto rem-calc(25px);
   padding-left: rem-calc(15px);

@@ -37,7 +37,7 @@ input:focus::-moz-placeholder {
     border: 1px solid $border-color;
     border-radius: 3px;
     color: $dark-color;
-    font-size: .9rem;
+    font-size: .8rem;
     padding: rem-calc(10px);
     transition: .2s ease-in-out;
     width: 100%;
@@ -61,7 +61,7 @@ input:focus::-moz-placeholder {
 
     border-radius: 3px;
     color: $dark-color;
-    font-size: .95rem;
+    font-size: .85rem;
     max-height: 45px;
     padding: rem-calc(10px);
     transition: .2s ease-in-out;

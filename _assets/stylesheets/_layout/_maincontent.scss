@@ -37,19 +37,21 @@
   li {
     color: lighten($dark-color, 20%);
     display: inline;
-    font-size: .8rem;
+    font-size: .85rem;
     margin: 0;
     &:last-child {
       padding: 0;
     }
+    @media #{$medium-up} {
+      font-size: .75rem;
+    }
   }
 }
 
-small.post__meta {
-  color: lighten($dark-color, 20%);
-  display: block;
+.link__icon {
+  display: inline-block;
   font-size: .9rem;
-  margin-bottom: .55rem;
+  margin-left: .3rem;
 }
 
 // Format Post -------------------
@@ -60,14 +62,14 @@ small.post__meta {
       @extend %sans;
 
       color: lighten($dark-color, 20%);
-      font-size: 1.5rem;
+      font-size: 1.25rem;
       font-weight: 300;
-      line-height: 130%;
+      line-height: 1.4;
       margin-bottom: rem-calc(30px);
     }
   }
   h1 {
-    font-size: 2.7rem;
+    font-size: 2.4rem;
     font-weight: 600;
     line-height: 1;
     margin: 0;
@@ -86,12 +88,15 @@ small.post__meta {
 // Format Link -------------------
 .format-link {
   h1 {
-    font-size: 1.8rem;
+    font-size: 1.7rem;
     font-weight: normal;
-    line-height: 130%;
+    line-height: 1.3;
     margin: 0;
     a {
       text-decoration: underline;
+    }
+    @media #{$medium-up} {
+      font-size: 1.6rem;
     }
   }
   .arrow {
@@ -124,22 +129,24 @@ small.post__meta {
     font-weight: 300;
   }
   .post__lead {
+    @extend %sans;
+
     color: lighten($dark-color, 20%);
-    font-size: 1.7rem;
+    font-size: 1.25rem;
     font-weight: 300;
   }
 }
 
 .type-artdirect {
   h1 {
-    font-size: 2.5rem;
+    font-size: 2.4rem;
     font-weight: 600;
   }
 }
 
 .artdirect__type {
   color: white;
-  font-size: 1.8rem;
+  font-size: 1.4rem;
   font-style: italic;
   padding: 30px 45px;
   position: absolute;
@@ -164,14 +171,17 @@ small.post__meta {
 // Footnotes ---------------------
 
 .footnotes {
-  margin: 40px 0;
+  margin: 2.5rem 0;
   ol {
-    margin: 0 0 0 rem-calc(40px);
+    margin: 0 0 0 2rem;
     width: 83%;
     li {
-      font-size: .8rem;
+      font-size: .9rem;
       margin: 0;
       padding: 0;
+      @media #{$medium-up} {
+        font-size: .8rem;
+      }
       code {
         font-size: .8rem;
       }

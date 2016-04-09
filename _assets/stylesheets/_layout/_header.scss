@@ -51,7 +51,7 @@
   font-size: .9rem;
   line-height: 100%;
   @media #{$medium-up} {
-    font-size: .75rem;
+    font-size: .7rem;
     position: absolute;
   }
 }
@@ -94,7 +94,7 @@
     margin-right: rem-calc(15px);
     padding: 0;
     @media #{$medium-up} {
-      font-size: .8rem;
+      font-size: .75rem;
     }
     &:last-child {
       margin-right: 0;
