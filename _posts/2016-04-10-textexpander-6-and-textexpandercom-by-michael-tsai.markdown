@@ -7,6 +7,7 @@ link_url: http://mjtsai.com/blog/2016/04/06/textexpander-6-and-textexpander-com/
 tags:
   - Apps
   - Tech
+date: 2016-04-10 02:00
 ---
 Michael Tsai:
 
