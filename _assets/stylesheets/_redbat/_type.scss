@@ -209,9 +209,9 @@ sup {
   a {
     background: lighten($link-color, 35%);
     border-radius: 50%;
-    padding: 1px 6px;
     font-size: .7rem;
     font-weight: 600;
+    padding: 1px 6px;
     text-decoration: none;
     &:hover {
       background: lighten($link-color, 40%);

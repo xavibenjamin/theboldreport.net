@@ -28,18 +28,19 @@ iframe {
 // Responsive iFrame -------------
 
 .iframe-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 30px;
-    height: 0;
+  height: 0;
+  margin-bottom: 3rem;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  position: relative;
 }
 
 .iframe-container iframe,
 .iframe-container object,
 .iframe-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
 }
