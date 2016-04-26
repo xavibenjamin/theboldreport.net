@@ -3,12 +3,13 @@ layout: page
 title: Style Guide
 exclude_from_search: true
 permalink: /styleguide/
+excerpt: Style guide for The Bold Report.
 ---
 {% figure small__right /uploads/2013/09/tim_680x510.jpg "Use the <code>.small__right</code> class for this particular styling." %}
 
 This page exists to show the different components and pieces of *The Bold Report*. More than anything, I maintain it because I think style guides are interesting.
 
-This website is currently set in Freight Text Pro for most main text, and Freight Sans Pro for headings and secondary text.
+This website is currently set in Whitney for primary and secondary text, and Whitney Condensed for headings.
 
 ## Heading Two
 Secondary headings are used to separate portions of text. I don't ever use links in headings unless it's a link post. Primary headings are only used once in the page title or post title. Links in regular text look like [this](/styleguide).

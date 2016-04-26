@@ -9,10 +9,8 @@ custom_css_class: single
       <header class="post__header">
 
         <ul class="post__meta">
-          <li><small><span class="pubdate"><time datetime="{{ page.date | date_to_xmlschema }}">{% assign d = page.date | date: "%-d"  %}{{ page.date | date: "%B" }}
-        {% case d %}{% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
-        {{ page.date | date: "%Y" }}</time></span></small></li>
-          {% for tag in page.tags %}<li> &middot; <a href="{{ site.url }}/topics/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a></li>{% endfor %}
+          {% include date.html %}
+          {% include tags.html %}
         </ul>
         <h1>{{ page.title }}</h1>
       </header><!-- /.post__header -->
@@ -35,10 +33,8 @@ custom_css_class: single
           <h1><a href="{{ page.link_url }}">{{ page.title }}</a><span class="arrow">&rarr;</span></h1>
 
           <ul class="post__meta">
-            <li><small><span class="pubdate"><time datetime="{{ page.date | date_to_xmlschema }}">{% assign d = page.date | date: "%-d"  %}{{ page.date | date: "%B" }}
-          {% case d %}{% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
-          {{ page.date | date: "%Y" }}</time></span></small></li>
-            {% for tag in page.tags %}<li> &middot; <a href="{{ site.url }}/topics/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a></li>{% endfor %}
+            {% include date.html %}
+            {% include tags.html %}
           </ul>
         </header><!-- /.post__header -->
 

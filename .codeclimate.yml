@@ -1,0 +1,68 @@
+engines:
+  eslint:
+    enabled: true
+  markdownlint:
+    enabled: true
+    checks:
+      MD001:
+        enabled: false
+      MD002:
+        enabled: false
+      MD009:
+        enabled: true
+        br_spaces: 2
+      MD013:
+        enabled: false
+      MD014:
+        enabled: false
+      MD029:
+        enabled: true
+        style: ordered
+      MD032:
+        enabled: false
+      MD033:
+        enabled: false
+      MD034:
+        enabled: false
+      MD036:
+        enabled: false
+  scss-lint:
+    enabled: true
+    checks:
+      ColorKeyword:
+        enabled: false
+      ColorVariable:
+        enabled: false
+      Comment:
+        enabled: false
+      DeclarationOrder:
+        enabled: false
+      EmptyLineBetweenBlocks:
+        enabled: false
+      HexNotation:
+        enabled: false
+      PropertySortOrder:
+        enabled: false
+      SelectorFormat:
+        enabled: false
+      VendorPrefix:
+        enabled: false
+  duplication:
+    enabled: true
+    config:
+      languages:
+      - ruby
+      - javascript
+ratings:
+  paths:
+    - _assets/javascript/**
+    - _assets/stylesheets/**
+exclude_paths:
+  - "_assets/javascripts/vendor/jquery.min.js"
+  - "_assets/javascripts/vendor/search.min.js"
+  - "_assets/javascripts/lettering.js"
+  - "_assets/javascripts/fittext.js"
+  - "_assets/stylesheets/_redbat/_normalize.scss"
+  - "_assets/stylesheets/_redbat/_reset.scss"
+  - "_assets/stylesheets/_redbat/_functions.scss"
+  - "fonts/**"

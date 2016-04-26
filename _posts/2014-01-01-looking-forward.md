@@ -17,7 +17,7 @@ My goals for 2013 were:
 4. Work Less
 5. Travel More
 
-This is quite an accomplishment! I spoke at two events last year: [MinneBar](http://minnestar.org/minnebar/), and [Blend Conf](http://www.blendconf.com/). I talked about the benefit of side projects, and people seemed to enjoy the talk. 
+This is quite an accomplishment! I spoke at two events last year: [MinneBar](http://minnestar.org/minnebar/), and [Blend Conf](http://www.blendconf.com/). I talked about the benefit of side projects, and people seemed to enjoy the talk.
 
 In May, I quit my job at Rocket Lift, and decided to do Anythin' Goes full-time. This has been really good for me. I've had the opportunity of working with some great clients, and the flexibility of managing my own schedule. I've also tried spending less time in front of my desk, and more time with family, friends, or other activities.[^2]
 

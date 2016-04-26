@@ -14,7 +14,6 @@
       The Bold Report © 2013—{{ site.time | date: "%Y" }} Anythin’ Goes and Timothy B. Smith.
 
       -->
-
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
       <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
@@ -25,19 +24,17 @@
       <link rel="dns-prefetch" href="//use.typekit.net">
       <link rel="dns-prefetch" href="//p.typekit.net">
 
-
       <!-- Author Info for Google -->
       <link rel="author" href="https://plus.google.com/117161754644004218749">
       <meta name="author" content="Tim Smith">
       <link rel="canonical" href="http://theboldreport.net{{ page.url }}">
-      <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 156 }}">
+      <meta name="description" property="og:description" name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 156 }}">
 
       <!-- Facebook Article Info -->
-      <meta property="og:image" content="http://theboldreport.net/uploads/2013/09/theboldreport-avatar.png">
-      <meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}">
+      <meta property="og:image" name="twitter:image" content="http://theboldreport.net/uploads/2013/09/theboldreport-avatar.png">
+      <meta property="og:title" name="twitter:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}">
       <meta property="og:site_name" content="The Bold Report">
       <meta property="og:url" content="http://theboldreport.net{{ page.url }}">
-      <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 156 }}">
       {% if page.custom_type %}
       <meta property="og:type" content="article">
       {% endif %}
@@ -46,21 +43,16 @@
       <meta name="twitter:card" content="summary">
       <meta name="twitter:site" content="@theboldreport">
       <meta name="twitter:creator" content="@ttimsmith">
-      <meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}">
-      <meta name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 156 }}">
-      <meta name="twitter:image" content="http://theboldreport.net/uploads/2013/09/theboldreport-avatar.png">
 
       <link rel="alternate" type="application/rss+xml" title="RSS Feed for The Bold Report" href="/atom.xml" />
       <link rel="alternate" type="application/rss+xml" title="Articles-Only Feed for The Bold Report" href="/atom.articles.xml" />
 
-      <!-- Custom CSS -->
-      {% stylesheet global %}
-
-      {% if page.custom_css %}{{ page.custom_css | stylesheet }}{% endif %}
-
-      <!-- Typekit FOUT -->
-      <script>document.documentElement.className += ' wf-loading';</script>
-
+      <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6973314/6893552/css/fonts.css" />
+      <style>
+        {% asset 'global' %}
+        {% if page.custom_css %}
+          {% asset '{{ page.custom_css}}' %}
+        {% endif %}
+      </style>
     </head>
-
     <body>

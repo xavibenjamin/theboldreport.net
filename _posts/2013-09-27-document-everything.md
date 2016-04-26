@@ -31,6 +31,7 @@ As cliché as it might sound, anyone has the power to make our industry better, 
 Step up. Document everything.
 
 ##### Further Reading
+
 [How To Blog About Code and Give Zero *****](http://www.garann.com/dev/2013/how-to-blog-about-code-and-give-zero-fucks/)
 
 [^1]: This particularly makes me mad. It's so high-school drama. If you want to do something, do it. Complaining isn't productive.

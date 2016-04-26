@@ -2,6 +2,7 @@
 layout: default
 exclude_from_search: true
 custom_css_class: home
+excerpt: The Bold Report is a personal blog written by Tim Smith about design, development, technology, Apple, and whatever else he finds himself curious about.
 ---
 
 <!-- This loops through the paginated posts -->
@@ -31,9 +32,9 @@ custom_css_class: home
         <header class="post__header">
           <h1><a href="{{ post.link_url }}">{{ post.title }}</a><span class="arrow">&rarr;</span></h1>
 
-          <small class="post__meta"><span class="pubdate"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign d = post.date | date: "%-d"  %}{{ post.date | date: "%B" }}
-        {% case d %}{% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
-        {{ post.date | date: "%Y" }}</time></span> <a href="{{ post.url }}" class="link__icon" title="Link to {{ post.title }}">&infin;</a></small>
+          <ul class="post__meta">
+            {% include date.html %}
+          </ul><!-- /.post__meta -->
 
         </header><!-- /.post__header -->
 
@@ -42,6 +43,21 @@ custom_css_class: home
           {{ post.content }}
         </div><!-- /.post__entry -->
 
+      {% elsif post.custom_type == 'artdirect' %}
+
+        {% include artdirect-type.html %}
+
+        <header class="post__header">
+          <ul class="post__meta">
+            <li><small><span class="pubdate"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign d = post.date | date: "%-d"  %}{{ post.date | date: "%B" }}
+          {% case d %}{% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
+          {{ post.date | date: "%Y" }}</time></span></small></li>
+          </ul>
+          <h1><a href="{{ post.url }}" style="color: #{{ post.artdirect_color }}">{{ post.title }}</a></h1>
+          <h2 class="post__lead">{{ post.lead }}</h2>
+        </header><!-- /.post__header -->
+
+
       {% endif %}
     </article><!-- /.post -->
   </div><!-- .type-post -->
@@ -49,9 +65,9 @@ custom_css_class: home
 </div><!-- .content__posts -->
 
 <div class="pagination">
-  <ul>
+  <ul class="page-nav">
   {% if paginator.previous_page %}
-    <li class="previous">
+    <li class="page-nav__previous">
       {% if paginator.previous_page == 1 %}
         <a href="/">Prev</a>
       {% else %}
@@ -59,18 +75,18 @@ custom_css_class: home
       {% endif %}
     </li>
   {% else %}
-    <li class="previous disabled">
+    <li class="page-nav__previous page-nav__disabled">
       Prev
     </li>
   {% endif %}
 
 
   {% if paginator.next_page %}
-    <li class="next">
+    <li class="page-nav__next">
       <a href="{{ paginator.next_page_path }}">Next</a>
     </li>
   {% else %}
-    <li class="next disabled">
+    <li class="page-nav__next page-nav__disabled">
       Next
     </li>
   {% endif %}

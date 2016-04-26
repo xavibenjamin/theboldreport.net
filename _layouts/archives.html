@@ -3,13 +3,14 @@ layout: page
 title: Archives
 custom_css_class: archives
 exclude_from_search: true
+excerpt: The full archive of The Bold Report.
 ---
 
 {% for month in page.months %}
   <h2 class="subheader">{{ month | date:"%B" }} <small>{{ month | date:"%Y" }}</small></h2>
   <div class="archive-list">
   {% for post in page.posts_by_month[month] %}
-    <h3><a href="{{ post.url }}">{{ post.title | truncate:45 }}</a><small class="pubdate"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %e, %Y" }}</time></small></h3>
+    <h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><small class="pubdate"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %e, %Y" }}</time></small></h3>
   {% endfor %}
   </div>
 {% endfor %}

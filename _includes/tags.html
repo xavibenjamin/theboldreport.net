@@ -1,0 +1,2 @@
+{% if page.tags.size > 0 %}{% for tag in page.tags %}<li><a href="{{ site.url }}/topics/#{{ tag | downcase | replace:' ','-'}}" title="Pages tagged {{ tag }}">{{ tag }}
+    </a>{% if forloop.last %}{% else %} &middot; {% endif %}</li>{% endfor %}{% endif %}

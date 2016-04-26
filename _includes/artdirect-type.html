@@ -1,0 +1,3 @@
+<aside class="artdirect__type" style="{% if post.artdirect_color %}background-color: #{{ post.artdirect_color}};{% else %}background-color: #{{page.artdirect_color}};{% endif %}">
+  <small class="type__name">{% if post.artdirect_type %}{{ post.artdirect_type}}{% else %}{{page.artdirect_type}}{% endif %}</small>
+</aside><!-- /.artdirect__type -->

@@ -4,7 +4,6 @@ layout: null
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <link rel="hub" href="https://pubsubhubbub.appspot.com"/>
-
   <title>{{ site.name }}</title>
   <subtitle>By Timothy B. Smith</subtitle>
   <link href="http://theboldreport.net"/>
@@ -16,7 +15,6 @@ layout: null
     <name>Timothy B. Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
-
   {% for post in site.posts %}
     <entry>
       <id>http://theboldreport.net{{ post.id }}</id>
@@ -25,7 +23,7 @@ layout: null
       {% else %}
         <link type="text/html" rel="alternate" href="http://theboldreport.net{{ post.url }}"/>
       {% endif %}
-      <title>{% if post.custom_type == 'post' %}♨ {{ post.title | xml_escape }} {% else %} {{ post.title | xml_escape }} →{% endif %}</title>
+      <title>{% if post.custom_type == 'post' or post.custom_type == 'artdirect' %}♨ {{ post.title | xml_escape }} {% else %} {{ post.title | xml_escape }} →{% endif %}</title>
       <published>{{ post.date | date_to_xmlschema }}</published>
       <updated>{{ post.date | date_to_xmlschema }}</updated>
       <author>
@@ -35,13 +33,11 @@ layout: null
       <content type="html">
         <![CDATA[
           {{ post.content }}
-
           {% if post.custom_type == 'link' %}
-            <p><a title="Permalink to ‘{{ post.title }}’" href="{{ site.url | xml_escape }}{{ post.url | xml_escape }}">∞</a></p>
+          <p><a title="Permalink to ‘{{ post.title }}’" href="{{ site.url | xml_escape }}{{ post.url | xml_escape }}">∞</a></p>
           {% endif %}
         ]]>
       </content>
     </entry>
   {% endfor %}
-
 </feed>

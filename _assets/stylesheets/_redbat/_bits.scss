@@ -1,40 +1,20 @@
 
-/*
-
-BITS
--------------------------------------------
-Table of Contents
-	- Colors
-	- Spacing
-------------------------------------------- */
+// -------------------------------
+// BITS
+// -------------------------------
 
 
-/*
+// COLORS ------------------------
+$dark-color: #555;
+$body-color: #555;
+$link-color: #429CD4;
+$jazz-color: #F88962;
+$border-color: #EAECEF;
+$brand-color: #508FAB;
+$footer-color: #383C40;
 
-COLORS
--------------------------------------------
-@colors
-Color Variables
-------------------------------------------- */
 
-$darkColor: #555555;
-$headlineColor: #555555;
-$bodyColor: #555;
-$linkColor: #429cd4;
-$jazzColor: #f88962;
-$borderColor: #eaecef;
-$brand-color: #508fab;
-$footer-color: #383c40;
-
-/*
-
-SPACING
--------------------------------------------
-@spacing
-
-Spacing Variables
-------------------------------------------- */
-
+// SPACING -----------------------
 $spacing-xxs: rem-calc(5px);
 $spacing-xs: rem-calc(10px);
 $spacing-s: rem-calc(20px);

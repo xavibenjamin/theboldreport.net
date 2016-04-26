@@ -1,13 +1,13 @@
-/*
-HEADER
--------------------------------------------- */
+// -------------------------------
+// HEADER
+// -------------------------------
 
 .site__header {
   display: flex;
   flex-direction: column;
   margin: 0 0 $spacing-l;
   @media #{$medium-up} {
-    border-bottom: 1px solid $borderColor;
+    border-bottom: 1px solid $border-color;
     flex-direction: row;
     padding: rem-calc(15px);
   }
@@ -27,40 +27,39 @@ HEADER
 
 .logo {
   display: block;
-  width: 180px;
   max-height: 21px;
+  width: 180px;
   @media #{$medium-up} {
-    width: 180px;
     max-height: 24px;
+    width: 180px;
   }
-  .bold__first, .bold__third {
-    fill: $darkColor;
+  .bold__first,
+  .bold__third {
+    fill: $dark-color;
     transition: fill 310ms ease;
   }
   .bold__second {
-    fill: $linkColor;
+    fill: $link-color;
     transition: fill 310ms ease;
   }
 }
 
 .site__author {
-  color: lighten($darkColor, 15%);
-  font-size: 1rem;
-  line-height: 100%;
   @extend %sans;
+
+  color: lighten($dark-color, 15%);
+  font-size: .9rem;
+  line-height: 100%;
   @media #{$medium-up} {
-    font-size: .85rem;
+    font-size: .7rem;
     position: absolute;
-  }
-  @media #{$large-up} {
-    font-size: .8rem;
   }
 }
 
 .site__navigation {
   flex: 1;
   @media #{$small-only} {
-    background: $jazzColor;
+    background: $jazz-color;
     padding: .8rem 0;
   }
   @media #{$medium-up} {
@@ -86,18 +85,16 @@ HEADER
     }
   }
   li {
-    display: inline;
-    list-style-type: none;
-    font-size: 1.3rem;
-    margin-right: rem-calc(15px);
-    margin-left: 0;
-    padding: 0;
     @extend %sans;
-    @media #{$small-only} {
-      font-size: 1.1rem;
-    }
+
+    display: inline;
+    font-size: .9rem;
+    list-style-type: none;
+    margin-left: 0;
+    margin-right: rem-calc(15px);
+    padding: 0;
     @media #{$medium-up} {
-      font-size: .9rem;
+      font-size: .75rem;
     }
     &:last-child {
       margin-right: 0;
@@ -105,45 +102,43 @@ HEADER
   }
 }
 
-/* Search */
+// -------------------------------
+// Search
+// -------------------------------
 
-.site__search-form {
-  @extend %sans;
+.site__search-btn {
+  display: flex;
+  margin-left: rem-calc(15px);
+  path {
+    fill: $jazz-color;
+    transition: fill 300ms ease;
+  }
+  &:hover,
+  &:focus {
+    path {
+      fill: $link-color;
+    }
+  }
   @media #{$small-only} {
     display: none;
   }
-  @media #{$medium-up} {
-    flex: 0 1 30%;
-  }
 }
 
+.search-icon {
+  margin: auto;
+  width: 20px;
+}
 
+.site__search-form {
+  @extend %sans;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  flex: 0 1 30%;
+  transform: translateY(-150%);
+  transition: transform 200ms ease;
+  @media #{$small-only} {
+    display: none;
+  }
+  &.js-search-open {
+    transform: translateY(0);
+  }
+}

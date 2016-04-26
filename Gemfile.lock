@@ -41,7 +41,7 @@ GEM
       sprockets (~> 3.3)
       sprockets-helpers (~> 1.2)
       tilt (~> 2.0)
-    jekyll-lunr-js-search (3.0.0)
+    jekyll-lunr-js-search (3.1.0)
       json (~> 1.8)
       nokogiri (~> 1.6)
       therubyracer (~> 0.12)
@@ -65,7 +65,7 @@ GEM
     multi_js (0.1.0)
       uglifier (~> 2)
     multi_xml (0.5.5)
-    nokogiri (1.6.7.1)
+    nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
     octopress-hooks (2.6.1)
       jekyll (>= 2.0)
@@ -130,4 +130,4 @@ DEPENDENCIES
   uglifier
 
 BUNDLED WITH
-   1.10.6
+   1.11.2

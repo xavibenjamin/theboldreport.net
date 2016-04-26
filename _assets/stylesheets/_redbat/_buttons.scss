@@ -1,26 +1,34 @@
-/*
-
-BUTTONS
----------------------------------------------------------
-
-*/
+// -------------------------------
+// BUTTONS
+// -------------------------------
 
 .button {
-  background: #ddd;
+  @extend %sans;
+
+  background: #DDD;
   border: 0;
   border-radius: 3px;
+  font-size: .85rem;
   font-weight: 600;
   padding: rem-calc(5px) rem-calc(10px);
-  @extend %sans;
   &--primary {
-    background: $jazzColor;
+    background: $jazz-color;
     color: white;
     transition: background 300ms ease;
-    &:hover, &:focus {
-      background: darken($jazzColor, 8%);
+    &:hover,
+    &:focus {
+      background: darken($jazz-color, 8%);
     }
     &:active {
       box-shadow: inset 0 0 3px rgba(black, .1);
     }
   }
+}
+
+.no-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: none;
+  border: 0;
 }

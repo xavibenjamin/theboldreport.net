@@ -1,0 +1,35 @@
+{
+  "exclude": [
+    ".git/**",
+    "node_modules/**"
+  ],
+  "always-semicolon": true,
+  "block-indent": "  ",
+  "color-case": "upper",
+  "color-shorthand": true,
+  "element-case": "lower",
+  "leading-zero": false,
+  "quotes": "single",
+  "remove-empty-rulesets": true,
+  "sort-order": [
+    [
+      "$variable",
+      "$include",
+      "$import"
+    ]
+  ],
+  "sort-order-fallback": "abc",
+  "space-before-colon": "",
+  "space-after-colon": " ",
+  "space-before-combinator": " ",
+  "space-after-combinator": " ",
+  "space-between-declarations": "\n",
+  "space-before-opening-brace": " ",
+  "space-after-opening-brace": "\n",
+  "space-after-selector-delimiter": "\n",
+  "space-before-selector-delimiter": "",
+  "space-before-closing-brace": "\n",
+  "strip-spaces": true,
+  "tab-size": true,
+  "unitless-zero": true
+}

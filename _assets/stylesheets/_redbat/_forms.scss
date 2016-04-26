@@ -1,55 +1,51 @@
-/*
+// -------------------------------
+// FORMS
+// -------------------------------
 
-FORMS
-------------------------------------------- */
-
-// Webkit Placeholder
+// WEBKIT PLACEHOLDER ------------
 ::-webkit-input-placeholder {
-  color: lighten($darkColor, 20%);
+  color: lighten($dark-color, 20%);
   transition: all .2s ease;
 }
 
 input:focus::-webkit-input-placeholder {
-  color: lighten($darkColor, 50%);
+  color: lighten($dark-color, 50%);
 }
 
-// Firefox 18
-:-moz-placeholder { /* Firefox 18- */
-  color: lighten($darkColor, 20%);
+// FIREFOX 18 --------------------
+:-moz-placeholder {
+  color: lighten($dark-color, 20%);
   transition: all .2s ease;
 }
 
 input:focus:-moz-placeholder {
-  color: lighten($darkColor, 50%);
+  color: lighten($dark-color, 50%);
 }
 
-// Firefox 19
-::-moz-placeholder {  /* Firefox 19+ */
-  color: lighten($darkColor, 20%);
+// FIREFOX 19 --------------------
+::-moz-placeholder {
+  color: lighten($dark-color, 20%);
   transition: all .2s ease;
 }
 
 input:focus::-moz-placeholder {
-  color: lighten($darkColor, 50%);
+  color: lighten($dark-color, 50%);
 }
 
 .site__search-form {
   input {
-    border: 1px solid $borderColor;
+    border: 1px solid $border-color;
     border-radius: 3px;
-    color: $darkColor;
-    font-size: .9rem;
+    color: $dark-color;
+    font-size: .8rem;
     padding: rem-calc(10px);
-    width: 100%;
     transition: .2s ease-in-out;
-    &:focus {
-      border-color: $linkColor;
-    }
+    width: 100%;
   }
 }
 
 .newsletter {
-  border-bottom: 1px solid lighten($footer-color, 15%);
+  border-bottom: 1px solid rgba(white, .2);
   margin-bottom: rem-calc(20px);
   padding-bottom: rem-calc(20px);
   h4 {
@@ -61,16 +57,17 @@ input:focus::-moz-placeholder {
     display: flex;
   }
   input {
-    border-radius: 3px;
-    color: $darkColor;
-    font-size: .95rem;
-    line-height: 100%;
-    padding: rem-calc(10px);
-    width: 100%;
-    transition: .2s ease-in-out;
     @extend %sans;
+
+    border-radius: 3px;
+    color: $dark-color;
+    font-size: .85rem;
+    max-height: 45px;
+    padding: rem-calc(10px);
+    transition: .2s ease-in-out;
+    width: 100%;
     &:focus {
-      background: lighten(#feffda, 3%);
+      background: lighten(#FEFFDA, 3%);
     }
   }
   .button-group {
@@ -81,26 +78,23 @@ input:focus::-moz-placeholder {
       flex: 1 1 auto;
     }
   }
-
   .newsletter__inputs {
     display: flex;
     flex: 1 1 auto;
   }
-
   .form-group {
     flex: 1 1 auto;
     margin-right: .5rem;
   }
 }
 
-
 .newsletter__thankyou {
   &.js-submitted {
-    background: lighten($linkColor, 40%);
-    border: 1px solid lighten($linkColor, 20%);
+    @extend %sans;
+
+    background: darken($footer-color, 5%);
     border-radius: 3px;
     padding: rem-calc(15px) rem-calc(8px);
-    @extend %sans;
     p {
       font-size: 1rem;
     }

@@ -1,7 +1,6 @@
-/*
-
-FUNCTIONS
-------------------------------------------- */
+// -------------------------------
+// FUNCTIONS
+// -------------------------------
 
 // This is the default html and body font-size for the base rem value.
 $rem-base: 16px !default;
@@ -108,3 +107,10 @@ $modules: () !default;
   }
   @return $emValues;
 }
+
+
+/* Type */
+
+$serif: "freight-text-pro", Adobe Garamond Pro, Georgia, system, -apple-system, BlinkMacSystemFont, serif;
+
+$sans: "freight-sans-pro", system, -apple-system, BlinkMacSystemFont, Avenir, sans-serif;

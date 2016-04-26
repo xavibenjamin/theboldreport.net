@@ -1,27 +1,37 @@
-/*
+// -------------------------------
+// PAGES
+// -------------------------------
 
-PAGES
---------------------------------------------------------- */
-.archive-list, .search-results-list, .topic-list {
+.archive-list,
+.search-results-list,
+.topic-list {
   h3 {
-    font-size: 1.2rem;
-    margin-bottom: .5rem;
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
     margin-top: 0;
     &:first-child {
       margin-top: .3rem;
     }
-    .pubdate {
-      color: lighten($darkColor, 25%);
-      display: inline-block;
-      font-size: 1rem;
-      font-weight: normal;
-      margin-left: rem-calc(10px);
+    @media #{$medium-up} {
+      font-size: 1.3rem;
+    }
+  }
+  .pubdate {
+    @extend %sans;
+
+    color: lighten($dark-color, 20%);
+    display: block;
+    font-size: .85rem;
+    font-weight: normal;
+    line-height: 1.5;
+    @media #{$medium-up} {
+      font-size: .75rem;
     }
   }
 }
 
 .tag-box {
-  border-bottom: 1px solid $borderColor;
+  border-bottom: 1px solid $border-color;
   list-style-type: none;
   padding: 0 0 rem-calc(40px);
   width: 90%;
@@ -29,30 +39,35 @@ PAGES
     width: 100%;
   }
   li {
-    display: inline-block;
-    margin: 0 0.4rem 0 0;
-    padding: 0;
-    font-size: .9rem;
     @extend %sans;
+
+    display: inline-block;
+    font-size: .85rem;
+    margin: 0 .1rem 0 0;
+    padding: 0;
+    @media #{$medium-up} {
+      font-size: .75rem;
+    }
     &:last-child {
       padding: 0;
     }
     a {
-      background: $borderColor;
-      border-radius: 50px;
-      color: $bodyColor;
+      background: $border-color;
+      border-radius: 2px;
+      color: $body-color;
       display: inline-block;
       margin-bottom: .4rem;
-      padding: 0.1rem 0.7rem;
+      padding: .1rem .3rem;
       text-decoration: none;
-      &:hover, &:focus {
-        background: $jazzColor;
+      &:hover,
+      &:focus {
+        background: $jazz-color;
         color: white;
       }
-      span {
-        font-weight: 600;
-        padding: 0 .2rem;
-      }
     }
+  }
+  span {
+    font-weight: 600;
+    padding: 0 .2rem;
   }
 }

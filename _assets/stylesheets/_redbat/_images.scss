@@ -1,11 +1,10 @@
- /*
-
-IMAGES
-------------------------------------------- */
+// -------------------------------
+// IMAGES
+// -------------------------------
 
 img {
-  width: 100%;
   height: auto;
+  width: 100%;
 }
 
 .border--white {
@@ -19,9 +18,10 @@ figure {
 
 figcaption {
   @extend %sans;
-  color: lighten($darkColor, 20%);
-  font-size: 1.1rem;
-  line-height: 130%;
+
+  color: lighten($dark-color, 20%);
+  font-size: .9rem;
+  line-height: 1.5;
   code {
     font-size: .9rem;
     @media #{$medium-up} {
@@ -29,13 +29,13 @@ figcaption {
     }
   }
   @media #{$medium-up} {
-    font-size: .9rem;
+    font-size: .8rem;
   }
 }
 
 .extendout {
-  width: 100%;
   margin-left: 0;
+  width: 100%;
 }
 
 .fullwidth {
@@ -51,9 +51,9 @@ figcaption {
     }
   }
   figcaption {
-    width: 90%;
     margin-left: auto;
     margin-right: auto;
+    width: 90%;
     @media #{$medium-up} {
       float: left;
       padding-left: $spacing-s;
@@ -96,8 +96,8 @@ figcaption {
     width: 45%;
   }
   figcaption {
-    width: 90%;
     margin: 0 auto;
+    width: 90%;
   }
 }
 
@@ -109,8 +109,8 @@ figcaption {
     width: 45%;
   }
   figcaption {
-    width: 90%;
     margin: 0 auto;
+    width: 90%;
   }
 }
 

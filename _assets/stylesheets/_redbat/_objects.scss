@@ -1,13 +1,13 @@
-/*
-
-OBJECTS
-------------------------------------------- */
+// -------------------------------
+// OBJECTS
+// -------------------------------
 
 .container {
-  margin: 0 auto;
-  width: 100%;
   @extend %clearfix;
+
+  margin: 0 auto;
   position: relative;
+  width: 100%;
   @media #{$medium-up} {
     max-width: 768px;
   }
@@ -21,6 +21,26 @@ svg {
 }
 
 iframe {
-  width: 100%;
   margin: 1rem 0;
+  width: 100%;
+}
+
+// Responsive iFrame -------------
+
+.iframe-container {
+  height: 0;
+  margin-bottom: 3rem;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  position: relative;
+}
+
+.iframe-container iframe,
+.iframe-container object,
+.iframe-container embed {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
 }

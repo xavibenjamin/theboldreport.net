@@ -1,39 +1,37 @@
-/*
-
-FOOTER
---------------------------------------------------------- */
+// -------------------------------
+// FOOTER
+// -------------------------------
 
 .site__footer {
   background-color: $footer-color;
-  color: lighten($footer-color, 45%);
+  color: rgba(white, .6);
   margin-top: 4rem;
   padding: 2rem 0;
-  @extend %clearfix;
   small {
-    color: lighten($footer-color, 30%);
+    @extend %sans;
+
+    color: rgba(white, .4);
     display: block;
-    font-size: 1.1rem;
+    font-size: .9rem;
     margin-top: 2rem;
     width: 100%;
-    @extend %sans;
     @media #{$medium-up} {
-      font-size: .9rem;
+      font-size: .75rem;
     }
   }
   p {
-    font-size: 1.2rem;
-    line-height: 130%;
     @extend %sans;
+
+    font-size: 1rem;
+    line-height: 1.5;
   }
   a {
     text-decoration: none;
   }
   .container {
+    margin-left: auto;
+    margin-right: auto;
     width: 90%;
-    margin: {
-      left: auto;
-      right: auto;
-    }
     @media #{$large-up} {
       width: 100%;
     }
@@ -47,31 +45,35 @@ FOOTER
     flex-direction: row;
   }
   ul {
+    list-style-type: none;
     margin: 0;
     width: 100%;
-    list-style-type: none;
     li {
-      font-size: 1rem;
-      line-height: 130%;
+      @extend %sans;
+
+      font-size: .9rem;
+      line-height: 1.4;
       margin-bottom: rem-calc(5px);
       margin-left: 0;
       padding: 0;
-      @extend %sans;
+      @media #{$medium-up} {
+        font-size: .8rem;
+      }
     }
   }
   h6 {
-    color: lighten($footer-color, 45%);
+    color: rgba(white, .6);
     font-weight: 600;
     margin-bottom: rem-calc(10px);
   }
 }
 
 %footer-grid {
-  border-bottom: 1px solid lighten($footer-color, 15%);
+  border-bottom: 1px solid rgba(white, .2);
   padding: rem-calc(10px) rem-calc(20px) rem-calc(10px) 0;
   @media #{$medium-up} {
-    border-bottom: none;
-    border-right: 1px solid lighten($footer-color, 15%);
+    border-bottom: 0;
+    border-right: 1px solid rgba(white, .2);
   }
 }
 
@@ -84,18 +86,19 @@ FOOTER
 
 .footer__logo {
   display: block;
-  margin-bottom: rem-calc(10px);
   height: 28px;
+  margin-bottom: rem-calc(10px);
   width: 200px;
   @media #{$medium-up} {
     height: 32px;
     width: 230px;
   }
-  .bold__first, .bold__third {
+  .bold__first,
+  .bold__third {
     fill: white;
   }
   .bold__second {
-    fill: $jazzColor;
+    fill: $jazz-color;
   }
 }
 
@@ -113,7 +116,8 @@ FOOTER
   }
 }
 
-.footer__subscribe, .footer__links {
+.footer__subscribe,
+.footer__links {
   @media #{$medium-up} {
     flex: 1 1 auto;
   }

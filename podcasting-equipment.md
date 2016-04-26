@@ -3,6 +3,7 @@ layout: page
 title: Podcasting Equipment List
 exclude_from_search: true
 permalink: /podcasting-equipment/
+excerpt: The Bold Report's podcasting equipment guide.
 ---
  
 I’ve composed an equipment list for podcasting. There are many like it, but this is mine. 
