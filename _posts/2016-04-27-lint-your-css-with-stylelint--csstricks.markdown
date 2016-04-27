@@ -7,6 +7,7 @@ link_url: https://css-tricks.com/stylelint/
 tags:
   - CSS
   - Development
+date: 2016-04-27 08:45
 ---
 David Clark on *CSS-Tricks*:
 
