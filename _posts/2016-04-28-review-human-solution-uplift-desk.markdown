@@ -47,9 +47,9 @@ Once you have everything inside, it's time to assemble the desk. I'm not handy; 
 
 Daily use is easy. I chose the controller with defined presets. I'm the only one using it, so I have one preset for sitting, and one for standing. The Uplift is very quiet; changing from one position to the other doesn't make much noise. However, it's still noticeable, so I mute when I do it on a conference call. It's also very smooth; there's no jaggedness or vibrating that'll make you feel like your devices aren't safe when raising or lowering.
 
-{% figure alignright /uploads/2016/04/uplift-controller.jpg "The uplift controller makes it very simple to add new presets. Keep in mind that this controller is the upgrade to the standard one that comes with the desk." %}
-
 Configuring new presets is simple. You adjust it to the height you want, and you press and hold on the number you'd like to assign that height to. That's it. I'm telling you, they've made it very simple.
+
+{% figure alignright /uploads/2016/04/uplift-controller.jpg "The uplift controller makes it very simple to add new presets. Keep in mind that this controller is the upgrade to the standard one that comes with the desk." %}
 
 ## Price
 
