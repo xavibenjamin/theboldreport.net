@@ -17,7 +17,7 @@ I've worked from home for about 6 years. In that time, I've invested real money 
 We sit about 8 hours a day, and anything to minimize that is a good thing. Plus, my motto this year is: Live Healthy. Buying a standing desk is only one of the changes I've been trying to make.
 
 ## Criteria
- Before I tell you why I love the desk I bought, I thought I'd tell how I went evaluating the options.
+ Before I tell you why I love the desk I bought, I thought I'd tell you how I went about evaluating the options.
  
  - **Price** - One of the biggest considerations here is price. It's understood that something like this is an investment, but you still want something in a reasonable range.
  - **Quality build** - I had a cheap desk. Most of the time, you get what you pay for. I wanted a more stable desk, with well-made hardware that'll last.
