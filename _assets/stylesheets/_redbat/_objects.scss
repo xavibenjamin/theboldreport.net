@@ -44,3 +44,49 @@ iframe {
   top: 0;
   width: 100%;
 }
+
+// Card --------------------------
+// Basically a reusable panel that
+// sits behind anything.
+// -------------------------------
+
+.card {
+  padding: 1.3rem;
+  @media #{$medium-up} {
+    border-radius: $global-radius;
+  }
+  h2 {
+    margin-top: 0;
+    width: 100%;
+  }
+}
+
+.card--large {
+  @media #{$large-up} {
+    margin: 0 auto;
+    width: 80%;
+  }
+}
+
+.card--dark {
+  background-color: $footer-color;
+  color: lighten($footer-color, 40%);
+  h2 {
+    color: white;
+  }
+}
+
+.card--jazz {
+  background-color: $jazz-color;
+  color: lighten($jazz-color, 20%);
+  h2 {
+    color: white;
+  }
+  .button--primary {
+    background: $footer-color;
+    &:focus,
+    &:hover {
+      background: lighten($footer-color, 10%);
+    }
+  }
+}
