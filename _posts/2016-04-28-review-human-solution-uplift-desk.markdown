@@ -39,7 +39,7 @@ I'll break down ease of use into two categories: daily use, and putting it all t
 
 ### Assembling the Desk
 
-They deliver the desk via freight delivery, so someone will need to be home to sign for it. The Human Solution offers an option to carry everything into your home or office, but I decided against that. When I ordered the desk, that option was $99 extra, and I was already spending upwards of $700. They deliver a palette with the table top and hardware. I'm a big guy, but not a very strong one, and I was able to carry everything in by myself. But it's heavy stuff, so call a friend if you need to.
+They deliver the desk via freight delivery, so someone will need to be home to sign for it. The Human Solution offers an option to carry everything into your home or office, but I decided against that. When I ordered the desk, that option was $199 extra, and I was already spending upwards of $700. They deliver a palette with the table top and hardware. I'm a big guy, but not a very strong one, and I was able to carry everything in by myself. But it's heavy stuff, so call a friend if you need to.
 
 Once you have everything inside, it's time to assemble the desk. I'm not handy; assembling IKEA furniture is about my limit. Putting this desk together was about that easy. All the hardware comes with it, and you won't need more than a screwdriver (or a drill if you have one). Assembly took me about an hour and a half, but I did need help to flip the desk over once the legs were attached. My wife Kelly, helped me with that.
 
@@ -62,3 +62,5 @@ With that being said, there are alternatives to a true standing desk.  I have so
 ## Conclusion
 
 I love this desk. It helps me stand more and sit less. It allows me to enjoy one-man dance parties when I'm in the mood. More importantly though, its price felt right to me, the quality is impressive, and it's easy to use. If you work from home, and you plan to continue doing so for the foreseeable future, you need a great desk. This might be just the one for you. I wholeheartedly recommend the Human Solution Uplift.
+
+*Update on 04/30/2016 at 10:23 AM CT:* Price for the Room of Choice delivery option was updated to $199 instead of $99 after hearing from The Human Solution.
