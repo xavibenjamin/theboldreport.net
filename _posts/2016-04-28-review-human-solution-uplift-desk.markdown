@@ -63,4 +63,4 @@ With that being said, there are alternatives to a true standing desk.  I have so
 
 I love this desk. It helps me stand more and sit less. It allows me to enjoy one-man dance parties when I'm in the mood. More importantly though, its price felt right to me, the quality is impressive, and it's easy to use. If you work from home, and you plan to continue doing so for the foreseeable future, you need a great desk. This might be just the one for you. I wholeheartedly recommend the Human Solution Uplift.
 
-*Update on 04/30/2016 at 10:23 AM CT:* Price for the Room of Choice delivery option was updated to $199 instead of $99 after hearing from The Human Solution.
+*Update on 04/29/2016 at 10:23 AM CT:* Price for the Room of Choice delivery option was updated to $199 instead of $99 after hearing from The Human Solution.
