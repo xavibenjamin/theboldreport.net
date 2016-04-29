@@ -48,6 +48,11 @@ input:focus::-moz-placeholder {
   border-bottom: 1px solid rgba(white, .2);
   margin-bottom: rem-calc(20px);
   padding-bottom: rem-calc(20px);
+  .card & {
+    border-bottom: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
   h4 {
     margin: 0;
     text-transform: none;

@@ -7,7 +7,6 @@ permalink: /:year/:month/:title/
 paginate: 10
 exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock']
 lunr_excludes: ['atom.xml', 'atom.articles.xml', 'sitemap.xml']
-minify_html: true
 
 # Where Things Are
 plugins_dir:  ./_plugins
@@ -21,7 +20,6 @@ gems:
   - jekyll-lunr-js-search
   - jekyll-paginate
   - jekyll-sitemap
-  - octopress-minify-html
 
 # Server
 port: 4000
