@@ -3,11 +3,12 @@
 // -------------------------------
 
 .site__header {
+  border-bottom: 2px solid $border-color;
   display: flex;
   flex-direction: column;
   margin: 0 0 $spacing-l;
   @media #{$medium-up} {
-    border-bottom: 1px solid $border-color;
+    border-bottom-width: 1px;
     flex-direction: row;
     padding: rem-calc(15px);
   }
@@ -15,6 +16,7 @@
 
 .site__branding {
   margin: 0 0 $spacing-s;
+  order: 2;
   @media #{$small-only} {
     margin: rem-calc(25px) auto;
     width: 90%;
@@ -44,20 +46,9 @@
   }
 }
 
-.site__author {
-  @extend %sans;
-
-  color: lighten($dark-color, 15%);
-  font-size: .9rem;
-  line-height: 100%;
-  @media #{$medium-up} {
-    font-size: .7rem;
-    position: absolute;
-  }
-}
-
 .site__navigation {
   flex: 1;
+  order: 1;
   @media #{$small-only} {
     background: $jazz-color;
     padding: .8rem 0;
@@ -66,6 +57,7 @@
     margin-bottom: auto;
     margin-right: $spacing-m;
     margin-top: auto;
+    order: 2;
   }
 }
 
@@ -77,10 +69,10 @@
     margin: 0 auto;
     width: 90%;
     a {
-      color: white;
+      color: lighten($jazz-color, 25%);
       font-weight: 600;
       &:hover {
-        color: rgba(white, .8);
+        color: white;
       }
     }
   }
@@ -109,8 +101,11 @@
 .site__search-btn {
   display: flex;
   margin-left: rem-calc(15px);
+  position: absolute;
+  right: 1rem;
+  top: 4.6rem;
   path {
-    fill: $jazz-color;
+    fill: $slate;
     transition: fill 300ms ease;
   }
   &:hover,
@@ -119,8 +114,9 @@
       fill: $link-color;
     }
   }
-  @media #{$small-only} {
-    display: none;
+  @media #{$medium-up} {
+    order: 3;
+    position: static;
   }
 }
 
@@ -132,13 +128,20 @@
 .site__search-form {
   @extend %sans;
 
-  flex: 0 1 30%;
-  transform: translateY(-150%);
+  position: absolute;
+  transform: translateX(-150%);
   transition: transform 200ms ease;
-  @media #{$small-only} {
-    display: none;
+  width: 100%;
+  @media #{$medium-up} {
+    left: 230px;
+    top: 7px;
+    transform: translateY(-150%);
+    width: 50%;
   }
   &.js-search-open {
-    transform: translateY(0);
+    transform: translateX(0);
+    @media #{$medium-up} {
+      transform: translateY(0);
+    }
   }
 }
