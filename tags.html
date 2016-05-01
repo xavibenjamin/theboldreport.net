@@ -21,7 +21,7 @@ excerpt: Topics covered on The Bold Report.
   <h2 class="subheader" id="{{ this_word | downcase | replace:' ','-' }}">{{ this_word }}</h2>
   <div class="topic-list">
   {% for post in site.tags[this_word] %}{% if post.title != null %}
-    <h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><small class="pubdate"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></small></h3>
+    <h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><small class="pubdate"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %b %d, %Y" }}</time></small></h3>
   {% endif %}{% endfor %}
   </div>
 {% endunless %}{% endfor %}

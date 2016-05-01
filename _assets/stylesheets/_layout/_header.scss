@@ -115,8 +115,7 @@
     }
   }
   @media #{$medium-up} {
-    order: 3;
-    position: static;
+    display: none;
   }
 }
 
@@ -133,15 +132,15 @@
   transition: transform 200ms ease;
   width: 100%;
   @media #{$medium-up} {
-    left: 230px;
-    top: 7px;
-    transform: translateY(-150%);
-    width: 50%;
+    flex: 0 1 25%;
+    order: 3;
+    position: static;
+    transform: translateY(0);
+  }
+  @media #{$large-up} {
+    flex: 0 1 35%;
   }
   &.js-search-open {
     transform: translateX(0);
-    @media #{$medium-up} {
-      transform: translateY(0);
-    }
   }
 }
