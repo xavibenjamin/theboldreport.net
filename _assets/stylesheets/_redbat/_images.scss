@@ -43,11 +43,13 @@ figcaption {
 }
 
 .alignleft {
-  @extend %clearfix;
+  @media #{$medium-up} {
+    display: flex;
+    align-items: flex-start;
+  }
   img {
     @media #{$medium-up} {
-      float: left;
-      width: 70%;
+      flex: 1 1 70%;
     }
   }
   figcaption {
@@ -55,9 +57,7 @@ figcaption {
     margin-right: auto;
     width: 90%;
     @media #{$medium-up} {
-      float: left;
-      padding-left: $spacing-s;
-      width: 25%;
+      flex: 0 1 30%;
     }
     @media #{$large-up} {
       width: 30%;
