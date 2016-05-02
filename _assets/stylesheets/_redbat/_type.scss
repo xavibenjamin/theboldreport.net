@@ -72,13 +72,19 @@ h2 {
   font-weight: 600;
   line-height: 1.2;
   margin: 2.3rem 0 0;
+  + h3 {
+    margin-top: .3rem;
+  }
 }
 
 h3 {
-  color: lighten($dark-color, 25%);
-  font-size: 1.3rem;
-  margin: 2.5em 0 rem-calc(3px);
+  color: lighten($dark-color, 35%);
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 2.3rem 0 .5rem;
+  text-transform: uppercase;
 }
+
 
 h4 {
   color: lighten($dark-color, 30%);
