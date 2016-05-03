@@ -5,7 +5,7 @@ source "https://rubygems.org"
 gem 'fileutils'
 gem 'foreman', '~> 0.78.0'
 gem 'httparty'
-gem 'jekyll-assets'
+gem 'jekyll-assets', '~> 2.2', '>= 2.2.5'
 gem 'jekyll', '~> 3.1'
 gem 'jekyll-lunr-js-search'
 gem 'jekyll-paginate', '~> 1.1'

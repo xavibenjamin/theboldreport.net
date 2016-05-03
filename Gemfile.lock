@@ -96,7 +96,7 @@ DEPENDENCIES
   foreman (~> 0.78.0)
   httparty
   jekyll (~> 3.1)
-  jekyll-assets
+  jekyll-assets (~> 2.2, >= 2.2.5)
   jekyll-lunr-js-search
   jekyll-paginate (~> 1.1)
   jekyll-sitemap
