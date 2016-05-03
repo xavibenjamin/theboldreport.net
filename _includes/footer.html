@@ -94,6 +94,7 @@
 <!-- Other JS libraries -->
 <script>
   {% asset 'app' %}
+  {% asset 'search.min' %}
 
   {% if page.fittext %}
     {% asset 'fittext' %}
@@ -115,7 +116,8 @@
       });
   {% endif %}
 </script>
-<script src="/js/search.min.js" type="text/javascript" charset="utf-8"></script>
+
+
 
 <!-- Typekit Code  -->
 {% if page.artdirect_typo %}
