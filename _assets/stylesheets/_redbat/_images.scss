@@ -13,7 +13,8 @@ img {
 }
 
 figure {
-  margin-bottom: rem-calc(30px);
+  margin-bottom: 1.8rem;
+  margin-top: 1.8rem;
 }
 
 figcaption {
@@ -21,7 +22,8 @@ figcaption {
 
   color: lighten($dark-color, 20%);
   font-size: .9rem;
-  line-height: 1.5;
+  line-height: 1.6;
+  margin-top: .5rem;
   code {
     font-size: .9rem;
     @media #{$medium-up} {
@@ -29,7 +31,7 @@ figcaption {
     }
   }
   @media #{$medium-up} {
-    font-size: .8rem;
+    font-size: .75rem;
   }
 }
 
@@ -43,10 +45,18 @@ figcaption {
 }
 
 .alignleft {
-  @extend %clearfix;
+  @media #{$medium-up} {
+    align-items: flex-end;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 97%;
+  }
+  @media #{$large-up} {
+    width: 100%;
+  }
   img {
     @media #{$medium-up} {
-      float: left;
       width: 70%;
     }
   }
@@ -55,21 +65,26 @@ figcaption {
     margin-right: auto;
     width: 90%;
     @media #{$medium-up} {
-      float: left;
-      padding-left: $spacing-s;
-      width: 25%;
-    }
-    @media #{$large-up} {
-      width: 30%;
+      margin-left: $spacing-s;
     }
   }
 }
 
 .alignright {
   @extend %clearfix;
+  @media #{$medium-up} {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-left: auto;
+    margin-right: auto;
+    width: 97%;
+  }
+  @media #{$large-up} {
+    width: 100%;
+  }
   img {
     @media #{$medium-up} {
-      float: right;
       width: 70%;
     }
   }
@@ -78,12 +93,7 @@ figcaption {
     margin-right: auto;
     width: 90%;
     @media #{$medium-up} {
-      float: right;
-      padding-right: $spacing-s;
-      width: 25%;
-    }
-    @media #{$large-up} {
-      width: 30%;
+      margin-right: $spacing-s;
     }
   }
 }
