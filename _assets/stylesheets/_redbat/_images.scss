@@ -13,7 +13,8 @@ img {
 }
 
 figure {
-  margin-bottom: rem-calc(30px);
+  margin-bottom: 1.8rem;
+  margin-top: 1.8rem;
 }
 
 figcaption {
@@ -21,7 +22,8 @@ figcaption {
 
   color: lighten($dark-color, 20%);
   font-size: .9rem;
-  line-height: 1.5;
+  line-height: 1.6;
+  margin-top: .5rem;
   code {
     font-size: .9rem;
     @media #{$medium-up} {
@@ -29,7 +31,7 @@ figcaption {
     }
   }
   @media #{$medium-up} {
-    font-size: .8rem;
+    font-size: .75rem;
   }
 }
 
@@ -44,32 +46,17 @@ figcaption {
 
 .alignleft {
   @media #{$medium-up} {
+    align-items: flex-end;
     display: flex;
-    align-items: flex-start;
-  }
-  img {
-    @media #{$medium-up} {
-      flex: 1 1 70%;
-    }
-  }
-  figcaption {
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
-    @media #{$medium-up} {
-      flex: 0 1 30%;
-    }
-    @media #{$large-up} {
-      width: 30%;
-    }
+    width: 97%;
   }
-}
-
-.alignright {
-  @extend %clearfix;
+  @media #{$large-up} {
+    width: 100%;
+  }
   img {
     @media #{$medium-up} {
-      float: right;
       width: 70%;
     }
   }
@@ -78,12 +65,35 @@ figcaption {
     margin-right: auto;
     width: 90%;
     @media #{$medium-up} {
-      float: right;
-      padding-right: $spacing-s;
-      width: 25%;
+      margin-left: $spacing-s;
     }
-    @media #{$large-up} {
-      width: 30%;
+  }
+}
+
+.alignright {
+  @extend %clearfix;
+  @media #{$medium-up} {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-left: auto;
+    margin-right: auto;
+    width: 97%;
+  }
+  @media #{$large-up} {
+    width: 100%;
+  }
+  img {
+    @media #{$medium-up} {
+      width: 70%;
+    }
+  }
+  figcaption {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    @media #{$medium-up} {
+      margin-right: $spacing-s;
     }
   }
 }
