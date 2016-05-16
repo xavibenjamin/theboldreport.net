@@ -277,6 +277,9 @@ blockquote {
       content: '—';
     }
   }
+  > blockquote {
+    width: 100%;
+  }
 }
 
 // HR ----------------------------
