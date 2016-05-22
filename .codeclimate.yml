@@ -58,10 +58,12 @@ ratings:
     - _assets/javascript/**
     - _assets/stylesheets/**
 exclude_paths:
+  - "_assets/javascripts/bigfoot.min.js"
+  - "_assets/javascripts/fittext.js"
   - "_assets/javascripts/vendor/jquery.min.js"
   - "_assets/javascripts/lettering.js"
-  - "_assets/javascripts/fittext.js"
   - "_assets/javascripts/search.min.js"
+  - "_assets/stylesheets/_redbat/_bigfoot.scss"
   - "_assets/stylesheets/_redbat/_normalize.scss"
   - "_assets/stylesheets/_redbat/_reset.scss"
   - "_assets/stylesheets/_redbat/_functions.scss"
