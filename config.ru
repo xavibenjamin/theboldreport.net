@@ -9,6 +9,7 @@ use Rack::Rewrite do
   r302 '/atom.articles.xml', 'http://feedpress.me/theboldreport-articles', :if => Proc.new { |rack_env|
     rack_env['HTTP_USER_AGENT'] != 'FeedPress'
   }
+  r301 %r{.*}, 'https://theboldreport.net$&', :scheme => 'http'
 end
 
 use Rack::TryStatic,
