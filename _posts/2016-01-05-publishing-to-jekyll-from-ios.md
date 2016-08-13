@@ -72,7 +72,7 @@ if len(post_sections) > 1:
     post_filename = '_posts/%s-%s.markdown' % (date, safe_title)
 
     URL = 'https://api.github.com/repos/%s/%s/contents/%s' % (username, repo, post_filename)
-    
+
     header = {
       'Authorization': 'token %s' % token,
       'User-Agent': username
@@ -112,7 +112,7 @@ if len(post_sections) > 1:
       }
 
       response = requests.put(URL, headers=header, data=json.dumps(data))
-      
+
       if response.status_code == 200:
         console.hud_alert("Blog post updated successfully.", 'success', 2)
       else:
