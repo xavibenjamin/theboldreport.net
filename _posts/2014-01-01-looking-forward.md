@@ -5,7 +5,7 @@ categories: articles
 custom_type: post
 date: '2014-01-01 14:27:15'
 ---
-It's 2014. I can't believe I'm writing that. It seems like yesterday that I published [this post](http://ttimsmith.com/2013/01/my-definition-of-success/).
+It's 2014. I can't believe I'm writing that. It seems like yesterday that I published [this post](https://ttimsmith.com/2013/01/my-definition-of-success).
 
 2013 was an interesting year. It was riddled with both success and failure. Thankfully, the year ended on a high note. This was the first year that I accomplished all of my goals, except one.[^1]
 

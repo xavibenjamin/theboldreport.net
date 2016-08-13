@@ -1,10 +1,12 @@
 ## ==============================================
 ## DEPENDENCIES
 ## ==============================================
-require 'rake'
-require 'yaml'
 require 'fileutils'
+require 'html-proofer'
+require 'rake'
 require 'rbconfig'
+require 'yaml'
+
 
 ## ==============================================
 ## CONFIGURATION
@@ -52,3 +54,18 @@ namespace :assets do
     puts `bundle exec jekyll build --config _config_production.yml`
   end
 end
+
+## ==============================================
+## TESTING
+## ==============================================
+
+desc "build and test website"
+task :test do
+  sh "bundle exec jekyll build --config _config_production.yml"
+  HTMLProofer.check_directory("./_site", {
+    :assume_extension => true,
+    :empty_alt_ignore => true,
+    :url_ignore       => ['http://localhost:4000']
+  }).run
+end
+

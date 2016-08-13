@@ -22,7 +22,7 @@ When I've read something interesting and want to write about it, I save the link
 
 {% figure extendout /uploads/2016/02/pocket-to-dropbox.jpg "Pocket to Dropbox IFTTT Recipe" %}
 
-The beauty of this system is that these links are accessible from any device. If all I have is my iPad, I can write. If all I have is my phone, I can still write. The setup leaves me no excuse not to write… unless I haven't seen anything interesting of course. And recently, [when I figured out how to publish from iOS](/Publishing-To-Jekyll-From-iOS/), I've ended up writing more and publishing sooner.
+The beauty of this system is that these links are accessible from any device. If all I have is my iPad, I can write. If all I have is my phone, I can still write. The setup leaves me no excuse not to write… unless I haven't seen anything interesting of course. And recently, [when I figured out how to publish from iOS](/2016/01/publishing-to-jekyll-from-ios/), I've ended up writing more and publishing sooner.
 
 It also saves a lot of time. In the past, I'd email the link to myself. This cluttered my inbox, and sometimes I'd forget about the link. This new workflow drops a file with all the info I need into my writing folder, so at anytime, I can check the folder and see what links to write about. At any given time, I usually have about five to seven links in there. I have a solid writing pipeline, and it usually doesn't run out.
 
