@@ -61,7 +61,11 @@ end
 
 desc "build and test website"
 task :test do
-  sh "bundle exec jekyll build"
-  HTML::Proofer.new("./_site", {:href_ignore=> ['http://localhost:4000'], :verbose => true}).run
+  sh "bundle exec jekyll build --config _config_production.yml"
+  HTMLProofer.check_directory("./_site", {
+    :assume_extension => true,
+    :check_html => true,
+    :empty_alt_ignore => true
+  }).run
 end
 
