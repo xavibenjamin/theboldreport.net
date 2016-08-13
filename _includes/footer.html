@@ -94,10 +94,6 @@
 <!-- Other JS libraries -->
 <script>
   {% asset 'app' %}
-  {% asset 'search.min' %}
-  {% asset 'bigfoot.min' %}
-
-  $.bigfoot();
 
   {% if page.fittext %}
     {% asset 'fittext' %}
@@ -118,6 +114,8 @@
         $(".post__title").lettering('words');
       });
   {% endif %}
+
+  {% asset 'search.min' %}
 </script>
 
 
