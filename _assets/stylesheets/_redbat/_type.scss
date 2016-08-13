@@ -277,7 +277,9 @@ blockquote {
       content: '—';
     }
   }
-  > blockquote {
+  > blockquote,
+  > ol,
+  > ul {
     width: 100%;
   }
 }
