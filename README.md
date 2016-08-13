@@ -46,14 +46,16 @@ link_url: http://venturebeat.com/2013/09/19/apples-iphone-5-touchscreen-is-2-5-t
 date: '2013-09-23 14:17:25'
 tags: Apple
 ---
-``` 
+```
 
 The first line of an article post is formatted as a subheader, so keep that in mind when writing out your article. You can [reference this post](https://theboldreport.net/2016/06/pull-list-for-june0816/) to see what that looks like.
 
 #### Code Samples
-Code is written with GitHub Formatted Markdown. 
+
+Code is written with GitHub Formatted Markdown.
 
 #### Images
+
 Write them using the custom function.
 
 ```liquid
