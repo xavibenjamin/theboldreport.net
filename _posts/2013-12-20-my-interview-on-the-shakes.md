@@ -3,7 +3,7 @@ layout: post
 title: 'My Interview on The Shakes'
 categories: links
 custom_type: link
-link_url: http://www.muleradio.net/theshakes/33/
+link_url: http://misfitrad.io/theshakes/33
 tags:
   - Interview
 date: '2013-12-20 12:14:24'

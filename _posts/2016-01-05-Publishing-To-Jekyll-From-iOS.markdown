@@ -9,7 +9,7 @@ I figured out how to publish to *The Bold Report* from iOS! It was quite easy to
 
 ----
 
-**Disclaimer:** This method will only work if you have an external build process. If you host your Jekyll site on Github pages, for example, you're good to go. If you'd like to learn how to setup your site to deploy and build on something like Heroku, [I wrote about that](http://theboldreport.net/hosting-a-jekyll-site-on-heroku).
+**Disclaimer:** This method will only work if you have an external build process. If you host your Jekyll site on Github pages, for example, you're good to go. If you'd like to learn how to setup your site to deploy and build on something like Heroku, [I wrote about that](/2015/06/hosting-a-jekyll-site-on-heroku/).
 
 ----
 
@@ -126,7 +126,7 @@ else:
 	console.alert("No YAML header found.\n\nAction Halted.")
 ```
 
-And that's it! Create a new post with the first workflow, and publish it with the second one. If you have any issues or have questions, I'm [@ttimsmith](https://twitter.com/ttimsmith) on Twitter. 
+And that's it! Create a new post with the first workflow, and publish it with the second one. If you have any issues or have questions, I'm [@ttimsmith](https://twitter.com/smithtimmytim) on Twitter. 
 
 Happy blogging!
 

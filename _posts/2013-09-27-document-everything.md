@@ -10,7 +10,7 @@ Something I've been thinking about a lot recently is documentation. And yes, I'm
 
 There's a lot of mystery surrounding what we do. I remember being a newcomer and feeling overwhelmed by everything it seemed that I needed to learn. This is where I think documentation can help us a lot.
 
-As an industry, we're getting comfortable with doing things in the open. [Open Source Design](http://opensourcedesign.is/) is trying to do this, a project which I happen to be a contributor on, and [there are other people doing it](http://opensourcedesign.is/resourced/).
+As an industry, we're getting comfortable with doing things in the open. [Open Source Design](http://opendesign.foundation/) is trying to do this, a project which I happen to be a contributor on, and [there are other people doing it](http://opendesign.foundation/resources/).
 
 But what about being open about what we charge for services? What about talking about how much designers should be making in a beginning job? Medium level? Senior level? Should we negotiate for a signing bonus? Do companies still do this? To be very honest, I only learned about some of these things a couple months ago when I had dinner with my friend [Bermon](http://bermonpainter.com/). Why is this such a mystery?
 

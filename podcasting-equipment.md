@@ -56,5 +56,5 @@ When you record from Skype, you want to record from a separate machine to not ho
 You only have two choices here in my opinion. Either [AVID ProTools](http://www.avid.com/us/products/family/pro-tools/) or [Logic Pro](http://www.apple.com/logic-pro/). Both have a bit of a learning curve, but having good software is imperative to a good sounding show. I use Logic Pro.
 
 ## Conclusion
-Well that’s it! All this equipment may seem a bit overwhelming at first, but I promise you, it’s not! If something isn’t completely clear or you have questions about setup, feel free to email me at [smith@ttimsmith.com](smith@ttimsmith.com). You can also contact me via Twitter [@ttimsmith](https://twitter.com/ttimsmith).
+Well that’s it! All this equipment may seem a bit overwhelming at first, but I promise you, it’s not! If something isn’t completely clear or you have questions about setup, feel free to email me at [smith@ttimsmith.com](mailto:smith@ttimsmith.com). You can also contact me via Twitter [@smithtimmytim](https://twitter.com/smithtimmytim).
 

@@ -206,6 +206,6 @@ Everything is looking good, and our form is submitting. But that thank you messa
 
 That’s it! In just a few steps we modified the form markup, styled the form and button, submitted it with javascript, and have a nice looking thank you message for our potential readers. If you’d like to see this form in action, take a look at the [subscribe page](/subscribe/).
 
-If you have any questions, feel free to [find me on Twitter](http://twitter.com/ttimsmith).
+If you have any questions, feel free to [find me on Twitter](http://twitter.com/smithtimmytim).
 
 [^1]:	You might notice that I use `rem-calc`. This is a function that I borrow from the [Foundation Framework](http://foundation.zurb.com/). I use this everywhere.
