@@ -13,10 +13,12 @@ excerpt: Find out more about The Bold Report.
 I'm a nerd who loves Star Wars and comic books, and a recovering coffee addict. When I'm not at my computer, I'm binge-watching shows, going to the movies, having brunch, or doing other old-married-couple things with my amazing wife, Kelly.
 
 ## Purpose
+
 *The Bold Report* is my personal blog, and I write about a whole range of things including, but not limited to: design, development, technology, Geek culture, and Apple. This is *my personal blog*, so I write about whatever I find myself thinking about or reading. This isn't a "tech blog."
 
 ## Tools
-Most writing is done on my Macbook Pro in [Byword](http://bywordapp.com/), but these days, I also write and publish from iOS in [Editorial](http://omz-software.com/editorial/). If you'd like to learn how I do that, [I wrote about it](/2016/01/publishing-to-jekyll-from-ios/). 
+
+Most writing is done on my Macbook Pro in [Byword](http://bywordapp.com/), but these days, I also write and publish from iOS in [Editorial](http://omz-software.com/editorial/). If you'd like to learn how I do that, [I wrote about it](/2016/01/publishing-to-jekyll-from-ios/).
 
 The site is designed and developed in [Sublime Text](http://www.sublimetext.com/), with the exception of the logo. That was done in Adobe Illustrator. I won't link to that one because if you've never heard of it, you've probably lived a better life. It's all hosted by [Heroku](https://www.heroku.com), and powered by [Jekyll](http://jekyllrb.com).
 
