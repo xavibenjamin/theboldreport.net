@@ -64,7 +64,6 @@ task :test do
   sh "bundle exec jekyll build --config _config_production.yml"
   HTMLProofer.check_directory("./_site", {
     :assume_extension => true,
-    :check_html => true,
     :empty_alt_ignore => true
   }).run
 end
