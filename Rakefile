@@ -2,7 +2,6 @@
 ## DEPENDENCIES
 ## ==============================================
 require 'fileutils'
-require 'html-proofer'
 require 'rake'
 require 'rbconfig'
 require 'yaml'
