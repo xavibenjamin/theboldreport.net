@@ -55,7 +55,9 @@ Instructions should be in writing. The task may be given to you over the phone o
 
 Questions like:
 
-- What exactly do you want made or redesigned? What are the problems with the current design? Why is this a priority and how was that discovered? Is there any user data you can make available to me?
+- What exactly do you want made or redesigned?
+- What are the problems with the current design?
+- Why is this a priority and how was that discovered? Is there any user data you can make available to me?
 - How do we measure success for this?
 
 Keep in mind that these questions will not only give you more information about the assignment, but will also give them insight into how you approach a design problem.
