@@ -54,8 +54,9 @@ Obviously, there is no perfect place. People make mistakes and everyone works a 
 Instructions should be in writing. The task may be given to you over the phone or video chat, but ask for an email with the information, or send an email confirming the instructions given to you. Ask for more information if you need it.
 
 Questions like:
-* What exactly do you want made or redesigned? What are the problems with the current design? Why is this a priority and how was that discovered? Is there any user data you can make available to me?
-* How do we measure success for this?
+
+- What exactly do you want made or redesigned? What are the problems with the current design? Why is this a priority and how was that discovered? Is there any user data you can make available to me?
+- How do we measure success for this?
 
 Keep in mind that these questions will not only give you more information about the assignment, but will also give them insight into how you approach a design problem.
 
