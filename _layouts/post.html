@@ -12,7 +12,7 @@ custom_css_class: single
           {% include date.html %}
           {% include tags.html %}
         </ul>
-        <h1>{{ page.title }}</h1>
+        <h1>{{ page.title | smartify }}</h1>
       </header><!-- /.post__header -->
 
       <div class="post__entry">
@@ -30,7 +30,7 @@ custom_css_class: single
     {% elsif page.custom_type == 'link' %}
 
       <header class="post__header">
-          <h1><a href="{{ page.link_url }}">{{ page.title }}</a><span class="arrow">&rarr;</span></h1>
+          <h1><a href="{{ page.link_url }}">{{ page.title | smartify }}</a><span class="arrow">&rarr;</span></h1>
 
           <ul class="post__meta">
             {% include date.html %}
