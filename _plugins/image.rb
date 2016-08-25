@@ -27,11 +27,6 @@ module Jekyll
         @url = $1
       end
 
-      # if @url =~ /(https?:\/\/)/
-      #   @resrc = "https://app.resrc.it/O=70,P/"
-      # else
-      #   @resrc = "https://app.resrc.it/O=70,P/https://daneden.me"
-      # end
     end
 
     def render(context)
@@ -49,9 +44,9 @@ module Jekyll
       end
 
       if ENV['JEKYLL_ENV'] != 'development' && (@url.include? '.jpg' or @url.include? '.jpeg' or @url.include? '.png')
-        source += "<img src=\"#{@site_url}#{@url}\" alt=\"#{@caption}\"/>"
+        source += "<img src=\"#{@site_url}#{@url}\" />"
       else
-        source += "<img src=\"#{@url}\" alt=\"#{@caption}\" />"
+        source += "<img src=\"#{@url}\" />"
       end
 
       source += "<figcaption>#{@caption}</figcaption>" if @caption
