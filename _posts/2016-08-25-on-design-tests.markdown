@@ -106,6 +106,6 @@ I get it, hiring is a huge investment and really tough. Companies invest the tim
 
 It doesn’t excuse the fact that many processes employed, deny people their dignity and show lack of respect for them as professionals. We need to fix that, and it all starts with admitting there is a problem.
 
-###### Further Reading
+##### Further Reading
 - [The AIGA’s position on spec work](http://www.aiga.org/position-spec-work/)
 - [F*** You, I Quit — Hiring Is Broken](https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324#.jzye6940d)
