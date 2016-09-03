@@ -2,10 +2,6 @@ $monospace-font-stack: Operator Mono, Inconsolata, 'Inconsolata-g for Powerline'
 
 // -------------------------------
 
-.highlight {
-  margin-bottom: $spacing-s;
-}
-
 pre {
   background: #FCFCFC;
   border: 1px solid #F0F0F0;
@@ -43,6 +39,7 @@ code {
 .highlight {
   background: #FFF;
   color: #4D4D4C;
+  margin-bottom: $spacing-s;
   .hll {
     background-color: #D6D6D6;
   }
