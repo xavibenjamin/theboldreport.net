@@ -220,40 +220,6 @@ sup {
   }
 }
 
-pre {
-  background: #FCFCFC;
-  border-radius: 3px;
-  font-family: Inconsolata, 'Inconsolata-g for Powerline', monospace;
-  overflow-x: auto;
-  padding: 3%;
-  white-space: pre;
-  code {
-    background: none;
-    padding: 0;
-  }
-}
-
-.highlight {
-  margin: 0 0 $spacing-s;
-}
-
-code {
-  background: #F5F5F5;
-  border-radius: 3px;
-  color: $dark-color;
-  font-family: Inconsolata, 'Inconsolata-g for Powerline', monospace;
-  font-size: 1.1rem;
-  padding: 2px 5px;
-  pre & {
-    color: inherit;
-  }
-  @media #{$medium-up} {
-    font-size: 1rem;
-  }
-}
-
-
-
 // BLOCKQUOTE --------------------
 
 blockquote {
