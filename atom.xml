@@ -6,35 +6,35 @@ layout: null
   <link rel="hub" href="https://pubsubhubbub.appspot.com"/>
   <title>{{ site.name }}</title>
   <subtitle>By Timothy B. Smith</subtitle>
-  <link href="http://theboldreport.net"/>
-  <link type="application/atom+xml" rel="self" href="http://theboldreport.net/atom.xml"/>
+  <link href="https://theboldreport.net"/>
+  <link type="application/atom+xml" rel="self" href="https://theboldreport.net/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <rights>Copyright © 2013–{{ site.time | date: "%Y" }} Timothy B. Smith</rights>
-  <id>http://theboldreport.net/</id>
+  <id>https://theboldreport.net/</id>
   <author>
     <name>Timothy B. Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
   {% for post in site.posts %}
     <entry>
-      <id>http://theboldreport.net{{ post.id }}</id>
+      <id>https://theboldreport.net{{ post.id }}</id>
       {% if post.custom_type == 'link' %}
         <link type="text/html" rel="alternate" href="{{ post.link_url }}"/>
       {% else %}
-        <link type="text/html" rel="alternate" href="http://theboldreport.net{{ post.url }}"/>
+        <link type="text/html" rel="alternate" href="https://theboldreport.net{{ post.url }}"/>
       {% endif %}
-      <title>{% if post.custom_type == 'post' or post.custom_type == 'artdirect' %}♨ {{ post.title | xml_escape }} {% else %} {{ post.title | xml_escape }} →{% endif %}</title>
+      <title>{% if post.custom_type == 'link' %}{{ post.title | xml_escape }} →{% else %}{{ post.title | xml_escape }}{% endif %}</title>
       <published>{{ post.date | date_to_xmlschema }}</published>
       <updated>{{ post.date | date_to_xmlschema }}</updated>
       <author>
         <name>Timothy B. Smith</name>
-        <uri>http://ttimsmith.com/</uri>
+        <uri>https://ttimsmith.com/</uri>
       </author>
       <content type="html">
         <![CDATA[
           {{ post.content }}
           {% if post.custom_type == 'link' %}
-          <p><a title="Permalink to ‘{{ post.title }}’" href="{{ site.url | xml_escape }}{{ post.url | xml_escape }}">∞</a></p>
+          <p><a title="Permalink to ‘{{ post.title }}’" href="{{ site.url | xml_escape }}{{ post.url | xml_escape }}">∞ Source</a></p>
           {% endif %}
         ]]>
       </content>
