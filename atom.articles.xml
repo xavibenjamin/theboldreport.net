@@ -5,26 +5,26 @@ layout: null
 <feed xmlns="http://www.w3.org/2005/Atom">
   <link rel="hub" href="https://pubsubhubbub.appspot.com"/>
   <title>{{ site.name }} - Articles</title>
-  <subtitle>By Timothy B. Smith</subtitle>
-  <link href="http://theboldreport.net"/>
-  <link type="application/atom+xml" rel="self" href="http://theboldreport.net/feed.article.xml"/>
+  <subtitle>By {{ site.author.name }}</subtitle>
+  <link href="https://theboldreport.net"/>
+  <link type="application/atom+xml" rel="self" href="https://theboldreport.net/feed.article.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <rights>Copyright © 2013–{{ site.time | date: "%Y" }} Timothy B. Smith</rights>
-  <id>http://theboldreport.net</id>
+  <rights>Copyright © 2013–{{ site.time | date: "%Y" }} {{ site.author.name }}</rights>
+  <id>https://theboldreport.net</id>
   <author>
-    <name>Timothy B. Smith</name>
-    <email>smith@ttimsmith.com</email>
+    <name>{{ site.author.name }}</name>
+    <email>{{ site.author.email }}</email>
   </author>
   {% for post in site.categories.articles %}
   <entry>
-    <id>http://theboldreport.net{{ post.id }}</id>
+    <id>https://theboldreport.net{{ post.id }}</id>
     <link type="text/html" rel="alternate" href="http://theboldreport.net{{ post.url }}"/>
     <title>{{ post.title | xml_escape }}</title>
     <published>{{ post.date | date_to_xmlschema }}</published>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
-      <name>Timothy B. Smith</name>
-      <uri>http://ttimsmith.com/</uri>
+      <name>{{ site.author.name }}</name>
+      <uri>{{ site.author.url }}</uri>
     </author>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
