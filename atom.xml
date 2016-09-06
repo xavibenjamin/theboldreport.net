@@ -5,15 +5,15 @@ layout: null
 <feed xmlns="http://www.w3.org/2005/Atom">
   <link rel="hub" href="https://pubsubhubbub.appspot.com"/>
   <title>{{ site.name }}</title>
-  <subtitle>By Timothy B. Smith</subtitle>
+  <subtitle>By {{ site.author.name}}</subtitle>
   <link href="https://theboldreport.net"/>
   <link type="application/atom+xml" rel="self" href="https://theboldreport.net/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <rights>Copyright © 2013–{{ site.time | date: "%Y" }} Timothy B. Smith</rights>
+  <rights>Copyright © 2013–{{ site.time | date: "%Y" }} {{ site.author.name }}</rights>
   <id>https://theboldreport.net/</id>
   <author>
-    <name>Timothy B. Smith</name>
-    <email>smith@ttimsmith.com</email>
+    <name>{{ site.author.name }}</name>
+    <email>{{ site.author.email }}</email>
   </author>
   {% for post in site.posts %}
     <entry>
@@ -27,8 +27,8 @@ layout: null
       <published>{{ post.date | date_to_xmlschema }}</published>
       <updated>{{ post.date | date_to_xmlschema }}</updated>
       <author>
-        <name>Timothy B. Smith</name>
-        <uri>https://ttimsmith.com/</uri>
+        <name>{{ site.author.name }}</name>
+        <uri>{{ site.author.url }}</uri>
       </author>
       <content type="html">
         <![CDATA[
