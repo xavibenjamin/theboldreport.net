@@ -68,16 +68,41 @@ redcarpet:
 ```
 
 ```scss
-// _type.scss
+// _footer.scss
 
-/*
-INLINE TYPE ------------------------------------------- */
+.site__footer {
+  background-color: $slate;
+  color: rgba(white, .6);
+  margin-top: 4rem;
+  padding: 2rem 0;
+  small {
+    @extend %sans;
 
-strong {
-	font-weight: 700;
-  em {
-   font-weight: 700;
-   font-style: italic;
+    color: rgba(white, .4);
+    display: block;
+    font-size: .9rem;
+    margin-top: 2rem;
+    width: 100%;
+    @media #{$medium-up} {
+      font-size: .75rem;
+    }
+  }
+  p {
+    @extend %sans;
+
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  a {
+    text-decoration: none;
+  }
+  .container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    @media #{$large-up} {
+      width: 100%;
+    }
   }
 }
 ```
