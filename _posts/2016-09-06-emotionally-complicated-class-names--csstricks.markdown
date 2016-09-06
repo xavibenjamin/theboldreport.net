@@ -12,7 +12,7 @@ date: 2016-09-06 12:27
 
 This list is pretty hilarious. I'll add my own just for fun.
 
-```css
+```scss
 .it-s-friday-and-i-just-need-this-to-work {
   align-items: neatly !please; // !now can also be used depending on your level of desperation
 }
