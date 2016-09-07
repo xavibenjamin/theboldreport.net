@@ -32,7 +32,7 @@ I wrote articles, spoke at conferences, podcasted, made all sorts of things—sp
 
 I understand, the pressure to do this is huge. Some employers put words like "passionate" in their job descriptions to not-so-subtly say they want someone who lives for the web and tech. In their eyes, only people who have an unhealthy obsession over a product they didn’t even create are valuable. These are the same people who think that 80-plus-hour weeks lead to a pile of money, so they’re obviously not that smart to begin with.
 
-And hey, this means that your job applications are laughed at sometimes because you don't have any articles published, there doesn’t seem to be web design podcast you host, and your GitHub profile doesn't show any open source contributions. Be thankful these companies didn’t give you a second glance, because you’re too good for them. And I’m not just saying that.
+And hey, this means that your job applications are laughed at sometimes because you don't have any articles published, there doesn’t seem to be a web design podcast you host, and your GitHub profile doesn't show any open source contributions. Be thankful these companies didn’t give you a second glance, because you’re too good for them. And I’m not just saying that.
 
 In the end, it's ok. Forget about all of these people and just be you. Work on things you want to work on, write what you want to write about, spend your evenings and weekends on whatever the hell you like.
 
