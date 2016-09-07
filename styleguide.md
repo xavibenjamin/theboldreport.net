@@ -56,7 +56,7 @@ Ben Brooks on *The Brooks Review*:
   <figcaption>Use a <code>figure</code> with the class of <code>.photo-grid</code>. Then, each image has their own class to determine size within the grid. I've got <code>.grid-thirds</code> and <code>.grid-half</code> at my disposal.</figcaption>
 </figure>
 
-I use Github Flavored Markdown for code blocks. In other words, I use three back ticks. I always declare the language that's being  in the code block.
+I use Github Flavored Markdown for code blocks. In other words, I use three back ticks. I always declare the language that's being used in the code block.
 
 ```yaml
 # _config.yml
@@ -68,16 +68,43 @@ redcarpet:
 ```
 
 ```scss
-// _type.scss
+//--------------------------------
+// _footer.scss
+// -------------------------------
 
-/*
-INLINE TYPE ------------------------------------------- */
+.site__footer {
+  background-color: $slate;
+  color: rgba(white, .6);
+  margin-top: 4rem;
+  padding: 2rem 0;
+  small {
+    @extend %sans;
 
-strong {
-	font-weight: 700;
-  em {
-   font-weight: 700;
-   font-style: italic;
+    color: rgba(white, .4);
+    display: block;
+    font-size: .9rem;
+    margin-top: 2rem;
+    width: 100%;
+    @media #{$medium-up} {
+      font-size: .75rem;
+    }
+  }
+  p {
+    @extend %sans;
+
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  a {
+    text-decoration: none;
+  }
+  .container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    @media #{$large-up} {
+      width: 100%;
+    }
   }
 }
 ```
