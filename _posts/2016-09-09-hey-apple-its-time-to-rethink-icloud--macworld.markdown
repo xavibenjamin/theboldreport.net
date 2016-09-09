@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hey, Apple: It’s Time to Rethink iCloud | Macworld
+title: "Hey, Apple: It’s Time to Rethink iCloud | Macworld"
 categories: link
 custom_type: link
 link_url: http://www.macworld.com/article/3115792/ios/hey-apple-it-s-time-to-rethink-icloud.html
