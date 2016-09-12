@@ -14,6 +14,7 @@ Redcarpet is the answer here. Here's what I wanted to do:
 	  color: $red;
 	}
 	```
+
 Basically like the way you do code snippets on Github. Now, you might be thinking, "Kramdown has Github-Flavored-Markdown support!" But, after trying to get it to work for an hour or so, I was left frustrated. The fenced code block was _technically_ working, but no syntax highlighting.
 
 So I changed a few lines of code:
