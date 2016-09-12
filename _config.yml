@@ -43,6 +43,7 @@ post:
 
 # Markdown Rendering
 markdown: kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
 kramdown:
   input: GFM
