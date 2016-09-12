@@ -4,7 +4,7 @@
 
 img {
   height: auto;
-  width: 100%;
+  max-width: 100%;
 }
 
 .border--white {
@@ -57,6 +57,7 @@ figcaption {
   }
   img {
     @media #{$medium-up} {
+      flex: 0 0 70%;
       width: 70%;
     }
   }
@@ -85,6 +86,7 @@ figcaption {
   }
   img {
     @media #{$medium-up} {
+      flex: 0 0 70%;
       width: 70%;
     }
   }
