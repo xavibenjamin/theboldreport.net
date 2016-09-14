@@ -14,14 +14,18 @@ Most writing is done on my Macbook Pro in [iA Writer](https://ia.net/writer). I 
 
 The site is designed and developed in [Sublime Text](http://www.sublimetext.com/), with the exception of the logo. That was done in Adobe Illustrator. I won't link to that one because if you've never heard of it, you've probably lived a better life. It's all hosted by [Heroku](https://www.heroku.com), and powered by [Jekyll](http://jekyllrb.com). If you're wondering how to do that, [I wrote about how to deploy a Jekyll site to Heroku](/2015/06/hosting-a-jekyll-site-on-heroku/) too.
 
-## About Me
-
-I design and build web applications. I made a Content Management System for podcast networks that powers [Goodstuff FM](http://goodstuff.fm/) and [Relay FM](http://relay.fm/), together with [Phil Duffy](https://twitter.com/willmanduffy).
-
-{% figure small__right /uploads/2013/09/tim_680x510.jpg "I was born with my eyebrows like that… kidding." %}
-
-I'm a nerd who loves Star Wars and comic books, and a recovering coffee addict. When I'm not at my computer, I'm binge-watching shows, going to the movies, having brunch, or doing other old-married-couple things with my amazing wife, Kelly.
-
 ## Contact
 
 If you have questions, concerns, feedback, or compliments about *The Bold Report*, please feel free to contact me. You can [find me on Twitter](https://twitter.com/smithtimmytim) or email [tim@theboldreport.net](mailto:tim@theboldreport.net).
+
+---
+
+## Team
+
+{% for author in site.data.authors %}
+  <div class="author">
+    <img src="http://gravatar.com/avatar/{{ author[1].gravatar}}?s=200" alt="Picture of {{ author[1].display_name }}" class="author__picture" height="200" width="200" />
+    <h4 class="author__name">{{ author[1].display_name }} <small>{{ author[1].title }}</small></h4>
+    {{ author[1].bio | markdownify }}
+  </div>
+{% endfor %}
