@@ -1,0 +1,7 @@
+{% if page.date %}
+  {% assign author = site.data.authors[page.author] %}
+  <li>{{ author.display_name }} &middot; </li>
+{% else %}
+  {% assign author = site.data.authors[post.author] %}
+  <li>{{ author.display_name }} &middot; </li>
+{% endif %}
