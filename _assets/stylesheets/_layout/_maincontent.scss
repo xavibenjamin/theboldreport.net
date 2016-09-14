@@ -166,6 +166,41 @@
   }
 }
 
+// Post Author -------------------
+.post__author {
+  &:before {
+    content: "";
+    display: block;
+    position: relative;
+    width: 40%;
+    height: 2px;
+    background-color: $border-color;
+    margin-bottom: 2.5rem;
+  }
+  margin-top: 4rem;
+  p {
+    font-size: .85rem;
+  }
+}
+
+.author__picture {
+  border-radius: 50%;
+  float: left;
+  margin: .5rem 1.8rem .8rem 0;
+  -webkit-shape-outside: circle();
+  shape-outside: circle();
+  width: 130px;
+  box-shadow: 0 0 0 .8rem rgba($brand-color, .08);
+}
+
+.author__name {
+  color: $body-color;
+  font-size: 1.2rem;
+  margin: 0;
+  text-transform: none;
+  width: 100%;
+  position: relative;
+}
 
 // Footnotes ---------------------
 
@@ -211,7 +246,8 @@ ul,
 .extendout figcaption,
 .footnotes,
 .pagination,
-.site__footer small {
+.site__footer small,
+.post__author {
   margin-left: auto;
   margin-right: auto;
   width: 90%;
