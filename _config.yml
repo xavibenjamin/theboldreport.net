@@ -49,4 +49,5 @@ defaults:
       path: ""
       type: "posts"
     values:
+      layout: post
       author: timsmith

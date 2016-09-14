@@ -41,3 +41,13 @@ markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
 kramdown:
   input: GFM
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: timsmith
