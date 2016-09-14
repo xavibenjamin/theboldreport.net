@@ -37,20 +37,20 @@
   li {
     color: lighten($dark-color, 20%);
     display: inline;
-    font-size: .85rem;
+    font-size: .8rem;
     margin: 0;
     &:last-child {
       padding: 0;
     }
     @media #{$medium-up} {
-      font-size: .75rem;
+      font-size: .7rem;
     }
   }
 }
 
 .link__icon {
   display: inline-block;
-  font-size: .9rem;
+  font-size: .8rem;
   margin-left: .3rem;
 }
 
@@ -167,39 +167,77 @@
 }
 
 // Post Author -------------------
+
+.meta__author {
+  .post__meta & {
+    font-size: .85rem;
+    color: lighten($dark-color, 5%);
+    @media #{$medium-up} {
+      font-size: .75rem;
+    }
+  }
+}
+
 .post__author {
+  margin-top: 4rem;
   &:before {
-    content: "";
+    background-color: $border-color;
+    content: '';
     display: block;
+    height: 2px;
+    margin-bottom: 2.5rem;
     position: relative;
     width: 40%;
-    height: 2px;
-    background-color: $border-color;
-    margin-bottom: 2.5rem;
   }
-  margin-top: 4rem;
   p {
-    font-size: .85rem;
+    font-size: .95rem;
+    @media #{$medium-up} {
+      font-size: .85rem;
+    }
+  }
+}
+
+.author {
+  border-bottom: 1px solid $border-color;
+  padding: 2rem 0;
+  &:last-child {
+    border-bottom: 0;
+    padding-bottom: 0;
+  }
+  p {
+    font-size: .95rem;
+    @media #{$medium-up} {
+      font-size: .85rem;
+    }
   }
 }
 
 .author__picture {
   border-radius: 50%;
+  box-shadow: 0 0 0 .8rem rgba($brand-color, .08);
   float: left;
   margin: .5rem 1.8rem .8rem 0;
   -webkit-shape-outside: circle();
   shape-outside: circle();
-  width: 130px;
-  box-shadow: 0 0 0 .8rem rgba($brand-color, .08);
+  width: 110px;
+  @media #{$medium-up} {
+    width: 130px;
+  }
 }
 
 .author__name {
   color: $body-color;
   font-size: 1.2rem;
   margin: 0;
+  position: relative;
   text-transform: none;
   width: 100%;
-  position: relative;
+  small {
+    color: lighten($body-color, 20%);
+    font-size: 1rem;
+    font-weight: normal;
+    margin-left: .3rem;
+  }
 }
 
 // Footnotes ---------------------
@@ -247,7 +285,8 @@ ul,
 .footnotes,
 .pagination,
 .site__footer small,
-.post__author {
+.post__author,
+.author {
   margin-left: auto;
   margin-right: auto;
   width: 90%;
