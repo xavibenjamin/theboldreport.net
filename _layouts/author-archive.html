@@ -1,0 +1,21 @@
+---
+layout: page
+---
+{% assign author = site.data.authors[page.author] %}
+
+<div class="author author--single">
+  <img src="http://gravatar.com/avatar/{{ author.gravatar}}?s=200" alt="Picture of {{ author.display_name }}" class="author__picture" height="200" width="200" />
+  <h4 class="author__name">{{ author.display_name }} <small>{{ author.title }}</small></h4>
+  {{ author.bio | markdownify }}
+</div>
+
+<h2 class="subheader">Recent Posts</h2>
+
+<div class="archive-list">
+  {% for p in site.posts limit: 10 %}
+    {% if p.author == page.author %}
+      <h3><a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a><small class="pubdate"><time datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%a, %b %d, %Y" }}</time></small></h3>
+    {% endif %}
+  {% endfor %}
+</div>
+
