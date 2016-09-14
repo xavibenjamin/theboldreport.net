@@ -11,10 +11,14 @@ layout: null
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <rights>Copyright © 2013–{{ site.time | date: "%Y" }} {{ site.author.name }}</rights>
   <id>https://theboldreport.net/</id>
-  <author>
-    <name>{{ site.author.name }}</name>
-    <email>{{ site.author.email }}</email>
-  </author>
+  {% for author in site.data.authors %}
+    <author>
+      <name>{{ author[1].display_name }}</name>
+      <uri>{{ author[1].web }}</uri>
+      <email>{{ author[1].email }}</email>
+    </author>
+  {% endfor %}
+
   {% for post in site.posts %}
     <entry>
       <id>https://theboldreport.net{{ post.id }}</id>
@@ -27,8 +31,8 @@ layout: null
       <published>{{ post.date | date_to_xmlschema }}</published>
       <updated>{{ post.date | date_to_xmlschema }}</updated>
       <author>
-        <name>{{ site.author.name }}</name>
-        <uri>{{ site.author.url }}</uri>
+        <name>{{ site.data.authors[post.author].display_name }}</name>
+              <uri>{{ site.data.authors[post.author].web }}</uri>
       </author>
       <content type="html">
         <![CDATA[
