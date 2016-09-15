@@ -17,7 +17,6 @@ highlighter: rouge
 # Plugins
 gems:
   - jekyll-assets
-  - jekyll-lunr-js-search
   - jekyll-paginate
   - jekyll-sitemap
 

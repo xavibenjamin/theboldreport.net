@@ -114,15 +114,14 @@
         $(".post__title").lettering('words');
       });
   {% endif %}
-
-  {% asset 'search.min' %}
 </script>
 
+{% if page.title == 'Search' %}
+  {% js 'vendor/lunr.min' %}
+  <script type="text/javascript" src="/search.js"></script>
+{% endif %}
 
-
-<!-- Typekit Code  -->
 {% if page.artdirect_typo %}
-  <!-- Additional Typekit Only for this Page -->
   <script src="https://use.typekit.net/{{ page.artdirect_typo }}.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
 {% endif %}
