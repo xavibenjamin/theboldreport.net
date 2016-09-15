@@ -37,20 +37,20 @@
   li {
     color: lighten($dark-color, 20%);
     display: inline;
-    font-size: .85rem;
+    font-size: .8rem;
     margin: 0;
     &:last-child {
       padding: 0;
     }
     @media #{$medium-up} {
-      font-size: .75rem;
+      font-size: .7rem;
     }
   }
 }
 
 .link__icon {
   display: inline-block;
-  font-size: .9rem;
+  font-size: .8rem;
   margin-left: .3rem;
 }
 
@@ -166,6 +166,98 @@
   }
 }
 
+// Post Author -------------------
+
+.meta__author {
+  .post__meta & {
+    color: lighten($dark-color, 5%);
+    font-size: .85rem;
+    @media #{$medium-up} {
+      font-size: .75rem;
+    }
+  }
+}
+
+.post__author {
+  margin-top: 6rem;
+  .author {
+    padding: 0;
+    border: 0;
+    &:before {
+      background-color: $border-color;
+      content: '';
+      display: block;
+      height: 2px;
+      position: absolute;
+      top: -2.5rem;
+      width: 40%;
+    }
+  }
+}
+
+.authors {
+  .author {
+    &:last-child {
+      border-bottom: 0;
+      padding-bottom: 0;
+    }
+  }
+}
+
+.author {
+  align-items: flex-start;
+  border-bottom: 1px solid $border-color;
+  display: flex;
+  padding: 2rem 0;
+  position: relative;
+  p {
+    font-size: .95rem;
+    @media #{$medium-up} {
+      font-size: .85rem;
+    }
+  }
+}
+
+.author__picture {
+  border-radius: 5px;
+  float: left;
+  margin-right: 1.5rem;
+  margin-top: .4rem;
+  width: 70px;
+  @media #{$medium-up} {
+    width: 130px;
+  }
+}
+
+.author__name {
+  color: $body-color;
+  font-size: 1.2rem;
+  margin: 0;
+  position: relative;
+  text-transform: none;
+  width: 100%;
+}
+
+.author__title {
+  color: lighten($body-color, 20%);
+  font-size: 1rem;
+  font-weight: normal;
+  margin-left: .3rem;
+}
+
+.author--single {
+  padding-top: 0;
+  border-bottom: 1px solid $border-color;
+  .author__name {
+    font-size: 1.4rem;
+  }
+  .author__title {
+    font-size: 1.2rem;
+  }
+  p {
+    font-size: .9rem;
+  }
+}
 
 // Footnotes ---------------------
 
@@ -211,7 +303,9 @@ ul,
 .extendout figcaption,
 .footnotes,
 .pagination,
-.site__footer small {
+.site__footer small,
+.author,
+.site__search-form {
   margin-left: auto;
   margin-right: auto;
   width: 90%;

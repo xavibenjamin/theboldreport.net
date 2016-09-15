@@ -33,9 +33,10 @@ input:focus::-moz-placeholder {
 }
 
 .site__search-form {
+  margin-bottom: 2rem;
   input {
-    background: lighten($dark-color, 60%);
-    border-radius: 0;
+    background: lighten($dark-color, 63%);
+    border-radius: $global-radius;
     color: $dark-color;
     font-size: 1rem;
     min-height: 45px;
@@ -43,8 +44,6 @@ input:focus::-moz-placeholder {
     transition: .2s ease-in-out;
     width: 100%;
     @media #{$medium-up} {
-      background: lighten($dark-color, 63%);
-      border-radius: $global-radius;
       font-size: .8rem;
       padding: .625rem;
     }

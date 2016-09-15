@@ -8,12 +8,6 @@ paginate: 10
 exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock', 'vendor', '.asset-cache', 'bin']
 lunr_excludes: ['atom.xml', 'atom.articles.xml', 'sitemap.xml']
 
-# Author Info
-author:
-  name: Timothy B. Smith
-  email: smith@ttimsmith.com
-  url: https://ttimsmith.com
-
 # Where Things Are
 plugins_dir:  ./_plugins
 
@@ -23,7 +17,6 @@ highlighter: rouge
 # Plugins
 gems:
   - jekyll-assets
-  - jekyll-lunr-js-search
   - jekyll-paginate
   - jekyll-sitemap
 
@@ -47,3 +40,13 @@ markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
 kramdown:
   input: GFM
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: timsmith

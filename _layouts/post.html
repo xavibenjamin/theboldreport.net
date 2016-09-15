@@ -9,6 +9,7 @@ custom_css_class: single
       <header class="post__header">
 
         <ul class="post__meta">
+          {% include small-author.html %}
           {% include date.html %}
           {% include tags.html %}
         </ul>
@@ -18,6 +19,10 @@ custom_css_class: single
       <div class="post__entry">
         {{ content }}
       </div><!-- /.post__entry -->
+
+      <div class="post__author">
+        {% include full-author.html %}
+      </div><!-- /.post__author -->
 
       <div class="post__closer">
         <svg class="svg-icon" viewBox="0 0 20 20">
@@ -33,6 +38,7 @@ custom_css_class: single
           <h1><a href="{{ page.link_url }}">{{ page.title | smartify }}</a><span class="arrow">&rarr;</span></h1>
 
           <ul class="post__meta">
+            {% include small-author.html %}
             {% include date.html %}
             {% include tags.html %}
           </ul>
