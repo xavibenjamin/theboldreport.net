@@ -47,6 +47,8 @@ engines:
         enabled: false
       VendorPrefix:
         enabled: false
+      PseudoElement:
+        enabled: false
   duplication:
     enabled: true
     config:
@@ -61,8 +63,9 @@ exclude_paths:
   - "_assets/javascripts/bigfoot.min.js"
   - "_assets/javascripts/fittext.js"
   - "_assets/javascripts/vendor/jquery.min.js"
+  - "_assets/javascripts/vendor/lunr.min.js"
   - "_assets/javascripts/lettering.js"
-  - "_assets/javascripts/search.min.js"
+  - "search.js"
   - "_assets/stylesheets/_redbat/_bigfoot.scss"
   - "_assets/stylesheets/_redbat/_normalize.scss"
   - "_assets/stylesheets/_redbat/_reset.scss"
