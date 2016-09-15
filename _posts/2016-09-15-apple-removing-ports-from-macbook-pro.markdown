@@ -16,7 +16,7 @@ Juli Clover at MacRumors:
 
 This is, of course, a strong indication that Apple wants to remove the headphone jack from the upcoming MacBook Pro. Here’s something even more concerning:
 
-> Apple is also asking users about battery life and other ports, including the SD card slot. One question asked "How do you upload photos from a digital camera or phone to your MacBook Pro with Retina Display?" 
+> Apple is also asking users about battery life and other ports, including the SD card slot. One question asked "How do you upload photos from a digital camera or phone to your MacBook Pro with Retina Display?"
 >
 > Based on a leaked MacBook Pro shell, the upcoming MacBook Pro will include four USB-C ports and a headphone jack, with Apple doing away with all other ports on the machine. If the shell is an actual part, the machine will not include an SD card slot, HDMI port, USB-A port, or a MagSafe connection.
 
