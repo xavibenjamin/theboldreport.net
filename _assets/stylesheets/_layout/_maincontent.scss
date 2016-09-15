@@ -170,8 +170,8 @@
 
 .meta__author {
   .post__meta & {
-    font-size: .85rem;
     color: lighten($dark-color, 5%);
+    font-size: .85rem;
     @media #{$medium-up} {
       font-size: .75rem;
     }
@@ -179,31 +179,37 @@
 }
 
 .post__author {
-  margin-top: 4rem;
-  &:before {
-    background-color: $border-color;
-    content: '';
-    display: block;
-    height: 2px;
-    margin-bottom: 2.5rem;
-    position: relative;
-    width: 40%;
+  margin-top: 6rem;
+  .author {
+    padding: 0;
+    border: 0;
+    &:before {
+      background-color: $border-color;
+      content: '';
+      display: block;
+      height: 2px;
+      position: absolute;
+      top: -2.5rem;
+      width: 40%;
+    }
   }
-  p {
-    font-size: .95rem;
-    @media #{$medium-up} {
-      font-size: .85rem;
+}
+
+.authors {
+  .author {
+    &:last-child {
+      border-bottom: 0;
+      padding-bottom: 0;
     }
   }
 }
 
 .author {
+  align-items: flex-start;
   border-bottom: 1px solid $border-color;
+  display: flex;
   padding: 2rem 0;
-  &:last-child {
-    border-bottom: 0;
-    padding-bottom: 0;
-  }
+  position: relative;
   p {
     font-size: .95rem;
     @media #{$medium-up} {
@@ -213,13 +219,11 @@
 }
 
 .author__picture {
-  border-radius: 50%;
-  box-shadow: 0 0 0 .8rem rgba($brand-color, .08);
+  border-radius: 5px;
   float: left;
-  margin: .5rem 1.8rem .8rem 0;
-  -webkit-shape-outside: circle();
-  shape-outside: circle();
-  width: 110px;
+  margin-right: 1.5rem;
+  margin-top: .4rem;
+  width: 70px;
   @media #{$medium-up} {
     width: 130px;
   }
@@ -243,6 +247,7 @@
 
 .author--single {
   padding-top: 0;
+  border-bottom: 1px solid $border-color;
   .author__name {
     font-size: 1.4rem;
   }
@@ -299,7 +304,6 @@ ul,
 .footnotes,
 .pagination,
 .site__footer small,
-.post__author,
 .author,
 .site__search-form {
   margin-left: auto;
