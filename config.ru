@@ -2,6 +2,10 @@ require 'rack/contrib/try_static'
 require 'rack/contrib/not_found'
 require 'rack/rewrite'
 
+# Enable Compression
+use Rack::Deflater
+
+# Redirecting feeds and http
 use Rack::Rewrite do
   r302 '/atom.xml', 'http://feedpress.me/theboldreport', :if => Proc.new { |rack_env|
     rack_env['HTTP_USER_AGENT'] != 'FeedPress'
@@ -12,6 +16,7 @@ use Rack::Rewrite do
   r301 %r{.*}, 'https://theboldreport.net$&', :scheme => 'http'
 end
 
+# Serving static files
 use Rack::TryStatic,
   :root => "_site",
   :urls => %w[/],
