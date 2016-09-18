@@ -242,7 +242,9 @@ blockquote {
       content: '—';
     }
   }
-  > blockquote, > ol, > ul {
+  blockquote,
+  ol,
+  ul {
     width: 100%;
   }
 }
