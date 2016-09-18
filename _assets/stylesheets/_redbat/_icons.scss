@@ -2,7 +2,14 @@
 // ICONS
 // -------------------------------
 
-.icon {
-  margin-right: .2rem;
+.icon--inline {
+  vertical-align: middle;
+}
+
+.icon--small {
   width: 15px;
+}
+
+.icon--medium {
+  width: 20px;
 }
