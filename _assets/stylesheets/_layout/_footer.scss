@@ -18,6 +18,9 @@
     @media #{$medium-up} {
       font-size: .75rem;
     }
+    + small {
+      margin-top: .3rem;
+    }
   }
   p {
     @extend %sans;
@@ -35,6 +38,9 @@
     @media #{$large-up} {
       width: 100%;
     }
+  }
+  .icon {
+    fill: $jazz-color;
   }
 }
 
