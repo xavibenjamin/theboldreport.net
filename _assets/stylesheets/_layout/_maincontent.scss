@@ -169,10 +169,19 @@
 
 .meta__author {
   .post__meta & {
-    color: lighten($dark-color, 5%);
+    // color: lighten($dark-color, 5%);
     font-size: .85rem;
     @media #{$medium-up} {
       font-size: .75rem;
+    }
+  }
+  .post__header & {
+    margin-right: .3rem;
+    &:after {
+      content: '//';
+      display: inline-block;
+      margin-left: .5rem;
+      color: lighten($dark-color, 45%);
     }
   }
 }

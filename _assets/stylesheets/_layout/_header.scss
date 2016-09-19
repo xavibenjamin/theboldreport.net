@@ -50,7 +50,7 @@
   flex: 1;
   order: 1;
   @media #{$small-only} {
-    background: $jazz-color;
+    background-color: $jazz-color;
     padding: .8rem 0;
   }
   @media #{$medium-up} {
