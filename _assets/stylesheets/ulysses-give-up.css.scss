@@ -84,8 +84,13 @@ a {
   }
 }
 
+.post__title {
+  font-size: 3rem;
+}
+
 .post__lead {
   color: $text-color;
+  font-size: 2rem;
   font-weight: 300;
 }
 
