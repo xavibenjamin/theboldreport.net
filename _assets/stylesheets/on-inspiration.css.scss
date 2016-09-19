@@ -144,8 +144,8 @@ $jazz-color: #E4097F;
 
 .button--primary {
   background: $jazz-color;
-  &:hover, &:focus {
+  &:hover,
+  &:focus {
     background: darken($jazz-color, 5%);
   }
-
 }
