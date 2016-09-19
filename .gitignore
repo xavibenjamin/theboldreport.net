@@ -6,3 +6,4 @@ _site
 .DS_Store
 .asset-cache
 images-to-upload
+npm-debug.log 
