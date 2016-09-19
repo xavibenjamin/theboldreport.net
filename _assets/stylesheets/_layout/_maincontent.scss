@@ -169,7 +169,6 @@
 
 .meta__author {
   .post__meta & {
-    // color: lighten($dark-color, 5%);
     font-size: .85rem;
     @media #{$medium-up} {
       font-size: .75rem;
