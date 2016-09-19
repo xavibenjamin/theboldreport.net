@@ -275,12 +275,14 @@ a {
     border-bottom: 1px solid;
     color: lighten($link-color, 10%);
     .site__header &,
-    &.link__icon {
+    &.link__icon,
+    &.footer__logo {
       border-bottom: 0;
     }
   }
   .site__header &,
-  &.link__icon {
+  &.link__icon,
+  &.footer__logo {
     border-bottom: 0;
   }
 }
