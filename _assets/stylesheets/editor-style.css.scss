@@ -145,6 +145,9 @@ body {
   small {
     color: darken($primary-color, 30%);
   }
+  .icon {
+    fill: darken($primary-color, 30%);
+  }
 }
 
 .footer__logo {
