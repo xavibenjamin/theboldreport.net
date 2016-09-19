@@ -141,6 +141,9 @@ a {
 .site__footer {
   background: darken($primary-color, 10%);
   margin-top: 0;
+  .icon {
+    fill: $secondary-color;
+  }
 }
 
 .button--primary {
