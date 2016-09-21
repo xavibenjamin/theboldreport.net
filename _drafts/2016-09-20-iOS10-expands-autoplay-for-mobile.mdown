@@ -1,0 +1,20 @@
+---
+layout: post
+title: iOS 
+categories: link
+custom_type: link
+link_url: https://webkit.org/blog/6784/new-video-policies-for-ios/
+tags: [Video, Development]
+date: 2016-09-20 2:54
+---
+
+Jer Noble for Webkit speaking on some new features in iOS 10:
+
+> `<video autoplay>` elements will now honor the `autoplay` attribute...
+
+This is an older piece of news but became relevant to me recently. For folks working on editorial and video platforms, it certainly has some interesting implications. Noble outlines some common-sense conditions that allow autoplay video in Mobile Safari. The conditions under which the `autoplay` attribute will be honored are pretty straightforward: 
+
+* No Audio track or `<video muted>`
+* Elements will only play when visible in the viewport
+
+Additionally, the `play()` method will be supported and `<video playsinline>` will act as expected. A lot of good news for video marketing on the mobile platform. 
