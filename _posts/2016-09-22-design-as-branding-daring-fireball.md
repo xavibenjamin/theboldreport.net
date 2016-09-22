@@ -5,6 +5,7 @@ categories: link
 custom_type: link
 link_url: http://daringfireball.net/2016/09/design_as_branding
 tags: [Apple, Design]
+date: 2016-09-22 14:56:13
 ---
 Farhad Manjoo, in his column for *The New York Times*:
 
