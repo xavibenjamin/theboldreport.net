@@ -14,12 +14,6 @@ plugins_dir:  ./_plugins
 # Syntax Highlighting
 highlighter: rouge
 
-#Plugins
-gems:
-  - jekyll-assets
-  - jekyll-paginate
-  - jekyll-sitemap
-
 # Server
 port: 4000
 

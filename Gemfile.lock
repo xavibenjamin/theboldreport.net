@@ -34,6 +34,8 @@ GEM
       pathutil (>= 0.8)
       rack (> 1, < 2)
       sprockets (~> 3.3, < 3.7)
+    jekyll-compose (0.4.1)
+      jekyll (>= 2.5.0)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
@@ -79,6 +81,7 @@ DEPENDENCIES
   foreman (~> 0.82.0)
   jekyll (~> 3.2, >= 3.2.1)
   jekyll-assets (~> 2.2, >= 2.2.8)
+  jekyll-compose (~> 0.4.1)
   jekyll-paginate (~> 1.1)
   jekyll-sitemap
   rack-contrib (~> 1.2.0)
