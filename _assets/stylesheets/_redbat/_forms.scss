@@ -83,18 +83,17 @@ input:focus::-moz-placeholder {
   }
   .button-group {
     display: flex;
-    width: 20%;
-    .button.button--primary {
-      border-radius: 3px;
-      flex: 1 1 auto;
+    flex: 1 1 20%;
+    .button {
+      width: 100%;
     }
   }
   .newsletter__inputs {
     display: flex;
-    flex: 1 1 auto;
+    flex: 2 1 80%;
   }
   .form-group {
-    flex: 1 1 auto;
+    flex: 1 1 %50;
     margin-right: .5rem;
   }
 }
