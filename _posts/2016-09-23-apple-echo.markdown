@@ -22,6 +22,6 @@ Saying no means saying no to things you know you can do well but just don't fit.
 
 So here's my beef: Apple should focus on making what they have great. Bringing another device to the market when they're struggling in so many other areas to catch up strikes me as a really bad idea.
 
-Now, there's a reason I don't work at Apple. I could be way off base. But I don't think I am. Apple needs to start saying no again. I want them to make the best doggone iPhones, iPads, and computers anyone has ever seen and I want them to focus on that. I don't want them to make a car. I don't want them to power my home. I don't want them trying to make some sort of social networking thing. I just want them to make the best phones, tablets, and computers. Period.
+Apple needs to start saying no again. Don't make a car. Don't power my home. Don't make some sort of social networking thing. Make the best phones, tablets, and computers. Period.
 
 [Focus is about saying no]: https://youtu.be/H8eP99neOVs
