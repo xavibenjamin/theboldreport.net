@@ -14,12 +14,6 @@ plugins_dir:  ./_plugins
 # Syntax Highlighting
 highlighter: rouge
 
-# Plugins
-gems:
-  - jekyll-assets
-  - jekyll-paginate
-  - jekyll-sitemap
-
 # Server
 port: 4000
 
@@ -36,7 +30,7 @@ assets:
 
 # Markdown Rendering
 markdown: kramdown
-markdown_ext:  markdown,mkdown,mkdn,mkd,md
+markdown_ext:  markdown,mkdown,mkdn,mkd,md,mdown
 
 kramdown:
   input: GFM
