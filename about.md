@@ -25,7 +25,7 @@ If you have questions, concerns, feedback, or compliments about *The Bold Report
 <div class="authors">
   {% for author in site.data.authors %}
     <div class="author">
-      <img src="http://gravatar.com/avatar/{{ author[1].gravatar}}?s=200" alt="Picture of {{ author[1].display_name }}" class="author__picture" height="200" width="200" />
+      <img src="//gravatar.com/avatar/{{ author[1].gravatar}}?s=200" alt="Picture of {{ author[1].display_name }}" class="author__picture" height="200" width="200" />
       <div class="author__info">
         <h4 class="author__name">{{ author[1].display_name }} <small class="author__title">{{ author[1].title }}</small></h4>
         {{ author[1].bio | markdownify }}
@@ -33,4 +33,3 @@ If you have questions, concerns, feedback, or compliments about *The Bold Report
     </div>
   {% endfor %}
 </div><!-- /.authors -->
-

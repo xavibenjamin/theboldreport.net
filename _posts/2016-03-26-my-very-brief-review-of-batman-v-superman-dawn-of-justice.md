@@ -6,6 +6,7 @@ custom_type: post
 slug: /bvs-review/
 tags:
   - DC Comics
+  - Brief Review
   - Movies
   - Review
 date: '2016-03-26 01:06:42'

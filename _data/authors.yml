@@ -9,6 +9,15 @@ timsmith:
     Tim is a frontend designer who designs and builds web applications. He made a Content Management System for podcast networks used by [Goodstuff FM](http://goodstuff.fm) and [Relay FM](https://www.relay.fm/). Tim lives in Saint Paul, MN with his wife and two cats. When not working, he reads comics, watches movies, and writes here.
   gravatar: febbffcb54abe1be1435720fc2268237
   author_path: timsmith
+sonyamann:
+  display_name: Sonya Mann
+  title: Editor
+  twitter: sonyaellenmann
+  web: https://www.sonyaellenmann.com/
+  email: me@sonyaellenmann.com
+  bio: >
+    Sonya Mann is a writer and serial project-starter who lives in the San Francisco Bay Area. She's interested in the business of technology, weird niche subcultures, and human nature in general.
+  gravatar: dcb97d0ad65af1cf543190cd47f52402
 tjdraper:
   display_name: TJ Draper
   title: Contributing Writer
@@ -17,7 +26,7 @@ tjdraper:
   web: https://buzzingpixel.com/
   email: tj@buzzingpixel.com
   bio: >
-    TJ is a independent web developer and owner of [BuzzingPixel, LLC](https://buzzingpixel.com/) in Spring Hill, TN. He is also a veteran podcaster — having survived 150 episodes as host of [The MovieByte Podcast](https://moviebyte.com/mbpodcast). Now TJ hosts a new show about appreciating cinema called [Retake](https://nightowl.fm/retake) on the podcast network he launched with [Joe Darnell](https://nightowl.fm/people/joedarnell), [Night Owl](https://nightowl.fm/).
+    TJ is an independent web developer and owner of [BuzzingPixel, LLC](https://buzzingpixel.com/) in Spring Hill, TN. He is also a veteran podcaster — having survived 150 episodes as host of [The MovieByte Podcast](https://moviebyte.com/mbpodcast). Now TJ hosts a new show about appreciating cinema called [Retake](https://nightowl.fm/retake) on the podcast network he launched with [Joe Darnell](https://nightowl.fm/people/joedarnell), [Night Owl](https://nightowl.fm/).
   author_path: tjdraper
   gravatar: 979fa599e691b040164ca31d848a9cf9
 keatontaylor:
@@ -28,6 +37,6 @@ keatontaylor:
   web: http://keaton-taylor.com
   email: keatontaylor@me.com
   bio: >
-   Keaton is a designer and frontender working on editorial products at [Apartment Therapy Media](http://www.apartmenttherapy.com) from his home in sunny Southwest Missouri. Keaton loves his lovely wife and three children, craft beer, mediocre tv and Falltime. 
+   Keaton is a designer and frontender working on editorial products at [Apartment Therapy Media](http://www.apartmenttherapy.com) from his home in sunny Southwest Missouri. Keaton loves his lovely wife and three children, craft beer, mediocre tv and Falltime.
   author_path: keatontaylor
   gravatar: 66b7866a0bd63a0baef68519c5776760
