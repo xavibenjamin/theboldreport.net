@@ -1,7 +1,7 @@
 ---
 layout: post
 author: keatontaylor
-title: Neonto Try Their Hands at React 
+title: Neonto Tries Their Hand at React 
 categories: link
 custom_type: link
 link_url: https://reactstudio.com/
