@@ -1,0 +1,20 @@
+---
+layout: post
+author: keatontaylor
+title: Neonto Tries Their Hand at React 
+categories: link
+custom_type: link
+link_url: https://reactstudio.com/
+tags: [Design, Development, Tools]
+date: 2016-09-26 11:19
+---
+
+[Neonto](https://www.neonto.com/) has just announced the impending release of a new design tool. Neonto Studio allows users to "Build real native mobile apps better and faster." Their new offering---[React Studio](https://reactstudio.com/)---is a design tool that creates single page React.js web apps. 
+
+From their site: 
+
+> Exported code conforms to latest React+Webpack best practices. Image and video assets are properly resized and compressed.
+
+This is both interesting and suspect. Could it be I still have a bad taste in my mouth from Dreamweaver and iWeb? Maybe. Can a machine output code as good as what a human can write? I'm skeptical. The thing is though, Neonto seems to have a pretty decent track record doing this kind of thing.
+
+I'm doubtful this tool will be able to yield high-functioning and scalable web apps. That said, they definitely have my attention. It could be a great gateway into understanding React in a more holistic way—especially for designers.
