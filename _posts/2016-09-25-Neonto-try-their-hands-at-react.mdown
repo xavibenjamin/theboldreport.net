@@ -6,7 +6,7 @@ categories: link
 custom_type: link
 link_url: https://webkit.org/blog/6784/new-video-policies-for-ios/
 tags: [Design, Development, tools]
-date: 2016-09-21 2:54
+date: 2016-09-25 2:54
 ---
 
 [Neonto](https://www.neonto.com/) has just announced the impending release of a new design tool. Neonto Studio allows users to "Build real native mobile apps better and faster." Their new offering - [React Studio](https://reactstudio.com/) - is a design tool that creates single page React.js web apps. 
