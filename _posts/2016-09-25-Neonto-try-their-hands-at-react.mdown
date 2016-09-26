@@ -1,10 +1,10 @@
 ---
 layout: post
 author: keatontaylor
-title: Neonto Try Their Hand at React 
+title: Neonto Try Their Hands at React 
 categories: link
 custom_type: link
-link_url: https://webkit.org/blog/6784/neonto-try-their-hand-at-react/
+link_url: https://reactstudio.com/
 tags: [Design, Development, Tools]
 date: 2016-09-25 2:54
 ---
