@@ -25,3 +25,13 @@ $ killall Dock
 ```
 
 That's it! Hope you find this useful!
+
+## Update from TJ Draper
+
+Apparently `1` is the default, and `0` gives you no animation whatsoever. So [TJ](/authors/tjdraper/) recommends using `-float` so that you can use a decimal value. `-int` only accepts whole numbers. Here's what the command would look like now:
+
+```sh
+$ defaults write com.apple.dock autohide-time-modifier -float 0.2
+```
+
+Much better! The dock is much faster, but there's still a subtle animation.
