@@ -16,8 +16,7 @@ engines:
       MD014:
         enabled: false
       MD029:
-        enabled: true
-        style: "ordered"
+        enabled: false
       MD032:
         enabled: false
       MD033:
