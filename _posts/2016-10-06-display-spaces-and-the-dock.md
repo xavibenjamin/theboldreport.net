@@ -28,6 +28,7 @@ Here’s what really rubs me the wrong way: it has been blown since 10.9. Apple 
 I will accept two solutions to this problem:
 
 1. Make the behavior of the Dock and Cmd + Tab switcher like the menu bar—show it on all displays (preferred)
+
 2. Keep the Dock and Cmd + Tab switcher on the primary display at all times (not preferred but acceptable)
 
 Neither of these options seem all that hard to implement. But with the release of macOS Sierra, Apple seemed far more content to ship features no one was asking for and, much worse, half-baked features that simply don’t work, don’t have a proper interface, and no one should use (see [ATP 189](http://atp.fm/episodes/189) for more on what I’m talking about).
