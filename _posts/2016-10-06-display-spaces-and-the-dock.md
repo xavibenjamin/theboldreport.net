@@ -11,7 +11,7 @@ tags:
 date: 2016-10-06 11:30
 ---
 
-Apple is blowing it with multiple display user experience
+Apple is blowing it with multiple display user experience.
 
 I have, over the course of my personal and professional life, become a lover of Apple products. I liked Apple before it was cool. I liked Apple while it was becoming cool. I liked Apple after it was cool. And I even still liked Apple when it stopped being cool again. But things are not okay in paradise and it has become a very frustrating thing to want Apple to do better and be the company again they once were.
 
