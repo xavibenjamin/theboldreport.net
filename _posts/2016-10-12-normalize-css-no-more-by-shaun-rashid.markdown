@@ -17,6 +17,6 @@ Such a short article, but an excellent point. I'll be removing the reset/normali
 
 ```css
 * {
-box-sizing: border-box;
+  box-sizing: border-box;
 }
 ```
