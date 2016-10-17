@@ -64,10 +64,11 @@ a {
   }
 }
 
-.post__meta {
-  li {
-    color: $secondary-text-color;
-  }
+.post__meta,
+.post__meta a,
+.post__meta a:hover,
+.post__meta a:focus {
+  color: $secondary-text-color;
 }
 
 .post__header {
