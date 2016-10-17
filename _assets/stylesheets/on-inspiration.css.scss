@@ -32,13 +32,6 @@ $jazz-color: #E4097F;
   }
 }
 
-.site__author {
-  background: red;
-  border: 1px solid red;
-  color: rgba(white, .45);
-  width: 400px;
-}
-
 .post__header {
   background-color: $primary-color;
   margin-bottom: 1.5rem;
@@ -90,38 +83,6 @@ $jazz-color: #E4097F;
       line-height: 1;
       margin: 0 .7rem .3rem 0;
     }
-  }
-}
-
-// .post__closer {
-//   align-items: flex-start;
-//   display: flex;
-//   margin: 0;
-//   width: auto;
-//   .svg-icon {
-//     margin: 6rem auto 0;
-//     width: 50px;
-//   }
-//   @media #{$medium-up} {
-//     max-width: 768px;
-//   }
-//   @media #{$large-up} {
-//     max-width: 1000px;
-//   }
-//   @media #{$xxlarge-up} {
-//     max-width: none;
-//   }
-// }
-
-.post__footer {
-  @media #{$medium-up} {
-    max-width: 768px;
-  }
-  @media #{$large-up} {
-    max-width: 1000px;
-  }
-  @media #{$xxlarge-up} {
-    max-width: none;
   }
 }
 
