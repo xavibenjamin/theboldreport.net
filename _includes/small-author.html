@@ -1,7 +1,7 @@
 {% if page.date %}
   {% assign author = site.data.authors[page.author] %}
-  <li class="meta__author"><a href="/authors/{{ author.author_path }}" title="{{ page.title }} written by {{ author.display_name }}">{{ author.display_name }}</a></li>
+  <span class="meta__author">By <a href="/authors/{{ author.author_path }}" title="{{ page.title }} written by {{ author.display_name }}">{{ author.display_name }}</a></span>
 {% else %}
   {% assign author = site.data.authors[post.author] %}
-  <li class="meta__author"><a href="/authors/{{ author.author_path }}" title="{{ page.title }} written by {{ author.display_name }}">{{ author.display_name }}</a></li>
+  <span class="meta__author">By <a href="/authors/{{ author.author_path }}" title="{{ page.title }} written by {{ author.display_name }}">{{ author.display_name }}</a></span>
 {% endif %}
