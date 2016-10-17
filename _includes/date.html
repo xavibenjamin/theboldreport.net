@@ -1,5 +1,5 @@
 {% if page.date %}
-  <li><small class="post__date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%a, %b %d, %Y" }}</time></small>{% if page.tags.size > 0 %} &middot; {% endif %}</li>
+  <span class="post__date">on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%a, %b %d, %Y" }}</time></span>
 {% else %}
-  <li><small class="post__date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %b %d, %Y" }}</time></small> <a href="{{ post.url }}" class="link__icon" title="Link to {{ post.title }}">&infin;</a></li>
+  <span class="post__date">on <a href="{{ post.url }}" title="Link to {{ post.title }}"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %b %d, %Y" }}</time></a></span>
 {% endif %}
