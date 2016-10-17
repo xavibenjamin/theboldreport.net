@@ -1,1 +1,1 @@
-<small>Tags: {% if page.tags.size > 0 %}{% for tag in page.tags %}<small><a href="{{ site.url }}/topics/#{{ tag | downcase | replace:' ','-'}}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}{% endif %}</small>
+<span class="post__tags">{% if page.tags.size > 0 %}{% for tag in page.tags %}<a href="{{ site.url }}/topics/#{{ tag | downcase | replace:' ','-'}}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}{% endif %}</span>
