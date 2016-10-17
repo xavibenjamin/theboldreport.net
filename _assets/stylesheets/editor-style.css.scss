@@ -61,7 +61,6 @@ body {
     display: block;
     font-size: 4.5em;
     line-height: .6;
-    // text-transform: uppercase;
   }
   .word3 {
     color: wheat;
@@ -121,10 +120,11 @@ body {
   fill: darken($primary-color, 10%);
 }
 
-.post__footer {
-  .post__meta li {
-    color: darken($primary-color, 30%);
-  }
+.post__meta,
+.post__meta a,
+.post__meta a:hover,
+.post__meta a:focus {
+  color: darken($primary-color, 30%);
 }
 
 .post__entry,
