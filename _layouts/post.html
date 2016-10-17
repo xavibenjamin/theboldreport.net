@@ -7,18 +7,20 @@ custom_css_class: single
     {% if page.custom_type == 'post' %}
 
       <header class="post__header">
-
-        <ul class="post__meta">
+        <small class="post__meta">
           {% include small-author.html %}
           {% include date.html %}
-          {% include tags.html %}
-        </ul>
+        </small>
         <h1>{{ page.title | smartify }}</h1>
       </header><!-- /.post__header -->
 
       <div class="post__entry">
         {{ content }}
       </div><!-- /.post__entry -->
+
+      <footer class="post__footer">
+        {% include tags.html %}
+      </footer>
 
       <div class="post__author">
         {% include full-author.html %}
@@ -37,17 +39,19 @@ custom_css_class: single
       <header class="post__header">
           <h1><a href="{{ page.link_url }}">{{ page.title | smartify }}</a><span class="arrow">&rarr;</span></h1>
 
-          <ul class="post__meta">
+          <small class="post__meta">
             {% include small-author.html %}
             {% include date.html %}
-            {% include tags.html %}
-          </ul>
+          </small>
         </header><!-- /.post__header -->
-
 
         <div class="post__entry">
           {{ content }}
         </div><!-- /.post__entry -->
+
+        <footer class="post__footer">
+          {% include tags.html %}
+        </footer>
 
     {% endif %}
   </article>

@@ -29,29 +29,19 @@
 }
 
 .post__meta {
-  @extend %sans;
-
-  list-style-type: none;
-  margin-bottom: .5rem;
-  width: 100%;
-  li {
-    color: lighten($dark-color, 20%);
-    display: inline;
-    font-size: .8rem;
-    margin: 0;
-    &:last-child {
-      padding: 0;
-    }
-    @media #{$medium-up} {
-      font-size: .7rem;
-    }
-  }
-}
-
-.link__icon {
-  display: inline-block;
+  color: lighten($dark-color, 20%);
+  display: block;
   font-size: .8rem;
-  margin-left: .3rem;
+  margin-bottom: .5rem;
+  a,
+  a:hover,
+  a:focus {
+    border-bottom: 1px solid;
+    color: lighten($dark-color, 20%);
+  }
+  @media #{$medium-up} {
+    font-size: .75rem;
+  }
 }
 
 // Format Post -------------------
@@ -86,11 +76,14 @@
 
 // Format Link -------------------
 .format-link {
+  .post__header {
+    margin-bottom: 1.2rem;
+  }
   h1 {
     font-size: 1.7rem;
     font-weight: normal;
     line-height: 1.2;
-    margin-bottom: .5rem;
+    margin-bottom: .3rem;
     a {
       text-decoration: none;
     }
@@ -168,29 +161,11 @@
 
 // Post Author -------------------
 
-.meta__author {
-  .post__meta & {
-    font-size: .85rem;
-    @media #{$medium-up} {
-      font-size: .75rem;
-    }
-  }
-  .post__header & {
-    margin-right: .3rem;
-    &:after {
-      content: '//';
-      display: inline-block;
-      margin-left: .5rem;
-      color: lighten($dark-color, 45%);
-    }
-  }
-}
-
 .post__author {
   margin-top: 6rem;
   .author {
-    padding: 0;
     border: 0;
+    padding: 0;
     &:before {
       background-color: $border-color;
       content: '';
@@ -254,8 +229,8 @@
 }
 
 .author--single {
-  padding-top: 0;
   border-bottom: 1px solid $border-color;
+  padding-top: 0;
   .author__name {
     font-size: 1.4rem;
   }
