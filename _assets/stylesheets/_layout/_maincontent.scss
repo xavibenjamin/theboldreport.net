@@ -44,6 +44,10 @@
   }
 }
 
+.post__tags {
+  display: block;
+}
+
 // Format Post -------------------
 
 .format-post {
@@ -146,16 +150,11 @@
   top: 0;
 }
 
-.post__footer {
-  margin-top: 2rem;
-  padding: .7rem 0;
+.custom-post__footer {
+  margin-top: 1rem;
   text-align: center;
   .post__meta {
     margin: 0;
-    li:first-child {
-      display: block;
-      line-height: 1.1;
-    }
   }
 }
 
