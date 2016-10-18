@@ -16,7 +16,7 @@ As per usual, Viticci's review of the iPhone 7 is thought-out and thorough:
 As expected, the iPhone 7 is a great iteration on the iconic device and—contrary to what some believe—a huge push forward. The section on the W1 chip is fascinating too, and gets me really excited for the new possibilities of wireless audio:
 
 > If you're familiar with Bluetooth headphones, you know how flaky and opaque pairing them can be. You usually have to press a combination of buttons, watch for special light indicators, go into your iPhone's Bluetooth settings, and hope for the best while following the instructions. It's even worse if your Bluetooth headphones are already turned on and paired with one device and you try to connect them to another.
-
+>
 > The W1 chip gets rid of all that cruft.
 
 Vittici bought a pair of [Beats Solo 3 headphones](http://www.apple.com/shop/product/MP582LL/A/beats-solo3-wireless-on-ear-headphones-black) to test the new chip. I'm not a huge fan of Beats headphones, but I'd be lying if I told you I wasn't *at least interested* in picking up a pair after reading. Just like Apple made the pairing experience with the Apple Watch seamless (also using Bluetooth), it would seem they've nailed this experience too. It's fascinating how Apple has been able to mold this terrible protocol to its will. In essence, if they didn't tell you it was Bluetooth, you'd never know.
