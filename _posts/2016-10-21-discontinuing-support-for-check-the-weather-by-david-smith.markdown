@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Discontinuing support for Check the Weather by David Smith
+title: Discontinuing Support for Check the Weather by David Smith
 categories: link
 custom_type: link
 link_url: https://david-smith.org/blog/2016/10/17/discontinuing-support-for-check-the-weather/
