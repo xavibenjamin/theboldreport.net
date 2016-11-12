@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Brief Review of Shush App
-categories: articles
+categories: articles briefreview
 custom_type: post
 tags:
   - Apps
