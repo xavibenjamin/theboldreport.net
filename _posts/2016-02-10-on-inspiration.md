@@ -1,7 +1,7 @@
 ---
 layout: custom-post
 title: On Inspiration
-categories: articles
+categories: articles artdirect
 custom_type: post
 custom_css: on-inspiration
 date: '2016-02-11 08:30:00'

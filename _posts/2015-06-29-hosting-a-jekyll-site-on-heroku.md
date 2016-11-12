@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hosting a Jekyll Site on Heroku
-categories: articles
+categories: articles best
 custom_type: post
 date: '2015-06-29 11:11:30'
 ---
@@ -12,7 +12,7 @@ I had setup [Deploy](https://www.deployhq.com/) to do this automatically when ne
 
 One day, the lightbulb when off, and I started to wonder if I could use [Heroku](https://www.heroku.com/home) to host my Jekyll sites. After doing some calculations, I felt like I could improve the deploy workflow, and save a little money.
 
-## So how the heck do you do it? 
+## So how the heck do you do it?
 Well, it was a bigger pain in the butt to figure out than I thought, but once you understand the pieces, it actually is pretty simple. Unfortunately, most of the articles that walk you through this process were published a while ago, so they were using out-of-date gems, and deprecated commands.[^1] But by combining the process of [this article](http://blog.bigbinary.com/2014/04/27/deploy-jekyll-to-heroku.html) and [this article](http://www.jamesward.com/2014/09/24/jekyll-on-heroku), you find yourself with a great solution. Hopefully you’ll find this useful.
 
 ## Ignore the Site Folder
@@ -90,7 +90,7 @@ Lastly, make sure you’re using relative URLs for assets. I ran into a javascri
 {% highlight html %}
 <!-- You'll change a line like this -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	
+
 <!-- To this -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 {% endhighlight %}
