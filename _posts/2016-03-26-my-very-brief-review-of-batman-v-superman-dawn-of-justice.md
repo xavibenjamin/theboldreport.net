@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'My Brief Review of ‘Batman v Superman: Dawn of Justice’'
-categories: articles
+categories: articles briefreview
 custom_type: post
 slug: /bvs-review/
 tags:
