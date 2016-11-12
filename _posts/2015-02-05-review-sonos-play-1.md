@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Review: Sonos Play:1'
-categories: articles
+categories: articles best
 custom_type: post
 tags:
   - Review
@@ -52,4 +52,3 @@ With all things considered, I would definitely give this speaker my recommendati
 
 [^1]: 1.85 kg
 [^2]: The app does allow you to hook up to Sticher, so if you use Sticher (which I do not) to listen to podcasts, I guess you'd be set.
-
