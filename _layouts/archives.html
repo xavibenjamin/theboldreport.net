@@ -6,6 +6,33 @@ exclude_from_search: true
 excerpt: The full archive of The Bold Report.
 ---
 
+<p><em>The Bold Report</em> has been published since 2013. If you’re looking for something specific, I recommend you search. I figured in addition to the list of posts since the beginning of time, I’d give you a few places to start.</p>
+
+<h2 class="subheader">Best Of</h2>
+<ul class="post-list">
+  {% for post in site.categories.best %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<h2 class="subheader">Series: My Brief Review</h2>
+<ul class="post-list">
+  {% for post in site.categories.briefreview %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<h2 class="subheader">Art-Directed Articles</h2>
+<ul class="post-list">
+  {% for post in site.categories.artdirect %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+
+
+<hr />
+
 {% for month in page.months %}
   <h2 class="subheader">{{ month | date:"%B" }} <small>{{ month | date:"%Y" }}</small></h2>
   <div class="archive-list">
@@ -14,4 +41,3 @@ excerpt: The full archive of The Bold Report.
   {% endfor %}
   </div>
 {% endfor %}
-

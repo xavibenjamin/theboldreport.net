@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Burnout. That Word Doesn’t Mean What You Think it Means"
-categories: articles
+categories: articles best
 custom_type: post
 tags:
   - Burnout

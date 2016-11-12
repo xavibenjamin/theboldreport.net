@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Brief Review of the iPhone 6s Plus
-categories: articles
+categories: articles briefreview
 custom_type: post
 slug: /iphone-6s-plus-brief-review/
 tags:

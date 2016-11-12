@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heroku Redirects with rack-rewrite
-categories: articles
+categories: articles best
 custom_type: post
 ---
 
