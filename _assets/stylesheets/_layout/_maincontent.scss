@@ -44,6 +44,21 @@
   }
 }
 
+.post__footer {
+  color: lighten($dark-color, 20%);
+  font-size: .8rem;
+  margin-top: 1.5rem;
+  a,
+  a:hover,
+  a:focus {
+    border-bottom: 1px solid;
+    color: lighten($dark-color, 20%);
+  }
+  @media #{$medium-up} {
+    font-size: .75rem;
+  }
+}
+
 .post__tags {
   display: block;
 }
@@ -278,6 +293,7 @@ h5,
 ol,
 ul,
 .post__header,
+.post__footer,
 .post__entry > p,
 .search-results-list > p,
 .page__entry > p,
