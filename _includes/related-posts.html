@@ -1,0 +1,13 @@
+{% if site.related_posts.size >= 1 %}
+<div class="related-posts">
+  <h5 class="related-posts__title">Related Posts</h5>
+  <ul class="post-list post-list--inline post-list--grid-thirds">
+  {% for p in site.related_posts limit: 3 %}
+    <li class="post-list__item">
+      <a href="{{ p.url }}">{{ p.title }}</a>
+      <small class="pubdate"><time datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%a, %b %d, %Y" }}</time></small>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
+{% endif %}
