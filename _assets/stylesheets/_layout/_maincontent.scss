@@ -70,6 +70,45 @@
   }
 }
 
+// Bug ---------------------------
+
+.bug {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 0;
+  padding: .4rem 1rem;
+  position: fixed;
+  right: 0;
+  z-index: 5;
+}
+
+.bug--light {
+  background-color: white;
+}
+
+.bug--bottom {
+  bottom: 0;
+  box-shadow: 0 -1px 2px rgba(black,.1);
+  transform: translateY(105%);
+  transition: all 300ms ease;
+  .scrolled & {
+    transform: translateY(0);
+  }
+}
+
+.bug__text {
+  h2 {
+    font-size: 1.2rem;
+    margin-top: 0;
+    width: 100%;
+  }
+
+  span {
+    font-size: .9rem;
+  }
+}
+
 // Format Post -------------------
 
 .format-post {

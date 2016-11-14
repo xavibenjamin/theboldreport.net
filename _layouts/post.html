@@ -3,7 +3,7 @@ layout: default
 custom_css_class: single
 ---
 <div class="type-post format-{% if page.custom_type %}{{ page.custom_type }}{% endif %}">
-  <article class="post">
+  <article class="post single-post">
     {% if page.custom_type == 'post' %}
 
       <header class="post__header">
@@ -50,4 +50,6 @@ custom_css_class: single
 
     {% endif %}
   </article>
- </div>
+</div>
+
+{% include subscribe-bug.html %}
