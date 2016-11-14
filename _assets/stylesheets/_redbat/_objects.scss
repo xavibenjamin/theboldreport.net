@@ -90,3 +90,39 @@ iframe {
     }
   }
 }
+
+// Post List ---------------------
+// Componenet to show a list of
+// posts wherever.
+// -------------------------------
+
+.post-list {
+  list-style: none;
+  li {
+    margin-left: 0;
+    &:last-child {
+      padding: 0;
+    }
+  }
+}
+
+
+.post-list--inline {
+  display: flex;
+  flex-direction: column;
+  @media #{$medium-up} {
+    flex-direction: row;
+    li {
+      padding-right: 1rem;
+      &:last-child {
+        padding-right: 0;
+      }
+    }
+  }
+}
+
+.post-list--grid-thirds {
+  li {
+    flex: 1 1 30%;
+  }
+}
