@@ -41,6 +41,11 @@ GEM
       sass (~> 3.4)
     jekyll-sitemap (0.11.0)
       addressable (~> 2.4.0)
+    jekyll-tagging (1.0.1)
+      ruby-nuggets
+    jekyll-tagging-related_posts (0.2.1)
+      jekyll (~> 3.0)
+      jekyll-tagging (~> 1.0.0)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.12.0)
@@ -49,6 +54,7 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
+    nuggets (1.0.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     rack (1.6.4)
@@ -61,6 +67,8 @@ GEM
       ffi (>= 0.5.0)
     rmagick (2.16.0)
     rouge (1.11.1)
+    ruby-nuggets (1.0.0)
+      nuggets (= 1.0.0)
     safe_yaml (1.0.4)
     sass (3.4.22)
     sprockets (3.6.3)
@@ -85,6 +93,7 @@ DEPENDENCIES
   jekyll-compose (~> 0.4.1)
   jekyll-paginate (~> 1.1)
   jekyll-sitemap
+  jekyll-tagging-related_posts
   rack-contrib (~> 1.2.0)
   rack-rewrite (~> 1.5.1)
   rake
