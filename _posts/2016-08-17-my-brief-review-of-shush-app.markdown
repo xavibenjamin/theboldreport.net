@@ -6,7 +6,6 @@ custom_type: post
 tags:
   - Apps
   - Brief Review
-  - Review
 date: 2016-08-17 11:17
 ---
 The app your remote-working self has been searching for.

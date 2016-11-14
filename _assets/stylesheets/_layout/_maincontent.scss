@@ -45,22 +45,29 @@
 }
 
 .post__footer {
+  border-top: 1px solid $border-color;
   color: lighten($dark-color, 20%);
   font-size: .8rem;
   margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  @media #{$medium-up} {
+    font-size: .75rem;
+  }
+  .author {
+    border-top: 1px solid $border-color;
+    margin-top: 1.5rem;
+    width: 100%;
+  }
+}
+
+.post__tags {
+  display: block;
   a,
   a:hover,
   a:focus {
     border-bottom: 1px solid;
     color: lighten($dark-color, 20%);
   }
-  @media #{$medium-up} {
-    font-size: .75rem;
-  }
-}
-
-.post__tags {
-  display: block;
 }
 
 // Format Post -------------------
@@ -205,7 +212,7 @@
   align-items: flex-start;
   border-bottom: 1px solid $border-color;
   display: flex;
-  padding: 2rem 0;
+  padding: 1rem 0;
   position: relative;
   p {
     font-size: .95rem;
@@ -256,6 +263,38 @@
   }
 }
 
+// Related Posts ----------------
+.related-posts {
+  .post-list {
+    width: 100%;
+  }
+  .post-list__item {
+    font-size: 1rem;
+    line-height: 1.2;
+    a {
+      @extend %sans-con;
+
+      font-weight: 600;
+    }
+    .pubdate {
+      display: block;
+      font-size: .8rem;
+      margin-top: .3rem;
+      @media #{$medium-up} {
+        font-size: .75rem;
+      }
+    }
+  }
+}
+
+.related-posts__title {
+  font-size: 1rem;
+  margin-top: 1.5rem;
+  width: 100%;
+  &:before {
+    display: none;
+  }
+}
 // Footnotes ---------------------
 
 .footnotes {
