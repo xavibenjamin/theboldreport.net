@@ -1,5 +1,5 @@
 # Please place Gems in alpha order.
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
 ruby '2.3.0'
 
@@ -20,4 +20,5 @@ group :jekyll_plugins do
   gem 'jekyll-compose', '~> 0.4.1'
   gem 'jekyll-paginate', '~> 1.1'
   gem 'jekyll-sitemap'
+  gem 'jekyll-tagging-related_posts'
 end

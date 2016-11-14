@@ -83,13 +83,3 @@
   text-transform: uppercase;
   vertical-align: middle;
 }
-
-.post-list {
-  list-style: none;
-  li {
-    margin: 0;
-    &:last-child {
-      padding: 0;
-    }
-  }
-}
