@@ -4,6 +4,7 @@ title: Publishing To Jekyll From iOS
 categories: articles best
 custom_type: post
 date: 2016-01-05 01:25
+tags: [Development, Jekyll, iOS]
 ---
 I figured out how to publish to *The Bold Report* from iOS! It was quite easy to set up, so I thought I'd share with you how to do it.
 
