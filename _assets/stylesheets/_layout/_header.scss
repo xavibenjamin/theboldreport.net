@@ -6,7 +6,7 @@
   border-bottom: 2px solid $border-color;
   display: flex;
   flex-direction: column;
-  margin: 0 0 1rem;
+  margin: 0 0 2rem;
   @media #{$medium-up} {
     border-bottom-width: 1px;
     flex-direction: row;
@@ -130,5 +130,6 @@
   color: $body-color;
   font-size: 1.1rem;
   margin-bottom: 1rem;
+  margin-top: 0;
   padding-bottom: .5rem;
 }
