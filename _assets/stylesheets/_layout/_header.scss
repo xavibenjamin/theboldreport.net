@@ -106,6 +106,18 @@
     max-height: 300px;
     overflow-y: scroll;
   }
+  .search-results-list--mini {
+    h3 {
+      font-size: 1rem;
+      margin-bottom: .5rem;
+    }
+    p {
+      width: 100%;
+    }
+    .pubdate {
+      font-size: .7rem;
+    }
+  }
   @media #{$medium-up} {
     left: 0;
     position: relative;
