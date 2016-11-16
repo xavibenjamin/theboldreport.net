@@ -102,7 +102,7 @@ figcaption {
 
 .small__right {
   float: right;
-  margin-left: rem-calc(30px);
+  margin-left: 1.875rem;
   width: 40%;
   @media #{$large-up} {
     width: 45%;
@@ -115,7 +115,7 @@ figcaption {
 
 .small__left {
   float: left;
-  margin-right: rem-calc(30px);
+  margin-right: 1.875rem;
   width: 40%;
   @media #{$large-up} {
     width: 45%;
@@ -148,12 +148,12 @@ figcaption {
     width: 100%;
   }
   img {
-    padding-bottom: rem-calc(6px);
+    padding-bottom: .375rem;
     @media #{$medium-up} {
       max-height: 340px;
       object-fit: cover;
-      padding-left: rem-calc(3px);
-      padding-right: rem-calc(3px);
+      padding-left: .1875rem;
+      padding-right: .1875rem;
     }
     @media #{$large-up} {
       max-height: 440px;

@@ -54,7 +54,7 @@ h5 {
 p {
   font-size: 1.1rem;
   line-height: 1.7;
-  margin-bottom: rem-calc(15px);
+  margin-bottom: .9375rem;
   &:last-child {
     margin-bottom: 0;
   }
@@ -89,14 +89,14 @@ h4 {
   color: lighten($dark-color, 30%);
   font-size: 1.2rem;
   font-weight: bold;
-  margin: 2.5rem 0 rem-calc(3px);
+  margin: 2.5rem 0 .1875rem;
   text-transform: uppercase;
 }
 
 h5 {
   font-size: 1.1rem;
   font-weight: bold;
-  margin: 3rem 0 rem-calc(3px);
+  margin: 3rem 0 .1875rem;
   text-transform: uppercase;
   &:before {
     background: $border-color;
@@ -117,17 +117,17 @@ h6 {
 
 ul {
   list-style-type: disc;
-  margin-bottom: rem-calc(25px);
+  margin-bottom: 1.5625rem;
   @media #{$medium-up} {
-    margin-bottom: rem-calc(25px);
-    margin-left: rem-calc(40px);
+    margin-bottom: 1.5625rem;
+    margin-left: 2.5rem;
   }
   li {
     font-size: 1.1rem;
     line-height: 1.7;
     margin-bottom: .5rem;
     margin-left: 2.3rem;
-    padding: rem-calc(2px) 0 0;
+    padding: .1875rem 0 0;
     @media #{$medium-up} {
       font-size: 1rem;
     }
@@ -141,7 +141,7 @@ ul {
     }
     p {
       font-size: inherit;
-      margin: 0 0 rem-calc(10px) 0;
+      margin: 0 0 .625rem 0;
     }
     &:last-child {
       padding: 1.25% 0 0;
@@ -151,12 +151,12 @@ ul {
 
 ol {
   list-style-type: decimal;
-  margin-bottom: rem-calc(25px);
+  margin-bottom: 1.5625rem;
   text-align: left;
   li {
     font-size: 1.1rem;
     line-height: 1.7;
-    margin-bottom: rem-calc(2px);
+    margin-bottom: .1875rem;
     margin-left: 2.3rem;
     @media #{$medium-up} {
       font-size: 1rem;
@@ -168,9 +168,9 @@ ol {
     }
     p {
       font-size: inherit;
-      margin: 0 0 rem-calc(25px) 0;
+      margin: 0 0 1.5625rem 0;
       &:last-child {
-        margin-bottom: rem-calc(15px);
+        margin-bottom: .9375rem;
       }
     }
   }
@@ -223,8 +223,8 @@ sup {
 blockquote {
   border-left: 2px solid $link-color;
   color: lighten($body-color, 15%);
-  margin: 0 auto rem-calc(25px);
-  padding-left: rem-calc(15px);
+  margin: 0 auto 1.5625rem;
+  padding-left: .9375rem;
   width: 90%;
   @media #{$medium-up} {
     width: 85%;
@@ -235,7 +235,7 @@ blockquote {
   small {
     display: block;
     font-size: .80rem;
-    margin: rem-calc(10px) 0 0;
+    margin: .625rem 0 0;
     &:before {
       color: $border-color;
       content: '—';
