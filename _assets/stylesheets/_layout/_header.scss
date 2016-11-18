@@ -3,7 +3,7 @@
 // -------------------------------
 
 .site__header {
-  border-bottom: 2px solid $border-color;
+  background-color: $brand-color;
   display: flex;
   flex-direction: column;
   margin: 0 0 2rem;
@@ -37,11 +37,11 @@
   }
   .bold__first,
   .bold__third {
-    fill: $dark-color;
+    fill: lighten($brand-color, 30%);
     transition: fill 310ms ease;
   }
   .bold__second {
-    fill: $link-color;
+    fill: white;
     transition: fill 310ms ease;
   }
 }
@@ -65,16 +65,16 @@
   margin: 0;
   text-align: left;
   width: 100%;
+  a {
+    color: rgba(white, .7);
+    &:focus,
+    &:hover {
+      color: white;
+    }
+  }
   @media #{$small-only} {
     margin: 0 auto;
     width: 90%;
-    a {
-      color: lighten($jazz-color, 25%);
-      font-weight: 600;
-      &:hover {
-        color: white;
-      }
-    }
   }
   li {
     @extend %sans;

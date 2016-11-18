@@ -83,10 +83,10 @@ iframe {
     color: white;
   }
   .button--primary {
-    background: $slate;
+    background: $brand-color;
     &:focus,
     &:hover {
-      background: lighten($slate, 10%);
+      background: lighten($brand-color, 10%);
     }
   }
 }
