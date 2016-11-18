@@ -99,10 +99,17 @@ iframe {
 .post-list {
   list-style: none;
   li {
+    margin-bottom: .3rem;
     margin-left: 0;
     &:last-child {
       padding: 0;
     }
+  }
+}
+
+.post-list--mini {
+  li {
+    font-size: .9rem;
   }
 }
 
