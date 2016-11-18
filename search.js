@@ -8,6 +8,7 @@ var index = lunr(function () {
   this.field('tags')
   this.ref('id')
 });
+
 {% assign count = 0 %}{% for post in site.posts %}
 index.add({
   title: {{post.title | jsonify}},
@@ -25,8 +26,9 @@ var store = [{% for post in site.posts %}{
   "category": {{ post.category | jsonify }}
 }{% unless forloop.last %},{% endunless %}{% endfor %}]
 // builds search
+
 $(document).ready(function() {
-  $('#search-query').on('keyup', function () {
+  var searchCallback = function() {
     var resultdiv = $('#results');
     // Get query
     var query = $(this).val();
@@ -41,5 +43,37 @@ $(document).ready(function() {
       var searchitem = '<h3><a href="'+store[ref].link+'" class="post-title">'+store[ref].title+'</a><small class="pubdate">'+store[ref].date+'</h3>';
       resultdiv.append(searchitem);
     }
-  });
+  };
+
+  $('#search-query').on('keyup', searchCallback);
+
+  // Set up some variables
+  var split;
+  var qObj = {};
+
+  // Get query string
+  var qs = window.location.search;
+  qs = qs.split('?')[1];
+
+  // If there is a query string
+  if (qs) {
+    // Split on the ampersand seperator
+    qs = qs.split('&');
+
+    // Iterate over number of items in qs
+    for (var i = 0; i < qs.length; i++) {
+      // Split the item
+      split = qs[i].split('=');
+
+      // Add the item to the qObj
+      qObj[split[0]] = split[1];
+    }
+    // Check for q param
+    if (qObj.q) {
+      // Set the value of the input
+      $('#search-query').val(decodeURIComponent(qObj.q)
+        .replace('+', ' '))
+        .trigger('keyup');
+    }
+  }
 });
