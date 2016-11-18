@@ -1,0 +1,21 @@
+---
+layout: page
+title: 404 Page Not Found
+excerpt: This is not the page you are looking for… or is it?
+---
+<figure class="fullwidth">
+  <img src="{{site.url}}/uploads/2016/03/han-idontknow.gif" alt="Han I Do Not Know">
+  <figcaption>Han: What’s going on here?</figcaption>
+</figure>
+
+<p>My guess is, this isn't the page you're looking for. Should something be here? <a href="mailto:contact@theboldreport.net">Email me</a> or <a href="https://github.com/ttimsmith/theboldreport.net/issues">file an issue on GitHub</a>. Otherwise, let me point you to some cool stuff.</p>
+
+<h2 class="subheader">Recent Posts</h2>
+<ul class="post-list">
+  {% for post in site.posts limit:10 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<h2 class="subheader">Most Used Tags</h2>
+{% popular_tags %}
