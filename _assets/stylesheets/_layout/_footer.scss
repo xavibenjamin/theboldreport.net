@@ -3,7 +3,7 @@
 // -------------------------------
 
 .site__footer {
-  background-color: $slate;
+  background-color: $jazz-color;
   color: rgba(white, .6);
   margin-top: 4rem;
   padding: 2rem 0;
@@ -40,7 +40,7 @@
     }
   }
   .icon {
-    fill: $jazz-color;
+    fill: $brand-color;
   }
 }
 
@@ -104,7 +104,7 @@
     fill: white;
   }
   .bold__second {
-    fill: $jazz-color;
+    fill: $brand-color;
   }
 }
 
