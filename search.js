@@ -28,12 +28,15 @@ var store = [{% for post in site.posts %}{
 // builds search
 
 $(document).ready(function() {
+  var $search_input = $('#search-query'),
+      resultdiv     = $('#results'),
+      $search_query = $search_input.val();
+
   var searchCallback = function() {
-    var resultdiv = $('#results');
     // Get query
-    var query = $(this).val();
+    var $search_query = $(this).val();
     // Search for it
-    var result = index.search(query);
+    var result = index.search($search_query);
     // Show results
     resultdiv.empty();
     // Add status
@@ -43,9 +46,20 @@ $(document).ready(function() {
       var searchitem = '<h3><a href="'+store[ref].link+'" class="post-title">'+store[ref].title+'</a><small class="pubdate">'+store[ref].date+'</h3>';
       resultdiv.append(searchitem);
     }
+
+    if (result.length == 0 && $search_query) {
+      resultdiv.append('<p>Sorry, nothing matches that search.</p>');
+    }
+    else if (result.length == 0 && !$search_query) {
+      resultdiv.append('<p class="light-text">Nothing to show yet. The world is your oyster.');
+    }
   };
 
-  $('#search-query').on('keyup', searchCallback);
+  if (!$search_query) {
+    resultdiv.append('<p class="light-text">Nothing to show yet. The world is your oyster.');
+  }
+
+  $search_input.on('keyup', searchCallback);
 
   // Set up some variables
   var split;
