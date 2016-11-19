@@ -95,14 +95,12 @@
 }
 
 // Header Search -----------------
-
 .header__search {
-  flex: 0 1 30%;
-  left: -9999px;
+  display: none;
+  flex: 0 1 25%;
   margin-bottom: 0;
   order: 3;
-  position: absolute;
-  top: -9999px;
+  position: relative;
   .search-results-list {
     max-height: 300px;
     overflow-y: scroll;
@@ -122,9 +120,7 @@
     }
   }
   @media #{$medium-up} {
-    left: 0;
-    position: relative;
-    top: 0;
+    display: block;
   }
 }
 

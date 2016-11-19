@@ -32,21 +32,22 @@ input:focus::-moz-placeholder {
   color: lighten($dark-color, 30%);
 }
 
-.site__search-form {
+.page__search {
   margin-bottom: 1rem;
-  input {
-    background: lighten($dark-color, 63%);
-    border-radius: $global-radius;
-    color: $dark-color;
-    font-size: 1rem;
-    min-height: 45px;
-    padding: .625rem 1rem;
-    transition: .2s ease-in-out;
-    width: 100%;
-    @media #{$medium-up} {
-      font-size: .8rem;
-      padding: .625rem;
-    }
+}
+
+.search-input {
+  background-color: lighten($dark-color, 63%);
+  border-radius: $global-radius;
+  color: $dark-color;
+  font-size: 1rem;
+  min-height: 45px;
+  padding: .625rem 1rem;
+  transition: .2s ease-in-out;
+  width: 100%;
+  @media #{$medium-up} {
+    font-size: .8rem;
+    padding: .625rem;
   }
 }
 
