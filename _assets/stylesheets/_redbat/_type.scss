@@ -188,6 +188,10 @@ ol {
   font-weight: normal;
 }
 
+.light-text {
+  color: lighten($body-color, 30%);
+}
+
 
 // INLINE TYPE -------------------
 
