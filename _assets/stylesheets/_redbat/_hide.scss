@@ -7,3 +7,11 @@
   position: absolute;
   top: -9999px;
 }
+
+.show-small-only {
+  @media #{$medium-up} {
+    left: -9999px;
+    position: absolute;
+    top: -9999px;
+  }
+}

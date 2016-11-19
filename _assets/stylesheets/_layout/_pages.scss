@@ -35,7 +35,7 @@
 .tag-box {
   border-bottom: 1px solid $border-color;
   list-style-type: none;
-  padding: 0 0 rem-calc(40px);
+  padding: 0 0 2.5rem;
   width: 90%;
   @media #{$large-up} {
     width: 100%;

@@ -133,3 +133,57 @@ iframe {
     flex: 1 1 30%;
   }
 }
+
+// Popover -----------------------
+// Component that looks like a
+// tooltip, but has more info in
+// it.
+// -------------------------------
+
+.popover {
+  background-color: white;
+  border: 1px solid rgba(black, .13);
+  border-radius: 3px;
+  box-shadow: 0 0 3px rgba(black, .1);
+  opacity: 0;
+  padding: .8rem 1.2rem;
+  position: absolute;
+  right: 0;
+  top: 65px;
+  transform: scale(0);
+  transform-origin: top;
+  transition: transform .15s ease, opacity .15s ease;
+  z-index: 100;
+  .header-search__title,
+  h3 {
+    width: 100%;
+  }
+  &.is-open {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.popover--medium {
+  width: 300px;
+}
+
+.popover--search {
+  min-height: 180px;
+}
+
+.popover--top {
+  &:before {
+    background: white;
+    border-left: 1px solid rgba(black, .13);
+    border-top: 1px solid rgba(black, .13);
+    content: '';
+    display: block;
+    height: 1.3em;
+    position: absolute;
+    right: 40px;
+    top: -13px;
+    transform: rotate(45deg);
+    width: 1.3em;
+  }
+}

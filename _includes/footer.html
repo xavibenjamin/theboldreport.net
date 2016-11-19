@@ -62,10 +62,8 @@
   {% endif %}
 </script>
 
-{% if page.title == 'Search' %}
-  {% js 'vendor/lunr.min' %}
-  <script type="text/javascript" src="/search.js"></script>
-{% endif %}
+{% js 'vendor/lunr.min' %}
+<script type="text/javascript" src="/search.js"></script>
 
 {% if page.artdirect_typo %}
   <script src="https://use.typekit.net/{{ page.artdirect_typo }}.js"></script>

@@ -32,28 +32,29 @@ input:focus::-moz-placeholder {
   color: lighten($dark-color, 30%);
 }
 
-.site__search-form {
-  margin-bottom: 2rem;
-  input {
-    background: lighten($dark-color, 63%);
-    border-radius: $global-radius;
-    color: $dark-color;
-    font-size: 1rem;
-    min-height: 45px;
-    padding: .625rem 1rem;
-    transition: .2s ease-in-out;
-    width: 100%;
-    @media #{$medium-up} {
-      font-size: .8rem;
-      padding: .625rem;
-    }
+.page__search {
+  margin-bottom: 1rem;
+}
+
+.search-input {
+  background-color: lighten($dark-color, 63%);
+  border-radius: $global-radius;
+  color: $dark-color;
+  font-size: 1rem;
+  min-height: 45px;
+  padding: .625rem 1rem;
+  transition: .2s ease-in-out;
+  width: 100%;
+  @media #{$medium-up} {
+    font-size: .8rem;
+    padding: .625rem;
   }
 }
 
 .newsletter {
   border-bottom: 1px solid rgba(white, .2);
-  margin-bottom: rem-calc(20px);
-  padding-bottom: rem-calc(20px);
+  margin-bottom: 1.25rem;
+  padding-bottom: 1.25rem;
   .card & {
     border-bottom: 0;
     margin-bottom: 0;
@@ -74,7 +75,7 @@ input:focus::-moz-placeholder {
     color: $dark-color;
     font-size: .85rem;
     max-height: 45px;
-    padding: rem-calc(10px);
+    padding: .625rem;
     transition: .2s ease-in-out;
     width: 100%;
     &:focus {
@@ -104,7 +105,7 @@ input:focus::-moz-placeholder {
 
     background: darken($slate, 5%);
     border-radius: 3px;
-    padding: rem-calc(15px) rem-calc(8px);
+    padding: .9375rem .5rem;
     p {
       font-size: 1rem;
     }

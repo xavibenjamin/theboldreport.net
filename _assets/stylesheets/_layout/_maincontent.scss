@@ -119,7 +119,7 @@
       color: lighten($dark-color, 20%);
       font-size: 1.8rem;
       line-height: 1.2;
-      margin-bottom: rem-calc(30px);
+      margin-bottom: 1.875rem;
     }
   }
   h1 {
@@ -381,8 +381,8 @@ ul,
 .pagination,
 .site__footer small,
 .author,
-.site__search-form,
-.fullwidth {
+.fullwidth,
+.page__search {
   margin-left: auto;
   margin-right: auto;
   width: 90%;

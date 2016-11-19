@@ -15,10 +15,6 @@ function stickyBug() {
   if (window.pageYOffset > $offset_val - 700) {
     $body.removeClass($scroll_class);
   }
-
-  console.log($header_height);
-  console.log($main_height);
-  console.log($offset_val);
 }
 
 window.addEventListener('scroll', stickyBug, false);
