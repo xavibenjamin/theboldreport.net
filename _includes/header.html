@@ -15,6 +15,8 @@
     </ul>
   </nav><!-- .site__navigation -->
 
-  {% include search-form.html css_classes="header__search js-show-menu" show_menu="yes" %}
+  {% unless page.url == '/search/' %}
+    {% include search-form.html css_classes="header__search js-show-menu" show_menu="yes" %}
+  {% endunless %}
 
 </header><!-- .site__header-->
