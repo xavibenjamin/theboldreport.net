@@ -1,8 +1,12 @@
-$('.search-input').on('focus', function() {
-  $('.popover--search').addClass('is-open');
-  $(document).bind('focusin.popover click.popover',function(e) {
+var $doc            = $(document),
+    $search_input   = $('#search-query'),
+    $search_popover = $('.popover--search');
+
+$search_input.on('keyup', function() {
+  $search_popover.addClass('is-open');
+  $doc.bind('focusin.popover click.popover',function(e) {
     if ($(e.target).closest('.popover, #search-query').length) return;
-    $(document).unbind('.popover');
-    $('.popover--search').removeClass('is-open');
+    $doc.unbind('.popover');
+    $search_popover.removeClass('is-open');
   });
 });
