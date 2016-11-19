@@ -1,4 +1,4 @@
-<div id="search" class="site__search-form {% if include.css_classes %}{{ include.css_classes }}{% endif %}">
+<div id="search" class="{% if include.css_classes %}{{ include.css_classes }}{% endif %}">
   <form action="/search/" method="get">
     <input type="text" id="search-query" class="search-input" name="q" placeholder="Search…" autocomplete="off" autocorrect="off">
   </form>
