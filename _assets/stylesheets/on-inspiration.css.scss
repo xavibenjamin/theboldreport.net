@@ -5,7 +5,7 @@ $jazz-color: #E4097F;
 
 .site__header {
   background-color: $primary-color;
-  border-color: rgba(white, .15);
+  border-bottom: 1px solid rgba(white, .15);
   margin-bottom: 0;
   a {
     color: $secondary-color;
@@ -28,6 +28,15 @@ $jazz-color: #E4097F;
 .site__navigation {
   @media #{$small-only} {
     background-color: darken($primary-color, 3%);
+  }
+}
+
+.header__search {
+  .search-input {
+    background-color: darken($primary-color, 3%);
+    &:focus {
+      background-color: darken($primary-color, 6%);
+    }
   }
 }
 
