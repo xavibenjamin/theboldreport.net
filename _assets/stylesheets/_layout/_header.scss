@@ -6,7 +6,7 @@
   background-color: $brand-color;
   display: flex;
   flex-direction: column;
-  margin: 0 0 2rem;
+  margin-bottom: 3rem;
   min-height: 60px;
   @media #{$medium-up} {
     border-bottom-width: 1px;
@@ -121,6 +121,45 @@
   }
   @media #{$medium-up} {
     display: block;
+  }
+  .search-input {
+    background-color: darken($brand-color, 5%);
+    color: white;
+    &::-webkit-input-placeholder {
+      /* Chrome/Opera/Safari */
+      color: rgba(white, .5);
+    }
+    &::-moz-placeholder {
+      /* Firefox 19+ */
+      color: rgba(white, .5);
+    }
+    &:-ms-input-placeholder {
+      /* IE 10+ */
+      color: rgba(white, .5);
+    }
+    &:-moz-placeholder {
+      /* Firefox 18- */
+      color: rgba(white, .5);
+    }
+    &:focus {
+      background-color: darken($brand-color, 8%);
+      &::-webkit-input-placeholder {
+        /* Chrome/Opera/Safari */
+        color: white;
+      }
+      &::-moz-placeholder {
+        /* Firefox 19+ */
+        color: white;
+      }
+      &:-ms-input-placeholder {
+        /* IE 10+ */
+        color: white;
+      }
+      &:-moz-placeholder {
+        /* Firefox 18- */
+        color: white;
+      }
+    }
   }
 }
 
