@@ -225,8 +225,8 @@ sup {
 
 // BLOCKQUOTE --------------------
 blockquote {
-  border-left: 2px solid $link-color;
-  color: lighten($body-color, 15%);
+  border-left: 4px solid #EEE;
+  color: lighten($body-color, 20%);
   margin: 0 auto 1.5625rem;
   padding-left: .9375rem;
   width: 90%;
@@ -269,23 +269,15 @@ hr {
 // LINKS -------------------------
 
 a {
-  border-bottom: 1px solid transparent;
   color: $link-color;
-  text-decoration: none;
+  text-decoration: underline;
   transition: .2s ease;
   &:hover,
   &:focus {
-    border-bottom: 1px solid;
     color: lighten($link-color, 10%);
-    .site__header &,
-    &.link__icon,
-    &.footer__logo {
-      border-bottom: 0;
-    }
   }
   .site__header &,
-  &.link__icon,
   &.footer__logo {
-    border-bottom: 0;
+    text-decoration: none;
   }
 }

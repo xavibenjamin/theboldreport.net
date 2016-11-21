@@ -29,15 +29,14 @@
 }
 
 .post__meta {
-  color: lighten($dark-color, 20%);
+  color: lighten($dark-color, 25%);
   display: block;
   font-size: .8rem;
   margin-bottom: .5rem;
   a,
   a:hover,
   a:focus {
-    border-bottom: 1px solid;
-    color: lighten($dark-color, 20%);
+    color: lighten($dark-color, 25%);
   }
   @media #{$medium-up} {
     font-size: .75rem;
@@ -46,7 +45,7 @@
 
 .post__footer {
   border-top: 1px solid $border-color;
-  color: lighten($dark-color, 20%);
+  color: lighten($dark-color, 25%);
   font-size: .8rem;
   margin-top: 1.5rem;
   padding-top: 1.5rem;
@@ -65,8 +64,7 @@
   a,
   a:hover,
   a:focus {
-    border-bottom: 1px solid;
-    color: lighten($dark-color, 20%);
+    color: lighten($dark-color, 25%);
   }
 }
 
@@ -128,8 +126,8 @@
     line-height: 1;
     margin: 0;
     a {
-      border-bottom: 0;
       color: $dark-color;
+      text-decoration: none;
       &:hover {
         border-bottom: 0;
         color: $link-color;

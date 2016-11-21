@@ -13,12 +13,12 @@
   padding: .5rem .7rem;
   text-decoration: none;
   &--primary {
-    background: $jazz-color;
+    background: $brand-color;
     color: white;
     transition: background 300ms ease;
     &:hover,
     &:focus {
-      background: darken($jazz-color, 8%);
+      background: darken($brand-color, 8%);
       border-bottom: 0;
       color: white;
     }
