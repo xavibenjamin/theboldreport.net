@@ -38,6 +38,15 @@ body {
   }
 }
 
+.header__search {
+  .search-input {
+    background-color: darken($secondary-color, 5%);
+    &:focus {
+      background-color: darken($secondary-color, 8%);
+    }
+  }
+}
+
 .post__header {
   background: $secondary-color;
   margin: 0 auto 2rem;
