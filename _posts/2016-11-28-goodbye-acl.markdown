@@ -8,7 +8,7 @@ date: 2016-11-28 12:03
 ---
 After almost two years at ACL, I’ve decided to move on.
 
-My last day is tomorrow, Nov 28. I had so much fun working at ACL, and had the chance to work on some really cool stuff:
+My last day is tomorrow, Nov 29. I had so much fun working at ACL, and had the chance to work on some really cool stuff:
 
 - I worked on adding or improving at least 10 features to Results Manager, which is built on Ruby on Rails. I’ve also helped with our transition to React components. 
 - I did most of the frontend for a Chromium embedded desktop app last year built with Angular.
