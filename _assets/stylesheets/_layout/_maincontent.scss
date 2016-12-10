@@ -6,9 +6,6 @@
   &.type-post {
     margin-bottom: 8rem;
   }
-  &.format-artdirect {
-    margin-bottom: 4rem;
-  }
   .post {
     position: static;
   }
@@ -40,6 +37,9 @@
   }
   @media #{$medium-up} {
     font-size: .75rem;
+  }
+  .post__lead + & {
+    margin-top: .8rem;
   }
 }
 
@@ -179,9 +179,12 @@
   padding: 10rem 0;
   position: relative;
   transition: box-shadow 500ms ease;
-  h1 {
+  .post__title {
     font-size: 2.5rem;
     font-weight: 300;
+    a {
+      text-decoration: none;
+    }
   }
   .post__lead {
     @extend %sans;
@@ -189,6 +192,7 @@
     color: lighten($dark-color, 20%);
     font-size: 1.25rem;
     font-weight: 300;
+    line-height: 1.4;
   }
 }
 
