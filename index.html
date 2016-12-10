@@ -45,13 +45,12 @@ excerpt: The Bold Report is a personal blog written by Tim Smith about design, d
         {% include artdirect-type.html %}
 
         <header class="post__header">
-          <ul class="post__meta">
-            <li><small><span class="pubdate"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign d = post.date | date: "%-d"  %}{{ post.date | date: "%B" }}
-          {% case d %}{% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
-          {{ post.date | date: "%Y" }}</time></span></small></li>
-          </ul>
-          <h1><a href="{{ post.url }}" style="color: #{{ post.artdirect_color }}">{{ post.title }}</a></h1>
+          <h1 class="post__title"><a href="{{ post.url }}" style="color: #{{ post.artdirect_color }}">{{ post.title }}</a></h1>
           <h2 class="post__lead">{{ post.lead }}</h2>
+          <small class="post__meta">
+            {% include small-author.html %}
+            {% include date.html %}
+          </small>
         </header><!-- /.post__header -->
 
 
