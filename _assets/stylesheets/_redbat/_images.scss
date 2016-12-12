@@ -150,13 +150,23 @@ figcaption {
   img {
     padding-bottom: rem-calc(6px);
     @media #{$medium-up} {
+      max-height: 340px;
+      object-fit: cover;
       padding-left: rem-calc(3px);
       padding-right: rem-calc(3px);
+    }
+    @media #{$large-up} {
+      max-height: 440px;
     }
   }
   .grid-thirds {
     @media #{$medium-up} {
       width: 33.3%;
+    }
+  }
+  .grid-two-thirds {
+    @media #{$medium-up} {
+      width: 66.7%;
     }
   }
   .grid-half {
