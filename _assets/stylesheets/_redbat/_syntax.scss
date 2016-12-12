@@ -31,11 +31,15 @@ code {
   @media #{$medium-up} {
     font-size: 1rem;
   }
+  a & {
+    color: inherit;
+  }
 }
 
 .highlight {
   color: #4D4D4C;
-  margin-bottom: $spacing-s;
+  margin-bottom: 1.25rem;
+  margin-top: 1.25rem;
   .c {
     color: #A7ADBA;
     font-style: italic;
@@ -89,7 +93,6 @@ code {
   } /* Generic.Inserted */
   .gp {
     color: #A7ADBA;
-    font-weight: bold;
   } /* Generic.Prompt */
   .gs {
     font-weight: bold;

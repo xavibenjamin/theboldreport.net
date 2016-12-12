@@ -250,16 +250,12 @@ blockquote {
 
 // HR ----------------------------
 hr {
-  @extend %clearfix;
-
   border: solid $border-color;
-  border-width: 2px 0 0;
+  border-width: 1px 0 0;
   display: block;
   height: 0;
-  margin: 3rem auto;
-  max-width: 300px;
+  margin: 1.25rem auto;
   padding: 0;
-  width: auto;
 }
 
 // LINKS -------------------------

@@ -178,10 +178,10 @@
   .post__header & {
     margin-right: .3rem;
     &:after {
+      color: lighten($dark-color, 45%);
       content: '//';
       display: inline-block;
       margin-left: .5rem;
-      color: lighten($dark-color, 45%);
     }
   }
 }
@@ -189,8 +189,8 @@
 .post__author {
   margin-top: 6rem;
   .author {
-    padding: 0;
     border: 0;
+    padding: 0;
     &:before {
       background-color: $border-color;
       content: '';
@@ -254,8 +254,8 @@
 }
 
 .author--single {
-  padding-top: 0;
   border-bottom: 1px solid $border-color;
+  padding-top: 0;
   .author__name {
     font-size: 1.4rem;
   }
@@ -303,6 +303,7 @@ h4,
 h5,
 ol,
 ul,
+hr,
 .post__header,
 .post__entry > p,
 .search-results-list > p,
