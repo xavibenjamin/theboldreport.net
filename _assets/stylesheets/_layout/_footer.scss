@@ -6,7 +6,7 @@
   background-color: $slate;
   color: rgba(white, .6);
   margin-top: 4rem;
-  padding: 2rem 0;
+  padding: 3rem 0;
   small {
     @extend %sans;
 
@@ -49,6 +49,7 @@
   flex-direction: column;
   @media #{$medium-up} {
     flex-direction: row;
+    justify-content: space-between;
   }
   ul {
     list-style-type: none;
@@ -75,11 +76,10 @@
 }
 
 %footer-grid {
-  border-bottom: 1px solid rgba(white, .2);
-  padding: .625rem 1.25rem .625rem 0;
+  margin-bottom: 2rem;
   @media #{$medium-up} {
-    border-bottom: 0;
-    border-right: 1px solid rgba(white, .2);
+    margin-bottom: 0;
+    margin-right: 2rem;
   }
 }
 
@@ -88,6 +88,11 @@
   @media #{$medium-up} {
     flex: 0 1 50%;
   }
+}
+
+.footer__subscribe,
+.footer__links {
+  @extend %footer-grid;
 }
 
 .footer__logo {
@@ -105,26 +110,5 @@
   }
   .bold__second {
     fill: $brand-color;
-  }
-}
-
-.footer__subscribe {
-  @extend %footer-grid;
-  @media #{$medium-up} {
-    padding-left: 1.25rem;
-  }
-}
-
-.footer__links {
-  padding: .625rem 0;
-  @media #{$medium-up} {
-    padding: .625rem 0 .625rem 1.25rem;
-  }
-}
-
-.footer__subscribe,
-.footer__links {
-  @media #{$medium-up} {
-    flex: 1 1 auto;
   }
 }
