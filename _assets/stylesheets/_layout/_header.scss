@@ -3,13 +3,12 @@
 // -------------------------------
 
 .site__header {
-  background-color: $brand-color;
+  border-bottom: 1px solid $border-color;
   display: flex;
   flex-direction: column;
   margin-bottom: 3rem;
   min-height: 60px;
   @media #{$medium-up} {
-    border-bottom-width: 1px;
     flex-direction: row;
     padding: .4rem 1rem;
   }
@@ -37,12 +36,10 @@
   }
   .bold__first,
   .bold__third {
-    fill: lighten($brand-color, 30%);
-    transition: fill 310ms ease;
+    fill: $body-color;
   }
   .bold__second {
-    fill: white;
-    transition: fill 310ms ease;
+    fill: $link-color;
   }
 }
 
@@ -50,7 +47,7 @@
   flex: 1;
   order: 1;
   @media #{$small-only} {
-    background-color: $jazz-color;
+    background-color: $border-color;
     padding: .8rem 0;
   }
   @media #{$medium-up} {
@@ -62,16 +59,10 @@
 }
 
 .primary-navigation {
+  line-height: 1;
   margin: 0;
   text-align: left;
   width: 100%;
-  a {
-    color: rgba(white, .7);
-    &:focus,
-    &:hover {
-      color: white;
-    }
-  }
   @media #{$small-only} {
     margin: 0 auto;
     width: 90%;
