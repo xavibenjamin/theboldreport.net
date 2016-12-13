@@ -10,6 +10,7 @@
   display: inline-block;
   font-size: .85rem;
   font-weight: 600;
+  line-height: 1;
   padding: .5rem .7rem;
   text-decoration: none;
   &--primary {
@@ -46,6 +47,7 @@
   }
   .icon {
     fill: lighten($dark-color, 25%);
+    vertical-align: text-top;
   }
 }
 
