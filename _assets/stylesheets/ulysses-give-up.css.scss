@@ -14,6 +14,10 @@ $secondary-text-color: lighten($primary-color, 40%);
 }
 
 .logo {
+  .bold__first,
+  .bold__third {
+    fill: white;
+  }
   .bold__second {
     fill: $secondary-color;
   }
