@@ -51,7 +51,7 @@ iframe {
 // -------------------------------
 
 .card {
-  padding: 1.3rem;
+  padding: 2rem 1.5rem;
   @media #{$medium-up} {
     border-radius: $global-radius;
   }
@@ -63,8 +63,16 @@ iframe {
 
 .card--large {
   @media #{$large-up} {
-    margin: 0 auto;
-    width: 80%;
+    margin: 2rem auto;
+    width: 85%;
+  }
+}
+
+.card--light {
+  background-color: $border-color;
+  color: darken($border-color, 40%);
+  h2 {
+    color: darken($border-color, 40%);
   }
 }
 

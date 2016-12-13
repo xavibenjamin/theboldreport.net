@@ -22,6 +22,11 @@ custom_css_class: single
         {% include icons/icon-closer.html %}
       </div><!-- /.post__closer -->
 
+      <section class="card card--light card--large">
+        <h2>Those words be written good!</h2>
+        {% include newsletter-form.html text="Get more of them in your inbox every Friday." %}
+      </section>
+
       <footer class="post__footer">
         {% include tags.html text="yes" %}
         {% include full-author.html %}
@@ -51,5 +56,3 @@ custom_css_class: single
     {% endif %}
   </article>
 </div>
-
-{% include subscribe-bug.html %}
