@@ -141,13 +141,8 @@ input:focus::-moz-placeholder {
 
 .newsletter__thankyou {
   &.js-submitted {
-    @extend %sans;
-
-    background: darken($slate, 5%);
-    border-radius: 3px;
-    padding: .9375rem .5rem;
     p {
-      font-size: 1rem;
+      font-size: 80%;
     }
   }
 }

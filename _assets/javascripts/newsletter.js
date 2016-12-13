@@ -5,13 +5,15 @@ $(function () {
     this.action + "?callback=?",
     $(this).serialize(),
     function (data) {
+      var $newsletter_thankyou = $('.newsletter__thankyou');
+      var $submitted_class = 'js-submitted';
       if (data.Status === 400) {
         alert("Error: " + data.Message);
       }
       else {
         $("form").remove("#subForm");
-        $(".newsletter__thankyou").addClass("js-submitted");
-        $(".newsletter__thankyou").append("<p>Thanks for subscribing. You’ll be receiving a confirmation email shortly.</p>");
+        $newsletter_thankyou.addClass($submitted_class);
+        $newsletter_thankyou.append("<p>Thanks for subscribing. You’ll be receiving a confirmation email shortly.</p>");
       }
     });
   });
