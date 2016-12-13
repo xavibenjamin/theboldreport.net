@@ -223,24 +223,6 @@
 
 // Post Author -------------------
 
-.meta__author {
-  .post__meta & {
-    font-size: .85rem;
-    @media #{$medium-up} {
-      font-size: .75rem;
-    }
-  }
-  .post__header & {
-    margin-right: .3rem;
-    &:after {
-      color: lighten($dark-color, 45%);
-      content: '//';
-      display: inline-block;
-      margin-left: .5rem;
-    }
-  }
-}
-
 .post__author {
   margin-top: 6rem;
   .author {
