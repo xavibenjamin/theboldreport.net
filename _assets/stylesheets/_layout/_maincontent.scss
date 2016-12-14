@@ -45,11 +45,9 @@
 }
 
 .post__footer {
-  border-top: 1px solid $border-color;
   color: lighten($dark-color, 25%);
   font-size: .8rem;
   margin-top: 1.5rem;
-  padding-top: 1.5rem;
   @media #{$medium-up} {
     font-size: .75rem;
   }
@@ -95,7 +93,7 @@
   color: lighten($dark-color, 20%);
   font-size: 2rem;
   font-weight: 300;
-  line-height: 1.2;
+  line-height: 1.1;
 }
 
 
@@ -122,6 +120,11 @@
     line-height: 100%;
     margin-left: $spacing-xs;
     vertical-align: middle;
+  }
+  .post__tags {
+    border-top: 1px solid $border-color;
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
   }
 }
 
@@ -221,6 +224,7 @@
   padding: 1rem 0;
   position: relative;
   p {
+    color: $body-color;
     font-size: .95rem;
     @media #{$medium-up} {
       font-size: .85rem;

@@ -15,15 +15,15 @@ custom_css_class: single
         {% if page.subtitle %}
           <h2 class="post__subtitle">{{ page.subtitle | smartify }}</h2>
         {% endif %}
-      </header><!-- /.post__header -->
+      </header>
 
       <div class="post__entry">
         {{ content }}
-      </div><!-- /.post__entry -->
+      </div>
 
       <div class="post__closer">
         {% include icons/icon-closer.html %}
-      </div><!-- /.post__closer -->
+      </div>
 
       <section class="card card--light card--large">
         <h2>Those words be written good!</h2>
@@ -41,22 +41,24 @@ custom_css_class: single
     {% elsif page.custom_type == 'link' %}
 
       <header class="post__header">
-          <h1><a href="{{ page.link_url }}">{{ page.title | smartify }}</a><span class="arrow">&rarr;</span></h1>
+        <h1><a href="{{ page.link_url }}">{{ page.title | smartify }}</a><span class="arrow">&rarr;</span></h1>
 
-          <small class="post__meta">
-            {% include small-author.html %}
-            {% include date.html %}
-          </small>
-        </header><!-- /.post__header -->
+        <small class="post__meta">
+          {% include small-author.html %}
+          {% include date.html %}
+        </small>
+      </header>
 
-        <div class="post__entry">
-          {{ content }}
-        </div><!-- /.post__entry -->
+      <div class="post__entry">
+        {{ content }}
+      </div>
 
+      {% if page.tags.size >= 1 or site.related_posts >= 1 %}
         <footer class="post__footer">
           {% include tags.html text="yes" %}
           {% include related-posts.html %}
         </footer>
+      {% endif %}
 
     {% endif %}
   </article>
