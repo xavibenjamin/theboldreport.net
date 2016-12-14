@@ -29,7 +29,14 @@ layout: null
       <name>{{ site.data.authors[post.author].display_name }}</name>
       <uri>{{ site.data.authors[post.author].web }}</uri>
     </author>
-    <content type="html">{{ post.content | xml_escape }}</content>
+    <content type="html">
+      <![CDATA[
+        {% if post.subtitle %}
+          {{ post.subtitle }}
+        {% endif %}
+        {{ post.content }}
+      ]]>
+    </content>
   </entry>
   {% endfor %}
 </feed>
