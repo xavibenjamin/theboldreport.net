@@ -82,11 +82,11 @@ Here’s a response that not only says no in a respectful manner, but introduces
 > If that's a deal breaker, I totally understand. I really appreciate you considering me, and best of wishes in finding your ideal candidate.
 >
 >
-> --   
-> Regards,   
+> --  
+> Regards,  
 > Timothy B. Smith
 >
-> Design Engineer   
+> Design Engineer  
 > @smithtimmytim
 
 ## A Meaningful Alternative
@@ -108,5 +108,6 @@ I get it, hiring is a huge investment and really tough. Companies invest the tim
 It doesn’t excuse the fact that many processes employed, deny people their dignity and show lack of respect for them as professionals. We need to fix that, and it all starts with admitting there is a problem.
 
 ##### Further Reading
+
 - [The AIGA’s position on spec work](http://www.aiga.org/position-spec-work/)
 - [F*** You, I Quit — Hiring Is Broken](https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324#.jzye6940d)
