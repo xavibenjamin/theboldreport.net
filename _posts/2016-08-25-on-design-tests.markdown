@@ -82,11 +82,10 @@ Here’s a response that not only says no in a respectful manner, but introduces
 > If that's a deal breaker, I totally understand. I really appreciate you considering me, and best of wishes in finding your ideal candidate.
 >
 >
-> --  
-> Regards,  
+> Regards,<br>
 > Timothy B. Smith
 >
-> Design Engineer  
+> Design Engineer<br>
 > @smithtimmytim
 
 ## A Meaningful Alternative
