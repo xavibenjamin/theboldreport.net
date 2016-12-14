@@ -6,10 +6,8 @@ custom_type: post
 tags:
   - Comics
 date: 2016-05-21 23:24
+subtitle: Let's talk comic books!
 ---
-
-Let's talk comics books!
-
 {% figure extendout /uploads/2016/05/comics-stacked.jpg "It’s a lot harder to take a picture of comics than I thought" %}
 
 The last time I picked up a comic, was when I was still a kid. I never collected, but I read the ones I could get my hands on. About a year ago, I read the whole Civil War event in anticipation of this year's movie, and then the Age of Ultron event. I was hooked. I realized I’d been missing out on so much story absent from the movies. I learned more about characters that were friends, were romantically involved, then come together to solve a problem. I was seeing characters I’d liked in film (and some that I wasn’t too fond of) in a whole new light.
@@ -36,7 +34,7 @@ These are some of the titles I'm reading, I haven't ordered them in any specific
 
 ### All-New All-Different Avengers
 
-The premise is pretty great with this one: a team you wouldn’t think that’d come together, has done just that and makes up the All-New All-Different Avengers. Sam Wilson is Captain America and is dealing with race issues that come up with being in the spotlight. Tony Stark's butler, Jarvis, struggles with understanding if he's important to the team. Oh! And Kamala Khan as Ms. Marvel is an Avengers fan-girl, just so happy to be here, and kicking butt all the same. 
+The premise is pretty great with this one: a team you wouldn’t think that’d come together, has done just that and makes up the All-New All-Different Avengers. Sam Wilson is Captain America and is dealing with race issues that come up with being in the spotlight. Tony Stark's butler, Jarvis, struggles with understanding if he's important to the team. Oh! And Kamala Khan as Ms. Marvel is an Avengers fan-girl, just so happy to be here, and kicking butt all the same.
 
 The younger members—Kamala Khan, Miles Morales, and Sam Alexander—help you see what it’s like to be the newest member of the Avengers, and how awesome that can be, yet the responsibility that comes with it. The chemistry between Kamala and Sam is brewing, and it’ll be interesting to see where they take that. There’s another romance going on, but I won’t spoil it for you.
 
@@ -48,7 +46,7 @@ Politics aside, the current run is fascinating, and sees the Inhumans battling b
 
 ### Captain Marvel
 
-Captain Marvel is one of my new favorite characters. Until picking up the new series, I’d heard little of her. This run sees Carol Danvers taking a new job—which everyone thought would be a boring desk job, turn into something completely different. Captain Marvel has really cool powers, and the writing is a lot of fun. I found myself laughing quite a bit. 
+Captain Marvel is one of my new favorite characters. Until picking up the new series, I’d heard little of her. This run sees Carol Danvers taking a new job—which everyone thought would be a boring desk job, turn into something completely different. Captain Marvel has really cool powers, and the writing is a lot of fun. I found myself laughing quite a bit.
 
 Oh and the artwork! The artwork for this comic is so good, you could almost buy it for that. Each cover feels like a collectible piece of art, and the inside is no different. I hear we’ll be seeing Captain Marvel in the upcoming *Avengers: Infinity War* movie, and after reading this, I’m really looking forward to it.
 
@@ -59,9 +57,9 @@ Peter Parker is now a successful businessman, and running Parker Industries. Spi
 > ANYWAY, like most of you, I can’t identify with the CEO, jet-setting aspects of what we’re doing with Spider-Man, but I still find Peter to be Peter here. Heck, while he’s thrilled by all of what’s going on and what it allows him to do in the world, I don’t think HE’S comfortable with his current status quo.
 
 ### Batman: Hush
-This one isn’t a monthly issue comic, it’s a graphic novel, but I had to mention it. I’m not finished with it, but it’s really great so far. I think it’ll end up being my favorite Batman story. If you love Batman—heck, even if you don’t—I think you’ll really love this one. 
+This one isn’t a monthly issue comic, it’s a graphic novel, but I had to mention it. I’m not finished with it, but it’s really great so far. I think it’ll end up being my favorite Batman story. If you love Batman—heck, even if you don’t—I think you’ll really love this one.
 
-You see things from Batman’s perspective, and solve the mystery with him. Most of Gotham’s characters make an appearance in this story, and to me, it’s just classic Batman. He hates asking for help and receiving it, but he definitely needs it to beat Hush. I love seeing Batman work with other characters. 
+You see things from Batman’s perspective, and solve the mystery with him. Most of Gotham’s characters make an appearance in this story, and to me, it’s just classic Batman. He hates asking for help and receiving it, but he definitely needs it to beat Hush. I love seeing Batman work with other characters.
 
 ## How to Get Started
 
@@ -79,13 +77,13 @@ Chances are, you live by a comic book store and you don’t even know it. I didn
 
 If you’ve picked your titles, pick up the latest issue of the comic you’re looking for. Don’t worry about starting from the first issue right now, just read the most recent one, and evaluate if you like it. Do you like the writing? Where the story is going? Is the artwork awesome?
 
-If you haven’t picked titles, you can ask when you get there. Comic book readers *love* to give recommendations to those who are just starting out. All you need to know is a rough sense of what you’re looking for. 
+If you haven’t picked titles, you can ask when you get there. Comic book readers *love* to give recommendations to those who are just starting out. All you need to know is a rough sense of what you’re looking for.
 
 Remember, comic books are *not* only for those who love superheroes. There is a huge variety of comic books that touch on many different topics and tell all types of stories. It really doesn’t matter why or how you pick a title. You can pick based on the character, the writer, artist, whatever. It’s all up to you.
 
 ## Where to Buy
 
-There are tons of places to buy comics, so I’m going to only talk about a few that I’ve personally used. 
+There are tons of places to buy comics, so I’m going to only talk about a few that I’ve personally used.
 
 ### Your Local Comic Book Store
 
@@ -108,7 +106,7 @@ I used [this app](https://www.comixology.com/) once before it was acquired by Am
 
 ## What Now?
 
-**New comics come out on Wednesday**. 
+**New comics come out on Wednesday**.
 
 It’s like what Fridays are for movies. Not each of your titles will come out on the same week, but new titles always come out on the same day. I usually go to the comic book store on Wednesday or Thursday because I’m impatient.
 
@@ -118,7 +116,7 @@ If you want to see what other people are picking up that week, you can check the
 
 ## Conclusion
 
-That’s the extent of my knowledge right now. Remember, I’m new to all of this too! If you have questions or need a buddy, you can always [get in touch with me via Twitter](https://twitter.com/smithtimmytim) or [send me an email](mailto:smith@ttimsmith.com?subject=I have a comic question). 
+That’s the extent of my knowledge right now. Remember, I’m new to all of this too! If you have questions or need a buddy, you can always [get in touch with me via Twitter](https://twitter.com/smithtimmytim) or [send me an email](mailto:smith@ttimsmith.com?subject=I have a comic question).
 
 I hope you feel like you’re walking away with some great recommendations, and less intimidation (if you felt that at all)  than before. Happy comic book reading!
 

@@ -4,17 +4,16 @@ custom_type: post
 categories: article
 tags: [Personal, Vacation]
 date: 2016-12-12 14:55
+subtitle: I went on my first cruise and loved it.
 ---
-I went on my first cruise and loved it.
-
 <figure class="photo-grid">
-  <img class="grid-thirds" src="/uploads/2016/12/james-and-kristin.jpg" alt="James and Kristin">
-  <img class="grid-thirds" src="/uploads/2016/12/peacock.jpg" alt="Peacock">
-  <img class="grid-thirds" src="/uploads/2016/12/sloth.jpg" alt="Sloth">
-  <img class="grid-half" src="/uploads/2016/12/porcupine.jpg" alt="Porcupine">
-  <img class="grid-half" src="/uploads/2016/12/erick-on-boat.jpg" alt="Dad on the boat">
-  <img class="grid-two-thirds" src="/uploads/2016/12/kelly-on-boat.jpg" alt="Kelly on the boat">
-  <img class="grid-thirds" src="/uploads/2016/12/tim-and-sloth.jpg" alt="Tim and the sloth">
+  <img class="grid-thirds" src="{{ site.url }}/uploads/2016/12/james-and-kristin.jpg" alt="James and Kristin">
+  <img class="grid-thirds" src="{{ site.url }}/uploads/2016/12/peacock.jpg" alt="Peacock">
+  <img class="grid-thirds" src="{{ site.url }}/uploads/2016/12/sloth.jpg" alt="Sloth">
+  <img class="grid-half" src="{{ site.url }}/uploads/2016/12/porcupine.jpg" alt="Porcupine">
+  <img class="grid-half" src="{{ site.url }}/uploads/2016/12/erick-on-boat.jpg" alt="Dad on the boat">
+  <img class="grid-two-thirds" src="{{ site.url }}/uploads/2016/12/kelly-on-boat.jpg" alt="Kelly on the boat">
+  <img class="grid-thirds" src="{{ site.url }}/uploads/2016/12/tim-and-sloth.jpg" alt="Tim and the sloth">
   <figcaption>Some of my favorite pictures from the trip.</figcaption>
 </figure>
 

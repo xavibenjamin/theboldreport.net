@@ -5,9 +5,8 @@ categories: articles
 custom_type: post
 tags: [From the Editor, Site News]
 date: 2016-10-04 12:33
+subtitle: The first annual subscription drive on <em>The Bold Report</em> has come to an end. Here is what happened.
 ---
-The first annual subscription drive on *The Bold Report* has come to an end. Here is what happened.
-
 What an awesome week. I published the anniversary post last Monday, and we had quite a few new people visit the site and subscribe. Thank you! We've got some great stuff publishing soon.
 
 ## The Winners

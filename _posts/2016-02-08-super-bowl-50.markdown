@@ -4,9 +4,8 @@ title: Super Bowl 50
 categories: articles
 custom_type: post
 date: 2016-02-08 09:38
+subtitle: My thoughts on this year's Super Bowl.
 ---
-My thoughts on this year's Super Bowl.
-
 {% figure extendout /uploads/2016/02/super-bowl-50.jpg "Friends and family who came over for our Super Bowl party." %}
 
 I'll keep this brief:
@@ -14,6 +13,6 @@ I'll keep this brief:
 - We had a fun time watching. We invited friends over, ate a lot of food, and argued about some of the calls. Some just came to watch the commercials.
 - Very happy for the winning team. Their offense left something to be desired, but my goodness, their defense was great.[^1]
 - Coldplay played well, but Beyonce made the show for me. After Beyonce's performance in Super Bowl 47, this is my favorite halftime show in a while.
-- Commercials weren't all that great. The only two I remember are [Puppy Monkey Baby](http://youtu.be/2nlfaqBGBsc) which was nothing short of creepy, and [the sheep singing "Somebody to Love"](http://youtu.be/ogXjiFMtVyI). 
+- Commercials weren't all that great. The only two I remember are [Puppy Monkey Baby](http://youtu.be/2nlfaqBGBsc) which was nothing short of creepy, and [the sheep singing "Somebody to Love"](http://youtu.be/ogXjiFMtVyI).
 
 [^1]: Purposely trying not to spoil anything, just in case you haven't watched.

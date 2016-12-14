@@ -5,11 +5,10 @@ categories: articles
 custom_type: post
 date: '2016-02-22 00:38:25'
 tags:
+  - Personal
   - Vacation
+subtitle: My island vacation is over.
 ---
-
-My island vacation is over. 
-
 <figure class="photo-grid">
   <img src="{{site.url}}/uploads/2016/02/cozumel-1.jpg" alt="Cozumel Resort" class="grid-half" />
   <img src="{{site.url}}/uploads/2016/02/cozumel-2.jpg" alt="Ocean" class="grid-half" />
