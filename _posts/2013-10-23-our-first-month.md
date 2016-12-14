@@ -15,7 +15,7 @@ First of all, if you're reading this, I want to say thank you. This site is some
 
 The site has been viewed 5,013 times, and people stay an average of two minutes. The site had 3,006 visitors, 1,313 of which were returning. 1,902 visitors are from the United States, the United Kingdom came in second place with 399.
 
-Not surprisingly, the two most common mobile devices the site is viewed on, are iOS devices. Coming in first place: iPhone with sixty-two percent. 
+Not surprisingly, the two most common mobile devices the site is viewed on, are iOS devices. Coming in first place: iPhone with sixty-two percent.
 
 Chrome was the popular browser, responsible for fifty-six percent of traffic. Nine people visited from Internet Explorer.[^1] Most visitors are using a Mac, but twelve percent is on Windows.[^2]
 

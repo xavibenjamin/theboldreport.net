@@ -5,6 +5,7 @@ categories: links
 custom_type: link
 link_url: http://thewirecutter.com/reviews/best-iphone-6-case/
 date: '2014-10-29 13:35:07'
+tags: [iPhone]
 ---
 Yesterday, I went out and got myself an iPhone 6.[^1] I've had an iPhone since the iPhone 4, and at first I had a screen protector on it, and a bulky case.[^2] When I upgraded to an 5s last year, I decided that I wasn't going to use a case anymore. I wanted it naked so as to not devalue the beauty and design of the phone.
 
@@ -16,7 +17,7 @@ It wasn't that bad. The phone did pretty well on some minor drops. I made it a p
 
 With that said, when I got the new iPhone, I decided to look into cases just for kicks. *The Wirecutter* did an amazing review of cases, and in fact they recommend one as "the best (so far)". I've linked the full article and review above. If you're also looking for a case, I think you'll find their opinions interesting. I ordered one, and will write something on it once I've used it for a month or two.[^4]
 
-[^1]: This is the first impulse buy that I've made in a really long time. My girlfriend had to get a new phone, and she went with the iPhone 6. After seeing it, I just had to have it. 
+[^1]: This is the first impulse buy that I've made in a really long time. My girlfriend had to get a new phone, and she went with the iPhone 6. After seeing it, I just had to have it.
 
 [^2]: If you remember that phone, you'll remember that the actual phone was bulky, so you're basically carrying around a brick with a case on it.
 

@@ -4,10 +4,9 @@ title: Happy And Content
 categories: articles
 custom_type: post
 date: '2016-01-07 19:12:17'
+tags: [Personal, Year in Review]
+subtitle: The title perfectly encapsulates my year. 2015 came and went, and as usual, here's my annual year in review.
 ---
-
-The title perfectly encapsulates my year. 2015 came and went, and as usual, here's my annual year in review.
-
 This was by far the best year in a long time. Kelly and I were married on May 9. It was the best day of my life.
 
 {% figure extendout /uploads/2016/01/smith-wedding-party-silly.jpg "With our amazing wedding party. (Photo by Cayan Brock)" %}
@@ -18,7 +17,7 @@ We were surrounded by all of our friends and family who smothered us in so much 
 
 {% figure small__right /uploads/2016/01/acl-hiking.jpg "ACL took us on a team-building excursion in May, which turned out to be awesome. Our team name was: The Totems." %}
 
-Having a "regular" day job has its pros and cons. After running my own business for so long, having a more rigid schedule where I work 5 days a week has been difficult to get used to. 
+Having a "regular" day job has its pros and cons. After running my own business for so long, having a more rigid schedule where I work 5 days a week has been difficult to get used to.
 
 But, there's something to be said about having a regular paycheck, paid vacation, and other benefits. Most importantly, I really wanted to work on a team, and I'm so fortunate to have landed on a team of incredibly smart, talented, and humble people.
 
