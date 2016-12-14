@@ -4,9 +4,9 @@ title: On Managing Links
 categories: articles
 custom_type: post
 date: 2016-02-05 07:33
+subtitle: The title perfectly encapsulates my year. 2015 came and went, and as usual, here's my annual year in review.
+tags: [Tools, Workflow]
 ---
-Managing links has been a huge problem… until recently. Here's my new-ish workflow that fixed it.
-
 First off, let's just acknowledge how #firstworldproblem-sy this is. They're just links right? But I come across a lot of stuff on the web, and there's some of it that I need to categorize. Links usually fall into one of two categories:
 
 1. **Link's I want to write about and/or archive**     
@@ -18,7 +18,7 @@ Most of my reading is done on my iPad, so I needed a better way than flooding my
 So what's my system? I use [Pocket](https://getpocket.com/) and [IFTTT](https://ifttt.com). Let me explain.
 
 ## Links I'm Going to Write About
-When I've read something interesting and want to write about it, I save the link to Pocket and tag it `link`. IFTTT watches Pocket for items marked `link`, and creates a text file in Dropbox with all the YAML front matter it needs. Here's what the recipe looks like: 
+When I've read something interesting and want to write about it, I save the link to Pocket and tag it `link`. IFTTT watches Pocket for items marked `link`, and creates a text file in Dropbox with all the YAML front matter it needs. Here's what the recipe looks like:
 
 {% figure extendout /uploads/2016/02/pocket-to-dropbox.jpg "Pocket to Dropbox IFTTT Recipe" %}
 

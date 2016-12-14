@@ -4,9 +4,8 @@ title: Heroku Redirects with rack-rewrite
 categories: articles best
 custom_type: post
 tags: [Development, Jekyll, Jekyll on Heroku]
+subtitle: Moved this blog to Heroku, now what?
 ---
-Moved this blog to Heroku, now what?
-
 A month ago, [I moved this blog over to Heroku](/2015/06/hosting-a-jekyll-site-on-heroku/), and I’ve been really happy. It’s made writing and deploying a lot easier. But I needed a way to redirect the feeds to FeedPress and display my nice 404 page, which I had no idea how to do.
 
 I did some digging and found out I could use `Rack::Rewrite`. Understanding how exactly to get this to work took me longer than I would’ve liked, but I finally figured it out.

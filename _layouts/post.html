@@ -12,6 +12,9 @@ custom_css_class: single
           {% include date.html %}
         </small>
         <h1>{{ page.title | smartify }}</h1>
+        {% if page.subtitle %}
+          <h2 class="post__subtitle">{{ page.subtitle | smartify }}</h2>
+        {% endif %}
       </header><!-- /.post__header -->
 
       <div class="post__entry">
@@ -28,7 +31,9 @@ custom_css_class: single
       </section>
 
       <footer class="post__footer">
-        {% include tags.html text="yes" %}
+        {% if page.tags %}
+          {% include tags.html text="yes" %}
+        {% endif %}
         {% include full-author.html %}
         {% include related-posts.html %}
       </footer>
