@@ -7,10 +7,8 @@ tags:
   - Furniture
   - Review
 date: '2016-04-28 01:51'
+subtitle: Back in August of 2015, I decided to buy a standing desk. Here are some of my thoughts.
 ---
-
-Back in August of 2015, I decided to buy a standing desk. Here are some of my thoughts.
-
 I've worked from home for about 6 years. In that time, I've invested real money into my office for about two. I'm grateful I did, and wish I would've started sooner. A few years ago, I bought myself a [Herman Miller Mirra](http://www.hermanmiller.com/products/seating/performance-work-chairs/mirra-2-chairs.html) chair.[^1]
 
 [^1]: This is another great investment I recommend. You sit a lot. Even if you're trying to sit less, you need a good chair. This particular chair has been with me now for three years, and is as comfortable as it was on day one.

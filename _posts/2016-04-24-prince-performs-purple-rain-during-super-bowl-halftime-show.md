@@ -8,9 +8,8 @@ tags:
   - Music
 slug: /prince/
 date: 2016-04-24 01:08
+subtitle: The performance that bore a new fan.
 ---
-The performance that bore a new fan.
-
 <figure class="iframe-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/CEFyP-Q7CVE" frameborder="0" allowfullscreen></iframe></figure>
 
 Like many others, I've been searching the vast internet for any interviews or concerts from Prince. There aren't many. The man was very good at erasing himself from the internet. Some might call it going overboard.

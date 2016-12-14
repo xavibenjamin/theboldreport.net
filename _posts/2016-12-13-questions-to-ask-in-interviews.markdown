@@ -4,10 +4,9 @@ categories: articles
 custom_type: post
 tags: [Interviewing, Jobs]
 date: 2016-12-13 07:19
+subtitle: I'm open-sourcing questions I ask in interviews too.
 ---
-I'm open-sourcing questions I ask in interviews too.
-
-As you might've heard, I'm looking for a job. [Julia Evans wrote a great post on questions she asks during interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/). It's helped me so much, prompting me to ask questions I'd never thought of before, or never had the guts to ask. Julia's post reminded me that when you're interviewing somewhere, you should be interviewing them as much as they're interviewing you. 
+As you might've heard, I'm looking for a job. [Julia Evans wrote a great post on questions she asks during interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/). It's helped me so much, prompting me to ask questions I'd never thought of before, or never had the guts to ask. Julia's post reminded me that when you're interviewing somewhere, you should be interviewing them as much as they're interviewing you.
 
 Here are some of my favorites from her list:
 
