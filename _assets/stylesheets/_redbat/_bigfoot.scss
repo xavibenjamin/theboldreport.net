@@ -111,7 +111,7 @@ $button-inner-circle-left-margin: 1*$button-inner-circle-size !default;    // Sp
 $button-color: rgb(110, 110, 110) !default;             // Background color of the button
 $button-hovered-color: $button-color !default;                  // Background color of the button when being hovered
 $button-activating-color: $button-color !default;                  // Background color of the button when being clicked
-$button-active-color: $jazz-color !default;                  // Background color of the button when active
+$button-active-color: $brand-color !default;                  // Background color of the button when active
 $button-standard-opacity: .2 !default;                            // Opacity for when the button is just sittin' there
 $button-hovered-opacity: .5 !default;                            // Opacity for when the button is being hovered over
 $button-activating-opacity: $button-hovered-opacity !default;        // Opacity for when the button is being clicked
