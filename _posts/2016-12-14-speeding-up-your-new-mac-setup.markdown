@@ -4,9 +4,8 @@ categories: articles
 custom_type: post
 tags: [Development, Setup]
 date: 2016-12-14 08:43
+subtitle: I bought my first new Mac since 2010, and thanks to Past-Tim, it was pretty simple.
 ---
-I bought my first new Mac since 2010, and thanks to Past-Tim, it was pretty simple.
-
 Past-Me has been a jerk many times. Past-Tim doesn't think about Future-Tim, saving him time, money, and sometimes even heartache. Setting up a new Mac can be a huge pain, and thankfully Past-Me *finally* did something nice for Future-Me.
 
 I left great documentation and resources that helped me get this new machine setup in about thirty minutes. That's *unheard of*. But as with everything, there are still some holes that need patching, so I thought I'd write something up, to document the process even better for next time. After all, Past-Tim is now me.
@@ -28,7 +27,7 @@ $ cd .dotfiles
 $ script/bootstrap
 ```
 
-Having `dotfiles` version controlled is awesome, and this is the first machine I setup with them. [The repo](https://github.com/smithtimmytim/dotfiles) comes with [a list of packages and apps to be installed](https://github.com/smithtimmytim/dotfiles/blob/master/Brewfile). When I run the install script that comes with `dotfiles`, it installs [Homebrew](http://brew.sh/), [sets up sensible macOS defaults](https://github.com/smithtimmytim/dotfiles/blob/master/macos/set-defaults.sh), and much more. My vital apps like [1Password](https://1password.com/), [Dropbox](https://www.dropbox.com), [Alfred](https://www.alfredapp.com/), [Hyper](https://hyper.is/), etc, are all installed. Also, because I use [mas](https://github.com/mas-cli/mas)—which you can install via Homebrew—all of my favorite Mac App Store apps are installed too. 
+Having `dotfiles` version controlled is awesome, and this is the first machine I setup with them. [The repo](https://github.com/smithtimmytim/dotfiles) comes with [a list of packages and apps to be installed](https://github.com/smithtimmytim/dotfiles/blob/master/Brewfile). When I run the install script that comes with `dotfiles`, it installs [Homebrew](http://brew.sh/), [sets up sensible macOS defaults](https://github.com/smithtimmytim/dotfiles/blob/master/macos/set-defaults.sh), and much more. My vital apps like [1Password](https://1password.com/), [Dropbox](https://www.dropbox.com), [Alfred](https://www.alfredapp.com/), [Hyper](https://hyper.is/), etc, are all installed. Also, because I use [mas](https://github.com/mas-cli/mas)—which you can install via Homebrew—all of my favorite Mac App Store apps are installed too.
 
 You may be asking yourself, how is this possible? In part to `dotfiles`, but the `Brewfile` is where the magic happens. If you're familiar with a `Gemfile`—a `Brewfile` is that, but for Homebrew. It contains a list of the packages and apps I want installed. You can [look at my `Brewfile` here](https://github.com/smithtimmytim/dotfiles/blob/master/Brewfile), and you can [read more about the whole concept on GitHub](https://github.com/Homebrew/homebrew-bundle).
 

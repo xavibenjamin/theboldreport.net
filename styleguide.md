@@ -16,6 +16,11 @@ Secondary headings are used to separate portions of text. I don't ever use links
 
 {% figure extendout /uploads/2014/01/sonos-top_view.jpg "This image style can be used with the <code>.extendout</code> class." %}
 
+```liquid
+# This is how you use the figure tag
+{% raw %}{% figure className /path/to/img.jpg "Caption in quotes" %}{% endraw %}
+```
+
 As normal, you've got styles for `inline code`, *italics*,  and **bold text**. Inline code is used when the code isn't multi-line. Italics are used for emphasis, and bold is hardly used but when it is, it's used for the necessary visual contrast.
 
 - This is an unordered list.

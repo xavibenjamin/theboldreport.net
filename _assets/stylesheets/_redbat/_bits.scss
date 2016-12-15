@@ -8,19 +8,19 @@
 $dark-color: #555;
 $body-color: #555;
 $link-color: #429CD4;
-$jazz-color: #F88962;
+$jazz-color: #508FAB;
 $border-color: #EAECEF;
-$brand-color: #508FAB;
+$brand-color: #F88962;
 $slate: #383C40;
 
 
 // SPACING -----------------------
-$spacing-xxs: rem-calc(5px);
-$spacing-xs: rem-calc(10px);
-$spacing-s: rem-calc(20px);
-$spacing-m: rem-calc(30px);
-$spacing-l: rem-calc(40px);
-$spacing-xl: rem-calc(50px);
+$spacing-xxs: .3rem;
+$spacing-xs: .5rem;
+$spacing-s: 1rem;
+$spacing-m: 1.5rem;
+$spacing-l: 2rem;
+$spacing-xl: 2.5rem;
 
 // Other -------------------------
 $global-radius: 3px;

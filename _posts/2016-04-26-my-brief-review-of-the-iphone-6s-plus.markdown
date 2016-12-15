@@ -1,18 +1,15 @@
 ---
 layout: post
 title: My Brief Review of the iPhone 6s Plus
-categories: articles
+categories: articles briefreview
 custom_type: post
 slug: /iphone-6s-plus-brief-review/
 tags:
-  - Apple
-  - Brief Review
   - iPhone
-  - Review
+  - Brief Review
 date: 2016-04-26 08:54
+subtitle: The iPhone 6s Plus is my favorite iPhone. I was hesitant, but I’m glad I decided to try it.
 ---
-The iPhone 6s Plus is my favorite iPhone. I was hesitant, but I’m glad I decided to try it.
-
 {% figure extendout /uploads/2016/04/iphone-6s-plus.jpg "My iPhone 6s Plus in all its glory." %}
 
 The bigger size is definitely noticeable in my hand. Using buttons in the upper part of the screen is a little difficult at first, but the awkwardness of the bigger size went away in a couple weeks. Keep in mind that I’m 6’2” with large hands, but I have friends with smaller hands that still love this phone. It’s whether you’re comfortable using it with two hands or not.

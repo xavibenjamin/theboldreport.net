@@ -5,10 +5,8 @@ categories: articles
 custom_type: post
 tags: [From the Editor, Site News]
 date: 2016-09-26 07:19
+subtitle: The third anniversary is upon us. Here's an update on what's been happening with the site, what's coming, and a special giveaway for readers.
 ---
-
-The third anniversary is upon us. Here's an update on what's been happening with the site and what's coming, plus a special giveaway for readers.
-
 I published [the first post](https://theboldreport.net/2013/09/welcome/) on *The Bold Report* on September 23, 2013. It was an introduction to this new site, and a migration from the personal site where I’d been writing for about five years. As usual, [I got a little overly sentimental](https://ttimsmith.com/2013/09/moving-to-the-bold-report).
 
 *The Bold Report* was created as a new Jekyll site—I was done using WordPress to blog. This is what it looked like when I started writing:

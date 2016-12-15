@@ -7,10 +7,8 @@ tags:
 - Comics
 - Pull List
 date: 2016-05-31 12:04
+subtitle: Comics I’m picking up this week.
 ---
-
-Comics I’m picking up this week.
-
 Not a huge week for me, as I’m not incredibly interested in a lot of the new DC issues coming out.[^sidenote] Also, I’ve decided to drop Civil War II because this week’s issue is $5.99 and $4.99 after that. Too expensive for me, I’ll just pick up the trade.
 
 1. **All-New Wolverine #9** - This book has been really great. I’m a huge fan of Logan, but Laura is a great character and more than worthy replacement. Issue #7 with The Unbeatable Squirrel Girl was *so freaking awesome*. Highly recommended.

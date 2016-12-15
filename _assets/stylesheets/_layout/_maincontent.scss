@@ -6,9 +6,6 @@
   &.type-post {
     margin-bottom: 8rem;
   }
-  &.format-artdirect {
-    margin-bottom: 4rem;
-  }
   .post {
     position: static;
   }
@@ -29,43 +26,52 @@
 }
 
 .post__meta {
-  @extend %sans;
-
-  list-style-type: none;
+  color: lighten($dark-color, 25%);
+  display: block;
+  font-size: .8rem;
+  line-height: 1;
   margin-bottom: .5rem;
-  width: 100%;
-  li {
-    color: lighten($dark-color, 20%);
-    display: inline;
-    font-size: .8rem;
-    margin: 0;
-    &:last-child {
-      padding: 0;
-    }
-    @media #{$medium-up} {
-      font-size: .7rem;
-    }
+  a,
+  a:hover,
+  a:focus {
+    color: lighten($dark-color, 25%);
+  }
+  @media #{$medium-up} {
+    font-size: .75rem;
+  }
+  .post__lead + & {
+    margin-top: .8rem;
   }
 }
 
-.link__icon {
-  display: inline-block;
+.post__footer {
+  color: lighten($dark-color, 25%);
   font-size: .8rem;
-  margin-left: .3rem;
+  margin-top: 1.5rem;
+  @media #{$medium-up} {
+    font-size: .75rem;
+  }
+  .author {
+    border-top: 1px solid $border-color;
+    margin-top: 1.5rem;
+    width: 100%;
+  }
+}
+
+.post__tags {
+  display: block;
+  a,
+  a:hover,
+  a:focus {
+    color: lighten($dark-color, 25%);
+  }
 }
 
 // Format Post -------------------
 
 .format-post {
-  .post__entry {
-    > p:first-child {
-      @extend %sans-con;
-
-      color: lighten($dark-color, 20%);
-      font-size: 1.8rem;
-      line-height: 1.2;
-      margin-bottom: rem-calc(30px);
-    }
+  .post__header {
+    margin-bottom: 1.5rem;
   }
   h1 {
     font-size: 2.4rem;
@@ -73,8 +79,8 @@
     line-height: 1;
     margin: 0;
     a {
-      border-bottom: 0;
       color: $dark-color;
+      text-decoration: none;
       &:hover {
         border-bottom: 0;
         color: $link-color;
@@ -83,14 +89,24 @@
   }
 }
 
+.post__subtitle {
+  color: lighten($dark-color, 20%);
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.1;
+}
+
 
 // Format Link -------------------
 .format-link {
+  .post__header {
+    margin-bottom: 1.2rem;
+  }
   h1 {
     font-size: 1.7rem;
     font-weight: normal;
-    line-height: 1.2;
-    margin-bottom: .5rem;
+    line-height: 1.1;
+    margin-bottom: .3rem;
     a {
       text-decoration: none;
     }
@@ -104,6 +120,11 @@
     line-height: 100%;
     margin-left: $spacing-xs;
     vertical-align: middle;
+  }
+  .post__tags {
+    border-top: 1px solid $border-color;
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
   }
 }
 
@@ -123,9 +144,12 @@
   padding: 10rem 0;
   position: relative;
   transition: box-shadow 500ms ease;
-  h1 {
+  .post__title {
     font-size: 2.5rem;
     font-weight: 300;
+    a {
+      text-decoration: none;
+    }
   }
   .post__lead {
     @extend %sans;
@@ -133,6 +157,7 @@
     color: lighten($dark-color, 20%);
     font-size: 1.25rem;
     font-weight: 300;
+    line-height: 1.4;
   }
 }
 
@@ -153,38 +178,18 @@
   top: 0;
 }
 
-.post__footer {
-  margin-top: 2rem;
-  padding: .7rem 0;
+.custom-post__footer {
+  margin-top: 1rem;
   text-align: center;
   .post__meta {
     margin: 0;
-    li:first-child {
-      display: block;
-      line-height: 1.1;
-    }
+  }
+  .post__tags {
+    margin-top: .4rem;
   }
 }
 
 // Post Author -------------------
-
-.meta__author {
-  .post__meta & {
-    font-size: .85rem;
-    @media #{$medium-up} {
-      font-size: .75rem;
-    }
-  }
-  .post__header & {
-    margin-right: .3rem;
-    &:after {
-      color: lighten($dark-color, 45%);
-      content: '//';
-      display: inline-block;
-      margin-left: .5rem;
-    }
-  }
-}
 
 .post__author {
   margin-top: 6rem;
@@ -216,9 +221,10 @@
   align-items: flex-start;
   border-bottom: 1px solid $border-color;
   display: flex;
-  padding: 2rem 0;
+  padding: 1rem 0;
   position: relative;
   p {
+    color: $body-color;
     font-size: .95rem;
     @media #{$medium-up} {
       font-size: .85rem;
@@ -267,6 +273,38 @@
   }
 }
 
+// Related Posts ----------------
+.related-posts {
+  .post-list {
+    width: 100%;
+  }
+  .post-list__item {
+    font-size: 1rem;
+    line-height: 1.2;
+    a {
+      @extend %sans-con;
+
+      font-weight: 600;
+    }
+    .pubdate {
+      display: block;
+      font-size: .8rem;
+      margin-top: .3rem;
+      @media #{$medium-up} {
+        font-size: .75rem;
+      }
+    }
+  }
+}
+
+.related-posts__title {
+  font-size: 1rem;
+  margin-top: 1.5rem;
+  width: 100%;
+  &:before {
+    display: none;
+  }
+}
 // Footnotes ---------------------
 
 .footnotes {
@@ -305,6 +343,7 @@ ol,
 ul,
 hr,
 .post__header,
+.post__footer,
 .post__entry > p,
 .search-results-list > p,
 .page__entry > p,
@@ -314,7 +353,8 @@ hr,
 .pagination,
 .site__footer small,
 .author,
-.site__search-form {
+.fullwidth,
+.page__search {
   margin-left: auto;
   margin-right: auto;
   width: 90%;

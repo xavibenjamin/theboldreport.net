@@ -7,9 +7,8 @@ tags:
   - Personal
   - Tim and Kelbel
 date: 2016-05-16 11:21
+subtitle: We've been married for a year now. It's flown by.
 ---
-We've been married for year now. It's flown by.
-
 {% figure extendout /uploads/2016/05/kelly-and-i-laughing.jpg "I don't know what was said or done, but apparently we found it hilarious." %}
 
 You might've noticed the site went dark this week. Last Monday, May 9, was my one year wedding anniversary with the most amazing woman I've ever met.

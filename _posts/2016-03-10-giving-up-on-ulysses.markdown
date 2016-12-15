@@ -1,7 +1,7 @@
 ---
 layout: custom-post
 title: Giving Up On Ulysses
-categories: articles
+categories: articles artdirect
 custom_type: artdirect
 tags:
   - Apps
@@ -19,7 +19,7 @@ I’ve enjoyed writing for as long as I can remember, but the whole experience h
 
 Enter Ulysses. I’d heard many talk of it, and all of the reviews were positive. Believe me, I loved it for some time. Ulysses is simple, beautiful, and included a file browser in the sidebar. It made my whole writing workflow better, and helped me keep all of my drafts in one place.
 
-Then the honeymoon ended. Ulysses is too opinionated for me. Instead of following Markdown syntax, Ulysses forces me to use its own syntax. Sure, I can export into true Markdown, but after a while the whole workflow is inefficient. 
+Then the honeymoon ended. Ulysses is too opinionated for me. Instead of following Markdown syntax, Ulysses forces me to use its own syntax. Sure, I can export into true Markdown, but after a while the whole workflow is inefficient.
 
 If there’s a way to shut this off, I haven’t found it. Which could be yet another complaint, since I’ve looked through all the Ulysses settings.
 

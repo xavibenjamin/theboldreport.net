@@ -36,9 +36,12 @@ layout: null
       </author>
       <content type="html">
         <![CDATA[
+          {% if post.subtitle %}
+            {{ post.subtitle }}
+          {% endif %}
           {{ post.content }}
           {% if post.custom_type == 'link' %}
-          <p><a title="Permalink to ‘{{ post.title }}’" href="{{ site.url | xml_escape }}{{ post.url | xml_escape }}">∞ Source</a></p>
+            <p><a title="Permalink to ‘{{ post.title }}’" href="{{ site.url | xml_escape }}{{ post.url | xml_escape }}">∞ Read on <em>The Bold Report</em></a></p>
           {% endif %}
         ]]>
       </content>

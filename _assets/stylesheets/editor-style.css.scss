@@ -1,4 +1,3 @@
-@import '_redbat/functions';
 @import '_redbat/mixins';
 $primary-color: #B0C1C5;
 $secondary-color: #333;
@@ -39,6 +38,15 @@ body {
   }
 }
 
+.header__search {
+  .search-input {
+    background-color: darken($secondary-color, 5%);
+    &:focus {
+      background-color: darken($secondary-color, 8%);
+    }
+  }
+}
+
 .post__header {
   background: $secondary-color;
   margin: 0 auto 2rem;
@@ -61,7 +69,6 @@ body {
     display: block;
     font-size: 4.5em;
     line-height: .6;
-    // text-transform: uppercase;
   }
   .word3 {
     color: wheat;
@@ -121,10 +128,11 @@ body {
   fill: darken($primary-color, 10%);
 }
 
-.post__footer {
-  .post__meta li {
-    color: darken($primary-color, 30%);
-  }
+.post__meta,
+.post__meta a,
+.post__meta a:hover,
+.post__meta a:focus {
+  color: darken($primary-color, 30%);
 }
 
 .post__entry,
