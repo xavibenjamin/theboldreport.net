@@ -1,0 +1,23 @@
+---
+---
+The Bold Report
+is made by some truly awesome humans.
+
+/* Site */
+Designed and Developed by: Timothy B. Smith
+Launched: September 23, 2013
+Hosted with: Heroku
+
+/* Tools */
+MacBook Pro 2016
+Atom
+Hyper
+Editorial
+Jekyll
+
+/* The Writing Team */
+{% for author in site.data.authors %}
+{{ author[1].display_name }} - {{ author[1].email }}
+{% endfor %}
+
+Last Updated: {{ site.time | date:"%Y-%m-%d" }}
