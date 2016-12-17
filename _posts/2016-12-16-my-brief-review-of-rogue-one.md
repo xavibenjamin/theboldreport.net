@@ -3,6 +3,8 @@ title: "My Brief Review of ‘Rogue One: A Star Wars Story’"
 custom_type: post
 categories: articles briefreview
 subtitle: The first of the non-saga <em>Star Wars</em> movies has finally come out, and I really liked it
+tags: [Star Wars, Brief Review, Movies]
+date: 2016-12-16 22:29
 ---
 
 {% figure extendout /uploads/2016/12/rogue-one-jyn-erso.jpg "Felicity Jones as Jyn Erso in <em>Rogue One</em>." %}
