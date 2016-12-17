@@ -62,8 +62,8 @@ iframe {
 }
 
 .card--large {
+  margin: 2rem auto;
   @media #{$large-up} {
-    margin: 2rem auto;
     width: 85%;
   }
 }
