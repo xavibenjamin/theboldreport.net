@@ -18,7 +18,8 @@ layout: null
       <email>{{ author[1].email }}</email>
     </author>
   {% endfor %}
-  {% for post in site.categories.articles %}
+  {% for post in site.posts %}
+  {% if post.custom_type == 'post' or post.custom_type == 'artdirect' %}
   <entry>
     <id>https://theboldreport.net{{ post.id }}</id>
     <link type="text/html" rel="alternate" href="http://theboldreport.net{{ post.url }}"/>
@@ -32,11 +33,16 @@ layout: null
     <content type="html">
       <![CDATA[
         {% if post.subtitle %}
-          {{ post.subtitle }}
+          <h2>{{ post.subtitle }}</h2>
         {% endif %}
         {{ post.content }}
+        {% if post.custom_type == 'artdirect' %}
+        <hr>
+        <p>This is an art-directed post. <a href="{{ site.url | xml_escape }}{{ post.url | xml_escape }}">Check it out in the browser</a>.</p>
+        {% endif %}
       ]]>
     </content>
   </entry>
+  {% endif %}
   {% endfor %}
 </feed>
