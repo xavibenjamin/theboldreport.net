@@ -32,16 +32,20 @@ layout: null
       <updated>{{ post.date | date_to_xmlschema }}</updated>
       <author>
         <name>{{ site.data.authors[post.author].display_name }}</name>
-              <uri>{{ site.data.authors[post.author].web }}</uri>
+        <uri>{{ site.data.authors[post.author].web }}</uri>
       </author>
       <content type="html">
         <![CDATA[
           {% if post.subtitle %}
-            {{ post.subtitle }}
+            <h2>{{ post.subtitle }}</h2>
           {% endif %}
           {{ post.content }}
           {% if post.custom_type == 'link' %}
             <p><a title="Permalink to ‘{{ post.title }}’" href="{{ site.url | xml_escape }}{{ post.url | xml_escape }}">∞ Read on <em>The Bold Report</em></a></p>
+          {% endif %}
+          {% if post.custom_type == 'artdirect' %}
+          <hr>
+          <p>This is an art-directed post. <a href="{{ site.url | xml_escape }}{{ post.url | xml_escape }}">Check it out in the browser</a>.</p>
           {% endif %}
         ]]>
       </content>
