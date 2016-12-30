@@ -21,13 +21,10 @@ use Rack::TryStatic,
   :root => "_site",
   :urls => %w[/],
   :try => ['.html', 'index.html', '/index.html'],
+  :gzip => true,
   header_rules: [
-    [['html'],  { 'Content-Type'  => 'text/html; charset=utf-8', 'Cache-Control' => 'public, max-age=31536000', 'Vary' => 'Accept-Encoding' }],
-    [['css'],   { 'Content-Type'  => 'text/css' }],
-    [['js'],    { 'Content-Type'  => 'text/javascript' }],
-    [['png'],   { 'Content-Type'  => 'image/png' }],
-    ['/assets', { 'Cache-Control' => 'public, max-age=31536000', 'Vary' => 'Accept-Encoding' }],
-    ['/js', { 'Cache-Control' => 'public, max-age=604800', 'Vary' => 'Accept-Encoding' }],
+    [:all, {'Cache-Control' => 'public, max-age=86400', 'Vary' => 'Accept-Encoding'}],
+    [['css', 'js'], {'Cache-Control' => 'public, max-age=604800'}]
   ]
 
 run Rack::NotFound.new('_site/404/index.html')
