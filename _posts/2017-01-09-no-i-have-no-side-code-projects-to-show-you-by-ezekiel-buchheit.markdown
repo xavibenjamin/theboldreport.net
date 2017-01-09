@@ -12,6 +12,6 @@ Ezekiel Buchheit:
 > 
 > And when I said I have no side projects to show, what they heard - what interviewers hear - is: I am not the best. I am not a passionate developer. I don't spend the necessary time to keep on top of my education and skills. That development is "just a job."
 
-Yes, this post is on *freaking* LinkedIn, but don't discount it! Ezekiel details a prevalent problem in our industry: if coding isn't your life, then what the hell are you doing with your life? Of course, few have the guts to say that. As he points out, words like "passionate" are used to poorly disguise the true sentiment.
+Yes, this post is on *freaking* LinkedIn, but don't discount it! Ezekiel details a prevalent problem in our industry: if coding isn't your life, then what the hell are you doing with it? Of course, few have the guts to say that. As he points out, words like "passionate" are used to poorly disguise the true sentiment.
 
-Don't get me wrong, if you love to code on your free time, more power to you! As a friend of mine would say, "You do you boo boo." The problem is when you force that opinion on others, and hire people based on whether they agree. 
+Don't get me wrong, if you love to code on your free time, more power to you! As a friend of mine would say, "You do you boo boo." The problem is when you force that opinion on others, and hire only those who agree. 
