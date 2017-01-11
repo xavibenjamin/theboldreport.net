@@ -17,10 +17,10 @@ Enter [Bloc][1872-0002]. I first saw them because my friend [Niki Brown][1872-00
 I'm excited to say that I joined them as a part-time mentor this week. I'll have a few students that I'll meet with, review assignments for, and mentor into becoming excellent contributors to our industry.
 
 I want to give a huge thank you to [Chris Courtney][1872-0004], and the rest of the Bloc team for making me feel so welcome and valued. I have my first student appointments starting next week. I'm nervous interestingly, but looking forward to it!
- 
+
  [^timlikestoteach]: Unfortunately, this site only exists in the web archive.
 
 [1872-0001]: https://twitter.com/JimTheDev
-[1872-0002]: https://en.wikipedia.org/wiki/Bloc
+[1872-0002]: https://www.bloc.io/
 [1872-0003]: https://twitter.com/nikibrown
 [1872-0004]: https://twitter.com/designhawg
