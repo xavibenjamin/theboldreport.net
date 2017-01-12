@@ -1,6 +1,6 @@
 {% assign author = site.data.authors[page.author] %}
 <div class="author {% if page.layout == 'author-archive' %}author--single{% endif %}">
-  <img src="http://gravatar.com/avatar/{{ author.gravatar}}?s=200" alt="Picture of {{ author.display_name }}" class="author__picture" height="200" width="200" />
+  <img src="//gravatar.com/avatar/{{ author.gravatar}}?s=200" alt="Picture of {{ author.display_name }}" class="author__picture" height="200" width="200" />
   <div class="author__info">
     <h4 class="author__name">{{ author.display_name }} <small class="author__title">{{ author.title }}</small></h4>
     {{ author.bio | markdownify }}
