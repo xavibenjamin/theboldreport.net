@@ -15,7 +15,7 @@ I still wonder what some of the thinking behind the latter was. I understand it'
 
 It's a tough situation. On one hand, you can wait and see if any other display maker will release something good, but then you risk missing the introductory pricing currently being offered for the new LG monitor. I'm still using my Apple Thunderbolt Display, but it's going on five years now, and its retina-less screen is more perceptible with every day that passes.
 
-My plan for now is to wait as close as I can to March 31^st, when the [LG UltraFine 5K][3471-0002] will return to full price.
+My plan for now is to wait as close as I can to March 31<sup>st</sup>, when the [LG UltraFine 5K][3471-0002] will return to full price.
 
 [3471-0001]: http://www.digitaltrends.com/monitor-reviews/dell-up2715k-review/
 [3471-0002]: https://www.apple.com/shop/product/HKN62LL/A/lg-ultrafine-5k-display
