@@ -272,7 +272,7 @@ hr {
 a {
   color: $link-color;
   text-decoration: underline;
-  transition: .2s ease;
+  transition: color .2s ease-in-out;
   &:hover,
   &:focus {
     color: lighten($link-color, 10%);
