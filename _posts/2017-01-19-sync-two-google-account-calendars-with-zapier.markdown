@@ -2,7 +2,7 @@
 title: Sync Two Google Account Calendars with Zapier
 custom_type: post
 tags: [Productivity, Google Calendar]
-date: 2017-01-19 11:03
+date: 2017-01-19 10:03
 subtitle: Stop pulling your hair out, let's learn how to merge calendars
 ---
 
