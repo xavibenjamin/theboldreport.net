@@ -1,6 +1,6 @@
 ---
 title: A Simple Use of CSS Grid
-subtitle: You might've hear of CSS grid, now let's get our feet wet
+subtitle: You might've heard of CSS Grid, now let's get our feet wet
 custom_type: post
 tags: [CSS, Development, Grid Layout]
 date: 2017-01-23 12:50
