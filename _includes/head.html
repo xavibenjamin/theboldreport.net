@@ -25,7 +25,7 @@
       <meta name="description" property="og:description" name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 156 }}">
 
       <!-- Facebook Article Info -->
-      <meta property="og:image" name="twitter:image" content="//theboldreport.net/uploads/2013/09/theboldreport-avatar.png">
+      <meta property="og:image" name="twitter:image" content="//theboldreport.net/{% if page.featured_image %}{{ page.featured_image }}{% else %}theboldreport-avatar.png{% endif %}">
       <meta property="og:title" name="twitter:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}">
       <meta property="og:site_name" content="The Bold Report">
       <meta property="og:url" content="//theboldreport.net{{ page.url }}">
