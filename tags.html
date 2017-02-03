@@ -24,6 +24,7 @@ excerpt: Topics covered on The Bold Report.
     {% if this_word == 'Apple' %}<p>It’s not an Apple blog, but I sure do talk about them a lot.</p>{% endif %}
     {% if this_word == 'Jekyll' %}<p>This blog is built with it, so naturally I love to write about it.</p>{% endif %}
     {% if this_word == 'Jekyll on Heroku' %}<p>My continuing series on hosting Jekyll with Heroku.</p>{% endif %}
+    {% if this_word == 'Automation Heaven' %}<p>My series on learning to automate as much as I possibly can.</p>{% endif %}
     <ul class="topic-list">
     {% for post in site.tags[this_word] %}{% if post.title != null %}
       <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
