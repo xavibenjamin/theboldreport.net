@@ -5,9 +5,9 @@ categories: links
 custom_type: link
 link_url: http://alistapart.com/article/why-sass
 tags:
-  - A List Apart
-  - Sass
-  - Development
+  - a list apart
+  - sass
+  - development
 date: '2013-11-15 14:31:59'
 ---
 Dan Cederholm on *A List Apart*:

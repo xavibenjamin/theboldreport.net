@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: https://justinjackson.ca/tinypodcast/
 tags:
-  - Business
-  - Podcasts
+  - business
+  - podcasts
 date: 2016-09-09 11:18
 ---
 Justin Jackson:

@@ -5,9 +5,9 @@ categories: link
 custom_type: link
 link_url: http://www.recode.net/2016/6/30/12067578/spotify-apple-app-store-rejection
 tags:
-  - Tech
-  - Apple
-  - Spotify
+  - tech
+  - apple
+  - spotify
 date: 2016-07-13 21:19
 ---
 Peter Kafka reporting for *Recode*:

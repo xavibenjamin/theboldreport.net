@@ -4,9 +4,9 @@ title: 'John Gruber on iMessage Encryption'
 categories: links
 custom_type: link
 link_url: http://daringfireball.net/2013/10/imessage_encryption
-tags: 
-  - Apple
-  - Daring Fireball
+tags:
+  - apple
+  - daring fireball
 date: '2013-10-21 13:02:22'
 ---
 > What Quarkslab’s research proves […] is that Apple’s iMessage back-end *could* be designed to allow for Apple to intercept and read message content, and there is no way we, as iMessage users, would be able to detect it.

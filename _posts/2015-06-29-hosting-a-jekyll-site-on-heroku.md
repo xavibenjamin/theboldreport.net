@@ -5,9 +5,9 @@ categories: articles best
 custom_type: post
 date: '2015-06-29 11:11:30'
 tags:
-  - Development
-  - Jekyll
-  - Jekyll on Heroku
+  - development
+  - jekyll
+  - jekyll on heroku
 subtitle: Avoid pulling your hair out like I did.
 ---
 *This post is part of a series on [hosting Jekyll with Heroku](/topics/#jekyll-on-heroku).*

@@ -5,7 +5,7 @@ categories: link
 custom_type: link
 link_url: http://macsparky.com/blog/2016/3/fantastical-version-22-ships
 tags:
-  - Apps
+  - apps
 date: 2016-04-04 08:47
 ---
 David Sparks:

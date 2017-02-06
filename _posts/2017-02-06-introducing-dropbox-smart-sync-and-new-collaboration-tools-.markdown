@@ -2,7 +2,7 @@
 title: Introducing Dropbox Smart Sync and New Collaboration Tools | Dropbox Business Blog
 custom_type: link
 link_url: https://blogs.dropbox.com/business/2017/01/introducing-smart-sync-and-new-collaboration-tools/
-tags: [Dropbox, Smart Sync]
+tags: [dropbox, smart sync]
 date: 2017-02-06 13:52
 ---
 Rob Baesman on the Dropbox Business Blog:

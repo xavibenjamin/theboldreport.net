@@ -5,8 +5,8 @@ categories: links
 custom_type: link
 link_url: http://www.marco.org/2013/10/24/off
 tags:
-  - Apple
-  - Marco Arment
+  - apple
+  - marco arment
 date: '2013-10-25 12:19:57'
 ---
 >Something felt a bit off about this week’s Apple event.

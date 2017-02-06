@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: http://www.theverge.com/2013/10/10/4823088/hp-attack-microsoft-in-public-as-outright-competitors
 tags:
-  - Microsoft
+  - microsoft
   - HP
 date: '2013-10-10 11:46:04'
 ---

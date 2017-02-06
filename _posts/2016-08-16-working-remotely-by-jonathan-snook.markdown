@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: https://snook.ca/archives/other/working-remotely
 tags:
-  - Culture
-  - Remote Work
+  - culture
+  - remote work
 date: 2016-08-16 10:02
 ---
 Jonathan Snook:

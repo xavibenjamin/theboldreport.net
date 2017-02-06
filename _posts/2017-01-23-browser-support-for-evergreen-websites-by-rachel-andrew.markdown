@@ -2,7 +2,7 @@
 title: Browser Support for Evergreen Websites by Rachel Andrew
 custom_type: link
 link_url: http://www.rachelandrew.co.uk/archives/2017/01/12/browser-support-for-evergreen-websites/
-tags: [CSS, Development, Industry Issues]
+tags: [CSS, development, industry issues]
 date: 2017-01-23 11:25
 ---
 Rachel Andrew:

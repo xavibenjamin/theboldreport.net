@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: http://wildbit.com/blog/2016/03/24/ideas-for-building-a-family-friendly-culture
 tags:
-  - Business
-  - Culture
+  - business
+  - culture
 date: 2016-04-15 00:54
 ---
 Natalie Nagele explains what happens when you don't give employees workplace flexibility. Ya know, 'cause life happens:

@@ -12,14 +12,14 @@ excerpt: Topics covered on The Bold Report.
 <ul class="tag-box inline">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-    <li><a href="#{{ this_word | downcase | replace:' ','-' }}">{{ this_word }}</a></li>
+    <li><a href="#{{ this_word | downcase | replace:' ','-' }}">{{ this_word | titlecase }}</a></li>
   {% endunless %}{% endfor %}
 </ul>
 
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
   {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
   <section class="tag__section" id="{{ this_word | downcase | replace:' ','-' }}">
-    <h2 class="tag__name">{{ this_word }}<small class="tag__count">{{ site.tags[this_word].size }}</small></h2>
+    <h2 class="tag__name">{{ this_word | titlecase }}<small class="tag__count">{{ site.tags[this_word].size }}</small></h2>
     {% if this_word == 'Brief Review' %}<p>My series of reviews that I keep brief.</p>{% endif %}
     {% if this_word == 'Apple' %}<p>It’s not an Apple blog, but I sure do talk about them a lot.</p>{% endif %}
     {% if this_word == 'Jekyll' %}<p>This blog is built with it, so naturally I love to write about it.</p>{% endif %}

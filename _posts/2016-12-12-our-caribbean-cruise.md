@@ -2,7 +2,7 @@
 title: Our Caribbean Cruise
 custom_type: post
 categories: article
-tags: [Personal, Vacation]
+tags: [personal, vacation]
 date: 2016-12-12 14:55
 subtitle: I went on my first cruise and loved it.
 ---

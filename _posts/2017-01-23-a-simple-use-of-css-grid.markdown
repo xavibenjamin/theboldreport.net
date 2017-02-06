@@ -2,7 +2,7 @@
 title: A Simple Use of CSS Grid
 subtitle: You might've heard of CSS Grid, now let's get our feet wet
 custom_type: post
-tags: [CSS, Development, Grid Layout]
+tags: [CSS, development, grid layout]
 date: 2017-01-23 12:50
 ---
 You might've heard awesome people like [Rachel Andrew](https://www.rachelandrew.co.uk/archives/2017/01/18/css-grid-one-layout-method-not-the-only-layout-method/) and Jen Simmons advocating for the use of CSS Grid. If you haven't, I recommend you follow [Jen][6765-0001] and [Rachel][6765-0002] on Twitter. You should [watch this talk](https://youtu.be/Felq4z_rdPQ), and [this one too](https://youtu.be/PZPPwxumEzs).

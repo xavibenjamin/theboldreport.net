@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: https://davidwalsh.name/impostor-syndrome
 tags:
-  - Life
-  - Work/Life
+  - life
+  - work life
 date: 2016-08-16 09:01
 ---
 David Walsh:

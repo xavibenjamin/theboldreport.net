@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: http://www.nytimes.com/2016/01/18/business/media/disruption-by-netflix-irks-tv-foes.html
 tags:
-  - Netflix
-  - Tech
+  - netflix
+  - tech
 date: 2016-03-09 09:13
 ---
 John Koblin reporting for *The New York Times*:

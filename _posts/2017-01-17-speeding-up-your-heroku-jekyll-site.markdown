@@ -2,7 +2,7 @@
 title: Speeding Up Your Heroku Jekyll Site
 custom_type: post
 subtitle: Cache the hell out of all the things
-tags: [Development, Jekyll, Jekyll on Heroku]
+tags: [development, jekyll, jekyll on heroku]
 date: 2017-01-17 08:03
 ---
 

@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: https://brooksreview.net/2016/08/autonomous-smartdesk/
 tags:
-  - Furniture
-  - Reviews
+  - furniture
+  - reviews
 date: 2016-08-24 20:00
 ---
 Ben Brooks:

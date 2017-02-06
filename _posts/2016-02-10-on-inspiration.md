@@ -5,7 +5,7 @@ categories: articles artdirect
 custom_type: post
 custom_css: on-inspiration
 date: '2016-02-11 08:30:00'
-tags: [Philosophy, Work]
+tags: [philosophy, work]
 ---
 
 What inspires you? I've been asked that question many times. Either by fellow creatives, in job interviews and here. I've never been able to give an answer I'm content with. However, I feel like this might be the perfect place to explore what my answer should be.

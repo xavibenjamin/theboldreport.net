@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: https://www.helpscout.net/blog/agile-remote-teams/
 tags:
-- Management
-- Work
+  - management
+  - work
 date: 2016-06-06 09:01
 ---
 Chris Brookins on the Help Scout Blog:

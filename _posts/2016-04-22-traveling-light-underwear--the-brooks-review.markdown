@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: https://brooksreview.net/2016/04/tl-underwear/
 tags:
-  - Clothes
-  - Travel
+  - clothes
+  - travel
 date: 2016-04-22 00:47
 ---
 Ben Brooks:

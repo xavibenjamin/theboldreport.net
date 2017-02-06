@@ -4,7 +4,7 @@ title: "iPhone 7: Computer from the Future | MacStories"
 categories: link
 custom_type: link
 link_url: https://www.macstories.net/stories/iphone-7-computer-from-the-future
-tags: [Apple, iPhone, Wireless Audio]
+tags: [apple, iPhone, wireless audio]
 date: 2016-10-18 10:56
 ---
 As per usual, Viticci's review of the iPhone 7 is thought-out and thorough:

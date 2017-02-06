@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: http://www.hollywoodreporter.com/features/bill-simmons-breaks-free-his-900291
 tags:
-- Interview
-- Sports
+  - interview
+  - sports
 date: 2016-06-14 10:51
 ---
 Lacey Rose writing for the *Hollywood Reporter*:

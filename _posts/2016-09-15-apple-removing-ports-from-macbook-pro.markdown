@@ -6,8 +6,8 @@ categories: link
 custom_type: link
 link_url: http://www.macrumors.com/2016/09/14/apple-macbook-pro-survey/
 tags:
-- MacBook Pro
-- Headphone Jack
+- MacBook pro
+- headphone jack
 date: 2016-09-15 11:00
 ---
 Juli Clover at MacRumors:

@@ -4,9 +4,9 @@ title: 'Microsoft Talks Apple iPads and iWork'
 categories: links
 custom_type: link
 link_url: http://blogs.technet.com/b/microsoft_blog/archive/2013/10/23/apples-and-oranges.aspx
-tags: 
-  - Microsoft
-  - Apple
+tags:
+  - microsoft
+  - apple
 date: '2013-10-23 16:30:34'
 ---
 Frank Shaw on *The Official Microsoft Blog*:

@@ -4,8 +4,8 @@ title: "Burnout. That Word Doesn’t Mean What You Think it Means"
 categories: articles best
 custom_type: post
 tags:
-  - Burnout
-  - Work/Life
+  - burnout
+  - work life
 date: 2016-09-07 11:06
 subtitle: Let’s clarify what’s actually being said.
 ---

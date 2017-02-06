@@ -3,7 +3,7 @@ layout: post
 title: Heroku Redirects with rack-rewrite
 categories: articles best
 custom_type: post
-tags: [Development, Jekyll, Jekyll on Heroku]
+tags: [development, jekyll, jekyll on heroku]
 subtitle: Moved this blog to Heroku, now what?
 ---
 *This post is part of a series on [hosting Jekyll with Heroku](/topics/#jekyll-on-heroku).*

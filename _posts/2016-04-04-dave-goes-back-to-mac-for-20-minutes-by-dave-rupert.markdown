@@ -6,8 +6,8 @@ custom_type: link
 link_url: http://daverupert.com/2016/03/dave-goes-back-to-mac-for-20-minutes/
 slug: /dave-goes-back-to-mac-for-20-minutes/
 tags:
-  - Microsoft
-  - Web Performance
+  - microsoft
+  - web performance
 date: 2016-04-04 08:50
 ---
 Uncle Dave:

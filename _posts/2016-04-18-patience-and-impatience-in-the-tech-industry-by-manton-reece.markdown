@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html
 tags:
-  - Apple
-  - Tech
+  - apple
+  - tech
 date: 2016-04-18 08:34
 ---
 Manton Reece:
@@ -15,8 +15,8 @@ Manton Reece:
 >
 > …
 >
-> Patience is good, and I’m glad that Apple has a great balance between innovating on brand new products and perfecting existing concepts. But I’m also glad that not every company is as patient as Apple. 
+> Patience is good, and I’m glad that Apple has a great balance between innovating on brand new products and perfecting existing concepts. But I’m also glad that not every company is as patient as Apple.
 
-I love this about Apple. They're able to see people interested in something, learn from the mistakes of other companies, and create something great. 
+I love this about Apple. They're able to see people interested in something, learn from the mistakes of other companies, and create something great.
 
-The decision not to ship is a courageous one, and I feel it doesn't get enough credit. It's easy for these companies to make new products. Breaking the mold to be patient, refine, iterate (and see that as important or even more important than making something new) is what sets Apple apart. 
+The decision not to ship is a courageous one, and I feel it doesn't get enough credit. It's easy for these companies to make new products. Breaking the mold to be patient, refine, iterate (and see that as important or even more important than making something new) is what sets Apple apart.

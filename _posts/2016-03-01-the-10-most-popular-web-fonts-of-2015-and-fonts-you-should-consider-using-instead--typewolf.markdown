@@ -6,7 +6,7 @@ custom_type: link
 link_url: https://www.typewolf.com/blog/most-popular-fonts-of-the-year
 permalink: /most-popular-fonts-2015/
 tags:
-  - Typography
+  - typography
 date: 2016-03-01 07:15
 ---
 Jeremiah Shoaf:

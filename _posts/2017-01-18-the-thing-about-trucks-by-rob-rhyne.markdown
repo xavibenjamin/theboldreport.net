@@ -2,7 +2,7 @@
 title: The Thing about Trucks by Rob Rhyne
 custom_type: link
 link_url: http://rd2.io/2017/01/macs-and-trucks/
-tags: [iOS, iPad Only, Tech]
+tags: [iOS, iPad Only, tech]
 date: 2017-01-18 07:54
 ---
 Rob Rhyne explains why he'd take his Mac if he could only take one device with him:

@@ -6,7 +6,7 @@ custom_type: link
 link_url: https://blog.agilebits.com/2016/08/03/new-1password-hosted-service/
 tags:
   - 1Password
-  - Apps
+  - apps
 date: 2016-08-03 15:01
 ---
 Dave Teare on the AgileBits Blog:

@@ -4,9 +4,9 @@ title: 'Twitter Tests Cleaner Web Design'
 categories: links
 custom_type: link
 link_url: http://techcrunch.com/2013/11/21/twitter-web-redesign/
-tags: 
-  - Twitter
-  - Redesigns
+tags:
+  - twitter
+  - redesigns
 ---
 Darrell Etherington on *TechCrunch*:
 

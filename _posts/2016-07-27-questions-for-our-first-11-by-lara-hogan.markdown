@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: http://larahogan.me/blog/first-one-on-one-questions/
 tags:
-  - Management
-  - Work
+  - management
+  - work
 date: 2016-07-27 00:26
 ---
 Lara Hogan:

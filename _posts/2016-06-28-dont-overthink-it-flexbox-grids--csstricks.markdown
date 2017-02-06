@@ -5,7 +5,7 @@ categories: link
 custom_type: link
 link_url: https://css-tricks.com/dont-overthink-flexbox-grids
 tags:
-- Development
+- development
 date: 2016-06-28 09:11
 ---
 Chris Coyier:

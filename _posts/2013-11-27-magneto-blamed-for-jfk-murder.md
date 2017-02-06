@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: http://www.theverge.com/2013/11/26/5148024/x-men-viral-site-magneto-responsible-for-jfk-murder
 tags:
-  - Movies
+  - movies
 date: '2013-11-27 09:48:03'
 ---
 Kwame Opam on *The Verge*:

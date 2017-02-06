@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: http://daverupert.com/2016/02/light-frames-great-content/
 tags:
-  - Development
-  - Industry Issues
+  - development
+  - industry issues
 date: 2016-02-29 01:11
 ---
 Uncle Dave:

@@ -2,7 +2,7 @@
 title: "'Clean Your Desk' : My Amazon Interview Experience by Shivan Kaul Sahib"
 custom_type: link
 link_url: http://shivankaul.com/blog/2016/12/07/clean-your-desk-yet-another-amazon-interview-experience.html
-tags: [Burn It Down, Jobs, Tech]
+tags: [jobs, tech]
 date: 2017-01-12 10:52
 ---
 Shivan Kaul Sahib describes his second round interview at Amazon:

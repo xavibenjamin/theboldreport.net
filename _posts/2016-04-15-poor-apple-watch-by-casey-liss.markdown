@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: https://www.caseyliss.com/2016/4/11/poor-apple-watch
 tags:
-  - Apple
-  - Tech
+  - apple
+  - tech
 date: 2016-04-15 00:57
 ---
 Casey Liss:

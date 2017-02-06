@@ -11,9 +11,9 @@ lead: With the great layout tools we now have on the web, art direction is makin
 fittext: true
 lettering: words
 tags:
-  - Design
-  - Development
-  - Site News
+  - design
+  - development
+  - site news
 date: '2016-03-16 23:33:59'
 ---
 Creativity on the web has been on a bit of a vacation. I'm not pointing fingers, I'm guilty. Many of us are culprits in making some pretty homogenous-looking websites. We played the hand we were dealt. Technology hadn't been very kind to us, so we ended up using grid frameworks that forced us into similar layouts. I don't know about you, but I got tired of hacking CSS for every project. Frameworks were easy.

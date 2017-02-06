@@ -2,7 +2,7 @@
 title: My Favorite TextExpander Snippets
 subtitle: Let's begin exploring automation with these simple and helpful keyboard shortcuts
 custom_type: post
-tags: [Automation Heaven, Automation, TextExpander]
+tags: [automation heaven, automation, TextExpander]
 date: 2017-02-06 08:57
 ---
 *This post is part of a series on [creating automation heaven](/topics/#automation-heaven).*
@@ -60,7 +60,7 @@ When it comes to writing code, autocompletion has come a long way. I had to whit
 // -------------------------------
 ```
 
-It helps me keep my comment style consistent, and saves me time. 
+It helps me keep my comment style consistent, and saves me time.
 
 ## General
 

@@ -6,9 +6,9 @@ custom_type: link
 link_url: https://www.macstories.net/reviews/day-one-2-review/
 date: 2016-02-23 09:22
 tags:
-  - MacStories
-  - Apps
-  - Review
+  - macstories
+  - apps
+  - review
 ---
 Jake Underwood writing for *MacStories*:
 

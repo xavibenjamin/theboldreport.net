@@ -4,10 +4,10 @@ title: 'Netflix Likely to Have Overtaken HBO in Paid US Subscribers'
 categories: links
 custom_type: link
 link_url: http://www.theverge.com/2013/10/21/4861624/netflix-has-likely-overtaken-hbo-in-paid-us-subscribers-analysts-say
-tags: 
-  - Netflix
+tags:
+  - netflix
   - HBO
-  - Television
+  - television
 date: '2013-10-21 12:19:57'
 ---
 Amar Toor reporting for *The Verge*:
@@ -18,4 +18,4 @@ Amar Toor reporting for *The Verge*:
 
 Netflix is one of those companies that I love to root for. However, as [someone in the comments for this article pointed out](http://www.theverge.com/2013/10/21/4861624/netflix-has-likely-overtaken-hbo-in-paid-us-subscribers-analysts-say#192210067), the fact that Netflix has more subscribers than HBO, doesn't mean they're making more money. Still, these numbers might just give HBO the scare they need, to consider an online subscription that isn't tied to any cable company. With Time Warner Cable being the parent company of HBO, I see this as a small probability, but there's no way they don't see the potential business they're missing out on.
 
-One thing is for sure, the competition between these two channels will be interesting to watch. 
+One thing is for sure, the competition between these two channels will be interesting to watch.

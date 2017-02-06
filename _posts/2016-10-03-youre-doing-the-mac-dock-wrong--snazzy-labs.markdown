@@ -4,7 +4,7 @@ title: You're Doing the Mac Dock Wrong | Snazzy Labs
 categories: links
 custom_type: link
 link_url: https://www.youtube.com/watch?v=ZaxkqlRE-NI
-tags: [macOS, Nerdiness]
+tags: [macOS, nerdiness]
 date: 2016-10-03 12:51
 ---
 

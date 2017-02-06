@@ -4,8 +4,8 @@ title: My Brief Review of Shush App
 categories: articles briefreview
 custom_type: post
 tags:
-  - Apps
-  - Brief Review
+  - apps
+  - brief review
 date: 2016-08-17 11:17
 subtitle: The app your remote-working self has been searching for.
 ---

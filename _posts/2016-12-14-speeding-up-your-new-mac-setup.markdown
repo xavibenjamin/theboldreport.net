@@ -2,7 +2,7 @@
 title: Speeding Up Your New Mac Setup
 categories: articles
 custom_type: post
-tags: [Development, Setup]
+tags: [development, setup]
 date: 2016-12-14 08:43
 subtitle: I bought my first new Mac since 2010, and thanks to Past-Tim, it was pretty simple.
 ---

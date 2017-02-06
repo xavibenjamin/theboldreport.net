@@ -5,7 +5,7 @@ categories: link
 custom_type: link
 link_url: http://www.nytimes.com/2016/03/31/fashion/social-media-technology.html
 tags:
-  - Tech
+  - tech
 date: 2016-04-08 15:31
 ---
 Nick Bilton in his last column for *The New York Times*:
@@ -16,7 +16,7 @@ Nick Bilton in his last column for *The New York Times*:
 >
 > All these downsides have made me wonder whether these technological advances are worth it. Maybe we’re better off without smartphones, social media, cloud computing and apps du jour like Snapchat that we seemingly can’t live without today.
 
-Boy, Nick makes some great points. It’s easy to look at technology, and feel sad that it’s been more harm than help. But the rest of his article talks about the true purpose of technology: connection. 
+Boy, Nick makes some great points. It’s easy to look at technology, and feel sad that it’s been more harm than help. But the rest of his article talks about the true purpose of technology: connection.
 
 Nick continues:
 

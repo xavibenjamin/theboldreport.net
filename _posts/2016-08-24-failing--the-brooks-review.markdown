@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: http://brooksreview.net/2016/08/failing/
 tags:
-  - Culture
-  - Work
+  - culture
+  - work
 date: 2016-08-24 20:00
 ---
 Ben Brooks:

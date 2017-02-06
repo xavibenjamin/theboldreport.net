@@ -5,7 +5,7 @@ categories: link
 custom_type: link
 link_url: https://css-tricks.com/get-original-image-data-url/
 tags:
-  - Development
+  - development
 date: 2016-09-07 09:21
 ---
 Chris Coyier:

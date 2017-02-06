@@ -3,7 +3,7 @@ layout: post
 title: The Bold Report’s Third Anniversary
 categories: articles
 custom_type: post
-tags: [From the Editor, Site News]
+tags: [from the editor, site news]
 date: 2016-09-26 07:19
 subtitle: The third anniversary is upon us. Here's an update on what's been happening with the site, what's coming, and a special giveaway for readers.
 ---

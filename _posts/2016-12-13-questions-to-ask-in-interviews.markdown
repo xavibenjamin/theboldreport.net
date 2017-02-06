@@ -2,7 +2,7 @@
 title: Questions to Ask in Interviews
 categories: articles
 custom_type: post
-tags: [Interviewing, Jobs]
+tags: [interviewing, jobs]
 date: 2016-12-13 07:19
 subtitle: I'm open-sourcing questions I ask in interviews too.
 ---

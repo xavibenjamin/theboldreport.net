@@ -4,7 +4,7 @@ title: "iPad-only: Month One by Matt Gemmell"
 categories: link
 custom_type: link
 link_url: http://mattgemmell.com/ipad-only-month-one/
-tags: [iOS, iPad Only, Tech]
+tags: [iOS, iPad Only, tech]
 date: 2016-11-29 16:37
 ---
 Matt Gemmell after making the iPad his main computer, describes what it was like for him to go back to a Mac:

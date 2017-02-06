@@ -4,7 +4,7 @@ title: "Visualizing a Job Search or: How to Find a Job as a Software Engineer by
 categories: link
 custom_type: link
 link_url: http://kellysutton.com/2016/10/20/visualizing-a-job-search-or-how-to-find-a-job-as-a-software-engineer.html
-tags: [Jobs, Work]
+tags: [jobs, work]
 date: 2016-10-25 11:32
 ---
 Kelly Sutton:

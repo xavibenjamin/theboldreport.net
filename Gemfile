@@ -21,4 +21,5 @@ group :jekyll_plugins do
   gem 'jekyll-paginate', '~> 1.1'
   gem 'jekyll-sitemap'
   gem 'jekyll-tagging-related_posts'
+  gem 'jekyll-typogrify'
 end

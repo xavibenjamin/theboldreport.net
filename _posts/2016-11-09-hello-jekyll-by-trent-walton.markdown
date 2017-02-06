@@ -4,7 +4,7 @@ title: "Hello, Jekyll by Trent Walton"
 categories: link
 custom_type: link
 link_url: http://trentwalton.com/notes/2016/11/01/jekyll.html
-tags: [Development, Jekyll, WordPress]
+tags: [development, jekyll, WordPress]
 date: 2016-11-09 11:45
 ---
 Trent Walton:
@@ -21,7 +21,7 @@ Things have changed since then. I do not love WordPress anymore. It's become cum
 2. MySQL databases don't have to be setup locally, aren't a hassle to sync to production, and don't randomly become corrupted.
 3. Developing with Liquid and Sass is a breeze, and Jekyll does it out of the box.
 4. A *whole* site can be checked into Git, making version control easy.
-5. Don't even get me started on the horrible UI and typography choices that have plagued the WordPress CMS. 
+5. Don't even get me started on the horrible UI and typography choices that have plagued the WordPress CMS.
 
 Don't get me wrong though, WordPress can be useful for certain projects, and certainly has a stronghold powering 26.4% of the web.[^web] But it's interesting to be seeing an ever-increasing shift away from WordPress for blogs, and at-least for me, it no longer being my no-brainer go-to for new projects.
 

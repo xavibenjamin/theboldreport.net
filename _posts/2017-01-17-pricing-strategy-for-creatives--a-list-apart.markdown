@@ -2,7 +2,7 @@
 title: Pricing Strategy for Creatives | A List Apart
 custom_type: link
 link_url: http://alistapart.com/article/pricing-strategy-for-creatives
-tags: [Business, Freelancing, Rates]
+tags: [business, freelancing, rates]
 date: 2017-01-17 07:58
 ---
 Jason Blumer gives a few reasons as to why charging by the hour doesn't work, but his first makes so much sense, it maddens me that I ever billed hourly:

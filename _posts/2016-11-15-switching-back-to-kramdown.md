@@ -2,7 +2,7 @@
 title: Switching Back to Kramdown
 category: articles
 custom_type: post
-tags: [Development, Jekyll, Markdown]
+tags: [development, jekyll, markdown]
 date: 2016-11-15 16:42
 subtitle: Quick update on my markdown woes.
 ---

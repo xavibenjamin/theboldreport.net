@@ -5,12 +5,12 @@ categories: links
 custom_type: link
 link_url: http://thenextweb.com/insider/2013/10/17/fitbit-ceo-inching-closer-closer-smart-watch/
 tags:
-  - Fitbit
-  - Gadgets
+  - fitbit
+  - gadgets
 date: '2013-10-18 11:11:02'
 ---
  Josh Ong reporting for *The Next Web*:
- 
+
 >Fitbit CEO James Park said the company is “inching closer and closer to being a smartwatch.”
 >
 >…

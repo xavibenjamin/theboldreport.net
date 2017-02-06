@@ -5,7 +5,7 @@ categories: link
 custom_type: link
 link_url: https://ishadeed.com/article/css-writing-mode/
 tags:
-  - Development
+  - development
   - CSS
 date: 2016-09-06 12:25
 ---

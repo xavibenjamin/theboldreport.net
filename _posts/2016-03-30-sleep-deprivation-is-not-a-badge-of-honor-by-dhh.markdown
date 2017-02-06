@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: https://m.signalvnoise.com/sleep-deprivation-is-not-a-badge-of-honor-f24fbff47a75?gi=cde9108bf866
 tags:
-  - Productivity
-  - Work/Life
+  - productivity
+  - work life
 date: 2016-03-30 08:46
 ---
 David Heinemeier Hansson:

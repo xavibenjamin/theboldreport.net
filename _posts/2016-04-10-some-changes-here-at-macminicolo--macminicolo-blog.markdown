@@ -5,7 +5,7 @@ categories: link
 custom_type: link
 link_url: https://macminicolo.net/blog/files/Some-changes-here-at-Macminicolo.html
 tags:
-  - Tech
+  - tech
 date: 2016-04-10 01:57
 ---
 Brian Stucki:

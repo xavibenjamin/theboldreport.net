@@ -2,7 +2,7 @@
 title: "A Week (or Two) with Apple AirPods by Ben Markowitz"
 custom_type: link
 link_url: https://medium.com/@bpmarkowitz/a-week-or-two-with-apple-airpods-526f2bc16046
-tags: [Apple, AirPods, Headphones]
+tags: [apple, AirPods, headphones]
 date: 2017-01-11 16:34
 ---
 Ben Markowitz writing about using his AirPods with his Mac:

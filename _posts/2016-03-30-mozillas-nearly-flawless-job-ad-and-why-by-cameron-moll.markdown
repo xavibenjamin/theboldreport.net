@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: https://medium.com/come-in-we-re-hiring/mozilla-s-nearly-flawless-job-ad-and-why-5b11b3e0489#.ggjteono0
 tags:
-  - Hiring
-  - Writing
+  - hiring
+  - writing
 date: 2016-03-30 08:50
 ---
 Cameron Moll dissects a job ad and finds some great lessons:
