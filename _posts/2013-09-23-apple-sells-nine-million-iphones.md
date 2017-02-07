@@ -4,7 +4,7 @@ title: 'Apple Sells Nine Million iPhones in a Weekend'
 categories: links
 custom_type: link
 link_url: http://www.apple.com/pr/library/2013/09/23First-Weekend-iPhone-Sales-Top-Nine-Million-Sets-New-Record.html
-tags: apple
+tags: [apple, iPhone]
 date: '2013-09-23 11:43:37'
 ---
 >Apple® today announced it has sold a record-breaking nine million new iPhone® 5s and iPhone 5c models, just three days after the launch of the new iPhones on September 20. In addition, more than 200 million iOS devices are now running the completely redesigned iOS 7, making it the fastest software upgrade in history.

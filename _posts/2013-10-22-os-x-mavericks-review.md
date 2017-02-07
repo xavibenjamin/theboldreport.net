@@ -6,7 +6,6 @@ custom_type: link
 link_url: http://512pixels.net/2013/10/mavericks-review/
 tags:
   - apple
-  - 512 pixels
   - review
 date: '2013-10-22 17:34:20'
 ---

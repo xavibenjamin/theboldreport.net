@@ -7,6 +7,7 @@ link_url: http://blogs.technet.com/b/microsoft_blog/archive/2013/10/23/apples-an
 tags:
   - microsoft
   - apple
+  - iPad
 date: '2013-10-23 16:30:34'
 ---
 Frank Shaw on *The Official Microsoft Blog*:

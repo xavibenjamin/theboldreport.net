@@ -5,6 +5,7 @@ categories: links
 custom_type: link
 link_url: http://www.512pixels.net/blog/2015/2/another-week-another-debate-about-podcasts
 date: '2015-02-17 14:58:07'
+tags: [podcasts, hot drama]
 ---
 Stephen Hackett:
 

@@ -6,6 +6,7 @@ custom_type: link
 link_url: http://www.beyondink.co.uk/
 tags:
   - podcasts
+  - design
 date: '2013-12-02 11:13:39'
 ---
 My friend, [Rachel Shillcock](https://www.rachilli.com/), launched her new podcast called *Beyond Ink*. She's a natural in front of the microphone, and does [a great first show with Simon Collison and Laura Kalbag](http://www.beyondink.co.uk/shows/01-laura-and-simon).

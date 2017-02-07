@@ -5,6 +5,7 @@ categories: links
 custom_type: link
 link_url: http://andyadams.org/freelancing-premium-beef/
 date: '2015-02-17 10:59:19'
+tags: [freelancing, business]
 ---
 Andy Adams:
 

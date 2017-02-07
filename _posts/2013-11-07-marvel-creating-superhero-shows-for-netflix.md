@@ -6,6 +6,8 @@ custom_type: link
 link_url: http://www.theverge.com/2013/11/7/5076712/marvel-creating-four-superhero-tv-series-netflix-exclusives
 tags:
   - netflix
+  - marvel
+  - TV
 date: '2013-11-07 12:55:45'
 ---
 Jacob Kastrenakes reporting for *The Verge*:

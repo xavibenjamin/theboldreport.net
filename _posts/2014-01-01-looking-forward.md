@@ -4,6 +4,7 @@ title: 'Looking Forward'
 categories: articles
 custom_type: post
 date: '2014-01-01 14:27:15'
+tags: [year in review, personal]
 ---
 It's 2014. I can't believe I'm writing that. It seems like yesterday that I published [this post](https://ttimsmith.com/2013/01/my-definition-of-success).
 
@@ -29,7 +30,7 @@ So what do I want to accomplish in 2014? Here are my goals for this year:
 I know this is a repeat, but I seriously want to tackle this. I know things that are bad for me, but I don't really know what I *should* be eating. I want to dedicate a bit more time into planning my menu every week, which I think will allow me to grocery shop effectively, and help me learn how to cook new dishes.
 
 2. **Learn Rails**     
-I know I can't possibly learn Rails in one year, but I want to get very comfortable with it. At the moment, I can build a simple application with Rails, but I'd love to get into more complex things, and start implementing best practices like tests. 
+I know I can't possibly learn Rails in one year, but I want to get very comfortable with it. At the moment, I can build a simple application with Rails, but I'd love to get into more complex things, and start implementing best practices like tests.
 
 3. **Collaborate with Friends**     
 [Adam Clark](http://avclark.com/) and I have been talking about working together on something for the longest time. I'd love to finally take a project where we can work on it together. I'd also love to work with other people. 2013 was full of projects that I worked on alone, I'd like to be in a position to assemble teams for projects this year.

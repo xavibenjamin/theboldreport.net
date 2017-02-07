@@ -5,6 +5,7 @@ categories: links
 custom_type: link
 link_url: http://curtismchale.ca/2013/05/23/weekly-pricing-for-web-development/
 date: '2014-11-10 12:43:57'
+tags: [freelancing, business]
 ---
 Curtis McHale:
 

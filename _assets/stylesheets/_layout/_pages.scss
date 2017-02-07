@@ -44,9 +44,9 @@
   padding: 0 0 2.5rem;
   width: 90%;
   @media #{$medium-up} {
-    -webkit-column-count: 3;
-    -moz-column-count: 3;
-    column-count: 3;
+    -webkit-column-count: 4;
+    -moz-column-count: 4;
+    column-count: 4;
   }
   @media #{$large-up} {
     -webkit-column-count: 5;
@@ -115,13 +115,8 @@
   list-style-type: none;
   margin-top: 2rem;
   width: 100%;
-  @media #{$medium-up} {
-    -webkit-column-count: 4;
-    -moz-column-count: 4;
-    column-count: 4;
-  }
   li {
-    display: inline-block;
+    display: block;
     font-size: .77rem;
     line-height: 1.5;
     margin-bottom: .3rem;

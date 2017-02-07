@@ -5,6 +5,7 @@ categories: links
 custom_type: link
 link_url: http://daverupert.com/2015/02/jekyll-heroku-dropbox/
 date: '2015-02-23 13:36:32'
+tags: [development, deployment, jekyll, heroku]
 ---
 Dave Rupert:
 

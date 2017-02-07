@@ -6,6 +6,7 @@ custom_type: link
 link_url: http://thenextweb.com/insider/2013/12/03/yahoo-reveals-tumblrs-viral-blogs-2013-annual-year-review-report/
 tags:
   - yahoo
+  - tech
 date: '2013-12-03 12:03:31'
 ---
 Ken Yeung on *The Next Web*:

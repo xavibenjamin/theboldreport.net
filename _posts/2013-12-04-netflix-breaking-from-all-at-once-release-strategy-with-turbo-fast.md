@@ -6,6 +6,7 @@ custom_type: link
 link_url: http://www.theverge.com/2013/12/3/5170230/netflix-breaking-from-all-at-once-release-strategy-with-turbo-fast
 tags:
   - netflix
+  - TV
 date: '2013-12-04 12:17:50'
 ---
 Chris Welch on *The Verge*:

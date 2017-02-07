@@ -6,6 +6,7 @@ custom_type: link
 link_url: http://www.techhive.com/article/2068040/amazon-plans-to-use-drones-to-deliver-packages.html
 tags:
   - amazon
+  - drones
 date: '2013-12-02 10:28:44'
 ---
 John Ribeiro on *TechHive*:

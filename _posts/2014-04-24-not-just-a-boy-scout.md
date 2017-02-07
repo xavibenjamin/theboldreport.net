@@ -4,6 +4,7 @@ title: '‘Not Just a Boy Scout’'
 categories: links
 custom_type: link
 link_url: http://www.esn.fm/giantsize/6
+tags: [podcasts, marvel, comics]
 ---
 The quality of shows that Moisés Chiullan produces is by far one of the best. He's an expert moderator, and his passion for the topics really shines through.
 

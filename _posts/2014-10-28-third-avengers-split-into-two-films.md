@@ -4,6 +4,7 @@ title: 'Third ‘Avengers’ Split Into Two Films'
 categories: links
 custom_type: link
 link_url: http://www.theverge.com/2014/10/28/7085447/avengers-3-split-into-two-films-infinity-war
+tags: [movies, marvel]
 ---
 Some awesome news on *The Verge* today:
 

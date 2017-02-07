@@ -4,7 +4,7 @@ title: 'Marco Arment’s Latest Project: Overcast'
 categories: links
 custom_type: link
 link_url: http://www.marco.org/2013/09/23/overcast-coming-soon
-tags: [overcast, marco arment]
+tags: [overcast, podcasts]
 date: '2013-09-24 11:29:01'
 ---
 >If you need tons of features or anything I’m choosing not to do, you’ll probably be happier with one of the others. (Before I started using Overcast full-time, Downcast was my podcast app of choice.)

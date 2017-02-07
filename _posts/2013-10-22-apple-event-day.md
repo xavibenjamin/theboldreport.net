@@ -5,6 +5,7 @@ categories: articles
 custom_type: post
 tags:
  - apple
+ - apple event
 date: '2013-10-22 10:40:36'
 ---
 Apple Event Days are always exciting for me, and this one will be no different.

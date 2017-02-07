@@ -5,6 +5,7 @@ categories: links
 custom_type: link
 link_url: http://www.macstories.net/stories/ios-8-accessibility-and-third-party-keyboards/
 date: '2014-11-05 11:57:27'
+tags: [apple, iOS]
 ---
 Steven Aquino for *MacStories*:
 

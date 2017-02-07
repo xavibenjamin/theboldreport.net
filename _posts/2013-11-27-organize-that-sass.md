@@ -7,6 +7,7 @@ link_url: http://alistapart.com/blog/post/organize-that-sass
 tags:
   - sass
   - a list apart
+  - development
 date: '2013-11-27 10:18:11'
 ---
 >One of the many beauties of working with Sass is how easy it is to get organized. In the past, importing different CSS files wasn’t good practice and in fact made for more HTTP requests. With Sass, you can have many different partials which allow you to isolate styles in a logical way.

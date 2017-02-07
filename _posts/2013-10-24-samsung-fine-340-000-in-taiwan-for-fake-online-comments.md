@@ -6,6 +6,7 @@ custom_type: link
 link_url: http://www.theverge.com/2013/10/24/5023658/samsung-fined-340000-for-posting-negative-htc-reviews
 tags:
   - samsung
+  - tech
 date: '2013-10-24 11:06:11'
 ---
  Aaron Souppouris reporting for *The Verge*:

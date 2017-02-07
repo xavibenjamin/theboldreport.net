@@ -6,7 +6,8 @@ custom_type: link
 link_url: http://techcrunch.com/2013/11/21/twitter-web-redesign/
 tags:
   - twitter
-  - redesigns
+  - tech
+  - design
 ---
 Darrell Etherington on *TechCrunch*:
 

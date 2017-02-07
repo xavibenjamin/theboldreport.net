@@ -6,7 +6,6 @@ custom_type: link
 link_url: http://thesweetsetup.com/apps/great-app-keeping-macs-menu-bar-organized/
 tags:
   - apps
-  - the sweet setup
 date: '2013-12-10 10:45:04'
 ---
 Stephen Hackett writes a concise review of Bartender, and why it's *The Sweet Setup's* best app for keeping the menu bar organized.

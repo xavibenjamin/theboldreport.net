@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: http://512pixels.net/2013/09/clearly-we-have-a-problem/
 date: '2013-09-25 11:50:17'
-tags: apple
+tags: [apple, app store, apps]
 ---
 Stephen Hackett on 512 Pixels:
 

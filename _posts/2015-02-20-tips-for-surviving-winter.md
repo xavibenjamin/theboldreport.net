@@ -5,6 +5,7 @@ categories: links
 custom_type: link
 link_url: http://gothamist.com/2015/02/03/life_hack_how_to_not_die.php
 date: '2015-02-20 14:47:13'
+tags: [life, surviving winter]
 ---
 Lauren Evans on *Gothamist*:
 

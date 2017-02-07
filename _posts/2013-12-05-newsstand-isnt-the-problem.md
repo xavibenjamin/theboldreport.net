@@ -6,7 +6,6 @@ custom_type: link
 link_url: http://brooksreview.net/2013/11/the-blame-apple-game/
 tags:
   - apple
-  - the brooks review
 date: '2013-12-05 19:20:33'
 ---
 Ben Brooks on *The Brooks Review*:
