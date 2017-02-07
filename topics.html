@@ -1,0 +1,36 @@
+---
+layout: page
+title: Topics
+exclude_from_search: true
+permalink: /topics/
+excerpt: Topics covered on The Bold Report.
+---
+
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tags_list = site_tags | split:',' | sort %}
+
+<ul class="tag-box inline">
+  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+    {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
+    <li><a href="#{{ this_word | downcase | replace:' ','-' }}">{{ this_word | titlecase }}</a></li>
+  {% endunless %}{% endfor %}
+</ul>
+
+{% for item in (0..site.tags.size) %}{% unless forloop.last %}
+  {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
+  <section class="tag__section" id="{{ this_word | downcase | replace:' ','-' }}">
+    <h2 class="tag__name">{{ this_word | titlecase }}<small class="tag__count">{{ site.tags[this_word].size }}</small></h2>
+    {% if this_word == 'brief review' %}<p>My series of reviews that I keep brief.</p>{% endif %}
+    {% if this_word == 'apple' %}<p>It’s not an Apple blog, but I sure do talk about them a lot.</p>{% endif %}
+    {% if this_word == 'jekyll' %}<p>This blog is built with it, so naturally I love to write about it.</p>{% endif %}
+    {% if this_word == 'jekyll on heroku' %}<p>Series on hosting Jekyll with Heroku.</p>{% endif %}
+    {% if this_word == 'automation heaven' %}<p>Series on learning to automate as much as possible.</p>{% endif %}
+    {% if this_word == 'star wars' %}<p>These <em>are</em> the words you’re looking for.</p>{% endif %}
+    <ul class="topic-list">
+    {% for post in site.tags[this_word] %}{% if post.title != null %}
+      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}{% endfor %}
+    </ul>
+    <a href="#page-title" class="tag__return-home">Back to Top &uarr;</a>
+  </section>
+{% endunless %}{% endfor %}
