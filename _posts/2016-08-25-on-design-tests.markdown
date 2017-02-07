@@ -4,9 +4,9 @@ title: On Design Tests
 categories: articles
 custom_type: post
 tags:
-  - Design
-  - Industry Issues
-  - Jobs
+  - design
+  - industry issues
+  - jobs
 date: 2016-08-25 11:11
 subtitle: Should you take them?
 ---

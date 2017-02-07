@@ -6,7 +6,7 @@ custom_type: link
 link_url: https://github.com/blog/2173-more-contributions-on-your-profile
 tags:
   - GitHub
-  - Tech
+  - tech
 date: 2016-05-25 00:03
 ---
 Sarah Vessels on the GitHub blog:

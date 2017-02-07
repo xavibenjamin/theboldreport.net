@@ -5,7 +5,7 @@ categories: links
 custom_type: link
 link_url: http://towermedia.org/ftr/0
 date: '2015-09-10 22:13:57'
-tags: Podcasts
+tags: podcasts
 ---
 The premiere of my new show, *For The Record*, is only a few days away! I'm so excited, and I really hope you like it. Until then, you can listen to the preview, and find out what I plan this show to be all about.
 

@@ -5,7 +5,7 @@ categories: link
 custom_type: link
 link_url: http://toolsandtoys.net/rocket-slack-style-emoji-everywhere-on-mac/
 tags:
-  - Apps
+  - apps
 date: 2016-09-08 15:15
 ---
 

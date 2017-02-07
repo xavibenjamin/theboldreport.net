@@ -6,11 +6,11 @@ custom_type: link
 link_url: https://medium.com/@taliajane/an-open-letter-to-my-ceo-fb73df021e7a#.yx2gy2uur
 date: 2016-02-22 08:30
 tags:
-  - Tech
-  - Yelp
+  - tech
+  - yelp
 ---
 
-Talia Jane: 
+Talia Jane:
 
 > Will you pay my phone bill for me? I just got a text from T-Mobile telling me my bill is due. I got paid yesterday ($733.24, bi-weekly) but I have to save as much of that as possible to pay my rent ($1245) for my apartment that’s 30 miles away from work because it was the cheapest place I could find that had access to the train, which costs me $5.65 one way to get to work. That’s $11.30 a day, by the way. I make $8.15 an hour after taxes. I also have to pay my gas and electric bill. Last month it was $120. According to the infograph on PG&E’s website, that cost was because I used my heater. I’ve since stopped using my heater. Have you ever slept fully clothed under several blankets just so you don’t get a cold and have to miss work? Have you ever drank a liter of water before going to bed so you could fall asleep without waking up a few hours later with stomach pains because the last time you ate was at work? I woke up today with stomach pains. I made myself a bowl of rice.
 >

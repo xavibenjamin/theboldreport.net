@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: https://medium.com/martiancraft-s-syndicate/what-is-the-apple-watch-good-for-6bf037638620#.ww47ojq8a
 tags:
-  - Apple Watch
-  - Tech
+  - apple watch
+  - tech
 date: 2016-04-27 08:48
 ---
 Richard Turton on *The Syndicate*:

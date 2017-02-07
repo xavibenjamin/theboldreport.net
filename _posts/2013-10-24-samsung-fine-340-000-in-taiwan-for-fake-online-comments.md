@@ -5,11 +5,12 @@ categories: links
 custom_type: link
 link_url: http://www.theverge.com/2013/10/24/5023658/samsung-fined-340000-for-posting-negative-htc-reviews
 tags:
-  - Samsung
+  - samsung
+  - tech
 date: '2013-10-24 11:06:11'
 ---
  Aaron Souppouris reporting for *The Verge*:
- 
+
 >After being caught paying for false praise and negative comments about competitors, Samsung has been fined just over $340,000. The issue first arose internationally in April, when Taiwan's Fair Trade Commission (FTC) announced it was opening an investigation into the allegations. That investigation found the allegations were true: the FTC says Samsung used a "large number of hired writers and designated employees" to post in Taiwanese forums.
 
 Embarrassing. But wait! There's more!

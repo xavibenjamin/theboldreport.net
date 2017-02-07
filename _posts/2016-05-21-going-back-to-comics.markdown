@@ -4,7 +4,7 @@ title: Going Back To Comics
 categories: articles
 custom_type: post
 tags:
-  - Comics
+  - comics
 date: 2016-05-21 23:24
 subtitle: Let's talk comic books!
 ---

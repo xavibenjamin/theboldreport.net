@@ -3,7 +3,7 @@ title: "My Brief Review of ‘Rogue One: A Star Wars Story’"
 custom_type: post
 categories: articles briefreview
 subtitle: The first of the non-saga <em>Star Wars</em> movies has finally come out, and I really liked it
-tags: [Star Wars, Brief Review, Movies]
+tags: [star wars, brief review, movies]
 date: 2016-12-16 22:29
 ---
 

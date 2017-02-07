@@ -2,7 +2,7 @@
 title: Five Ways to Automate Your Day One Journal with TextExpander | Day One Blog
 custom_type: link
 link_url: http://dayoneapp.com/2017/01/five-ways-to-automate-your-day-one-journal-with-textexpander/
-tags: [Automation, Day One, TextExpander]
+tags: [automation, day one, TextExpander]
 date: 2017-02-02 22:03
 ---
 Josh Ginter on the Day One Blog:

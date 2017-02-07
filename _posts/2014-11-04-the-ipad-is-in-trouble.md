@@ -5,6 +5,7 @@ categories: links
 custom_type: link
 link_url: http://www.subtraction.com/2014/10/28/ipad-at-a-crossroads/
 date: '2014-11-04 14:31:19'
+tags: [apple, iPad]
 ---
 Khoi Vinh on *Subtraction.com*:
 
@@ -16,4 +17,4 @@ The iPad has become a vital device for me, and many of my friends—not all in t
 
 > What will it take to get there? The short answer is a new commitment from Apple to this product line, and a willingness to reexamine the company’s entire approach to date.
 
-I hope Apple does the right thing. 
+I hope Apple does the right thing.

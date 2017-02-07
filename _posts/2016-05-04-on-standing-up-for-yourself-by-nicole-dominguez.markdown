@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: https://medium.com/@sodevious/on-standing-up-for-yourself-a56d87d977dc#.q3rt99z8m
 tags:
-  - Life
-  - Work
+  - life
+  - work
 date: 2016-05-04 22:45
 ---
 Nicole Dominguez:

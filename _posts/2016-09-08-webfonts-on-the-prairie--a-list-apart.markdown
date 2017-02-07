@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: http://alistapart.com/article/webfonts-on-the-prairie
 tags:
-  - Industry Issues
-  - Typography
+  - industry issues
+  - typography
 date: 2016-09-08 15:16
 ---
 Richard Fink on *A List Apart*:

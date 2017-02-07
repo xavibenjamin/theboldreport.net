@@ -5,7 +5,7 @@ categories: link
 custom_type: link
 link_url: http://cognition.happycog.com/article/what-will-they-say-about-me
 tags:
-  - Life
+  - life
 date: 2016-04-19 08:44
 ---
 Dan Delauro writes his thoughts at a funeral he attended:

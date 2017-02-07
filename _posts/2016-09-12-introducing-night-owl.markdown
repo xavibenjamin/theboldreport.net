@@ -5,8 +5,8 @@ categories: links
 custom_type: link
 link_url: https://nightowl.fm/
 tags:
-  - Podcasts
-  - Star Wars
+  - podcasts
+  - star wars
 date: 2016-09-12 13:35
 ---
 

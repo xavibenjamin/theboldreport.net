@@ -5,9 +5,9 @@ categories: link
 custom_type: link
 link_url: http://thesweetsetup.com/articles/apps-and-gear-for-summer-2016-edition/
 tags:
-- Apps
-- Gear
-- Tech
+  - apps
+  - gear
+  - tech
 date: 2016-06-28 09:10
 ---
 Chris Gonzales writing on *The Sweet Setup*:

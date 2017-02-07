@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: http://www.manton.org/2016/03/the-evolution-of-linkblogging.html
 tags:
-  - Blogging
-  - Linkblogging
+  - blogging
+  - linkblogging
 date: 2016-03-10 01:47
 ---
 Manton Reece:

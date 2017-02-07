@@ -5,6 +5,7 @@ categories: links
 custom_type: link
 link_url: http://shawnblanc.net/2014/12/the-special-aeropress/
 date: '2014-12-30 14:18:50'
+tags: [coffee]
 ---
 Shawn Blanc:
 

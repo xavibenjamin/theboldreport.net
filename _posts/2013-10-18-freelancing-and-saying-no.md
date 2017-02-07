@@ -4,8 +4,8 @@ title: 'Freelancing and Saying “No”'
 categories: articles
 custom_type: post
 tags:
-  - Freelancing
-  - Business
+  - freelancing
+  - business
 date: '2013-10-18 12:06:47'
 ---
 No. That word has been given lots of importance in our industry and rightly so. [Jason Santa Maria spoke about it](http://vimeo.com/53155584), [Julie Zhuo wrote about it](https://medium.com/the-year-of-the-looking-glass/23ad80bdfbc), and I’m sure you’ve read your fair share of articles on the topic.

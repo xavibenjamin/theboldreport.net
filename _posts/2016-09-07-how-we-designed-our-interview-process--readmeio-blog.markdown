@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: https://blog.readme.io/how-we-designed-our-interview-process/
 tags:
-  - Hiring
-  - Jobs
+  - hiring
+  - jobs
 date: 2016-09-07 09:22
 ---
 

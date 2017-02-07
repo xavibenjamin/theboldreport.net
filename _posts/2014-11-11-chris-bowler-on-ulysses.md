@@ -5,6 +5,7 @@ categories: links
 custom_type: link
 link_url: http://chrisbowler.com/journal/ulysses
 date: '2014-11-11 13:38:55'
+tags: [apps, ulysses]
 ---
 > Look and feel are important to me when writing. Ulysses and iA Writer both do this well. But I must admit I like that Ulysses allows me to organize my writing, as well as write. Where iA Writer has to be used in tandem with Finder, Ulysses works on its own.
 >

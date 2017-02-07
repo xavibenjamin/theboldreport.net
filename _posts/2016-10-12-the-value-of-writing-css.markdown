@@ -4,7 +4,7 @@ title: The Value of Writing CSS
 categories: link
 custom_type: link
 link_url: https://twitter.com/EliFitch/status/781248935562186753
-tags: [CSS, Development]
+tags: [CSS, development]
 date: 2016-10-12 10:23
 ---
 

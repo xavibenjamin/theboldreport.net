@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: https://css-tricks.com/emotionally-complicated-class-names/
 tags:
-  - Development
-  - Work
+  - development
+  - work
 date: 2016-09-06 12:27
 ---
 

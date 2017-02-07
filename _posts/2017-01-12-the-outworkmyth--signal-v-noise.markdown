@@ -2,7 +2,7 @@
 title: The Outwork Myth | Signal v. Noise
 custom_type: link
 link_url: https://m.signalvnoise.com/the-outwork-myth-4cd6536c225
-tags: [Work, Work/Life]
+tags: [work, work life]
 date: 2017-01-12 10:58
 ---
 Jason Fried:

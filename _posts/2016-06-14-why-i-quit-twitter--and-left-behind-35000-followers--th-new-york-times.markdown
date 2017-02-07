@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: http://www.nytimes.com/2016/06/10/insider/why-i-quit-twitter-and-left-behind-35000-followers.html
 tags:
-- Online Abuse
-- Twitter
+- online abuse
+- twitter
 date: 2016-06-14 10:49
 ---
 Jonathan Weisman writing for *The New York Times*:

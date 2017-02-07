@@ -2,7 +2,7 @@
 title: My Brief Review of the 2016 MacBook Pro with Touch Bar
 categories: articles briefreview
 custom_type: post
-tags: [MacBook Pro, Brief Review]
+tags: [MacBook pro, brief review]
 subtitle: Earlier this year, Apple updated its MacBook Pro. Here are my thoughts on the new computer
 date: 2016-12-20 15:19
 ---
@@ -16,7 +16,7 @@ For the first time since 2010, I went out and bought a brand new computer. I cho
 - Space gray is awesome. If Apple ever makes a matte black MacBook Pro, I will sign away my first-born.
 - The trackpad feels big. [Katie Floyd talked about having to contort her arm so that she doesn't accidentally click it](https://www.relay.fm/mpu/353), and I can relate a bit. I don't hate it, but the palm rejection needs to be better.
 - I didn't know the Touch ID sensor is also the power button.
-- The keyboard is better than the first-gen butterfly switches. Yes, there isn't much travel, but I don't mind it. I prefer a mechanical keyboard, but I don't hate using it when I'm just using the laptop on the couch (which is quite often). 
+- The keyboard is better than the first-gen butterfly switches. Yes, there isn't much travel, but I don't mind it. I prefer a mechanical keyboard, but I don't hate using it when I'm just using the laptop on the couch (which is quite often).
 - Calling the Touch Bar a gimmick is ignorant. At the moment, there aren't many things I wouldn't be able to do with a keyboard shortcut. As usual, I think we'll see third-party developers imagine new ways of using it that'll become more valuable to power users. For now, the actions in the Touch Bar are insanely useful to new Mac users.
 - The display is significantly brighter. I had my previous MacBook at full brightness, the current one is only at about seventy-five percent. It's beautiful.
 - I think USB-C is great. I was able to easily hook up to my Thunderbolt Display [via adapter](http://www.apple.com/shop/product/MMEL2AM/A/thunderbolt-3-usb-c-to-thunderbolt-2-adapter?fnode=85), and have access to all the other peripherals I needed. Very soon, we'll all be using USB-C stuff anyway.

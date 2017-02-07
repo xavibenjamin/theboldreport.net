@@ -6,7 +6,7 @@ custom_type: post
 slug: /iphone-6s-plus-brief-review/
 tags:
   - iPhone
-  - Brief Review
+  - brief review
 date: 2016-04-26 08:54
 subtitle: The iPhone 6s Plus is my favorite iPhone. I was hesitant, but I’m glad I decided to try it.
 ---

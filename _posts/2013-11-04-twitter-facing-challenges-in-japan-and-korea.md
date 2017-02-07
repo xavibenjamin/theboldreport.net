@@ -5,7 +5,9 @@ categories: links
 custom_type: link
 link_url: http://thenextweb.com/twitter/2013/11/04/twitter-is-facing-challenges-making-money-in-japan-and-korea
 tags:
-  - Twitter
+  - twitter
+  - tech
+  - business
 date: '2013-11-04 10:39:46'
 ---
 Reported on *The Next Web*:

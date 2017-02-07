@@ -6,7 +6,7 @@ custom_type: link
 link_url: https://thecauldron.si.com/truth-9ebb66ca8990?gi=86bd2dcf1c04
 tags:
   - NBA
-  - Sports
+  - sports
 date: 2016-03-22 09:10
 ---
 Derek Fisher:
@@ -15,4 +15,4 @@ Derek Fisher:
 
 Derek had such a quiet yet successful career, that I'm socked how noisy its been post-retirement. I love how he played. Derek was a team player and a great leader for the younger guys. I was sure he'd do some great things as head coach, and I still feel that's possible somewhere else. The Knicks have a lot of issues, and Fisher wasn't going to fix them all.
 
-If you were at all interested by why he was fired, or what happened with the whole Matt Barnes "situation," it's interesting to hear it straight from the person. 
+If you were at all interested by why he was fired, or what happened with the whole Matt Barnes "situation," it's interesting to hear it straight from the person.

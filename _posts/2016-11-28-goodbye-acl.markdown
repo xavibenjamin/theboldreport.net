@@ -3,7 +3,7 @@ layout: post
 title: Goodbye ACL
 categories: articles
 custom_type: post
-tags: [Jobs, Personal]
+tags: [jobs, personal]
 date: 2016-11-28 12:03
 subtitle: After almost two years at ACL, I’ve decided to move on.
 ---

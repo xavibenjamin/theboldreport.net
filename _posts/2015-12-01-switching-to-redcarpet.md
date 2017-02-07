@@ -4,7 +4,7 @@ title: Switching to Redcarpet
 categories: articles
 custom_type: post
 date: '2015-12-01 00:28:46'
-tags: [Development, Jekyll, Markdown]
+tags: [development, jekyll, markdown]
 ---
 I've always hated the way Jekyll uses liquid tags to highlight code snippets. I found a way to do this, which until today, I never knew existed.
 

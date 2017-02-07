@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: https://jonbellah.com/front-end-performance-tuning/
 tags:
-  - Development
-  - Web Performance
+  - development
+  - web performance
 date: 2016-03-16 02:04
 ---
 Jon Bellah:

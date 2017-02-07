@@ -5,9 +5,9 @@ title: "Display Spaces and The Dock"
 categories: articles
 custom_type: post
 tags:
-  - Dock
-  - Spaces
-  - Multiple Displays
+  - dock
+  - spaces
+  - multiple displays
 date: 2016-10-06 11:30
 subtitle: Apple is blowing it with multiple display user experience.
 ---

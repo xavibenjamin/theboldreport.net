@@ -4,7 +4,7 @@ title: Hello Again World by Jen Simmons
 categories: link
 custom_type: link
 link_url: http://jensimmons.com/post/nov-7-2016/hello-again-world
-tags: [Personal, Twitter]
+tags: [personal, twitter]
 date: 2016-11-09 12:05
 ---
 Jen Simmons:

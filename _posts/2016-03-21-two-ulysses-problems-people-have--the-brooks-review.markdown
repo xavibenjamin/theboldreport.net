@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: https://brooksreview.net/2016/03/ulysses-problems/
 tags:
-  - Ulysses
-  - Apps
+  - ulysses
+  - apps
 date: 2016-03-21 00:00
 ---
 Ben Brooks talks about some of the issues people have with Ulysses. [I have issues with it too](/2016/03/giving-up-on-ulysses/), if you hadn't heard. He mostly brushes them off as a non-issue, but it's an interesting read.

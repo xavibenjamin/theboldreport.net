@@ -2,7 +2,7 @@
 title: Front-End Style Guides, Behind the Scenes by Anna Debenham
 custom_type: link
 link_url: http://www.maban.co.uk/100
-tags: [Books, Publishing]
+tags: [books, publishing]
 date: 2017-01-11 16:38
 ---
 Anna Debenham:

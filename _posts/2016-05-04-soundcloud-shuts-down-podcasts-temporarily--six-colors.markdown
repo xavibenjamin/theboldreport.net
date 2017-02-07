@@ -5,7 +5,7 @@ categories: link
 custom_type: link
 link_url: https://sixcolors.com/link/2016/05/soundcloud-shuts-down-podcasts-temporarily/
 tags:
-  - Tech
+  - tech
 date: 2016-05-04 23:19
 ---
 Jason Snell writing on *Six Colors*:

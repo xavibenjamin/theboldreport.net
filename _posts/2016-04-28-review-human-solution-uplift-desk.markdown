@@ -4,8 +4,8 @@ title: 'Review: Human Solution Uplift Desk'
 categories: articles best
 custom_type: post
 tags:
-  - Furniture
-  - Review
+  - furniture
+  - review
 date: '2016-04-28 01:51'
 subtitle: Back in August of 2015, I decided to buy a standing desk. Here are some of my thoughts.
 ---

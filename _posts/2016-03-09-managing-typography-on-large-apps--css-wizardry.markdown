@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: http://csswizardry.com/2016/02/managing-typography-on-large-apps
 tags:
-  - Development
-  - Typography
+  - development
+  - typography
 date: 2016-03-09 09:09
 ---
 Harry Roberts:

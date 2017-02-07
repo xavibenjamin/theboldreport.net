@@ -5,8 +5,8 @@ categories: articles
 custom_type: post
 date: 2016-02-15 22:39
 tags:
-  - Personal
-  - Vacation
+  - personal
+  - vacation
 ---
 
 Dear Reader,

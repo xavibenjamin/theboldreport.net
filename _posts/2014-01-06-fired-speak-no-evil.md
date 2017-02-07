@@ -5,6 +5,7 @@ categories: links
 custom_type: link
 link_url: http://www.nytimes.com/2014/01/03/opinion/fired-speak-no-evil.html
 date: '2014-01-06 12:36:25'
+tags: [management, work]
 ---
 Will Blyte writing for *The New York Times*:
 

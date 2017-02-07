@@ -5,9 +5,8 @@ categories: link
 custom_type: link
 link_url: https://www.macstories.net/reviews/spark-launches-on-ipad/
 tags:
-  - MacStories
-  - Apps
-  - Review
+  - apps
+  - review
 date: 2016-03-01 07:18
 ---
 Federico Viticci:

@@ -4,7 +4,7 @@ title: iPad Test
 categories: articles
 custom_type: post
 date: 2016-01-04 10:56
-tags: [Development, Jekyll, iOS]
+tags: [development, jekyll, iOS]
 ---
 Dear Reader,
 

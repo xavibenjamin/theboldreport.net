@@ -5,8 +5,8 @@ categories: links
 custom_type: link
 link_url: http://www.loopinsight.com/2013/10/28/apple-reports-7-5-billion-fourth-quarter-profit/
 tags:
-  - Apple
-  - The Loop
+  - apple
+  - tech
 date: '2013-10-28 16:59:17'
 ---
 Jim Dalrymple on *The Loop*:

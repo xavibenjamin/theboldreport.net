@@ -1,11 +1,11 @@
 ---
 layout: post
 author: keatontaylor
-title: New Policies for iOS | Webkit Blog 
+title: New Policies for iOS | Webkit Blog
 categories: link
 custom_type: link
 link_url: https://webkit.org/blog/6784/new-video-policies-for-ios/
-tags: [Video, Development]
+tags: [video, development]
 date: 2016-09-21 2:54
 ---
 
@@ -18,4 +18,4 @@ This is an older piece of news but became relevant to me recently. For folks wor
 * No Audio track or `<video muted>`
 * Elements will only play when visible in the viewport
 
-Additionally, the `play()` method will be supported and `<video playsinline>` will act as expected. A lot of good news for video marketing on the mobile platform. 
+Additionally, the `play()` method will be supported and `<video playsinline>` will act as expected. A lot of good news for video marketing on the mobile platform.

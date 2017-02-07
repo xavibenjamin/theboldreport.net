@@ -5,6 +5,7 @@ categories: links
 custom_type: link
 link_url: http://thewebahead.net
 date: '2015-02-11 10:53:17'
+tags: [design, podcasts]
 ---
 Have you listened to The Web Ahead? If you work on the web, and you haven't, you're monumentally missing out. The Web Ahead is a great show where Jen Simmons talks to some of the smartest people in our industry, and sparks conversations about web technologies like no one else can.
 

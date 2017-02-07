@@ -5,7 +5,7 @@ categories: link
 custom_type: link
 link_url: http://fortune.com/2016/03/27/netflix-predicts-taste/
 tags:
-  - Netflix
+  - netflix
 date: 2016-04-19 08:45
 ---
 This one is from a while ago, but still fascinating. David Z. Morris writing for *Fortune*:

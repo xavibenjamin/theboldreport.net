@@ -5,6 +5,7 @@ categories: links
 custom_type: link
 link_url: http://boingboing.net/2014/10/29/woman-who-documented-sexual-ha.html
 date: '2014-10-29 17:12:35'
+tags: [harassment, sexual harassment]
 ---
 Cory Doctorow reporting for *Boing Boing*:
 

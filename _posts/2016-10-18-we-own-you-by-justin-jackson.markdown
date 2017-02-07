@@ -4,7 +4,7 @@ title: We own you by Justin Jackson
 categories: link
 custom_type: link
 link_url: https://medium.com/mega-maker/we-own-you-9a97819ad292
-tags: [Jobs, Work, Work/Life]
+tags: [jobs, work, work life]
 date: 2016-10-18 11:57
 ---
 Justin Jackson:

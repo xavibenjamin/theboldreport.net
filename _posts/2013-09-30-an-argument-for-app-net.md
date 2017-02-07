@@ -5,6 +5,7 @@ categories: links
 custom_type: link
 link_url: http://www.chrisenns.com/2013/09/favd/
 date: '2013-09-30 16:17:17'
+tags: [App.net, tech]
 ---
 Chris Enns:
 

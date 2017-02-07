@@ -2,7 +2,7 @@
 title: "Senior vs. Junior Thinker by Helen Tran"
 custom_type: link
 link_url: http://helentran.com/senior-vs-junior-thinker
-tags: [Design]
+tags: [design]
 date: 2017-01-11 18:52
 ---
 Helen Tran on how Senior Designers identify a problem differently from Junior Designers:

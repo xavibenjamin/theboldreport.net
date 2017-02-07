@@ -1,7 +1,7 @@
 ---
 title: My Favorite Star Wars Movies
 custom_type: post
-tags: [Star Wars, Movies]
+tags: [star wars, movies]
 date: 2016-12-26 02:09
 ---
 

@@ -28,6 +28,10 @@ body {
   font-family: 'Whitney SSm A', 'Whitney SSm B', system, -apple-system, BlinkMacSystemFont, Avenir, sans-serif;
 }
 
+%sans-small {
+  font-family: 'Whitney SSm Small A', 'Whitney SSm Small B', system, -apple-system, BlinkMacSystemFont, Avenir, sans-serif;
+}
+
 %sans-con {
   font-family: 'Whitney Cond A', 'Whitney Cond B', system, -apple-system, BlinkMacSystemFont, Avenir, sans-serif;
 }
@@ -223,6 +227,10 @@ sup {
       background: lighten($link-color, 40%);
     }
   }
+}
+
+.caps {
+  @extend %sans-small;
 }
 
 // BLOCKQUOTE --------------------

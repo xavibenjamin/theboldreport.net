@@ -5,9 +5,9 @@ categories: link
 custom_type: link
 link_url: http://playstationinsider.com/2016/07/lego-star-wars-the-force-awakens-review-ps4/
 tags:
-  - Star Wars
+  - star wars
   - PS4
-  - Video Games
+  - video games
 date: 2016-07-25 08:53
 ---
 Logan Moore writing for *PlayStation Insider*:

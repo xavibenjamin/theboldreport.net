@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: https://medium.com/@fox/building-remote-first-teams-a98bf8581db
 tags:
-  - Remote Work
-  - Work
+  - remote work
+  - work
 date: 2016-05-16 11:24
 ---
 Karolina Szczur on "I can’t get this ASAP," one of the excuses against remote work:

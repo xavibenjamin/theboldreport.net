@@ -4,6 +4,7 @@ title: 'Updating My RSS Setup'
 categories: articles
 custom_type: post
 date: '2014-01-06 12:49:32'
+tags: [RSS, reading, apps]
 ---
 Back in June, I wrote [a post on my RSS consumption setup](https://ttimsmith.com/2013/06/a-new-rss-setup). The setup has changed a little, so I wanted to write an updated version that I can point people to.
 

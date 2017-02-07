@@ -20,7 +20,7 @@ excerpt: The Bold Report is a personal blog written by Tim Smith about design, d
         </header><!-- /.post__header -->
 
         <div class="post__entry">
-          {{ post.content }}
+          {{ post.content | improve }}
         </div><!-- /.post__entry -->
 
         <div class="post__closer">
@@ -39,7 +39,7 @@ excerpt: The Bold Report is a personal blog written by Tim Smith about design, d
 
 
         <div class="post__entry">
-          {{ post.content }}
+          {{ post.content | improve }}
         </div><!-- /.post__entry -->
 
       {% elsif post.custom_type == 'artdirect' %}

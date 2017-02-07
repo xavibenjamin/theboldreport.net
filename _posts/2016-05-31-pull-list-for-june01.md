@@ -4,8 +4,8 @@ title: "Pull List for June 1, 2016"
 categories: articles
 custom_type: post
 tags:
-- Comics
-- Pull List
+  - comics
+  - pull list
 date: 2016-05-31 12:04
 subtitle: Comics I’m picking up this week.
 ---

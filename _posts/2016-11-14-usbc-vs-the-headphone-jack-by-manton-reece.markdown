@@ -4,7 +4,7 @@ title: "USB-C vs. the Headphone Jack by Manton Reece"
 categories: link
 custom_type: link
 link_url: http://www.manton.org/2016/11/usb-c-vs-the-headphone-jack.html
-tags: [Apple, Headphone Jack, Tech]
+tags: [apple, headphone jack, tech]
 date: 2016-11-14 14:57
 ---
 Manton Reece on whether Apple's decision to move away from USB-A and the 3.5mm headphone jack are the same:

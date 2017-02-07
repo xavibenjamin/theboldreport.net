@@ -1,7 +1,7 @@
 ---
 title: Jenn Schiffer's Awesome XOXO Talk
 custom_type: post
-tags: [Industry Issues, Talks]
+tags: [industry issues, talks]
 date: 2017-01-18 07:55
 ---
 

@@ -6,7 +6,7 @@ custom_type: link
 link_url: https://robots.thoughtbot.com/you-don-t-need-javascript-for-that
 tags:
 - CSS
-- Development
+- development
 date: 2016-06-01 09:27
 ---
 Cristina Silva on the Thoughtbot Blog:

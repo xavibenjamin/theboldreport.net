@@ -6,7 +6,7 @@ custom_type: link
 link_url: http://cognition.happycog.com/article/expressive-type-for-copy-blocks
 tags:
   - CSS
-  - Development
+  - development
 date: 2016-03-09 09:07
 ---
 Mark Huot tells the story of overriding poorly written defaults:

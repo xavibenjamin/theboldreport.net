@@ -5,6 +5,7 @@ categories: links
 custom_type: link
 link_url: http://sam.roon.io/value-of-beta
 date: '2014-11-05 12:12:38'
+tags: [apps, markdown]
 ---
 [Whiskey](http://usewhiskey.com/) is a new Markdown editor that Sam has been working on. I got in on the beta quite early because I love his work. Whiskey is looking to be an awesome app, and Sam has been updating almost daily recently.
 

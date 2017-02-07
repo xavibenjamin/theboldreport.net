@@ -3,8 +3,9 @@
     {% if include.text %}
       Tags:
     {% endif %}
-    {% for tag in page.tags %}
-      <a href="{{ site.url }}/topics/#{{ tag | downcase | replace:' ','-'}}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% if forloop.last %}{% else %}, {% endif %}
+    {% assign sortedTags = page.tags | sort %}
+    {% for tag in sortedTags %}
+      <a href="{{ site.url }}/topics/#{{ tag | downcase | replace:' ','-'}}" title="Pages tagged {{ tag }}">{{ tag | titlecase }}</a>{% if forloop.last %}{% else %}, {% endif %}
     {% endfor %}
   </span>
 {% endif %}

@@ -5,7 +5,7 @@ categories: link
 custom_type: link
 link_url: https://nylas.com/blog/nylas-pro/
 tags:
-  - Apps
+  - apps
 date: 2016-04-26 08:53
 ---
 Michael Grinich on the Nylas Blog:

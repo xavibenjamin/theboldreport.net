@@ -5,7 +5,7 @@ categories: link
 custom_type: link
 link_url: http://www.macworld.com/article/3115792/ios/hey-apple-it-s-time-to-rethink-icloud.html
 tags:
-  - Apple
+  - apple
   - iCloud
   - iOS
 date: 2016-09-09 11:19

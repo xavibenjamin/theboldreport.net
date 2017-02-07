@@ -5,8 +5,8 @@ categories: articles best
 custom_type: post
 tags:
   - 1Password
-  - Apps
-  - Review
+  - apps
+  - review
 ---
 
 [1Password](https://agilebits.com/onepassword) is one of my favorite apps. The amount of time it has saved me is unmeasurable, and it's made my password strategy secure and delightful.

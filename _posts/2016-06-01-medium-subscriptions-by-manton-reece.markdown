@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: http://www.manton.org/2016/05/medium-subscriptions.html
 tags:
-- Publishing
-- Writing
+- publishing
+- writing
 date: 2016-06-01 09:32
 ---
 Manton Reece:

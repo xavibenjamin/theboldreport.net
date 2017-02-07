@@ -5,7 +5,7 @@ categories: link
 custom_type: link
 link_url: http://lesseverything.com/blog/archives/2016/05/10/lets-be-honest-you-really-dont-want-it/
 tags:
-- Work/Life
+- work life
 date: 2016-06-06 09:02
 ---
 Allan Branch:

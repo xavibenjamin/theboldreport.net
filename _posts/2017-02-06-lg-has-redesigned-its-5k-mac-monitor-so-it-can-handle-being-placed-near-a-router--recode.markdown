@@ -2,7 +2,7 @@
 title: LG Has Redesigned Its 5K Mac Monitor So It Can Handle Being Placed Near a Router | Recode
 custom_type: link
 link_url: http://www.recode.net/2017/2/3/14496056/lg-redesigned-5k-monitor-glitch
-tags: [Apple, LG Ultrafine 5k, Displays]
+tags: [apple, LG ultrafine 5K, displays]
 date: 2017-02-06 14:22
 ---
 Ina Fried reporting for *Recode*:

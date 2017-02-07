@@ -5,8 +5,8 @@ categories: articles
 custom_type: post
 date: '2016-02-22 00:38:25'
 tags:
-  - Personal
-  - Vacation
+  - personal
+  - vacation
 subtitle: My island vacation is over.
 ---
 <figure class="photo-grid">

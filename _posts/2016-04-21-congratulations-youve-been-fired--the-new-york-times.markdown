@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: http://www.nytimes.com/2016/04/10/opinion/sunday/congratulations-youve-been-fired.html
 tags:
-  - Industry Issues
-  - Work
+  - industry issues
+  - work
 date: 2016-04-21 00:43
 ---
 Dan Lyons writing for *The New York Times*:

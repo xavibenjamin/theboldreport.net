@@ -3,7 +3,7 @@ title: Automating Deeper With Keyboard Maestro | Six Colors
 custom_type: link
 link_url: https://sixcolors.com/post/2017/01/automating-deeper-with-keyboard-maestro/
 date: 2017-02-02 17:07
-tags: [Automation, Keyboard Maestro]
+tags: [automation, keyboard maestro]
 ---
 Jason Snell on *Six Colors*:
 

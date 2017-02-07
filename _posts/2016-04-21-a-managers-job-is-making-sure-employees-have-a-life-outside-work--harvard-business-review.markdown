@@ -5,8 +5,8 @@ categories: link
 custom_type: link
 link_url: https://hbr.org/2016/03/a-managers-job-is-making-sure-employees-have-a-life-outside-work
 tags:
-  - Business
-  - Work
+  - business
+  - work
 date: 2016-04-21 00:44
 ---
 Arjun Dev Arora and Raman Frey writing for the *Harvard Business Review*:
@@ -17,4 +17,4 @@ I don't think its humanly possibly to agree harder with this paragraph. Some are
 
 [^1]:  Try saying that five times fast. Don't be embarrassed, I tried too.
 
-> A mean boss may get short-term results, but sows the seeds for long-term systemic failure, as has been shown by Stanford’s [Emma Seppala](https://hbr.org/2014/11/the-hard-data-on-being-a-nice-boss) and Georgetown School of Business’s [Christine Porath](https://hbr.org/2013/01/the-price-of-incivility/ar/1) in [her research](http://www.nytimes.com/2015/06/21/opinion/sunday/is-your-boss-mean.html?_r=4). 
+> A mean boss may get short-term results, but sows the seeds for long-term systemic failure, as has been shown by Stanford’s [Emma Seppala](https://hbr.org/2014/11/the-hard-data-on-being-a-nice-boss) and Georgetown School of Business’s [Christine Porath](https://hbr.org/2013/01/the-price-of-incivility/ar/1) in [her research](http://www.nytimes.com/2015/06/21/opinion/sunday/is-your-boss-mean.html?_r=4).

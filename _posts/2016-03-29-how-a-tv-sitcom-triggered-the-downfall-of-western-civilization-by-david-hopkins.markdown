@@ -5,7 +5,7 @@ categories: link
 custom_type: link
 link_url: https://medium.com/@thatdavidhopkins/how-a-tv-sitcom-triggered-the-downfall-of-western-civilization-336e8ccf7dd0
 tags:
-  - Philosophy
+  - philosophy
   - TV
 date: 2016-03-29 09:06
 ---

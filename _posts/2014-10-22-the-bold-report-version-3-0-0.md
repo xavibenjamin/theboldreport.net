@@ -4,6 +4,7 @@ title: ' The Bold Report Version 3.0.0'
 categories: articles
 custom_type: post
 date: '2014-10-22 11:39:03'
+tags: [from the editor, site news]
 ---
 Hi Reader,
 
