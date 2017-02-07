@@ -11,13 +11,13 @@ date: 2017-02-06 08:57
 
 One of the reasons I love technology is tinkering with it to make my life easier. I'm constantly automating tasks so I can either do them faster, or not have to worry about them at all. I felt writing a series on automation would be a lot of fun, not only because I *love* to geek out about stuff like this, but it might also be helpful to you.
 
-For our first exploration into automation, we'll start with [TextExpander](!g). For those of you who don't know, TextExpander is an app that expands custom keyboard shortcuts into text or images. For example, you could type `;home`, and it would expand into your full home address. A simple example, but I'm sure you can see how helpful it would be over time.
+For our first exploration into automation, we'll start with [TextExpander][6508-0001]. For those of you who don't know, TextExpander is an app that expands custom keyboard shortcuts into text or images. For example, you could type `;home`, and it would expand into your full home address. A simple example, but I'm sure you can see how helpful it would be over time.
 
 What's greater, I can use TextExpander anywhere: on my Mac, iPad, and iPhone. Heck, TextExpander is on Windows too. With that in mind, I'd love to share some of my favorite TextExpander snippets.
 
 ## Day One
 
-[Day One](!g "Day One App") is an excellent journaling app. I love to keep a daily journal, as well as movie and restaurant reviews. In fact, together with [IFTTT](!g) I automatically import Swarm check-ins and Instagram Photos, but that's for another article.
+[Day One][6508-0002] is an excellent journaling app. I love to keep a daily journal, as well as movie and restaurant reviews. In fact, together with [IFTTT][6508-0003] I automatically import Swarm check-ins and Instagram Photos, but that's for another article.
 
 By typing `;foodreview`, I get a form that asks me if I'd go back, how pricey the restaurant was, who I went with, what I ordered, and a general summary.
 
@@ -35,7 +35,7 @@ My last Day One snippet is an end of the day summary. I downloaded this snippet 
 
 ## Jekyll
 
-For all the work that I do with [Jekyll](!g "jekyllrb"), you might be shocked to hear that I only have one snippet in this category. I probably need more, but I haven't figured them out yet. The one I do have though, is `;jdate`. This simple snippet expands into the date format needed in Jekyll posts, which looks like this:
+For all the work that I do with [Jekyll][6508-0004], you might be shocked to hear that I only have one snippet in this category. I probably need more, but I haven't figured them out yet. The one I do have though, is `;jdate`. This simple snippet expands into the date format needed in Jekyll posts, which looks like this:
 
 ```yaml
 # YEAR-MONTH-DAY HOUR:MINUTE (using the 24 hour clock)
@@ -52,7 +52,7 @@ Another use for this group is making it easier to type out modifier key symbols.
 
 ## Code
 
-When it comes to writing code, autocompletion has come a long way. I had to whiteboard a week ago, and realized I'm useless without my code editor. [Atom](!g "atom code editor") autocompletes everything for me. [Emmet](!g "Emmet io") is a huge help too. *However*, the one coding snippet I use is to create a comment block in SCSS. By typing `;bcomm`, it expands into this:
+When it comes to writing code, autocompletion has come a long way. I had to whiteboard a week ago, and realized I'm useless without my code editor. [Atom][6508-0005] autocompletes everything for me. [Emmet][6508-0006] is a huge help too. *However*, the one coding snippet I use is to create a comment block in SCSS. By typing `;bcomm`, it expands into this:
 
 ```scss
 // -------------------------------
@@ -73,3 +73,10 @@ I also have one for 🖖🏼 (probably my most used emoji), which is just `:spoc
 These are just *some* of my uses for TextExpander. The possibilities are endless, and I hope you see the ways you'd use it.
 
 If you enjoyed this post and would like to talk more about TextExpander, have questions, or share all the cool ways you use it, [send an email to tim@theboldreport.net](mailto:tim@theboldreport.net).
+
+[6508-0001]: https://smilesoftware.com/textexpander
+[6508-0002]: http://dayoneapp.com
+[6508-0003]: https://ifttt.com/
+[6508-0004]: http://jekyllrb.com/
+[6508-0005]: https://atom.io/
+[6508-0006]: http://emmet.io/download/
