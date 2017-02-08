@@ -37,29 +37,31 @@
 </footer>
 
 <!-- JS libraries -->
-<script>
-  {% asset 'app' %}
+{% js 'app' %}
 
-  {% if page.fittext %}
-    {% asset 'fittext' %}
+{% if page.fittext %}
+  <script>
+  {% asset 'fittext' %}
 
-    jQuery(document).ready(function($) {
-      $(".post__title").fitText();
-    });
-  {% endif %}
+  jQuery(document).ready(function($) {
+    $(".post__title").fitText();
+  });
+  </script>
+{% endif %}
 
-  {% if page.lettering == 'reg' %}
+{% if page.lettering == 'reg' %}
+  <script>
+  {% asset 'lettering' %}
+  jQuery(document).ready(function($) {
+    $(".post__title").lettering();
+  });
+  {% elsif page.lettering == 'words' %}
     {% asset 'lettering' %}
     jQuery(document).ready(function($) {
-      $(".post__title").lettering();
+      $(".post__title").lettering('words');
     });
-    {% elsif page.lettering == 'words' %}
-      {% asset 'lettering' %}
-      jQuery(document).ready(function($) {
-        $(".post__title").lettering('words');
-      });
-  {% endif %}
-</script>
+  </script>
+{% endif %}
 
 {% js 'vendor/lunr.min' %}
 <script type="text/javascript" src="/search.js"></script>
@@ -72,7 +74,6 @@
 
   ga('create', 'UA-43045564-2', 'auto');
   ga('send', 'pageview');
-
 </script>
 
 {% if page.artdirect_typo %}

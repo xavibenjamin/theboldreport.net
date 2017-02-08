@@ -31,6 +31,7 @@ custom_css_class: single
       </section>
 
       <footer class="post__footer">
+        {% include social-links.html %}
         {% if page.tags %}
           {% include tags.html text="yes" %}
         {% endif %}
@@ -53,12 +54,13 @@ custom_css_class: single
         {{ content | improve }}
       </div>
 
-      {% if page.tags.size >= 1 or site.related_posts >= 1 %}
+
         <footer class="post__footer">
+          {% include social-links.html %}
           {% include tags.html text="yes" %}
           {% include related-posts.html %}
         </footer>
-      {% endif %}
+
 
     {% endif %}
   </article>
