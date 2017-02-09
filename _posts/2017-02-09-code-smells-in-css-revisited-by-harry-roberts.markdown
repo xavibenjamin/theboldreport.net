@@ -3,6 +3,7 @@ title: Code Smells in CSS Revisited by Harry Roberts
 custom_type: link
 link_url: https://csswizardry.com/2017/02/code-smells-in-css-revisited/
 tags: [CSS, development]
+date: 2017-02-09 17:08
 ---
 Harry Roberts:
 
