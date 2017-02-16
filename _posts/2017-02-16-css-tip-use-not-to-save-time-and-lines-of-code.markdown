@@ -19,9 +19,9 @@ Why didn't I think of this earlier? This small thing saves so much time and line
 <ul class="posts">
   <li class="post">
     <a href="/link-to-post/" title="Permalink to post">
-  	  <h2>Post Title</h2>
-  	  <small>Thurs, Feb 16, 2017<small>
-  	</a>
+      <h2>Post Title</h2>
+      <small>Thurs, Feb 16, 2017<small>
+    </a>
   </li>
 </ul>
 ```
