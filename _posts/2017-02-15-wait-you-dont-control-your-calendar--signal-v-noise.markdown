@@ -19,4 +19,4 @@ Almost every place that I've worked for had no respect for my time. If you get a
 
 The problem comes in practice. "Meetings helps us all get on the same page." Yea, well we could do that in Slack or Basecamp. Next excuse. "There's nothing like face-to-face time to talk things out." Uhhh… yea there is. Hours of productive time where I can actually do the work you pay me for.
 
-But hey! What do I care? I don't work full-time anymore. Thankfully, I don't worry about this crap anymore.
+But hey! What do I care? I don't work full-time anymore. Thankfully, this type of crap doesn't stress me out these days.
