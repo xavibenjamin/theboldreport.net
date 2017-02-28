@@ -2,7 +2,7 @@
 title: MacBook Pro Running Hot
 author: tjdraper
 custom_type: post
-tags: [MacBook Pro, Heat Issues, Computer Performance]
+tags: [MacBook Pro, heat issues, computer performance]
 date: 2017-02-28 9:30
 ---
 
