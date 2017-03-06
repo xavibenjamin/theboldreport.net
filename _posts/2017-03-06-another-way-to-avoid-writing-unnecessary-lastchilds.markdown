@@ -6,11 +6,11 @@ tags: [CSS, development]
 date: 2017-03-06 14:53
 ---
 
-About two weeks ago, I wrote a post on how you [can use `:not` in your CSS to simplify your life](https://theboldreport.net/2017/02/css-tip-use-not-to-save-time-and-lines-of-code/). Lots of people really liked the article, and I'm so glad! This method is pretty awesome.
+About two weeks ago, I wrote a post on how you [can use `:not` in your CSS to simplify life](https://theboldreport.net/2017/02/css-tip-use-not-to-save-time-and-lines-of-code/). Lots of people really liked the article, and I'm so glad! This method is pretty awesome.
 
-One of our readers, [Miler](acidrums4.github.io), wrote in to point me to [this article that talks about the "lobotomized owl selector"](https://alistapart.com/article/axiomatic-css-and-lobotomized-owls). Funny name, but a fascinating approach, and quite honestly, way better.
+One of our readers, [Miler](http://acidrums4.github.io), wrote in to point me to [this article that talks about the "lobotomized owl selector"](https://alistapart.com/article/axiomatic-css-and-lobotomized-owls). Funny name, but a fascinating approach, and quite honestly, way better.
 
-In short, Heydon Pickering advises the following:
+In short, [Heydon Pickering](http://www.heydonworks.com/) advises the following:
 
 ```scss
 * + * {
