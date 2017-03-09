@@ -6,17 +6,15 @@ tags: [MacBook Pro, heat issues, computer performance]
 date: 2017-02-28 9:30
 ---
 
-I've had an interesting history with my MacBook Pros. Most of them have needed to go in for service and have the logic board replaced under warranty or recall at some point during their lifecycle. Call me naive or whatever, but I have had a big breakthrough in the last few days that may make this a thing of the past.
+I've had an interesting history with my MacBook Pros. Most of them have needed to go in for service and have the logic board replaced under warranty or recall at some point during their lifecycle. Call me naive or whatever, but I've had a big breakthrough in the last few days that may make this a thing of the past.
 
 ## Performance Issues
 
-My current MacBook pro is one generation old since the Touch Bar MacBook pros were released. I picked it up in late 2015 so it's around a year and a half "young" now. Late last year I started having performance issues with my MacBook. At times it would just feel so sluggish. Writing code (as I do) was painful because the computer was so sluggish my text editor could not keep up with me. I work in an IDE a lot that does a lot of code evaluation and makes me aware of issues or problems, lints my code etc. That was even more painful. Sometimes I would shut my system down and wait 5 minutes and come back. That would often fix the issue for a bit.
+My current MacBook Pro is one generation old since the Touch Bar MacBook Pros were released. I picked it up in late 2015 so it's around a year and a half "young" now. Late last year I started having performance issues with my MacBook. At times it would feel sluggish. Writing code (as I do) was painful. The computer was so sluggish, my text editor couldn't keep up with me. I usually work in an IDE that does a lot of code evaluation and makes me aware of issues or problems, lints my code etc. That was even more painful. Sometimes I'd shut my system down and wait 5 minutes and come back. That would often fix the issue for a bit.
 
-The issues have continued to increase in intensity so that it had become very hard to be efficient and get work done.
+The issues have continued to the point where it's difficult to get work done. One thing I noticed was that this mostly happened when I had an external display plugged in, as I often do.
 
-One thing I noticed was that this mostly only happened when I had an external display plugged in, as I often do. Okay, most of the time I'm at my desk and so I do.
-
-I began to suspect problems with my GPU and I've been on the verge of taking the computer in to the genius bar. The trouble is that the genius bar is so hit or miss these days. To top it off, I was not confident in being able to replicate the problem for the technicians.
+I began to suspect problems with my GPU and I've been on the verge of taking the computer in to the genius bar. The genius bar is so hit or miss these days though. To top it off, I wasn't confident I could replicate the problem for the technicians.
 
 ## Monitoring System Temperature
 
