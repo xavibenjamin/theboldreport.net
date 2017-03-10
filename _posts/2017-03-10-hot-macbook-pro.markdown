@@ -1,9 +1,10 @@
 ---
 title: MacBook Pro Running Hot
+subtitle: How to improve performance and prevent early death
 author: tjdraper
 custom_type: post
 tags: [MacBook Pro, heat issues, computer performance]
-date: 2017-03-09 21:54
+date: 2017-03-10 10:30
 ---
 
 I've had an interesting history with my MacBook Pros. Most of them have needed to go in for service and have the logic board replaced under warranty or recall at some point during their lifecycle. Call me naive or whatever, but I've had a big breakthrough in the last few days that may make this a thing of the past.
