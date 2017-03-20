@@ -10,7 +10,7 @@ I saw [this tweet from Matt Griffin](https://twitter.com/elefontpress/status/832
 
 Mind. Blown.
 
-![mind blown](http://i.giphy.com/5xtDarqXOu5UrURdjgI.gif)
+![mind blown](//i.giphy.com/5xtDarqXOu5UrURdjgI.gif)
 
 Why didn't I think of this earlier? This small thing saves so much time and lines of code. Let me explain. Let's say you're styling a list of posts.
 

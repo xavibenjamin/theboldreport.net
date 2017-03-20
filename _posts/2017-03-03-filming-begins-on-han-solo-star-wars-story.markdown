@@ -13,6 +13,6 @@ Here's another one I missed while [under the weather](https://theboldreport.net/
 
 How exciting! I love how all these spin-offs are exploring backstory we'd never known before. Together with the announcement was the first cast photo too.
 
-![First cast photo of the Han Solo movie](http://a.dilcdn.com/bl/wp-content/uploads/sites/6/2017/02/han-solo-cast-photo.jpg)
+![First cast photo of the Han Solo movie](https://a.dilcdn.com/bl/wp-content/uploads/sites/6/2017/02/han-solo-cast-photo.jpg)
 
 The Han Solo movie comes out May 25, 2018.
