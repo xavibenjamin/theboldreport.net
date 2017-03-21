@@ -1,6 +1,7 @@
 ---
 title: Available for Work as of April 3
 custom_type: post
+date: 2017-03-21 15:30
 ---
 
 Hi Everyone!
