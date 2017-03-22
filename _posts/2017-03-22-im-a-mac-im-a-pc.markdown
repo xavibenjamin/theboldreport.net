@@ -4,7 +4,7 @@ subtitle: I don't know who I am any more
 author: tjdraper
 custom_type: post
 tags: [Mac, macOS, Windows, Windows 10, Microsoft]
-date: 2017-03-20 10:30
+date: 2017-03-22 15:30
 ---
 
 *Or, an alternate sub-title: A long time Mac user and web developer's perspective on the current state of Windows vs. macOS*
