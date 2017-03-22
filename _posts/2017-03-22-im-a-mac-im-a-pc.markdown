@@ -46,7 +46,7 @@ I found that, more often than not, I preferred to use the mouse to hover over th
 
 On macOS, the steps for me to find the right window are much easier and don't involve the mouse. `Cmd + Tab` to the correct application (which is much easier to identify because of the large application icons in the switcher preview), then if necessary, `Cmd + ~` to the correct window in that application.
 
-### Where Windows window management is better
+### Where Windows Window Management Is Better
 
 I did find however, that I _far_ prefer Windows full screen and split screen apps. The Maximize button in Windows **always** makes the window take up the full amount of the current display, but **does not** take it out of the windowing layer and environment. The green button on macOS has had a long history of not really working well (for me at least) but it got way worse with the macOS implementation of full screen. Nowadays, when you click that green button on a Mac, the window does fill the screen, but it slides over into it's own environment and is taken out of the windowing layer and environment. You can't use the show desktop function of Mission Control, it's hard to access the dock, other applications are no longer within the windowing layer. macOS just makes all this frustrating. I found Windows' maximize extremely refreshing. As a bonus, if you drag a window up and touch the top of the screen with your mouse and let go, the window will maximize[^maximizekeyboard].
 
