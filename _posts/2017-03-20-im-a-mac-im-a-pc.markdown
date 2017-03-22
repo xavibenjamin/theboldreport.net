@@ -3,7 +3,7 @@ title: Hello, I'm a Mac. And I'm a PC
 subtitle: I don't know who I am any more
 author: tjdraper
 custom_type: post
-tags: [Mac, macOS, Window, Windows 10, Microsoft]
+tags: [Mac, macOS, Windows, Windows 10, Microsoft]
 date: 2017-03-20 10:30
 ---
 
