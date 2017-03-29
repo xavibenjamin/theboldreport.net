@@ -11,7 +11,7 @@ Dave wrote this the day I went to Vegas and I haven't had time to write about it
 >
 > This works great until the client asks for the images and video to go full bleed. Your universal padding solution no longer works well.
 
-Uncle Dave's solution for this is pretty great. Visually, this the same type of effect I wanted for this site. So in an exercise of self-shame, let's [look at the selector that makes it all work](https://github.com/smithtimmytim/theboldreport.net/blob/master/_assets/stylesheets/_layout/_maincontent.scss#L429)!
+Uncle Dave's solution for this is pretty great. Visually, this is the type of layout I wanted for this site. So in an exercise of self-shame, let's [look at the selector that makes it all work](https://github.com/smithtimmytim/theboldreport.net/blob/master/_assets/stylesheets/_layout/_maincontent.scss#L429)!
 
 ```scss
 h1,
