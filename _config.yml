@@ -6,6 +6,7 @@ timezone: America/Chicago
 permalink: /:year/:month/:title/
 paginate: 10
 exclude: ['README.md', 'Rakefile', 'Gemfile', 'Gemfile.lock', '.asset-cache']
+include: ['_redirects']
 lunr_excludes: ['atom.xml', 'atom.articles.xml', 'sitemap.xml']
 
 # Where Things Are
