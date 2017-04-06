@@ -1,7 +1,7 @@
 ---
 title: Is a Switch to Windows My Inevitable Future?
 subtitle: Thoughts on my visit to a Windows store and Apple's Mac Pro announcement
-custom_type: link
+custom_type: post
 tags: [apple, mac pro, microsoft]
 date: 2017-04-06 12:02
 ---
