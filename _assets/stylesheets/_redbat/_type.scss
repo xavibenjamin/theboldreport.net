@@ -280,6 +280,7 @@ hr {
 a {
   color: $link-color;
   text-decoration: underline;
+  text-decoration-skip: ink;
   transition: color .2s ease-in-out;
   &:hover,
   &:focus {
