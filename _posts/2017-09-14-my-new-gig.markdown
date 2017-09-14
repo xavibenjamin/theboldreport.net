@@ -1,0 +1,20 @@
+---
+title: My New Gig
+custom_type: post
+subtitle: What I've been working on lately
+date: 2017-09-14 16:45
+tags: jobs, personal
+---
+
+For the past month or so, I've been working as a designer and frontend developer for [Mealthy](https://www.mealthy.com/). Mealthy is a startup company whose mission is make cooking healthier food easy. The site has tons of awesome and healthy recipes. 
+
+Soon, we'll be launching the Mealthy SpiraSlicer® which is a 5-blade spiralizer that I'm sure you'll want to check out when it goes on sale. In the meantime, you can [look at some great recipes you'll be able to make with it](https://www.mealthy.com/spiralizer).
+
+Now some fun facts from my first month:
+
+- I've closed 32 pull requests and was involved in some way in 85.
+- I have 77 commits to the repo and added more than 9000 lines of code.
+
+I tried to figure out how many of the pull requests involved changes to SCSS, but could figure out how to do that. 
+
+I'm really proud of the work we've accomplished in just a month. I think the site looks great, and was eagerly waiting to show it off. A huge thank you to whole team at Mealthy who've been so welcoming to me and helped make this launch an awesome one.
