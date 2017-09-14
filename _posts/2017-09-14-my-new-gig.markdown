@@ -3,7 +3,7 @@ title: My New Gig
 custom_type: post
 subtitle: What I've been working on lately
 date: 2017-09-14 16:45
-tags: jobs, personal
+tags: [jobs, personal]
 ---
 
 For the past month or so, I've been working as a designer and frontend developer for [Mealthy](https://www.mealthy.com/). Mealthy is a startup company whose mission is make cooking healthier food easy. The site has tons of awesome and healthy recipes. 
