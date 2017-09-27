@@ -12,6 +12,6 @@ Jeremy Keith:
 >
 > More specifically, don’t design websites for any specific device. [That way lies pain](https://twitter.com/dietrich/status/908619755254308865) (and **it is not the way of the web**).
 
-Emphasis mine. I don't plan on doing anything special for the iPhone X, just like I haven't designed specifically for any device within the past 5 or 6 years.
+Emphasis mine. I don't plan on doing anything special for the iPhone X, just like I haven't designed specifically for any device within the past five or six years.
 
 And my goodness… that freaking notch. *Hate* it.
